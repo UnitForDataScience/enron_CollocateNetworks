@@ -1,0 +1,6 @@
+
+ 
+ I have an open order that was placed on 1/2/01, and the availablity on the 
+ item said that it would ship in 24 hours.  I chose regular shipping, which 
+ should mean that it should be on its way.  However, the order status still 
+ says that it hasn't shipped.  How can I find out what it causing the delay?

@@ -1,0 +1,7 @@
+
+ 
+ Rate effective 4/1/2001
+ 
+ Total Transportation Rate                       18.61 ?/dt
+ Fuel Cost                                            1.89 %
+ Effective: April 1, 2001

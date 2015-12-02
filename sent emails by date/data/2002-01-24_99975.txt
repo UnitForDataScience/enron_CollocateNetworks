@@ -1,0 +1,26 @@
+
+ 
+ 500168 is a Bi-directional point and physically can flow both ways.  One Oak built a new delivery point with the capacity of 200,000
+            and the other point that was a delivery only is still active.  The two I/C's go into different pressures into their system but physically
+            located in the same yard.  TW, along with Marketing (Kevin Hyatt) asked to keep the same POI and asked to set this point
+            up as a summation meter to make it easier for the customers to nom on both pipes.  Karen was involved in this point.
+ 56943 is only a delivery only and is good for only displacement.
+ 1635 is no longer a bi-directional point according to Will Fernandes on the Monahans team it is a delivery to NNG only.  He will
+         send an e:mail.
+ The Burlington Jackrabbit I/C in San Juan:  That was Burlington's Plant and I/C.  They were the only shippers able to use that 
+        point.  They are not using that point and they will get back with me and let us know if they want us to keep the point in active
+        status.
+ If any other questions please call
+ 
+ DS
+        
+  
+    Cc:	Schoolcraft, Darrell; Betancourt, Ramona 
+  
+ 
+ 
+ The following points need updating in PLE
+ 
+ 1635 is scheduled as a bi-directional point so we need to label in PLE  as such to be picked up in TMS
+ 56943 should be a displacement point on both IT and SP groups in West Texas
+ 500168 is scheduled as a bi-directional point so we need to label in PLE as such to be picked up in TMS

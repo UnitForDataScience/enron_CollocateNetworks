@@ -1,0 +1,17 @@
+
+ 
+ CurveView Parameters
+ 
+    Risk Type:   Price     (P)
+    Source:   NG_OMICRON_1,2,3...etc
+    Curve Type:  Volatility Percent   (VO)
+ 
+ 
+ 
+ 
+ Susan M Scott
+ 11/22/2000 10:08 AM
+
+   
+ 
+ 

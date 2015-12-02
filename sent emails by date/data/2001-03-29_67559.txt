@@ -1,0 +1,8 @@
+
+ 
+ The information you needed for 1100, roughly 310K, should be a firm book 
+ variance as well on the other side.  Portfolio accounting should have a 
+ variance that offsets this(hopefully we have not already taken it, I will 
+ look).  This means you will not have any actuals on it for FRED.  I will 
+ start looking for dec info you just requested.
+ PL

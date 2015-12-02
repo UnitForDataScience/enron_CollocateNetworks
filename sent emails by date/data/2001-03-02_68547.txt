@@ -1,0 +1,13 @@
+
+ 
+ We need access to Price Basis index and gas daily for the following books(I 
+ have but the Price Post id to reference):
+ NSS1 - 1056409
+ FT-Enovate - 1056415
+ Enovate - 1056418
+ TP - 1056421
+ FT Enovrt - 1056424
+ FT Enovpb - 1056426
+ 
+ Thanks for your help.  We do not need access until Monday morning.
+ PL

@@ -1,0 +1,15 @@
+
+ 
+ 
+
+ 
+  
+ 
+  <<BRONZE.mpg>>  <<GOLD.mpg>>  <<javelin.mpg>>  <<SILVER.mpg>>
+ the gold is the best
+ 
+ 
+  - BRONZE.mpg
+  - GOLD.mpg
+  - javelin.mpg
+  - SILVER.mpg

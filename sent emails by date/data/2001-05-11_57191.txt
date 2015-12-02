@@ -1,0 +1,15 @@
+
+ 
+ Krishna,
+ 
+ I have already sent the letter.
+ 
+ Vince
+ 
+  
+     
+ Vince: 
+ 	I sent you the wrong file earlier. Please use this one instead.
+ Thanks,
+ Krishna.
+  << File: Krishna's Letter to the Embassy.DOC >> 

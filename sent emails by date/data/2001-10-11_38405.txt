@@ -1,0 +1,12 @@
+
+ 
+ I would like to set up a spreadsheet to enter each deal that I transact, internal and external.  I would then like columns set up that allow Monte to enter post ids for all hedge strips for prior day and new day.  We should then sum the net change of the two and balance against the columns summing the new deals that I enter each day. 
+  
+ This method should give us another way of checking if all new deals are being booked properly.  Please meet with Keith Holst to discuss how to set up the sheet.  He has a similar process of checkking new deals.  Once this is set up, please have each bookrunner adopt the same prcatice with their trader.  
+  
+ I would like Anne to be responsible for seeing that this new process is in place for next week's business.
+  
+ I understand that the standard for most deals is 5000/d and that this can lead to booking 50000/d at this volume.  We need to have Anne set up a trader deal sheet that lists the volume and price in a clear and legible format for all bookrunners.  
+  
+ Thanks,
+ Mike

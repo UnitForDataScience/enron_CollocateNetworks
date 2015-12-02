@@ -1,0 +1,33 @@
+
+ 
+ Naveen,
+ 
+ Most of these tests have been already coded. The code and the associated
+ spreadsheets may have been lost inn the sands of time. Please, check with
+ Vasant: it may save you some time.
+ 
+ Vince
+ 
+ 
+ 
+ 
+ 
+
+ 08/23/2000 05:51 PM
+
+   
+ Vince,
+              I am currently implementing the backtesting features into our 
+ Risk Management system.  I distributed the following document at our research 
+ meeting today; it outlines the conventional binomial test and some other 
+ tests, including the Basle regulatory test.   Of course, no one test is 
+ powerful and the efficacy of these tests breakdown for low sample sizes, 
+ etc.  If you can think of other tests to complement these, please let me know.
+ 
+ Regards
+ Naveen
+ 
+  
+ 
+ 
+ 

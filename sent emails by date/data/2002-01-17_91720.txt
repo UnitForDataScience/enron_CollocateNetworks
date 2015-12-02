@@ -1,0 +1,10 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Richey, Cooper\Sent Items
+ X-Origin: RICHEY-C
+ X-FileName: cooper richey 6-26-02.PST
+ 
+ i've been playing around more with R (doing some reading and installing the basic package) and it looks fantastic.  in particular, the database connecticity package ("RODBC") works right out of the box!  very impressive.  in a couple of lines, i can get data from a table in a SQL server database into a dataframe and more importantly, result sets from stored procedures can be returned to data frames as well.  and its free!  

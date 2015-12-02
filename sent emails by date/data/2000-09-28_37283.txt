@@ -1,0 +1,21 @@
+
+ 
+ I think you forgot to attach the file.  Send it to Kevin.  I spoke with him 
+ about your questions.
+ 
+ DG
+ 
+ 
+ 
+ 
+ Mary Lynne Ruffer
+ 09/28/2000 11:52 AM
+
+
+  
+ See April tab for non-NSS and NSS volumes (each should come to zero 
+ respectively so how do we handle?)
+ See Aug - Are th TXOK and STX locations non-NSS deals?
+ 
+ Many thanks.
+ 

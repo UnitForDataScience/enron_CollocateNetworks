@@ -1,0 +1,7 @@
+
+ 
+ Frank,
+ 
+ Here is the file.  I am planning on continuing to look for the $30.5 MM that is created when you add dailies and compare to YTD.  (Cell M245).  You can delete these information if you want.  Remove December from the reconciliation because I only gave them data through 11/30 and Curve Shift data for December is completely useless.
+ 
+ Stacey

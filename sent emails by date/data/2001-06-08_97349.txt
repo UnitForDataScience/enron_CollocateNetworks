@@ -1,0 +1,11 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Salisbury, Holden\Sent Items
+ X-Origin: SALISBURY-H
+ X-FileName: holden salisbury 6-26-02.PST
+ 
+ Ref:	Segment	Status	Class	Increment	Period	Start Date	End Date	Capacity	
+ 22048 <reservationdetail.asp?reservationid=22048>	PALOVERDE500>WESTWING500	CONFIRMED	FIRM	HOURLY	OFF_PEAK	6/10/2001 24:00	6/10/2001 24:00	15	

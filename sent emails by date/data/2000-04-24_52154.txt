@@ -1,0 +1,6 @@
+
+ 
+ I made a few changes to make EBS projects slide more uniform and fixed 
+ spelling of one name for ENA projects slide.
+ 
+ --Stinson

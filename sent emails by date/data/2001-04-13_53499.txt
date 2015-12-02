@@ -1,0 +1,31 @@
+
+ 
+ 
+ 
+ 
+ Tanya Tamarchenko
+ 04/09/2001 11:13 PM
+
+
+
+
+
+
+
+   
+ Everybody,
+ 
+ this week our regular meeting will be devoted primarily to 2 subjects:
+ 1. Simulating power prices in VAR;
+ 2. Capturing correlations across commodities as well as across term structure 
+ of
+ forward prices.
+ 
+ Research will present some suggestions based on data analysis.
+ 
+ Detailed agenda is enclosed.
+ 
+ Please, let Shirley Crenshaw know if you are not planning to attend.
+ 
+ Tanya.
+ 

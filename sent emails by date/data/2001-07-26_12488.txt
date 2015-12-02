@@ -1,0 +1,19 @@
+
+ 
+ 	i agree.
+ 
+ 
+  
+     
+ Hey Larry,
+ 
+ I made some changes to 7-19...
+ 
+ 695979.1 & 695995.1 - had extra hour (HE 23) - I zeroed this hour out (NYISO 5081505)
+ 694766.1 - missing HE 11&12 per PJM & NYISO - I added these two hours in
+ 
+ Please check these changes and let me know if you do not agree with them.
+ 
+ Thanks,
+ Michael
+ x35098

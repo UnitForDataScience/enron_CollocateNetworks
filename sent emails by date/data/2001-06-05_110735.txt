@@ -1,0 +1,14 @@
+
+ 
+ Chris,
+ 
+ Please add the following new point to the database for PGT (#15) and make sure we begin to scape it along with the others:
+ 
+ DRN:  288499
+ Name:  Klamath Cogeneration - PacifiCorp
+ 
+ This is a scraped point currently being posted.  This DRN is the same as the IHS DRN for this point.
+ 
+ Thanks.
+ 
+ Mat

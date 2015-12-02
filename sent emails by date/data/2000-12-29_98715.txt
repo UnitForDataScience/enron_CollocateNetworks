@@ -1,0 +1,29 @@
+
+ 
+ 
+ 
+ 	Cynthia Hakemack
+ 	11/28/2000 08:39 AM
+ 		 
+
+
+ 		  
+ Julie,  I'm working with Legal and Bob Surles with Lynx Energy Company on 
+ some pricing issues regarding meter 6677.  I have verified with Bob Fischer 
+ in the Transport Group the transportation rates that HPLC is paying to Gulf 
+ Coast Pipeline Company, which in turn must be paid to HPLC by Lynx Energy.   
+ Would you please change Sitara to reflect the transportation rates shown on 
+ the schedule below?  Also, I've recalculated the average price and need you 
+ to make those changes too. Thanks.
+ 
+ Sitara Period Transport Rate Price
+ 84425 07/99 $.10 $2.1847776 
+ 84425 08/99 $.10 $2.4957319
+ 84425 09/99 $.10 $2.7938893
+ 84425 10/99 $.10 $2.4148763
+ 84425 11/99 $.10 $2.8992412
+ 128331 12/99-02/00 $.10 HSC less $.10
+ 166026 02/00-03/00 $.10 HSC less $.10
+ 166026 04/00-fwd $.20 HSC less $.10
+  
+ 

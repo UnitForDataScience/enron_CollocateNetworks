@@ -1,0 +1,19 @@
+
+ 
+ 
+ 
+    
+ 	Enron North America Corp.   		
+ 
+ 
+
+   
+ Hanover Compression has given me a revised fuel consumption number of 7150 BTU/horsepower-hr for the KVSRs once they have been converted to Clean Burn technology.  This compares to the present 7500 BTU/horsepower-hr.  We need to come to a consensus on the assumptions that will be used with this figure.  These assumptions will need to be as follows:
+ 
+ How many hours a year do we really think that these units will run?  I am assuming that they will not be running if Bammel is on withdrawal.  Correct or not?
+ How much horsepower will really run?  This will be determined by how much market HPL will hope to capture from ANP and possibly Equistar.  It will also be affected by the suction pressure of the gas, which is, in turn, determined by how much HPL is injecting and pressures at Katy.
+ Finally, what available run time do we want to assume here?  90%?
+ 
+ I have no preconceived notions of what these assumptions should be; therefore, I am soliciting input from each of you.  We need to be in agreement before Emma starts her work.  Thank you.
+ 
+ 

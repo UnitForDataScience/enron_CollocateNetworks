@@ -1,0 +1,49 @@
+
+ 
+ I'm not sure what "penalites" they're referring to.  I assume it's a physical 
+ concept.   If we trade power with these guys I guess you would be the right 
+ person.  If it's gas, probably Stacy.  
+ 
+ 
+ 
+ 
+ Leslie Hansen
+ 03/01/2000 08:56 AM
+
+   
+ Mark:
+ 
+ I'm not sure who should respond to this 
+ 
+ 
+
+
+   
+ 
+ 
+ redir = http://www.enrononline.com/home?ID=ContactConfirm
+
+ submit = Submit
+ other = on
+
+ subject = Contact Enron
+
+ host =
+ CompanyAddress =
+ ContactPhone = (801)531-4409
+ CompanyName = Duke Energy (SLC)
+ Comments = I would like to see, in writing, the penalties associated with 
+ failure by Enron or the parties doing business on EOL for particular gas 
+ trading points.  I have heard verbally from the Calgary office what they 
+ consider the penalties to be, however, I haven't seen anything in writing.  I 
+ assume that unless parties have agreed to these stated penalies, the 
+ penalties would then fall under existing trade agreements.   Is this correct, 
+ and is Enron working on specific penalty provisions for EOL deals?
+ ContactName = Jim McArthur
+ sendETA = on
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,5 @@
+
+ 
+ Danny,
+  Set up a folder on the C-drive called WINZIP and copy each of the attached 
+ files into that folder.  

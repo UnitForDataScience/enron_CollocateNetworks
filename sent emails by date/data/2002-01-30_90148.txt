@@ -1,0 +1,19 @@
+
+ 
+ Please complete Hayden's form for your respective regions.  
+ 
+ Keep in mind that this could act as potential position limit set forth by UBS so be careful in completing this form.   In addition, UBS has a liquidity reserve used to adjust curves when marking P&L.    The "liquidity reserve" accounts for the fact you can't liquidate at the mid and with big positions you probably can't even liquidate at the bid (offer).
+ 
+ Thanks.
+ 
+  
+    Cc:	Gossett, Jeffrey C.; White, Stacey W.; Postlethwaite, John; Reeves, Kathy
+  
+ My apologies if this has been done, but I'm in process of assembling list of products that UBS will be trading.  If this list has been compiled, please direct it to me.  
+ 
+ I'm interested in getting the greatest granularity possible breaking it out by VaR portfolio name, trader, trading book, commodity, instrument, location, tenor, relative liquidity for each instrument expressed in contract/day (i.e. could impact holding period for VAR) and best risk mitigator.  (Regarding best risk mitigator, I'm not looking for liquidating position comments, but rather best hedge given curve location.)  This will help in directing correlation efforts for VAR.  See attached spreadsheet for suggested format.
+ 
+ Thanks,
+ Frank
+ 
+  

@@ -1,0 +1,72 @@
+
+ 
+ Ken,
+ 
+ Please, watch out.
+ 
+ Vince
+ 
+ 
+ Peggy's machine could have been infected.  DO NOT open any email attachment from her or
+ 
+
+ 
+                         and
+ 
+
+ 
+ 
+ 
+
+
+  
+
+  
+ I stupidly open one of the files mentioned below. Could someone come down and check out my computer.
+ 
+ Peggy
+ 
+ 
+
+
+ X-foo-then-bar-then: baz
+ 
+
+
+
+ 
+
+ 
+ Two messages distributed via the ALLDEPTS mailing list in the last two
+ hours have contained virus-infected attachments, probably because of 
+ mail-oriented virus rather than any knowing behavior on the part of the
+ nominal senders. Please delete *unread* the messages from
+ 
+
+ 
+ and
+ 
+
+ 
+ .
+ 
+ As an emergency measure, our mailing list software has been configured
+ to prohibit e-mail with attachments from being distributed.
+ 
+ If you have inadvertently opened one of the infected files, please consult
+ your local IT divisional support or the Consulting Center at x4983 as
+ soon as possible.
+ 
+ As always: *never* open attachments unless your virus protection is
+ up-to-date, and you're 100% sure that the attachment is what it appears
+ to be.
+ 
+ 
+ 
+ 
+                                 Glenn Forbes Fleming Larratt
+                                 Rice University Network Management
+
+ 
+ 
+ 

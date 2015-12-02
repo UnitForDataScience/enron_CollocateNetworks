@@ -1,0 +1,26 @@
+
+ 
+ Please ask Sheri Thomas if this person needs access to EOL applications.  I don't recognize the names.  The name noted as manager is Loyd Will, who is a commercial employee reporting to Kevin Presto.  Thanks. 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ You have received this email because you are listed as a security approver. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000027109&Page=Approval to review and act upon this request.
+ 
+ 
+ 
+ 
+ Request ID          : 000000000027109
+ Request Create Date : 4/3/01 10:59:54 AM
+
+ Resource Name       : EOL US Backoffice  Stack Manager
+ Resource Type       : Applications
+ 
+ 
+ 
+ 
+ 

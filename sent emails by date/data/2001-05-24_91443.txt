@@ -1,0 +1,14 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X-
+ X- X-b X-Folder: \ExMerge - Richey, Cooper\'Sent Mail
+ X-Origin: RICHEY-C
+ X-FileName: cooper richey 6-26-02.PST
+ 
+ 
+ I added the CADateTime fields to the tables we talked about.  
+ 
+ hope it helps!

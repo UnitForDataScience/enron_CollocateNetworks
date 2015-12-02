@@ -1,0 +1,84 @@
+
+ 
+ Shirley,
+ 
+ Do you remember about Exceed?
+ 
+ Vince
+ 
+ 
+ 
+ 
+
+ 	07/27/2000 03:08 PM
+ 	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+ to the group:
+ 
+ if you wish to use SAS, there are a few simple things you need to do:
+ 
+ 1) you need to get a Unix password if you don't already have one (your user 
+ id will be the same as on the NT network, but a different password is issued)
+ 2) you need a program called "Exceed" on your PC.  request it from IT (you 
+ already have this if you are already a user of LIM on the Unix platform)
+ 3) you need an "ftp" program on your PC. you can go to www.download.com and 
+ download one (i like wsftp)
+ 4) Exceed is funny in the way it runs. When you invoke Exceed (or LIM 
+ Advanced User (under Infobases) if you already have this) it will install 
+ itself the first time, and will then "disappear" to the Taskbar. you need to 
+ *right* click on the taskbar on Exceed, and then choose "Tools" and "Client 
+ Startup" and then "New."
+ 
+ You will enter a box which should already be set for REXEC and an XWindow 
+ emulation. You need to specify the Host Type as Sun, enter your User Name and 
+ Password, set the Host Name to: 
+ 
+ capers.ect.enron.com
+ 
+ and then, on the Command Line, type the following (carefully):
+ 
+
+ 
+ Then, use the file menu to Save this as capers.xs and then click on the Run! 
+ menu. within a second or two, a window will open up with you logged into the 
+ serve capers. You are now on a Unix server, and the directory is your home 
+ directory. From here, if you simply type "sas" the 3 windows for an 
+ interactive session with SAS should open on your desktop. You are in business.
+ 
+ 5) you also need to install your ftp. follow the procedures with the 
+ software, and then create a new session called "enron" where you choose as 
+ the server simply "earth" (do not add any further descriptors such as 
+ .enron.com). supply your user name and *unix* password, check the "remember 
+ password" box, and the default communication setups should be correct (eg, 
+ host type as "automatic detect").
+ 
+ when you invoke ftp and connect to enron, it will put you in your home 
+ directory on the Unix system, the same directory your xwindow comes up in 
+ under Exceed.
+ 
+ if you have any problems, i'll be happy to help
+ 
+ Clayton
+ 
+ PS i have a complete set of new SAS manuals i am happy to loan out if you'll 
+ just write your name down when you take them.

@@ -1,0 +1,34 @@
+
+ 
+ We need all historical data preserved in all markets (price, vol, trades by counterparty, volume by counterparty, broker vs. EOL, broker prices, EOL prices, etc.)
+ 
+  
+    Cc:	Poston, David
+  
+ 
+ All:  This is the type/level of information I believe we should provide back to legal about our plans for copying business data from Enron to UBS.  Glad to discuss...
+ 
+ 
+ Deal Data (Contract Briefs and Physical Flow):
+ 
+ Not Copied to UBS.
+  
+ Global Data:
+ 
+ Counterparties and Contracts for UBS Established by User Representatives in the Global System.  Power Systems Use a Snapshot Copy of this data in UBS.  Facilities Data Copied in Total.
+ 
+ Fundamentals Data:
+ 
+ All Data (Load History, Weather History, Satellite Weather Maps, Plant Output History, Load Forecasts, etc...) Scraped from Public Sites for use in Power Analytics Copied to UBS.
+ 
+ ISO/Pool Data:
+ 
+ All Data (Settlements and Market Clearing Prices) Available from Market Control Entities Copied to UBS.
+ 
+ Curve Data:  
+ 
+ All Price, Volatility, and Correlation Curves Maintained by Power Trading Copied to UBS.  Amount of History TBD by Trading Function.
+ 
+ Broker Data:
+ 
+ Not Copied to UBS.

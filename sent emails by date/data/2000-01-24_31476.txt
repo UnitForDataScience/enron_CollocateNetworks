@@ -1,0 +1,4 @@
+
+ 
+ We bought gas from CPA (deal 154508) and sold it to CES (deal 154516).  The 
+ upstream contract number is 38095.

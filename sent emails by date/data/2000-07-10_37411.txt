@@ -1,0 +1,8 @@
+
+ 
+ Drew,
+ 
+ Here is Agave for June.  I also made a change to May.  I was calculating the 
+ differential off of the wrong location index.
+ 
+ DG

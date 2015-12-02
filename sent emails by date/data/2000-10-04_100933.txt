@@ -1,0 +1,35 @@
+
+ 
+ 
+
+   by sphmgaac.compuserve.com (8.9.3/8.9.3/SUN-1.9) with SMTP id KAA21613
+
+   WorldSecure Server SMTP Relay(WSS) v4.5); Thu, 28 Sep 2000 09:56:01
+  -0500
+ X-Server-Uuid: bfd854e0-c32c-11d1-a062-00805fb6e3c1
+   5.5.2650.21) id <SRD00FDK>; Thu, 28 Sep 2000 09:56:01 -0500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     X-WSS-ID: 15CD838B461913-01-01
+   charset=us-ascii
+ Content-Transfer-Encoding: 7bit
+ 

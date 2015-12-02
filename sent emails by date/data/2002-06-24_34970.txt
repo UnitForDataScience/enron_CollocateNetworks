@@ -1,0 +1,11 @@
+
+ 
+ I would prefer that you fix it.  Just come over when you are ready.
+ 
+ thanks
+ 
+  
+     
+ Quetion about March 2002, it looks like the volumes used in the Payment file are the gross volumes from the CNR volume file, not the net volumes.  Would you check on that please sir?
+ 
+ Thanks.

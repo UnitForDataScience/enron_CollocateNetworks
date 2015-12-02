@@ -1,0 +1,32 @@
+
+ 
+
+ 
+ Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+
+ X- X- X- X-b X-Folder: \ExMerge - Williams III, Bill\Sent Items
+ X-Origin: WILLIAMS-W3
+ X-FileName: 
+ 
+ Alan,
+ 
+ According to this site the cap was around $71 for HE 15 and $72 for HE 18.  We had already traded for these hours when the "new cap" had been set.  This is a retroactive cap during mitigation hours.  When trading in the hour ahead market (1 hour before energy flows) we cannot predict the Cap to Market ratio. For example: Expost is $18 right now, and the market is at $91.87.  Any recommendations?
+ 
+ Bill
+ 
+  
+
+    
+ A fast way to see the MCP is under Energy Prices at http://www.caiso.com/.
+ You'll notice that in hours 15, 16, 17 and 18 yesterday the MCP was set by
+ the proxy price when we were in a Stage 1 then 2 Emergency.  Other hours
+ were set by the previous Stage 1 cap.
+ 
+ Keoni Almeida
+ California Independent System Operator
+ phone: 916/608-7053
+ pager:  916/814-7352
+
+
+ 

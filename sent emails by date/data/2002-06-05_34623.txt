@@ -1,0 +1,16 @@
+
+ 
+ BETH!!!  Donna!!!   Welcome to the party!
+ 
+ Wade, I don't know how to handle these deals in Sitara or Tagg but I bet someone on this distribution does.  
+ 
+ 1.  Does anyone have any idea on how to stop deals 340305 and 332163 from creating an invoice each month?
+ 
+ 2.  There are deal volumes in Sitara for the East, Central and West desk.  Should these volumes be zeroed out or should we just focus on keeping tagg updated and not worry about Sitara?  Maybe someone is working on the Sitara deal volumes.
+ 
+  
+    Cc:	Dhont, Margaret; Doner, Max
+  
+ Please check into deals 332163 and 340305 for sales invoices to Midland Cogen.  Max Doner thought these deals would not trigger activity anymore per your note to him on 5/13.  I see where these deals were updated by you on that date.  Are the deals legit, or are the triggers generated legit.  Please let me know ASAP.
+ 
+ Thanks  WRP

@@ -1,0 +1,6 @@
+
+ 
+ I just went to look at the file and the data is yesterday's data.  We need 
+ the current prices that are set each day at roughly 12:10 for the gas day of 
+ the next day.  Please let me know if this does not make sense.  Thanks.
+ PL

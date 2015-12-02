@@ -1,0 +1,71 @@
+
+ 
+ i'll stop by while making my rounds this afternoon.  and, you'll have to get someone else to tell the stories...i don't remember much of friday night and, as a result, susan had a "come to Jesus" meeting with herself this weekend.  may be the last of the truly good stories involving me for a while.
+ 
+  
+
+ 
+  
+ [Book: INTRA-CNT-MT-2       ] Can't not find mapping for ALLIANCE in table RMS_INTRA_IF_VOL
+ [Book: INTRA-CNT-MT-2       ] Can't not find mapping for CHI./N/BORDER in table RMS_INTRA_IF_VOL
+ [Book: INTRA-CNT-MT-2       ] Can't not find mapping for IF-PORTLAND in table RMS_INTRA_IF_VOL
+ [Book: INTRA-CNT-MT-2       ] Can't not find mapping for NGI/CHI./NIPSCO in table RMS_INTRA_IF_VOL
+ [Book: INTRA-CNT-MT-2       ] Can't not find mapping for NGI/CHI./PEOPLE in table RMS_INTRA_IF_VOL
+ [Book: INTRA-CNT-TR-PH      ] Can't not find mapping for CHI./N/BORDER in table RMS_INTRA_IF_VOL
+ [Book: ARUBA-TP-PHY1        ] Can't not find mapping for CHI./N/BORDER in table RMS_INTRA_IF_VOL
+ [Book: ARUBA-TP-PHY1        ] Can't not find mapping for NGI/CHI./PEOPLE in table RMS_INTRA_IF_VOL
+ [Book: INTRA-ARG-PH         ] Can't not find mapping for BB IM in table RMS_INTRA_IF_VOL
+ [Book: INTRA-ARG-PH         ] Can't not find mapping for CENTRAL IM in table RMS_INTRA_IF_VOL
+ [Book: INTRA-ARG-PH         ] Can't not find mapping for GBA IM in table RMS_INTRA_IF_VOL
+ [Book: INTRA-ARG-PH         ] Can't not find mapping for GBA TGS IM in table RMS_INTRA_IF_VOL
+ [Book: INTRA-ARG-PH         ] Can't not find mapping for NQN TGN IM in table RMS_INTRA_IF_VOL
+ [Book: INTRA-ARG-PH         ] Can't not find mapping for SALTA IM in table RMS_INTRA_IF_VOL
+ [Book: INTRA-ARG-PH         ] Can't not find mapping for SZ SUR IM in table RMS_INTRA_IF_VOL
+ [Book: SC-GAS               ] Can't not find mapping for BB IM in table RMS_INTRA_IF_VOL
+ [Book: SC-GAS               ] Can't not find mapping for CENTRAL IM in table RMS_INTRA_IF_VOL
+ [Book: SC-GAS               ] Can't not find mapping for GBA IM in table RMS_INTRA_IF_VOL
+ [Book: SC-GAS               ] Can't not find mapping for GBA TGS IM in table RMS_INTRA_IF_VOL
+ [Book: SC-GAS               ] Can't not find mapping for NQN TGN IM in table RMS_INTRA_IF_VOL
+ [Book: SC-GAS               ] Can't not find mapping for SALTA IM in table RMS_INTRA_IF_VOL
+ [Book: SC-GAS               ] Can't not find mapping for SZ SUR IM in table RMS_INTRA_IF_VOL
+ [Book: FT-DEN-GDL           ] Can't not find mapping for GDP-CIG/CHEYENN in table RMS_INTRA_IF_VOL
+ [Book: INTRA-TEXAS-P1       ] Can't not find mapping for IF-TEXOMA OFFER in table RMS_INTRA_IF_VOL
+ [Book: GD-NEW-GDL0          ] Can't not find mapping for GDP-CIG/CHEYENN in table RMS_INTRA_IF_VOL
+ [Book: FT-IM-ENOV-PHY       ] Can't not find mapping for CHI./N/BORDER in table RMS_INTRA_IF_VOL
+ [Book: FT-IM-ENOV-PHY       ] Can't not find mapping for NGI/CHI./PEOPLE in table RMS_INTRA_IF_VOL
+ [Book: INTRA-ONTARIO4       ] Can't not find mapping for CORNWALL/IM in table RMS_INTRA_IF_VOL
+ [Book: INTRA-ONTARIO4       ] Can't not find mapping for EMPRESS-CDN/IM in table RMS_INTRA_IF_VOL
+ [Book: INTRA-ONTARIO4       ] Can't not find mapping for PARK-CDN/IM in table RMS_INTRA_IF_VOL
+ [Book: INTRA-CNT-MT-2       ] Can't not find mapping for ALLIANCE in table RMS_INTRA_IF_VOL
+ [Book: INTRA-CNT-MT-2       ] Can't not find mapping for CHI./N/BORDER in table RMS_INTRA_IF_VOL
+ [Book: INTRA-CNT-MT-2       ] Can't not find mapping for IF-PORTLAND in table RMS_INTRA_IF_VOL
+ [Book: INTRA-CNT-MT-2       ] Can't not find mapping for NGI/CHI./NIPSCO in table RMS_INTRA_IF_VOL
+ [Book: INTRA-CNT-MT-2       ] Can't not find mapping for NGI/CHI./PEOPLE in table RMS_INTRA_IF_VOL
+ [Book: INTRA-CNT-TR-PH      ] Can't not find mapping for CHI./N/BORDER in table RMS_INTRA_IF_VOL
+ [Book: ARUBA-TP-PHY1        ] Can't not find mapping for CHI./N/BORDER in table RMS_INTRA_IF_VOL
+ [Book: ARUBA-TP-PHY1        ] Can't not find mapping for NGI/CHI./PEOPLE in table RMS_INTRA_IF_VOL
+ [Book: SC-GAS               ] Can't not find mapping for BB IM in table RMS_INTRA_IF_VOL
+ [Book: SC-GAS               ] Can't not find mapping for CENTRAL IM in table RMS_INTRA_IF_VOL
+ [Book: SC-GAS               ] Can't not find mapping for GBA IM in table RMS_INTRA_IF_VOL
+ [Book: SC-GAS               ] Can't not find mapping for GBA TGS IM in table RMS_INTRA_IF_VOL
+ [Book: SC-GAS               ] Can't not find mapping for NQN TGN IM in table RMS_INTRA_IF_VOL
+ [Book: SC-GAS               ] Can't not find mapping for SALTA IM in table RMS_INTRA_IF_VOL
+ [Book: SC-GAS               ] Can't not find mapping for SZ SUR IM in table RMS_INTRA_IF_VOL
+ [Book: INTRA-ARG-PH         ] Can't not find mapping for BB IM in table RMS_INTRA_IF_VOL
+ [Book: INTRA-ARG-PH         ] Can't not find mapping for CENTRAL IM in table RMS_INTRA_IF_VOL
+ [Book: INTRA-ARG-PH         ] Can't not find mapping for GBA IM in table RMS_INTRA_IF_VOL
+ [Book: INTRA-ARG-PH         ] Can't not find mapping for GBA TGS IM in table RMS_INTRA_IF_VOL
+ [Book: INTRA-ARG-PH         ] Can't not find mapping for NQN TGN IM in table RMS_INTRA_IF_VOL
+ [Book: INTRA-ARG-PH         ] Can't not find mapping for SALTA IM in table RMS_INTRA_IF_VOL
+ [Book: INTRA-ARG-PH         ] Can't not find mapping for SZ SUR IM in table RMS_INTRA_IF_VOL
+ [Book: FT-DEN-GDL           ] Can't not find mapping for GDP-CIG/CHEYENN in table RMS_INTRA_IF_VOL
+ [Book: INTRA-TEXAS-P1       ] Can't not find mapping for IF-TEXOMA OFFER in table RMS_INTRA_IF_VOL
+ [Book: GD-NEW-GDL0          ] Can't not find mapping for GDP-CIG/CHEYENN in table RMS_INTRA_IF_VOL
+ [Book: FT-IM-ENOV-PHY       ] Can't not find mapping for CHI./N/BORDER in table RMS_INTRA_IF_VOL
+ [Book: FT-IM-ENOV-PHY       ] Can't not find mapping for NGI/CHI./PEOPLE in table RMS_INTRA_IF_VOL
+ [Book: INTRA-ONTARIO4       ] Can't not find mapping for CORNWALL/IM in table RMS_INTRA_IF_VOL
+ [Book: INTRA-ONTARIO4       ] Can't not find mapping for EMPRESS-CDN/IM in table RMS_INTRA_IF_VOL
+ [Book: INTRA-ONTARIO4       ] Can't not find mapping for PARK-CDN/IM in table RMS_INTRA_IF_VOL
+ 
+ 
+ 

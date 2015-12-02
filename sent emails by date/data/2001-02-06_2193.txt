@@ -1,0 +1,14 @@
+
+ 
+ 
+ 
+ 
+
+
+
+   
+ 
+ Deals #852287, 851654, 851191 unintentionally were traded  as Gas Daily
+ swaps instead of last day average swaps.  Could you see to it that they
+ are switched.  Thank you.    Parker
+ 

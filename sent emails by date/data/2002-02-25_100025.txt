@@ -1,0 +1,11 @@
+
+ 
+ This will be fine.  
+ 
+ ds
+ 
+  
+     
+ During the Crawford outage scheduled for 3/5-7, Duke has requested to move its primary receipt point from Crawford to the Duke WT-1 receipt point.  Since there will be no flows from Crawford I think this should work.  The contract # is 27579 with an MDQ of 20,000/d.  Thanks.
+ 
+ Lorraine 

@@ -1,0 +1,9 @@
+
+ 
+ cooper-
+ 
+ are you guys having trouble pulling the hourly iso data?  if not, let me know 
+ so i can get this query fixed.  it is missing data for certain days and data 
+ for imports/exports.  thanks for your help.
+ 
+ matt

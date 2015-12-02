@@ -1,0 +1,76 @@
+
+ 
+ Sharon, Kriste, and I discussed this, and agreed that simple was better.  We 
+ also thought that a reference to the Enron Employee Data Protection Policy 
+ and the Code of Ethics provisions on data should be referenced, with a link, 
+ if possible.  Thanks. Michelle
+ 
+ 
+ 
+
+
+
+
+
+
+
+  
+ If we place this on every page, I'd recommend we keep it simple and clear as 
+ is below.  
+ 
+ If we need to establish an accept/decline box I'd recommend we build it so 
+ the user only has to accept once, after which an intranet cookie would 
+ remember that the user accepted and wouldn't burden the user with the 
+ question each and every time.
+ 
+ 
+ 
+ 
+ 
+ 	Sharon Butcher
+ 	09/25/2000 12:28 PM
+ 		
+
+
+
+
+
+
+ 		  
+ Dear Andrea:  I am in agreement with the proposed statement.  Does anyone 
+ believe that we need a longer statement.
+ 
+ Thanks. 
+ 
+ Sharon
+ 
+ 
+ 
+ Andrea Yowman
+ 09/24/2000 09:47 AM
+
+
+
+
+
+
+  
+ Dear all, 
+ 
+ We are about to embark on opening up more Enron people data to the general 
+ Enron population (i.e. expertfinder).  I want to ensure the appropriate risks 
+ have been identified, documented and agreed upon by the Enron executive 
+ staff.  Michelle mentioned last week that we may want to consider putting 
+ some proprietary statement on our applications that house people data. 
+ Therefore, I would like to have an agreed upon statement that can be posted 
+ in our applications. 
+ Here's one to get you started.  I would like to have this finalized by 
+ Tuesday September 25th.  Thanks. ay
+ 
+ 'Enron proprietary information, for internal use only.'
+ 
+ 
+ 
+ 
+ 
+ 

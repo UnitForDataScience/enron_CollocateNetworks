@@ -1,0 +1,29 @@
+
+ 
+ I received this message
+ 
+  
+ 
+ Delivery Failure Report
+ 
+ Your document:	Test	
+
+ because:	The message reached the recipient's e-mail system, but delivery was refused.  Attempt to resend the message.  If it still fails, contact your system administrator. [MAPI Reason Code: 0, MAPI Diagnostic Code 38]	
+ 
+ 
+ What should you do?
+ You can resend the undeliverable document to the recipients listed above by choosing the Resend button or the Resend command on the Actions menu.  
+ Once you have resent the document you may delete this Delivery Failure Report.
+ If resending the document is not successful you will receive a new failure report
+ Unless you receive other Delivery Failure Reports, the document was successfully delivered to all other recipients.
+ 
+ 
+ /o=ENRON/ou=NA/cn=Configuration/cn=Connections/cn=NAHOU-GW1-LME-NOTES, ENE-NS03/Enron, NAHOU-LNMAI16/Enron
+ 
+
+ 
+ 
+
+ 
+   
+ Test

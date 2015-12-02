@@ -1,0 +1,19 @@
+
+ 
+ I've would like to wire Reliant $9,500.00 tomorrow and then wire about $31,000.00 every Thursday to keep Reliant paid for 7 days of gas.  I'm making the following assumptions;
+ 	1.  ENA will be maintaining this deal through March 31, 2002
+ 	2.  Prices are going to remain flat for the next 2 months
+ 	3.  Tallahassee will call on the maximum swing volumes every day
+ 
+ So far this month, Tallahassee has called on the maximum swing volumes every day.  I will make adjustments to the Thursday wire amount as needed based on prices and how much Tallahassee calls on.
+ 
+ The following worksheet projects how much we need to send Reliant each week and shows what days Tallahassee called on the swing gas.  Phil, you mentioned adding a column for the sales price to Tallahassee.  Sounds good to me.  This file is located at o:/Gas Structuring/Bankruptcy Folder/City of Tallahassee/Tallahassee Swing Cash Flow.xls
+ 
+  
+ 
+ The following worksheet shows ENA's activity with Reliant, our current cash balance with Reliant, how much gas we have purchased, and what price we used.
+ I will send the following worksheet to Reliant each week.  I also plan to copy Phil, Robin, and Margaret.  This file is located at o:/Gas Structuring/Bankruptcy Folder/City of Tallahassee/ENA-Reliant Prepay.xls
+ 
+  
+ 
+ Eric, Doug, Phil,   let me know what you think about the wire for Friday and every Thursday.

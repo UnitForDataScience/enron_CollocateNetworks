@@ -1,0 +1,13 @@
+
+ 
+ 
+ 
+    We have created a quick quide to do QSE trades through the Ercot Portal.    This initial guide should get you started, however,  this is not a comprehensive handout that contemplates every situation.     I am asking you to read the rules and implement a trade using the Portal.    As you have noticed,   our counterparties have already started trading two hours out.       We will be trading paralell until the ISO rolls out for Friday.   This means that you will have to submit the "traditional" Ercot Oasis and also submit the QSE trade.    We must monitor to make sure that our counterparties have submitted their matching QSE trades, as well.   Otherwise we will be out of balance with Ercot.
+ 
+ 
+ A copy of our QSE quide will be in your inbox.     Make sure that you read/ study it and ASK QUESTIONS.
+ 
+ 
+ Thanks,
+ 
+ JMF

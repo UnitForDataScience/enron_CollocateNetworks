@@ -1,0 +1,27 @@
+
+ 
+ in with wrong broker - changed 547680 and 547681 to APB
+ 
+ 
+ 
+ 
+
+ 03/12/2001 02:09 PM
+
+  
+  
+ 
+ missing deals for mark
+ 
+ sell mirant
+ april
+ 25 mw
+ 207.50
+ pv
+ 
+ sell mirant
+ april
+ 25 mw
+ 205.00
+ pv
+ 

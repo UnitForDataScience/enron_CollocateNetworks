@@ -1,0 +1,13 @@
+
+ 
+ done
+ 
+ 
+  
+     
+ Phillip:
+ I see the changes coming through, but I have one more problem.  PSEG terminated their contract on 11/30, so we only need to bill them for 29 days.  Can you change the volumes on the demand fees for Nov. only to a monthly volume?  I have detailed the changes below.  Thanks.
+ 
+ change 1,700/day to 49,300/month
+ change 2,500/day to 72,500/month
+ change 5,800/day to 168,200/month

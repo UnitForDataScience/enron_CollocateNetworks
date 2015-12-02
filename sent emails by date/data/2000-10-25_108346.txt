@@ -1,0 +1,23 @@
+
+ 
+ Looks good.  Coordinate with Chris and John and let's move on this.  
+ 
+ Jeff
+ 
+ 
+ 
+ 
+ John Buckner Thomas
+ 10/25/2000 02:20 AM
+
+
+  
+ 
+ 
+ 1.  Brent-Dubai calendar swap differential.  Idea would be to trade this 
+ differential on a quarterly basis.
+ 2.  WTI-Brent calendar swap differential.  Same timing idea, Nymex v IPE..
+ 3.  WTI-Dated Brent calendar swap differential.  Nymex v Platts Dated Brent.
+ 4.  WTI-Brent  futures differential.  Issue would be settlement dates given 
+ the time lag between expiry.
+ 

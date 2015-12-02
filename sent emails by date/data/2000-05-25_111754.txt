@@ -1,0 +1,99 @@
+
+ 
+ Sandy:
+ On point #6, our tax dept. is recommending the following:
+ - delete 3(a)(ii) in its entirety
+ - in 3(a)(i), replace the reference to form 1001 with a reference to Form 
+ W-8-BEN
+ 
+ Carol St. Clair
+ EB 3892
+ 713-853-3989 (Phone)
+ 713-646-3393 (Fax)
+ 
+ 
+ 
+
+ 	05/25/2000 11:13 AM
+ 		 
+
+
+ 		  
+ 
+ Carol,
+ 
+ I spoke to our in house counsel about the arbitration clause and they are
+ willing to leave it in.
+ So, to sum up here are our responses your original eMail:
+ 
+ 1.  Canadian Securities Rep:  Please have your Canadian counsel review our
+ language which our outside Canadian counsel prepared.
+ 2.  Ok.
+ 3.  We're ok with this now.
+ 4.  We're ok to leave this in.
+ 5.  Ok.
+ 6.  Please see my comments below.
+ 
+ Thanks,
+ 
+ Sandy Morrison
+ Weyerhaeuser Company Ltd.
+ 
+ 
+ 
+ -|
+ 
+ 
+ 
+ Sandy:
+ Susan Bailey passed on to me your comments to the ISDA draft and I can
+ respond
+ to some but not all of such comments at this point:
+ 
+ 1.   With respect to your Canadian securities rep, I am checking with our
+ counsel in Canada about whether we can use your language instaed of ours.
+ 
+ 2.   With respect to the Options rep and the ESP rep in part %, Section
+ (b),
+ I
+ believe that both parties need to make such reps.  The rep in Part 5
+ (b)(g)(ii)
+ is to cover the Trade Option exemption and it is different from the ESP rep
+ below it.
+ 
+ 3.   With respect to the language in Part 5, Section (a), this is different
+ from
+ the setoff language.    What this is saying is that if a party has
+ fulfilled
+ all
+ of its payment obligations and an Event of Default occurs with respect to
+ it
+ (the "Defaulting Party"), the other party cannot withhold any payment that
+ it
+ owes to the Defaulting Party.  This is different from the exercise of
+ setoff
+ rights.
+ 
+ 4.   I would like to discuss with you or your legal representative the
+ removal
+ of the arbitration language as it is Enron's policy to have arbitration
+ apply.
+ 
+ 5.   We would prefer to keep the Termination Currency specified in US
+ Dollars.
+ 
+ 6.   Our tax group believes that we need the language in Part 3(a)(i),
+ (ii).
+ Why do you want to delete it?
+ 
+ I look forward to hearing from you.
+ 
+ 
+ Carol St. Clair
+ EB 3892
+ 713-853-3989 (Phone)
+ 713-646-3393 (Fax)
+
+ 
+ 
+ 

@@ -1,0 +1,39 @@
+
+ 
+ Carolyn:
+ 
+ If you'd planned on making a chart similar to the one that you did 
+ previously, the symbols are STISPBEVA for the S&P 500 beverage index and ?STISPFOOD for the S&P 500 food index.
+ 
+ Best,
+ Jeff
+ 
+ 
+ 
+
+ 	04/23/2001 12:17 PM
+ 		 
+
+
+
+
+ 		  
+ 
+ As promised, I've attached a spreadsheet that offers monthly industry
+ returns
+ (incl. dividends) for the beverage and food industries.  There is no
+ consolidated food & beverage sector.
+ 
+ 
+ 
+ 
+ Mark D. Guinney, CFA
+ Consultant
+ Watson Wyatt Investment Consulting
+ 345 California Street, Ste. 1400
+ San Francisco, CA  94104
+ (415) 733-4487 ph.
+ (415) 733-4190 fax
+ 
+ 
+  - Index returns.xls

@@ -1,0 +1,4 @@
+
+ 
+ Credit is reviewing file and we are trying to determine whether this entity 
+ is "eligible" (for swap transactions).  I should know more soon.  Sara

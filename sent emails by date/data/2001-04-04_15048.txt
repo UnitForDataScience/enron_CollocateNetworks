@@ -1,0 +1,16 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X-
+ X- X-b X-Folder: \ExMerge - Crandall, Sean\Sent Items
+ X-Origin: CRANDELL-S
+ X-FileName: 
+ 
+ Attached is a spreadsheet summarizing hourly TTC and ATC data for COB S/N from Jan 1, 2000 to April 2001.  The data were obtained from the ISO.
+ After looking at the data, it is clear that, although the TTC values have not changed from '00 to '01, the ATC values have decreased dramatically.  I believe the reason for this is the ISO's attempt to prevent exports to the Northwest.
+ 
+ I propose that we send this spreadsheet to our ISO rep (via Sue Mara) and ask him to explain the reason for the reduction.
+ 
+ Thanks

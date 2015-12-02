@@ -1,0 +1,14 @@
+
+ 
+ here are the two new index descriptions that we need:
+  
+ For Socal Ehrenberg  "The volumes scheduled to be delivered are 
+ subject to reductions due to normal operational constraints on all 
+ interconnecting pipelines at this location based upon historical operating 
+ conditions.  The reductions caused by these are excused nonperformance and 
+ are not considered a failure to receive or deliver firm gas."
+   
+ We do not want to specifically mention el paso pipeline because the gas can 
+ come from a variety of different pipelines, all of which can have operational 
+ constraints.  I think this is close enough to the original language that it 
+ should not be a problem.  Thanks for your help.

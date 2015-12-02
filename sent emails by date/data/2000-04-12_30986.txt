@@ -1,0 +1,6 @@
+
+ 
+ Please change the zone location for meters T0012 and T0A62 from North Other 
+ to South Other.
+ 
+ Thanks

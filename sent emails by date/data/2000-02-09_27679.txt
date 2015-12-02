@@ -1,0 +1,32 @@
+
+ 
+ I don't think I have this information.  Do you?  Lets talk.  Thanks. DF
+ 
+ 
+ 
+ 
+ Eric Benson
+ 02/08/2000 03:42 PM
+
+
+
+ 
+  
+   
+ In doing some research for Dorothy regarding salaries charged to work orders, 
+ I was advised by Judy Lin and James Weitekamp with accounting, that we need 
+ to provide Judy Lin with a payroll fixed percentage distribution by 
+ employee.  For example:
+ 
+ RC - 0237 Eric Benson .10 Navajo Work Order (work order number)
+     .90 salary charged to RC
+ 
+ The report to Judy should be for each employee within your respective RC's.  
+ I have the allocation or percentages for Lou's RC but do not have the 
+ percentages for Drew and Dorothy.  If you like, please provide this 
+ information to me and I will be happy to send the request on to Judy Lin in 
+ accounting who will make all necessary corrections for January and February 
+ payroll.
+ 
+ Eric
+ 

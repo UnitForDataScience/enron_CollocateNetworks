@@ -1,0 +1,36 @@
+
+ 
+ 	Sue, we have looked at an automated way to take care of this issue.  So far we have not
+ 	found an exceptable change.   It is a timing issue with true ups from the previous day
+ 	which are not completed before the current day calcuations are done.  It is an item we 
+ 	are manually monitoring today, but we are continuing to look for a better method.
+ 	Thanks.  Lynn 
+ 
+  
+  
+
+  
+ Attached is the latest FDD status report as of December 19th.
+ 
+ Tabs showing FDD activity for this time period for the last three years is also included.
+ 
+ 
+ The GIP contracts should be at 89.90% to be on target to get to the max allowable contract quantity for the end of December.  The max target amount for GIP accounts by the end of December is 83.5%.  The average remaining balance for all GIP contracts is 95%.  To get to the tariff limit of 83.5% by Jan 1st, the GIP contracts will have to withdrawal about 1.8 Bcf, or 150 mmcfd, over the next 12 days.
+ 
+ The 3-step & 4-step do not have a minimum requirement to be met by the end of December since minimum withdrawals for Nov/Dec is zero.
+ 
+ The last report stated that Entergy-Koch had switched to GIP from 4-step.  This was in error.  They are still in the 4-step process.
+ 
+ BP Canada has injected 101.16% of their contract amount.  They have 2,125,406 of GIP on a contract of 2,100,932.
+ 
+ The percentage break out by service is GIP - 34.5%, 4-Step - 45.9%, and 3-Step - 19.5%.
+ 
+ Overall FDD is 94.36% full.
+ 
+ If you have any questions, please call me.
+ 
+ Steve Thomas
+ Gas Storage Manager
+ 402-398-7468
+ 
+  << File: FDDDEC2001 12_19_01.xls >> 

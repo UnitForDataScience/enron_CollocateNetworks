@@ -1,0 +1,17 @@
+
+ 
+ Only couple brief comments on the version that includes Edison's comments:
+ 
+ Under the definition of "Spot Market Service" it now reads:
+ 
+ This service is available for Large Customers and Medium Customers whose service from a Direct Access provider has been interrupted, or who have failed to elect or be deemed to elect either Direct Access, Core Service or Term Service. 
+ 
+ I don't understand the meaning of the phrase "or be deemed to elect."  If inserting the phrase serves an important purpose, then perhaps it's appropriate to leave it in.  But we haven't discussed any reason for needing it.  As such, given the last-minute nature of the change, it should be deleted.
+ 
+ There is one heckuvalot of detail in the rate-related language that Edison provided that we didn't have a chance to discuss in our negotiations.  It may turn out that it's all fine, but I frankly haven't haven't had the chance to adequately wrap my meager mind around the language, so I just want to let folks know that many more comments on those pieces may pop up from my end in the near term.
+ Finally, I just want to raise a flag on section 25465 (a) (6) regarding the green portfolio standard.  We never discussed/analyzed those additional percentages and consequently we never established a "zone of comfort" around including those numbers.  That may become an issue (and may not, just wanted to briefly flag it).
+ 
+ Thanks again for all the effort.
+ 
+ Best,
+ Jeff

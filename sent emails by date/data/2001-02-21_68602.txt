@@ -1,0 +1,39 @@
+
+ 
+ We will take this variance to the desk then.
+ PL
+ 
+ 
+ 
+    
+ 	
+ 	
+ 	 	
+ 
+
+   
+ 
+ Ok, Phillip, here's the story I was given by Jim Little, you tell me if it 
+ makes sense.  In January this liquidation was out of the intra-month book.  
+ Sometime betwen January and August, the liquidation was changed to the  
+ FTbook and we don't liquidate out of the FT book, so the expected offset 
+ didn't happen.
+ 
+ 
+ 
+ 
+ 
+ Phillip M Love
+ 02/16/2001 01:10 PM
+
+   
+ I am curious why N70012.Q is a variance in 0001 and N70012.R is not a 
+ variance in 0008.  If you look in the two fred files, 0001 has the liq 
+ flashed and not in the GL, and in 0008 the liquidation is in flash and the 
+ GL.  The counterparties in both are the same.  Jim needs to revise 0001 
+ file.  Shout with any questions.  Thanks.
+ PL
+ 
+ 
+ 
+ 

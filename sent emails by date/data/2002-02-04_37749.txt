@@ -1,0 +1,18 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Giron, Darron C.\Sent Items
+ X-Origin: GIRON-D
+ X-FileName: darron giron 6-26-02.PST
+ 
+ As long as accounting doesn't have a problem with it, I don't see why not.  The P&L will probably need to be redone for the 31st (Jan) and 1st (Feb).  It just depends on what deals change.  If it is only annuities, then only last day will need to be recalced.
+ 
+ DG
+ 
+  
+     
+ The GD Options (both calls and puts) are booked year round.  They are all in N17872.9, N17872.A, N17872.B, N18064.6, and N18254.4.  I will begin looking at the unwind problem.
+ 
+ DG

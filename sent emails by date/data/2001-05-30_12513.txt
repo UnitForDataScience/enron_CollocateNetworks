@@ -1,0 +1,13 @@
+
+ 
+ 	For the 100mw, use 622332.  For the 622285, use 5062820
+ 
+  
+     
+ Larry,
+      5/22 - deal 622285 is showing 1078 mw for hrly but NY does not show anything.
+ Also for 5/22 NY trans id 5069939 and 5069624 are showing 100 mw apiece but there is nothing in enpower.
+ Could you please advise.
+ 
+ Thanks,
+ Jim

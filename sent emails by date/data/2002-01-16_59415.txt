@@ -1,0 +1,38 @@
+
+ 
+
+ 
+ Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+
+ X- X- X- X-b X-Folder: \ExMerge - Keiser, Kam\Sent Items
+ X-Origin: KEISER-K
+ X-FileName: kam keiser 7-11-02.PST
+ 
+ 
+ Here you go.
+ 
+  
+     
+ My memory needs refreshing as I'm noticing curve type codes and risk type codes that I don't know.
+ 
+ Curve Type Code:
+ AP [Keiser, Kam]  	Ask Price	 
+ AV [Keiser, Kam]  	Ask Volatility 
+ BP [Keiser, Kam]  	Bid Price 
+ BV [Keiser, Kam]  	Bid Volatility 
+ PR [Keiser, Kam]  	Forward Price 
+ SP [Keiser, Kam]  	Settle Price	 
+ VO [Keiser, Kam]  	Volatility 
+ 
+ Book type code:
+ D [Keiser, Kam]  	Basis 
+ I [Keiser, Kam]  	Index	 
+ M [Keiser, Kam]  	intra-month and gas daily 
+ P [Keiser, Kam]  	price	 
+ X [Keiser, Kam]  	Exchange 
+ 
+ I should probably be shot for forgetting this stuff, but your help will be appreciated.
+ Thanks
+ Frank
+  

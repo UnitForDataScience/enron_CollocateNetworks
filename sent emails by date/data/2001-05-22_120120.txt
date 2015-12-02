@@ -1,0 +1,13 @@
+
+ 
+ Rika, 
+ I have had a request and I also think it is a good idea to put the regional gas price for the following regions.
+ 
+ PJM - Transco Zone 6 Non New York
+ NY - Transco Zone 6 New York
+ NEPOOL - Algonquin
+ 
+ The heat rates would then be calculated off the appropriate regional gas price.
+ 
+ Thanks
+ Paul

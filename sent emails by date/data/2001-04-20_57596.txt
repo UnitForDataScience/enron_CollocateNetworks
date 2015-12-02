@@ -1,0 +1,23 @@
+
+ 
+ 
+ 
+ 
+
+
+  
+  
+ The following expense report is ready for approval:
+ 
+ Employee Name: Richard Shapiro  
+ Status last changed by:  Automated Administrator
+ Expense Report Name: RS041001
+ Report Total: $10,108.31
+ Amount Due Employee: $10,108.31
+ 
+ 
+ To approve this expense report, click on the following link for Concur 
+ Expense.
+ http://xms.enron.com
+ 
+ 

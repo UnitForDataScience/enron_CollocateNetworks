@@ -1,0 +1,9 @@
+
+ 
+ We have now received a new Password Application  and ETA amendment for the referenced counterparty.  As of the close of business today, we have shut down Bankers Trust Company for EOL trading.  All EOL trading should now be done through the referenced entity.  Enron has executed a Novation Agreement which is currently at Deutsche Bank for execution.  Per DB, we should receive the executed copy back from them on Monday.  Upon receipt of this Novation Agreement, all of the current Bankers Trust financial trades will be moved under the existing ISDA Master Agreement between Deutsche Bank AG and Enron North America Inc. dated  12/29/00.
+ 
+ Global Counterparty:  Please ensure that the ISDA Master referenced above is attached to this counterparty in EOL.
+ 
+ Confirmation Desk:  Please ensure that all EOL financial confirmations show this counterparty as "Deutsche Bank AG, acting through its New York Branch"
+ 
+ MUCH THANKS!!! 

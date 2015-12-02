@@ -1,0 +1,41 @@
+
+ 
+ Wes' memo finally went out to Sherriff.  DPR won't change at this point in 
+ time.  
+ 
+ 
+
+ 22/02/2001 10:47
+
+  
+  
+ Changes are required to the reporting format of Enron Europe's P/L in the 
+ Executive Viewer .  Below is a list of these changes as well as the person 
+ responsible for effecting each change:
+ 
+ Gary Hickerson: The UK Drift book is to be reclassified from the 'Enron 
+ Global Markets' heading to the 'Enron Europe' heading; 
+ 
+ Susie Ayala: The Enron Europe (Net Fair Value) Equity Investments book is to 
+ reclassified from 'Merchant Summary' to the 'Enron Europe' heading;
+ 
+ Chris Abel: The following changes are to be made to the books reported under 
+ the 'Enron Europe' heading:
+  - J Block is to be reported as a separate line item;
+  - Structured Derivatives UK is to include all other structured derivatives 
+ and power/gas accruals (currently reported under 'Other' line item); 
+  - For each of the Electricty books, could you change the word Electricity to 
+ Power in the headings (for consistency purposes).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

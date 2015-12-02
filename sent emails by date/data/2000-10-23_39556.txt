@@ -1,0 +1,60 @@
+
+ 
+ Could you please respond for me.   Mark
+ 
+ 
+
+ 	10/16/2000 06:52 PM
+ 		 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 		  		  
+ According to our records all of you have some sort of high speed internet 
+ access to your home.  Either Cable Modem or DSL service.  When most of these 
+ lines where installed, we did not have a standard on how to connect back to 
+ the Enron network.  Most if not all of you are using the Client software on 
+ your PC's.  In order to provide more security to both Enron and Your PC.  We 
+ need to configure and deploy a Nortel Instant Internet Box.   the way the 
+ Nortel box works is what they call splitt tunnelling.  If it sees traffic 
+ that needs to go to enron it will go through the tunnel, other wise it goes 
+ directly to the internet.
+ 
+ 
+ We will need to know the following information to configure and deploy the 
+ Router
+ 1. UserName and Login if required by the ISP.
+ 2. If you have static IP addresses, We need to know that as well.
+ 3. Co/RC to charge for the Nortel Box (Approx $500.00)
+ 
+ 
+ If you no longer have DSL or Cable service or You do not have either please 
+ let us know.  Other wise Please return the above information back to Enron 
+ network security.
+ 
+ Thanks
+ 
+ Mark Scott

@@ -1,0 +1,6 @@
+
+ 
+ for dow jones direct:
+ 
+ logon:  bgaillar
+ password: Ene498834

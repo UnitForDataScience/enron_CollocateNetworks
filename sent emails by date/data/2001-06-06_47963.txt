@@ -1,0 +1,47 @@
+
+ 
+ OK for me.
+ 
+ 
+ 
+
+ 	06/06/2001 10:52 AM
+ 		 
+
+
+ 		  		  
+ 
+ 
+  
+    Mark; Nettelton, Marcus; Moran, Tom; White, Stacey; Evans, Casey; Murphy, 
+ Melissa Ann
+ Cc: Lees, Lisa; Sever, Stephanie; Jones, Tana; Lambert, Karen; Lombardi, 
+ Kelly; Sweitzer, Tara; Kenne, Dawn C.; Moorer, Torrey; Meredith, Kevin; Cass, 
+ Robert B.; Lozano, Melba
+  
+ Please approve the following product type in Data Manager after 11 A.M.
+ 
+ US East Power Phy Spd
+ 
+ 
+ 
+ 
+ 
+ 
+ STEPS FOR APPROVAL:
+ 
+ click the  START button 
+ select  PROGRAMS
+ select  TEST APPLICATIONS
+ select ENRONONLINE CLUSTER(PROD)
+  PROCEED WITH USUAL LOGIN/PASSWORD 
+ click the Enron Online Production Cluster "START" button  
+ select EnronOnLine (this is the EOL Datamanager)
+  PROCEED WITH EOL LOGIN/PASSWORD
+ click on the "+" for EnronOnLine
+ click on the "+" for Product Types
+ click on the "+" for "Awaiting Approval" (OR  "Partially Approved")
+ select the product requiring review as stated in e-mail above
+ Right "mouse" click on "properties" to view product set-up 
+ TO APPROVE:  Right mouse click on "Approved"
+ 

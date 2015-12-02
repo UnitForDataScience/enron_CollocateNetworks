@@ -1,0 +1,40 @@
+
+ 
+ Chris,
+ 
+ Below Wei explains what the option class cd column should contain. Please fix 
+ this error before saving the file out tonight.  If you have any questions let 
+ me know.
+ 
+ Thanks,
+ Robin
+ 
+    
+ 	Enron North America Corp.
+ 	
+ 	 	
+ 
+
+
+  
+ Robin,
+ 
+ I have set it up for this spreadsheet and I already ran it in stage 
+ database.  The only error message I got was 'OPT_CLASS_CD INVALID'.  
+ Option_class_cd should be one of the following: 'AMR', 'ASI', 'ASM', and 
+ 'EUR'.  'USD' in the spreadsheet is more like a currency_cd.
+ 
+ Wei
+ 
+ 
+ 
+ 
+ 
+ Robin Rodrigue
+ 01/17/2001 01:55 PM
+
+   
+ 
+ 
+ 
+ 

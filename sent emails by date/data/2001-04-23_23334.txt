@@ -1,0 +1,22 @@
+
+ 
+ FYI
+ 
+  
+
+ 
+  
+ The Payment status has changed on the following report:
+ 
+ Status last changed by: Marie Wallace
+ Expense Report Name: Coronado Club
+ Report Total: $111.40
+ Amount Due Employee: $111.40
+ Amount Approved: $111.40
+ Amount Paid: $111.40
+ Approval Status: Approved
+ Payment Status: Paid
+ 
+ 
+ To review this expense report, click on the following link for Concur Expense.
+ http://xms.enron.com

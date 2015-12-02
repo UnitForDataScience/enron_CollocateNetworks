@@ -1,0 +1,51 @@
+
+ 
+ Erica,
+ 
+ Yes, no problem.
+ 
+ Vince
+ 
+ 
+ 
+ 
+ 
+ Information Risk Management
+ 12/01/2000 09:50 AM
+
+
+   
+ PLease let me know if he is approved. 
+ 
+ Thanks,
+ Erica Garcia
+ 
+ 
+ 	Security Resource Request System	
+ Directory Line Item		Pending Access Processing
+ 
+ Directory Name:			o:\weather derivatives\  , o:\research\common
+ Service Type:	Grant		
+ Expiration  Comments:			
+ 
+ 	Security Processing                 		
+ Processing Status:			
+ E-Mail Message:			
+ Comments/Justification:			
+ 
+ 	General Information           	Request:	JHRC-4RKJJZ  
+ Requested By:	Joseph Hrgovcic/HOU/ECT	Phone:	33914
+ Requested For:	Joseph Hrgovcic/HOU/ECT	Employee Type:	
+ Company:	0011	RC #:	100038
+ Priority:	High		
+ Comments/Justification:			I have a test Windows2000 machine running  (with 
+ userid t_weather01, for which I need access to o:\research\common and 
+ o:\weather derivatives\
+ 
+ 
+ 		Editing History (Only the last five (5) are shown)	
+ 			
+ Edit #	Past Authors	Edit Dates	
+ 1	Information Risk Management 	11/30/2000 12:30:19 PM 	
+ 
+ 

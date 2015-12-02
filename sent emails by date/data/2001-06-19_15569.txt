@@ -1,0 +1,33 @@
+
+ 
+ Coulda sworn I mentioned DB when we had dinner with your guy at Bizou.
+ 
+ Let's talk more to discuss the latest developments.  Glad to hear that it's 
+ still moving along. I'm in town tonite.  
+ 
+ You MUST keep this strictly confidential
+     
+ 
+ Met for 45 min w Suresh Raghavan to discuss DealBench (Enron's proprietary
+ auction platform) and the potential for Perfect to provide complementary
+ solutions to their customers through EnronOnline and beyond.  We agreed that
+ the purpose of our discussions would not be to have him sponsor us to the
+ Global Strategic Sourcing unit, but only to consider Perfect as a bus dev
+ deal.  We would need to price ourselves as an ASP for them, but with the
+ liquidity they have (supposedly like $1B per day traded through
+ EnronOnline), this should be a no-brainer.
+ Suresh is the Principal of DealBench, as well as a Director of Enron Net
+ Works.  DealBench is one of many business units under the Enron Wholesale
+ Services / Enron Net Works group, including EnronOnline, ClickPaper,
+ MetalMarkets, and other wholesale marketplace services.  DealBench has 3
+ primary offerings:
+ * Auctioning/RFQ management
+ * Deal Rooms with complex negotiations tools
+ * Data Rooms  for sharing of secure documents such as CADs, blue prints, etc
+ for M&A due diligence.
+ 
+ We discussed the basic functionality and sophisticated math behind Perfect,
+ and he felt that it was worth considering further as a complementary service
+ offering for the DealBench platform.  He would like to arrange a demo for
+ him and some of his managers for the end of June or early July.
+ 

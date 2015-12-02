@@ -1,0 +1,34 @@
+
+ 
+ 490801
+ Price is 122.45
+ It's been changed
+ 
+ 490861
+ Broker is Amerex
+ It's been changed
+ 
+ Thanks
+ 
+ 
+ Stephanie Piwetz   01/05/2001 01:41 PM
+ 
+
+  
+  
+ 
+ APB
+ Badeer:  Deal 490801.01  please check pricem APB shows:  $122.45
+ 
+ Mallory:  Deal 490222.01  should be 50 mws  CORRECTED!
+ 
+ 
+ Mallory: Deal 490861.01  APB does not show deal, different broker?
+ Enron Sells Sempra 1/9-1/31 off peak, Sp 15  25 mws 102.00
+ 
+ 
+ TFS broker
+ deal 490644.01 TFS shows Enron Sells EES    CORRECTED!
+ 
+ 
+ 

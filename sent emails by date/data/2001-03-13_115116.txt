@@ -1,0 +1,41 @@
+
+ 
+ chris - just finished entering deals
+ 
+ jeff - 549013 - changed to APB from Prebon
+ 
+ 548756 - changed to 82.52
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 03/13/2001 02:28 PM
+
+  
+  
+ missing deals
+ 
+ chris
+ selling bp energy
+ 111.00
+ 25 mw
+ sp15
+ april
+ off peak
+ 
+ jeff
+ selling bp energy
+ 205.00
+ 25 mw
+ pv
+ april
+ on peak
+ 
+ 548756
+ broker has 82.52 
+ 
+ thanks
+ 

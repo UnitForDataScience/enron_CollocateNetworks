@@ -1,0 +1,30 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Love, Phillip M.\Sent Items
+ X-Origin: LOVE-P
+ X-FileName: phillip love 6-25-02.PST
+ 
+ 
+ 
+  
+    Cc:	Gossett, Jeffrey C.
+  
+ The only books that should still have deals in them, other than NG-Price, will be 
+ 
+ Intra-Ont-Cad		all canadian gas daily deals
+ NGPR-Can
+ Oil-NG-Spec
+ Ft-Ont-Central		all consolidated price/basis deals
+ 
+ these books will still have to be calculated after today.
+ 
+ All counterparty deals were moved over the weekend but any remaining desk to desk deals were not touched.  We need to move those ourselves today.
+ All others need to be calculated and officialized one more time today then inactivated on the Rac website for tomorrow.
+ 
+ KK
+ 
+ 
+ 

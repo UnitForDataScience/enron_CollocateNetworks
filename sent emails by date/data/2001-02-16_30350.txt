@@ -1,0 +1,17 @@
+
+ 
+ fyi
+ 
+ 
+ 
+ 
+ Steve Gilbert
+ 02/16/2001 07:58 AM
+
+  
+  
+ Ken Powers has been developing a Business Objects report along with Lindy Donoho and Jim Wiltfong.  They are trying to create a daily system balancing report by capturing reciepts, deliveries, fuel, OBA and Park and Ride activity  - all per pipeline segment.   The objective is to get a better handle on fuel.  
+ 
+ 
+ 
+ <Embedded StdOleLink>

@@ -1,0 +1,38 @@
+
+ 
+ ENA does not have an ISDA Master in place with PG&E Energy Trading Power 
+ L.P.  Enron Canada does have an ISDA Master in place with PG&E Energy 
+ Trading, Canada Corporation.  Could the trades be done under that master?
+ 
+ Also, below is an agent that should connect you to the Financial Trading 
+ Agreement database, where you can look up what master agreements we have in 
+ place.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 	Jan Wilson
+ 	12/11/2000 07:26 AM
+ 		 
+
+
+ 		  
+ Tana,
+ 
+ Can you let me know if ENA has an ISDA signed with PG&E Energy Trading Power 
+ L.P.  I am looking at doing a financial swap against the Ontario IMO spot 
+ price with PG&E and was wondering if it could be done under and existing ISDA 
+ between PG&E and ENA with a C$ confirmation (exactly like the proposed 
+ Southern transaction).
+ 
+ Please contact Chris or myself with any questions.
+ 
+ thanx,
+ 
+ 
+ Jan Wilson
+ 416-865-3704
+ 
+ 

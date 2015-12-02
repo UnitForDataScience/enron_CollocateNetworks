@@ -1,0 +1,64 @@
+
+ 
+ I don't understand why you were denied access.  Did we improperly file?  Call me.
+ 
+ 
+ 
+ 
+     
+ 
+ The following request information was recently submitted...
+ 
+ REQUESTOR INFORMATION:
+ 
+    Business Unit:                CORP
+    Cost Center:                  103246
+    Company Code:                 001
+    Business Unit for Roles:      CORP
+    Other Business Units:
+    SAP ID:                       p00500449
+ 
+ GENERAL INFORMATION:
+ 
+    Supervisor:                   James Steffes
+    Supervisor Telephone Number:  853 7673
+    Employee Name (Last,First,M): Stransky, Joan. F.
+    Employee Location:            EB4736B
+    Employee Telephone Number:    853-7431
+
+    Job Title:                    Admin Asst
+    SAP User Type:                Enron Employee
+ 
+    Business Reason:              
+    I have been asked to support Becky Cantrell and Melinda
+    Pharms in timekeeping and invoice coding.
+ 
+ VIEWER ROLES:
+    No roles in this area were selected.
+ 
+ FINANCIAL ACCOUNTING ROLES:
+    1. Add FN AP Invoice Processing
+ 
+ PROJECT SYSTEM ROLES:
+    No roles in this area were selected.
+ 
+ JOINT VENTURE ROLES:
+    No roles in this area were selected.
+ 
+ MATERIALS MANAGEMENT / PURCHASING ROLES:
+    No roles in this area were selected.
+ 
+ CENTRALIZED ROLES (LIMITED TO SPECIFIC PERSONNEL):
+    No roles in this area were selected.
+ 
+ HUMAN RESOURCES (HR PERSONNEL ONLY):
+    No roles in this area were selected.
+ 
+ HUMAN RESOURCES - TIMEKEEPERS:
+    1. Add  HR Local Timekeeper
+ 
+ HUMAN RESOURCES - BENEFITS (BENEFITS PERSONNEL ONLY):
+    No roles in this area were selected.
+ 
+ HUMAN RESOURCES - PAYROLL (PAYROLL PERSONNEL ONLY):
+    No roles in this area were selected.

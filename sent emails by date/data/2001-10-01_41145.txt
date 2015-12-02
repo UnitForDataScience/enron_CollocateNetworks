@@ -1,0 +1,17 @@
+
+ 
+ I think I received this e-mail in error.  I am in the Legal-financial trading group.
+ 
+ Marie
+ 
+  
+    Cc:	Nath, Tani
+  
+ Coralie/Slava
+ 
+ We had a meeting with Matt Kernot on Friday, about SMBP, SMSP, RCRC curves for UK power.
+ These are due to go live in the near term (if they haven't already)
+ 
+ The team is using various scalars to create HH curve if needed.
+ 
+ I was wondering if anyone in Risk or Research had looked at the validity of the curves and scalars and if Risk/Research is expected to sign off on these?

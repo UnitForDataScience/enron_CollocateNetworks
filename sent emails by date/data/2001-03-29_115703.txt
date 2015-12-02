@@ -1,0 +1,25 @@
+
+ 
+ Brett -
+ 
+ I'm so sorry for not sending you an e-mail last night! I did test the report 
+ and it looks just fine - but I had so many things going on right up until I 
+ left that I forgot to tell YOU that it looked fine. Thanks for the reminder, 
+ and for your work on the report.
+ 
+ Kate
+ 
+ 
+
+
+  
+  
+ Kate, were you able to test the Fwd Obligation Report?  Mr. Luu is ready to 
+ push it in to production, but we wanted you to look at it and give it your ok 
+ first.  
+ 
+ Thanks, 
+ 
+ Brett Pate
+ Enpower QA
+ 

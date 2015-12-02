@@ -1,0 +1,118 @@
+
+ 
+ Mary Hain has resigned her position with Enron.  Please remove her from all=
+ =20
+ mailing lists.
+ 
+ 
+   =20
+ =09Enron Capital & Trade Resources Corp.
+ =09
+
+ =20
+ 04/03/2001 02:07 PM
+ =09
+ 
+
+
+
+
+
+ ,=20
+
+ ,=20
+
+
+
+
+
+ =20
+
+
+
+ =20
+
+
+
+ =20
+
+
+
+
+
+
+
+
+ m,=20
+
+
+
+
+
+
+
+ =20
+
+
+
+   
+ 
+ request_number:  PS-BPA 116 and 118
+ firstname:  Steve
+ lastname:  Marshall
+
+ directed_to:  Peter J. Burger - LP-7
+ Office of General Counsel
+ Bonneville Power Administration
+ P.O. Box 3261
+ Portland, Oregon  97208-3621
+ exhibit_wp-02-e-:  BPA-78
+ page_numbers:  1-8
+ request_text:  PS-BPA:116, Page 3, Lines 1-3:  Beginning at line 1 the=20
+ witnesses state =01&While SUB=01,s use of a straight-line extrapolation of =
+ REP=20
+ values and market prices is simple to use, it is not necessarily accurate.=
+ =018 =20
+ Please describe the conditions under which the extrapolation would not be=
+ =20
+ accurate.
+ 
+ PS-BPA:118, Page 3, Lines 4-8:  Beginning at line 4 the witnesses state=20
+ =01&While SUB correctly notes that the relative value of BPA=01,s below-mar=
+ ket=20
+ power increases as the difference between BPA-s price and the market price=
+ =20
+ increases, this is true for all power sold by BPA, whether it is the=20
+ approximately 5,800 average megawatts (aMW) being sold to public body=20
+ customers or the 1,000 aMW power portion of the IOUs=01, REP settlements.=
+ =018  Has=20
+ BPA calculated the value of BPA=01,s below market power for the approximate=
+ ly=20
+ 5,800 average megawatts (aMW) being sold to public body customers?  If so,=
+ =20
+ please provide the value or values, and the calculations supporting the val=
+ ue=20
+ or values.
+ 
+ contact_name:  Steve Marshall
+ contact_address:  Perkins Coie
+ One Bellevue Center, Suite 1800
+ 411 - 108th Avenue N.E.
+ Bellevue, WA  98004
+ contact_phone:  425-453-7314
+
+ contact_fax:  425-453-7350
+ delivery_instructions:  Please mail hard coies of data responses to Steve=
+ =20
+ Marshall at the address above
+ 
+ The following information is from the web server:
+ 1.  Logon: IUSR_GRANITE
+ 2.  Remote Host:  seairon.perkinscoie.com
+ 3.  Remote IP Address:  38.169.150.2
+ 4.  Form URL: =20
+ https://secure.bpa.gov/power/secure/psp/ratecase/discovery/wp_02_request.ht=
+ ml
+ 5.  Browser Client:  Mozilla/4.0 (compatible; MSIE 5.01; Windows NT)
+ 
+ 

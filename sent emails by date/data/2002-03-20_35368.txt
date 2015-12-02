@@ -1,0 +1,25 @@
+
+ 
+ You may or may not be able to do anything about this but I've requested access to several different desk in Sitara and the people that approve these items all work for UBS.  Now I'm trying to pull up a deal that was on the central desk ( I thought) and its showing up as a west desk ticket and I can't access it.  I thought I was the one that entered it in Sitara.  Sitara deal #1198936 is an example.
+ 
+ Can you help get me access?
+ 
+  
+
+    
+ This resource request has been rejected. You can view the details of the  request by clicking http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000083213&Page=MyReq.
+ 
+ 
+ 
+ 
+ Request ID          : 000000000083213
+ Approver Type       : Data
+
+ Comments            : Chris should have access to Enron Estate portfolios only.  He should not need access to any AEP portfolios.
+ Request Create Date : 2/20/02 3:28:38 PM
+
+ Resource Name       : Sitara Houston Production AEP Edit Trader
+ Resource Type       : Applications
+ 
+ 
+ 

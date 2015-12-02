@@ -1,0 +1,19 @@
+
+ 
+ OW, 
+ 
+ I went through the list on the sort by pipe and highlighted the curves/mapping we can delete (yellow) and those we can change (orange).  The only curves we will have left are Katy, Waha, HSC, Agua Dulce, and Thompsonville.  I expect to be using Thompsonville in 6 months to a year.  If it easier or cleaner to delete that curve and add it when we need it, that will be fine.  Let me know if you have any questions.
+ 
+  
+ 
+ D
+ 
+  
+    Cc:	Martin, Thomas A.
+  
+ Hey Gang,
+ 
+ Attached are the physical curve mappings as provided by Russ Severson... Please take a peek and let us know if we need to change, add/delete, update any points/mappings going forward in a Netco environment... For instance, I would like to change Texoma to Carthage on the curve mappings... Also, I would like to delete all derived curves, leaving only Carthage, KatyTailgate, and Agua Dulce.
+ The other physical locations would be ShipChannel, Waha and Katy (non-tailgate)... Let me know your thoughts... O'Neal 3-9686
+ 
+  << File: CurveMapping_Texas.xls >> 

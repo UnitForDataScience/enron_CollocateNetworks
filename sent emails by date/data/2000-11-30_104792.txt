@@ -1,0 +1,58 @@
+
+ 
+ Of course.  You probably forgot that SITA requested both 
+ settlement'termination in Euros.  SS
+ 
+ 
+ 
+ 	Tanya Rohauer
+ 	11/30/2000 10:34 AM
+ 		
+
+ 		  		  
+ How can the contractual currency be USD and the invoicing be in FF as 
+ indicated below.  I guess I don't really care what currency is used as ECTRIC 
+ will be responsible for hedging its currency risk with Hickerson; however, 
+ shouldn't the contractual and termination currency be the same?
+ 
+ 
+ 
+   
+ Tanya:  Is Lee the right person to approve this change for SITA?  Remember, 
+ SITA is acutally with ECTRIC (nto ENA) and SITA wanted to settle in Euros.  
+ Thanks.  Sara
+ 
+ 
+
+ 	11/22/00 01:41 PM
+ 		 
+
+
+ 		  
+ Tanya:
+ 
+ SITA now insists on having the Termination Currency and the Contractual 
+ Currency, except as otherwise agreed in any Transaction/Confirmation, as the 
+ Euro.  They will not agree to USD.  [By the way, SITA's lawyers had already 
+ agreed to USD]  Effectively, if we agree to this, the trader will need to 
+ confirm each deal in USD (Contractual Currency) but if we early terminate, 
+ the currency will be Euro's (Termination Currency).
+ 
+ What do you want to do?  Other than the Enron Corp. guaranty, we are finished.
+ 
+ Sara
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

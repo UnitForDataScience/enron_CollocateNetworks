@@ -1,0 +1,4 @@
+
+ 
+ Mike.  Generally the language is fine, but I tweaked to make sure it is 
+ clearer.  Please review and let me know if you have any questions.

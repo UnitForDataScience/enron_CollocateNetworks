@@ -1,0 +1,41 @@
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+ 
+ 
+ Counterparty     TAGG#  
+ Action                                                            
+ CMS Energy Corporation   qW3331.1 Rebook to CMS Marketing, Services and 
+ Trading
+ Consolidated Edison Company of New York qW2007.1 Pending Jay Williams
+ Dynegy Energy Inc.    qW2360.1 Rebook to Dynegy Marketing & Trade
+ Engage Energy Canada LP   qW3304.1 Rebook from ENA to ECC (Under the ISDA)
+  "     qW3303.1   "
+ FAMM Fuel and Marine Marketing   qW3046.3 Pending Brant Reves
+ Hunt Petroleum Corp    qW2337.1 Pending Russell Diamond
+ Jay Paper Sales, Inc.    qW3406.1 Pending Arpana Rajaram
+ Louis Dreyfus Natural Gas Holdings  qW3036.1 Rebook to Louis Dreyfus Natural 
+ Gas Corp
+ New Counterparty    qW1880.1 Pending Russell Diamond
+ Phibro (Asia) Pte Ltd.    qW3046.2 Rebook to Phibro Inc.
+ Seminole Transportation and Gathering  qW1864.6 Pending Jay Williams
+ Tubos de Acero de Mexico SA   qW0941.1 Pending Paul Radous
+ 

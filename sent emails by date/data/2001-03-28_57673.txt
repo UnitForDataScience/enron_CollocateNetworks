@@ -1,0 +1,22 @@
+
+ 
+ 
+ 
+
+ 	03/28/2001 09:55 AM
+ 		 
+
+ 		  		  
+ The following expense report is ready for approval:
+ 
+ Employee Name: Robert L. Bradley Jr
+ Status last changed by:  Automated Administrator
+ Expense Report Name: RLB-Florida
+ Report Total: $537.19
+ Amount Due Employee: $537.19
+ 
+ 
+ To approve this expense report, click on the following link for Concur 
+ Expense.
+ http://xms.enron.com
+ 

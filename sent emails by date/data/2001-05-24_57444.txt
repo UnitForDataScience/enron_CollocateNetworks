@@ -1,0 +1,23 @@
+
+ 
+ 
+ 
+ 
+
+
+  
+  
+ The following expense report is ready for approval:
+ 
+ Employee Name: Cindy K. Olson
+ Status last changed by:  Automated Administrator
+ Expense Report Name: May2001ExpenseReport
+ Report Total: $7,759.81
+ Amount Due Employee: $7,759.81
+ 
+ 
+ To approve this expense report, click on the following link for Concur 
+ Expense.
+ http://xms.enron.com
+ 
+ 

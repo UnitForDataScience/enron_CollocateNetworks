@@ -1,0 +1,9 @@
+
+ 
+ Robin purchased 8500 dts from Con Ed intra day on the 15th.  These are the 
+ changes I made in Transit on contract 3.2067
+ 
+ Activity  Prev Volume New Volume
+ 767169  25000  15000  Adjusted sale to Con Ed at meter 6571 down by 10000
+ 789154  0  1500  Adjusted sale to Con Ed at meter 1183 up by 1500
+ 789274  0  8500  ??? Robin or Kate will go to jail for this one.

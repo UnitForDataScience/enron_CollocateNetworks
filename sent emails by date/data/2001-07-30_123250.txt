@@ -1,0 +1,15 @@
+
+ 
+ thanks for the help
+ 
+  
+    Cc:	Webb, Jay
+  
+ 
+ Greg, the Call Center called me on Friday saying that your products had dropped off the WEB during the maintenance window on EOL.  The reason for this is that each month your product has a different Product ID, and your September product did not have the flag set to not suspend. I have set the flag in the database for product "53549, US WTI Swap Nymex LD Sept 01" so that it will not suspend in the future.  Also we have added a procedure in the Control Center to make sure we check for this near the end of every month so we set the flag appropriately for each new month's product.
+ 
+ bbh
+ 
+ 
+ 
+  << File: Hillier, Bob.vcf >> 

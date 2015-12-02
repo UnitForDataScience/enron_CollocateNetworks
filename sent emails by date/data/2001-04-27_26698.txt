@@ -1,0 +1,14 @@
+
+ 
+ Ok, We should be paying Dow based on the index price.  But, it should be IF HSC - .07 instead of -.06.  Sales volumes should be allocated to deal 639612.
+ 
+ D
+ 
+  
+
+    
+  - Book2.xls << File: Book2.xls >>  
+ 
+ 
+ 
+ 

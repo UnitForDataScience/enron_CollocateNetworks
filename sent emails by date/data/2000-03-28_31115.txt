@@ -1,0 +1,58 @@
+
+ 
+ My fault.  I should have sent this out this morning.
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ 
+ The attached file contains our daily volume requirements for
+ and          .    There are two worksheets:  The one labelled with today's 
+ date
+ contains the volumes that we need at each of the delivery points indicated.
+ The schedulers will want to check this sheet to see how much gas is needed at 
+ a
+ specific point.
+ 
+ The sheet labelled 'Daily Change' shows the change (increase +/decrease -) in
+ the requested daily volume relative to a prior value.  For the current gas 
+ day,
+ the change is an intra-day change and is calculated using the previous day's
+ volume request for the current day (e.g., If the current gas day is 3/28, then
+ the change is computed with respect to the 3/27 request for 3/28).  For
+ tomorrow's gas day and any subsequent ones shown, the change is computed using
+ the First-of-the-month volumes requested for those days.  (e.g., If today is
+ 3/28, then the change for 3/29, 3/30, etc. is computed with respect to the
+ first-of-the-month volumes for those days.)   This sheet should be useful in
+ determining prices for daily changes in gas volumes that we take or turn back.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Doug Kinney
+ Ph:  703-561-6339
+ Fax:  703-561-7317
+ 
+  - 03-28-00 daily vols AM.xls

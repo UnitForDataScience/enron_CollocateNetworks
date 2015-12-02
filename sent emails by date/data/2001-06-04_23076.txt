@@ -1,0 +1,22 @@
+
+ 
+ FYI
+ 
+  
+
+ 
+  
+ The Payment status has changed on the following report:
+ 
+ Status last changed by: Marie Wallace
+ Expense Report Name: Dues and forum fees
+ Report Total: $1,049.00
+ Amount Due Employee: $1,049.00
+ Amount Approved: $1,049.00
+ Amount Paid: $0.00
+ Approval Status: Approved
+ Payment Status: In Progress
+ 
+ 
+ To review this expense report, click on the following link for Concur Expense.
+ http://xms.enron.com

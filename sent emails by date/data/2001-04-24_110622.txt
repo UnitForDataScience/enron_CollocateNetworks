@@ -1,0 +1,7 @@
+
+ 
+ Chris,
+ 
+ I assumed we were scaping the "Inventory Chagne" point for PGE, but it doesn't look like any data is in the database.  Can you check on this.  It's the last row of the larger tables on the webpage.  The location name I believe is Inventory Chang.  If it's not being scaped, let's get it started.
+ 
+ Mat

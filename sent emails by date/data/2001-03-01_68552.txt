@@ -1,0 +1,6 @@
+
+ 
+ Union is treated as a synthetic storage on Sithe, so we do not keep inventory 
+ profit schedules.  As far as I can tell you fixed that last month.  I will 
+ continue to work on Central issues.  Thanks.
+ PL

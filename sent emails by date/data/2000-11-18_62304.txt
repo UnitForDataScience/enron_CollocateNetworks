@@ -1,0 +1,6 @@
+
+ 
+ Jeff
+ 
+ My management line is hidden on my hard copy report but not on the executive 
+ viewer.  Make sure its hidden on the executive viewer.

@@ -1,0 +1,12 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X-
+ X- X-b X-Folder: \ExMerge - Semperger, Cara\Sent Items
+ X-Origin: SEMPERGER-C
+ X-FileName: cara semperger 6-26-02.PST
+ 
+ Error(s) Encountered While Processing Your Request 
+ Web+ Error Message: Error Code = 10650: Incorrect file read password. Occurred in WebMail around line(42) in Script File \\vdb01\d\ets\web15\fax-send.wml  Explanation: An incorrect password was used when trying to read from a file.  Troubleshooting Information Verify that the password in the script is the same as that in the [FILE IO] section of the Web+ server configuration file (webpsvr.ini).	

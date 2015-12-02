@@ -1,0 +1,27 @@
+
+ 
+
+
+
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Williams III, Bill\Sent Items
+ X-Origin: WILLIAMS-W3
+ X-FileName: 
+ 
+ Kourtney,
+ 
+ Per our conversation, ECTRT should receive congestion revenue for HE 2, HE 23 and HE 24.
+ All congestion revenue was across Path 15.  All revenue was at $248.
+ Volumes were as follows:
+ 	HE 2		8 mws
+ 	HE 23		38 mws
+ 	HE 24		30 mws
+ 	HE 24		20 mws
+ 
+ Total volume was 96 mws at $248, revenue should be $23808.
+ Please see me with any questions.
+ 
+ Thanks
+ Bill

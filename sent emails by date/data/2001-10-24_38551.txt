@@ -1,0 +1,12 @@
+
+ 
+ Ryan has done a great job creating and maintaining the basis pricing sheet.  I would like you guys to add two more tabs to the file.  Please add a physical and finacial index pricing sheet with the same format.  We may need to create a more elaborate fin index curve file to accomodate this file.  Please show me the fin index curve file tomorrow so that we may update.  Let me know what you think.
+  
+ Thanks,
+ Mike
+ 
+  
+    Cc: 
+  
+ 
+  

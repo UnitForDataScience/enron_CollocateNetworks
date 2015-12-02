@@ -1,0 +1,19 @@
+
+ 
+ Sounds reasonable to me.
+ 
+ 
+ 
+ 	Mary Cook
+ 	08/30/2000 02:04 PM
+ 		 
+
+ 		  		  
+ Based upon discussions with Andrea Reed, the res of the swap will be the 
+ warrant itself, not the underlying stock.  The warrants are valued separately 
+ with a "warrant model" and carry a price of their own differentiated from, 
+ although affected by, the stock price.  I did not get into further detail on 
+ the specifics of the modeling.  The will provide us the number of warrants, 
+ the strike price as of August 3.  Otherwise they will work similarly to the 
+ stock based swap I think.  She said they do not plan to exercise them, but 
+ may sell them as warrants.  Let me know what you think.  Mary   

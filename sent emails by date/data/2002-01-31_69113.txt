@@ -1,0 +1,26 @@
+
+ 
+
+ 
+
+ Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+
+
+ X- X- X- X-b X-Folder: \ExMerge - Love, Phillip M.\Sent Items
+ X-Origin: LOVE-P
+ X-FileName: phillip love 6-25-02.PST
+ 
+ 
+ Can you do the same thing with a different book id?  Instead of book counterparty FT-CAND-TERMIN, move any deals with the FT-TERMIN-GD book to the bankruptcy book from NG-Price.  Financial deals only.  Thanks.  Let me know if you need any further clarification, should be the exact same script as yesterday, just substitute FT_TERMIN-GD for the two books you were looking for yesterday.
+ PL
+ 
+  
+    Cc:	Giron, Darron C.; Gossett, Jeffrey C.; Keiser, Kam
+  
+ Please move the following book to book trades with Canada from NG-Price to Bankruptcy:
+ FT-Cand-Termin
+ Ft-Cand-Gone-PR
+ 
+ Pleae let me know when this is done, we are waiting to calc today on this.  Thanks.
+ PL

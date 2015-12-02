@@ -1,0 +1,48 @@
+
+ 
+ On a per turbine basis he would be expecting some to have big drops. However 
+ for the entire site, the amount we were talking about would be about .5% (for 
+ 1 month). Though I don't know if he expected individual turbines to have more 
+ impact on the site average than they do . For 10 turbines having one drop 5% 
+ only lowers the site by .5%.
+ 
+ 
+ 
+ 
+ Kurt Anderson
+ 07/10/2002 03:51 PM
+
+
+  
+  
+ If we are only talking about a .6% drop in avg. availability, we had better 
+ be ready to defend our numbers. Not just defend but convince Zilkha why we 
+ are right with our calcs. Mark F. unless I am mistaken, Gary V. is expecting 
+ a bigger drop??
+ 
+ 
+ 
+ 
+ Mark V Walker
+ 07/10/2002 02:04 PM
+
+
+ 
+  
+ Summary:
+ The Jan - May 2002 availabilities are revised to exclude virtual mode / pause 
+ events.   The results showed that every turbine had between one and two hours 
+ each month where the WTG was transitioning between states as per design.   
+ Therefore, the resulting total hours of pausing and virtual mode for each 
+ turbine was decreased by one and a half hours.   In addition the pausing due 
+ to noise curtailment at turbine 7 between the hours of 7 PM and 5 AM local 
+ time was excluded.   No other changes were made to the SCADA data.  The net 
+ result is that the Jan availability dropped by 1.5%, Feb dropped by 0.4%,  
+ Mar dropped by 0.3%,  Apr dropped by 0.1%.   Dec 2001 data was not corrected 
+ due becasue the data recovery of the minana files in that month was very 
+ poor.  The Somerset report  is  well underway and will be in a similar form.
+ 
+ 
+ 
+ 
+ 

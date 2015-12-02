@@ -1,0 +1,32 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - White, Stacey W.\Sent Items
+ X-Origin: WHITE-S
+ X-FileName: stacy white 7-15-02.PST
+ 
+ Thank you so much for this query.  At this time, I am not sure what happened to the numbers in our spreadsheet.  The data was pulled from AdHoc by calculating East, West, Eastbank, & Westbank.  However, the total we retrieved from AdHoc did not match the total Portcalc value.  I do not want you to spend time trying to figure out what happened to our spreadsheet because it could have been anything from using the wrong code to calc the books to simple user error.  There are too many variables that are unknown.
+ 
+ The good thing is, it works now.
+ 
+ Thanks,
+ Stacey
+ 
+  
+    Cc:	Lee, Norman
+  
+ The following post-id's represent the re-calcs for 11-30:
+ 15785 - total P&L $48,108,223
+ 15786 - total P&L $(128,887,942)
+ 15788 - total P&L $1,168,735,362
+ 15789 - total P&L $(101,541,449)
+ 
+ The total forward P&L for these post-id's should be $986,414,195
+ 
+ The following spreadsheets represents the final product from our request.  Please see if you can pull by the parameters we chose from AdHoc.
+ 
+  << File: 11-30-01 MTM.xls >>  << File: 11-30-01 Positions.xls >> 
+ 
+ Stacey

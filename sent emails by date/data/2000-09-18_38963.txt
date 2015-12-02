@@ -1,0 +1,4 @@
+
+ 
+ The index forward is supposed to show no price so that is correct however the 
+ swap should be chaqnged to 25MW at $130

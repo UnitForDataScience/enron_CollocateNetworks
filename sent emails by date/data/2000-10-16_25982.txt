@@ -1,0 +1,76 @@
+
+ 
+ Megan, 
+ 
+ For 8/1/00, allocate the receipt of gas a Cotton Valley to the exchange 
+ deal.  Since we did not deliver anything to them on that day, the settlement 
+ will occur at GD-.10.  Originally, we were working on a spot deal for this 
+ day.  Then, after the fact, we agreed to let the deal fall out under the 
+ exchagne deal.  I apparantly forgot to change the deal ticket.
+ 
+ For the weekend of 8/5, we need to prorate the gas over the weekend.  Due to 
+ operational issues, we agreed to receive gas all weekend and batch the 
+ deliveries on Monday.  I apologize for not getting this info to you earlier.
+ 
+ D
+ 
+ 
+    
+ 	Enron North America Corp.
+ 	
+
+ 	
+ 
+
+
+  
+ Daren:
+ I am having trouble with 8/00.  The first issue is day 1 of the purchase at 
+ Fuels Cotton.  We have two deals in Sitara, spot deal 348951 and exchange 
+ deal 157288.  You had said previously that we would know a spot deal had 
+ occurred by the new deal ticket and the different pricing.  Since there was a 
+ spot deal, we put all of the volume for day 1 on deal 348951.  Duke says that 
+ day 1 was not a spot and that it should be on the exchange deal and priced at 
+ GD - 0.10.  The exchange deal is currently price at index - 0.05.  Please let 
+ me know which deal we are suppose to use and what the price should be.  
+ The second issue is the sale volume on deal 157278 for 8/00.  Duke is telling 
+ me that we sold them a batch of gas on the 7th, which we see, but that we are 
+ suppose to prorate the gas over the 5th, 6th, and 7th for the exchange.  This 
+ is a problem since gas was not confirmed for the 5th and 6th and pipeline 
+ shows all of the gas on the 7th.  This is a daily swing meter which 
+ electronically feeds into settlements.  We don't normally change these 
+ meters.  If you intended for us to prorate this gas, I will need your OK. The 
+ emails below are from Marta at Duke notifying us of the change.
+ 
+ Megan
+ 
+ 
+ 
+ Marta K Henderson
+ 08/03/2000 08:58 AM
+ 
+
+
+
+
+
+
+
+
+ cc:
+ 
+  
+ Please increase deliveries to Eastrans to 30,000 MMBtu/dy effective 8/4/00
+ 
+ The redeliveries will be:
+ 
+ 7,800 from Fuels Cotton Valley
+ 22,200 to PG&E
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,3 @@
+
+ 
+ Are we trading with the referenced counterparty?

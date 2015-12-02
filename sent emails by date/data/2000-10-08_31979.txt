@@ -1,0 +1,59 @@
+
+ 
+ I think we need to make sure we are doing a "point nom".  Acually since we 
+ don't EDI, we probably don't even need to do a point nom in Unify.  
+ 
+ 
+ 
+ Brenda H Fletcher
+ 10/03/2000 09:18 AM
+
+
+
+
+  
+ A Service Verification is a statement created in the Settlements module of 
+ Unify.  The Volume Management group uses this statement to approve a payment 
+ to a pipeline for a transportation related expense.  The Service Verification 
+ shows an amount calculated on quantities for a contract in Path Manager, 
+ times a rate from  either the Unify Tables or a rate on the Sitara deal 
+ ticket.  I could put a zero rate on the Sitara deal ticket to zero the 
+ unnecessary expense out but this doesn't resolve the issue.  Since we are 
+ noming agent only, we don't want something coming across the system for 
+ calculation of a payment.  Is there a different way to handle these types of 
+ contracts when they are being entered in Path Manager?  I've heard of 
+ something like a point nom as way to handle.  Are we doing that on this 
+ contract? 
+ 
+ 
+    
+ 	Enron North America Corp.
+ 	
+ 	 	
+ 
+
+
+
+
+  
+ Brenda, Please explain......What's a service verification and how can we fix 
+ this????
+ 
+ 
+ 
+ Brenda H Fletcher
+ 09/22/2000 03:45 PM
+
+
+  
+ We are noming agent only on Contract 37982 but a Service Verification 
+ continues to be drafted in Settlements.  How can we stop this from occuring?
+ 
+ Thanks,
+ Brenda
+ 
+ 
+ 
+ 
+ 
+ 

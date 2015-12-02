@@ -1,0 +1,25 @@
+
+ 
+ I added the fee - but was wondering why it didn't default to a fee since 
+ Bloomberg is an online trading service. I know they're gone now, but if you 
+ think of it later, you might ask. 
+ 
+ Thanks,
+ Kate
+ 
+ 
+ Stephanie Piwetz   03/14/2001 03:36 PM
+ 
+
+  
+  
+ and one more check
+ Richter
+ deal 550267.01  bloomberg has fee of .005   we have zero, called bloomberg, 
+ no answer 
+ 
+ 
+ fee?
+ 
+ Thanks
+ 

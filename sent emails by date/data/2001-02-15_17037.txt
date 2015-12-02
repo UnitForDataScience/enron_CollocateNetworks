@@ -1,0 +1,176 @@
+
+ 
+ Steve:
+ Here's a substantially more cleaned-version, with attachments.  There's a=
+ =20
+ hard copy on your chair.
+ 
+ Best,
+ Jeff
+ Legislative vehicle: SB28X (Sher)
+ To site and construct a power plant in Texas takes approximately 2 years. =
+ =20
+ Enron and others have completed the entire process in other states in less=
+ =20
+ than a year.  In California, it takes about six years, or longer.
+ 
+ The Governor=01,s executive orders and Senator Sher=01,s siting reform legi=
+ slation=20
+ are steps in the right direction.  Our suggested amendments can improve tho=
+ se=20
+ efforts by further addressing the difficulties that project developers face=
+ =20
+ in securing air emission reduction credits to meet the air permit=20
+ requirements included in the CEC's certification requirements.  Enron=01,s=
+ =20
+ proposal seeks to streamline the process for 1) obtaining credits and 2)=20
+ transfering credits between air districts.  In addition, it creates an=20
+ innovative emissions reduction bank to allow project sponsors to fund=20
+ emissions in advance of obtaining certification, and permits the affected a=
+ ir=20
+ districts to use those funds to finance projects that will produce the=20
+ required reductions in pollution emissions.
+ 
+ Decrease demand=01*Legislative Vehicle:   AB31X (Wright)
+ Because of the delay in getting a solution in place in California, closing=
+ =20
+ the supply-demand gap through energy conservation and efficiency offers the=
+ =20
+ best chance of avoiding blackouts this summer.  This can be accomplished mo=
+ st=20
+ effectively and quickly in two ways:
+ 
+ Buy-down demand
+ California is tapping into an enormous amount of money from the General Fun=
+ d=20
+ to finance DWR=01,s power purchases.  California could likely reduce demand=
+  more=20
+ economically by running an auction to determine the payments businesses wou=
+ ld=20
+ be willing to receive to reduce their demand for a sustained period (e.g.,=
+ =20
+ through the summer months).  DWR could easily run an on-line auction to=20
+ determine the price it could pay for these demand reductions.  To=20
+ participate, businesses would be required to have the metering equipment=20
+ necessary to monitor and verify that they are actually achieving the=20
+ reductions.  Enron has developed an on-line auction software package, =01&D=
+ eal=20
+ Bench,=018 that it would be willing to contribute to the effort.
+ 
+ Use Price Signals to Incent Voluntary Curtailment
+ To be successful, customers need access to the following key elements:
+ 
+ An internet based hour-ahead price posting system to track the market price=
+ =20
+ for hour-ahead power in real time.=20
+ Real-time metering systems for baseline demand and voluntarily curtailment=
+ =20
+ verification.
+ Settlement process that allows for market clearing prices of energy to be=
+ =20
+ paid for load reduction (=01&Negawatts=018).
+ 
+ The potential benefits of an effective demand response program would includ=
+ e:
+ 
+ =01&creation=018 of additional summer peaking capacity in California, parti=
+ cularly=20
+ in the short term, without requiring construction of additional generation=
+ =20
+ resources.
+ reduction of  peak or super-peak load on the over-stressed California=20
+ electric system, thus potentially reducing the overall cost of electricity =
+ in=20
+ the state.
+ fostering of demand elasticity without subjecting customers to the full ris=
+ k=20
+ of hourly market price volatility by passing market price signals to=20
+ customers and allowing them to voluntarily shed load and be compensated for=
+ =20
+ responding.=20
+ 
+ We estimate that we could generate a summer 2001 on-peak demand response in=
+ =20
+ excess of 400 MW during certain high cost hours, and a demand response for=
+ =20
+ summer 2002 on-peak hours that could exceed 1000 MW.  We further estimate=
+ =20
+ that the market response to this program from all ESPs could be 2 to 3 time=
+ s=20
+ that amount.  We recommend that the State of California provide rebates=20
+ directly to customers to fund the installation of advanced metering and=20
+ control systems that would support load curtailment implementation.
+ 
+ Establish a truly competitive retail electricity market=01*Legislative vehi=
+ cle:=20
+ SB27X
+ The only customers who were protected from price volatility in San Diego we=
+ re=20
+ customers who chose Direct Access and signed fixed price deals with energy=
+ =20
+ service providers.  Ironically, AB1X takes that important option away from=
+ =20
+ customers and businesses.  It is critical that AB1X be amended to remove th=
+ e=20
+ prohibition against Direct Access.
+ 
+ Enron's legislative proposal would give customers freedom to enter into a=
+ =20
+ direct access transaction, while simultaneously addressing the Department o=
+ f=20
+ Water Resources' concerns about stranded power costs that might result from=
+ =20
+ customer migration. =20
+ 
+ In addition, California will only achieve a competitive retail market when=
+ =20
+ the utility is removed completely from the procurement function.  Procureme=
+ nt=20
+ is not a utility core competency, as evidenced by the dire financial=20
+ condition in which the utilities now find themselves.  California should=20
+ therefore begin immediately to phase the utility out of the procurement=20
+ function entirely, with the goal of having all customers served by a=20
+ non-utility provider within 36 months.  To execute the transition, Californ=
+ ia=20
+ should hold a series of competitive solicitations over the 36-month period =
+ in=20
+ which competing service providers would bid for the right to serve segments=
+ =20
+ of utility load.
+ 
+ Return California=01,s Investor-owned utilities to solvency=01*Legislative =
+ vehicle:=20
+ AB18X
+ Utility bankruptcy will not increase supply and it will not decrease demand=
+ . =20
+ In short, bankruptcy does nothing to solve California=01,s supply-demand=20
+ imbalance.  In addition, bankruptcy increases the likelihood that consumers=
+ =20
+ and businesses will bear the significant financial risks of having Californ=
+ ia=20
+ State government assume the role of =01&electricity buyer=018 for an extend=
+ ed=20
+ period of time.  Finally, bankruptcy will undermine both investor confidenc=
+ e=20
+ in California's energy markets and the private sector's willingness to=20
+ participate in that market.
+ 
+ California can return the utilities to financial solvency by implementing a=
+ =20
+ series of staged rate increases.  California should design those rate=20
+ increases with the dual goal of returning the utilities to solvency without=
+ =20
+ =01&shocking=018 the economy or household budgets For example, California c=
+ ould=20
+ amortize the recovery of the utilities=01, past debt over a 5-10 year perio=
+ d. =20
+ In addition, the magnitude of the rate increase can be reduced in two ways:=
+ =20
+ First, the utilities could absorb some portion of their existing debt in=20
+ recognition of the risk they accepted when they agreed to the structure of =
+ AB=20
+ 1890.  Second, California can =01&net=018 the revenues the utilities have r=
+ eceived=20
+ from selling electricity into the Power Exchange against the debts they hav=
+ e=20
+ accrued due to the retail price cap.

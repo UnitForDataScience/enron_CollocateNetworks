@@ -1,0 +1,19 @@
+
+ 
+ I get a "no records selected" message when I try to pull up 576220. ????
+ 
+ 
+    
+ 	
+ 	
+ 	 	
+ 
+
+  
+  
+ Can you check and make sure this is the correct counterparty on this deal?  
+ We did a deal in February (#533916) with a little different name.  Also we 
+ will need a counterparty contact.
+ 
+ Thanks!
+ 

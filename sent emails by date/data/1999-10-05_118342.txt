@@ -1,0 +1,117 @@
+
+ 
+ The same people may be involved but there are tax savings achieved by passing 
+ all the derivatives through RMT.
+ 
+ 
+ 
+ 
+ Dale Neuner on 10/05/99 10:41:31 AM
+
+
+
+
+   
+ Mark -
+ 
+ I am confused on one point:
+ 
+ " If the transaction you are handling is a derivative between ENA and 
+ Australia, it should be documented as two trades: one between ENA and RMT and 
+ the other between RMT and Australia."
+ 
+ It is my understanding that RMT and ENA are the same 'people'. That being the 
+ case, if we sleeve the RMT to Australia between RMT to ENA, we really haven't 
+ accomplished anything. 
+ 
+ A question for you and Sue:
+ 
+ Should we be sleeving RMT to EPMI, a relationship for which we DO HAVE a 
+ Master Agreement in place - if that's where we want the risk to lie.
+ 
+ Dale
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+  
+ EPMI and RMT are two different corporations.  As I understand it, in North 
+ America EPMI enters into only physical power transactions with third parties 
+ while ENA enters into financial transactions.  RMT handles financial 
+ transactions between wholly-owned Enron companies.  If the transaction you 
+ are handling is a derivative between ENA and Australia, it should be 
+ documented as two trades: one between ENA and RMT and the other between RMT 
+ and Australia.  That's why the master agreement is between RMT and 
+ Australia.  I don't know how the booking is handled.
+ 
+ 
+ 
+ Dale Neuner on 10/05/99 09:10:41 AM
+
+
+
+  
+ The Enpower ticket shows our Counterparty as Enron Australia  Energy Pty 
+ Limited. We made the leap that it's Enron Australia Finance Energy Pty 
+ Limited, since I sent an e-mail to David Minns yesterday asking him to 
+ anticipate the delivery of the Confirmation. David is the party who is 
+ handling the ISDA MAster Agreement and is awaiting the Confirmation.
+ 
+ The ISDA MAster Agreement is between RMT (as opposed to EPMI) and Enron 
+ Australia Finance Energy Pty Limited. If RMT and EPMI are synonomous (as are 
+ RMT and ENA) then we're done. If they are not, then we have a booking issue 
+ AND a Master Agreement issue.
+ 
+ Perhaps Susan or Mark can help.
+ 
+ Dale
+ 3-9746
+ 
+ 
+ 
+ 
+
+ 10/05/99 08:43 AM
+
+
+  
+ I'm starting to hear rumblings that ECT-NA has the deal booked between EPMI 
+ and Enron Australia Pty. Ltd. not Enron Australia Finance.   Who can help 
+ remedy this?
+ 
+  Sue
+ 
+ 
+ 
+
+ 10/03/99 03:32 PM
+
+   
+ Jeff,
+ 
+ Enron Australia Finance did a power swap with Enron Houston (PJM index).   
+ Are you guys going to confirm it?
+ 
+  Sue
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

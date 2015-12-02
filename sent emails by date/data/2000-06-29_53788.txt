@@ -1,0 +1,84 @@
+
+ 
+ Barry,
+ 
+ Stinson forwarded your message to me. I am meeting Ted Murphy today and I 
+ shall bring it up with him.
+ We have unit at Research (Tanya Tamarchenko, reporting to Grant Mason) who is 
+ responsible for
+
+ 
+ 
+ Vince
+ 
+ 
+ 
+ 
+
+ 	06/29/2000 09:09 AM
+ 	
+
+
+
+
+ Communications 
+  
+ Hey you guys,
+ 
+ We are trying to implement a 'VaR transaction' policy - and would like your 
+ opinion.
+ 
+ This is going to be tough - because I'm not sure we have implemented a 
+ similiar policy across any of our other 'books' - that is - we looking to 
+ bring in all the accrual/operational assets as well as the MTM stuff 
+ (lambdas). To have a real-live 'configuration' of the system.
+ 
+ If assets/routes/servers etc...are added - what is the impact on the 'value' 
+ of the system and what it's worth. 
+ 
+ John has attached a draft below - for your review and thoughts.
+ 
+ I can see how this works in a trading environment - when you actually know 
+ the VaR of your whole trading portfolio. However - I've not seen this done 
+ with a mixture of MTM & accrual assets. Add the spice of a 'operational 
+ system' valuation  - and this will be tough to quantify and model.
+ 
+ Step 1 - configure system and value it 
+ Step 2 - calculate a VaR on this. We will need to do some work here!
+ Step 3 - calculate the incremental VaR of new deals/amendements/reconfigs etc 
+ - tough....
+ 
+ See what you think?
+ 
+ B.
+ 
+ 
+ 
+ 
+ 
+ 
+ 	John Echols
+ 	06/28/00 05:41 PM
+ 		 
+
+
+ Communications
+ 		  		  
+
+ 
+ I would like you to start looking at where we are going on the policy and get 
+
+ effectively shut down all server relocations without approval,  or allow some 
+ level of MB of storage to be moved around or reconfigured?
+ 
+ I need some commercial and industry realism for this.  We may need Rick 
+ Paiste or your industry helpers (Marquardt, etc. to help us).
+ 
+ Barry,  Lou,  I need your input.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 

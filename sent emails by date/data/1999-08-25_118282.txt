@@ -1,0 +1,32 @@
+
+ 
+ Looks good to me.
+ 
+ 
+ 
+ 
+ Bob Bowen
+ 08/25/99 12:01 PM
+
+
+  
+ I reviewed the ECT confirmation templates today and found that a reference is 
+ made to a telephone conversation on most of the templates for transactions 
+ under a ECT Master Agreement. 
+ 
+ The offending sentence is as follows:
+ 
+ "This is a confirmation of the following Transaction entered into with you 
+ pursuant to a telephone conversation on <<DealDate>> between the parties:"
+ 
+ I would like to change it to read as follows, with your approval:
+ 
+ "This is a confirmation of the following Transaction entered into between us 
+ on  <<DealDate>>:"
+ 
+ 
+ This change will allow the current templates to handle both telephone and 
+ internet trading.
+ 
+ Please advise.
+ 

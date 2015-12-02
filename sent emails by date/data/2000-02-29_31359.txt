@@ -1,0 +1,33 @@
+
+ 
+ Latest and greatest.
+ 
+ 
+ The attached file contains updated needs requirements for March'00.
+ There are a couple of changes as compared to the update that I sent you
+ yesterday.  Please note that if you have been looking at the Total Monthly
+ requirements in the previous versions (in lieu of the daily dth volumes),
+ the
+ spreadsheet formula for summing the daily values to a monthly total were
+ only
+ picking up the first 29 days of March.  (This spreadsheet was originally
+ designed for February, which has 29 days.)   This has been corrected in the
+ attached version.
+ 
+ Sorry for any confusion.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Doug Kinney
+ Ph:  703-561-6339
+ Fax:  703-561-7317
+ 
+ 
+  - 03 00 SUPPLY NEEDS - ALL LDCS

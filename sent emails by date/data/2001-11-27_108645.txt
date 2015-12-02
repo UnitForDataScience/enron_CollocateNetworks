@@ -1,0 +1,17 @@
+
+ 
+ please print out now, let me look and approve today.
+  
+
+    
+ The following expense report is ready for approval:
+ 
+ Employee Name: Jennifer J. Fraser
+ Status last changed by:  Automated Administrator
+ Expense Report Name: jf112701
+ Report Total: $2,040.11
+ Amount Due Employee: $2,240.11
+ 
+ 
+ To approve this expense report, click on the following link for Concur Expense.
+ http://expensexms.enron.com

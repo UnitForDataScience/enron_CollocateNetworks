@@ -1,0 +1,23 @@
+
+ 
+ john
+  
+ have you sold anymore
+ 
+  
+    Cc: 
+  
+ 
+ 
+ Attached is a spreadsheet that ties gas hedges to power positions.  Also is a spreadsheet that shows the cumulative probability
+ 
+ distributions of YTD liquidated heat rates.  Finally, there is me back of the envelope assessment of new-build costs.  Please comments.
+ 
+ John
+ 
+ 
+ <<HedgeSummary.xls>> 
+ 
+ <<NewBuildEconomics.xls>> 
+ 
+ <<heat rate.xls>> 

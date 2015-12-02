@@ -1,0 +1,17 @@
+
+ 
+ Talked with PG&E today and they would like to flow rate today and we can talk to them each day.  Our imbalance is 
+ 85,000 mmbtu they owe TW.  I will visit with Mike O'Donnell about our imbalance.  For now use the scada point
+ for daily flow rates and not the spread sheet.
+ 
+ DS 
+ 
+  
+     
+ It looks like we are over delivering 2000 to 3000 mmbtu/d at PG&E Topock everyday.  I will have the Field go out and 
+ take a look at the measurement.  We need to set the point approximately 5000 short every day until further
+ notice.  I will visit with PG&E and let them know what we are doing.
+ 
+ 
+ 
+ DS

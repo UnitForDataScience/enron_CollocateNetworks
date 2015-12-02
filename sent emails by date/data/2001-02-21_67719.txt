@@ -1,0 +1,26 @@
+
+ 
+ This should be the final and correct version.  Hopefully Mausser got it right 
+ this time.
+ PL
+ 
+ 
+ 
+ 	Gregory A Mausser
+ 	02/21/2001 12:16 PM
+ 	
+
+
+
+
+  
+ Kam,
+ 
+ Thanks for the feedback.  I have corrected the column width issue in the 
+ attached template.  Please let me know if you find any other issues as you 
+ begin to use the template. 
+ 
+ 
+ 
+ Thanks,
+ Greg (37299)

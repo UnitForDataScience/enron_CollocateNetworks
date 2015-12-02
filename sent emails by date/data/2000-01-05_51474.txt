@@ -1,0 +1,64 @@
+
+ 
+ 
+ 
+ 
+ Sandeep Kohli
+ 12/25/99 10:06 PM
+ 
+
+
+  
+ 
+ 
+ Team,
+ 
+ Please find my comments in the word document attached. 
+ 
+ Please go through this and run the sensitivities and get a good idea of way 
+ to structure thsi.  Having gone through the comments, I feel that it maybe 
+ necessary to get some help on the structuring side.  I will try to get you 
+ some structuring expertise asap.  In the mean time, I would like you all to 
+ focus on getting resources together and working this to the next pass.
+ 
+ Lets see where we can get with this.
+ 
+ Regards,
+ Sandeep.
+ 
+ 
+ 
+ Rajesh Sivaraman
+ 12/24/99 10:06 PM
+
+
+
+
+  
+ As discussed, please find enclosed  a word document which essentially 
+ discusses most of the issues involved with a Firm Power sale of 50 MW from 
+ Phase I, which would have to be sorted out with MSEB. 
+ 
+ Vivek & I have also worked out a methodology for computing tariff for this 
+ firm power sale during the peak period. In doing this, we have tried to keep 
+ the tariff formula as simple as possible, while simulating the PPA tariffs to 
+ the extent possible. (Currently, we have just shown the tariff computation; 
+ will put the tariff formula in the next mail)
+ 
+ The tariff structure & the issue list obviously need further refinement, 
+ before we discuss it with MSEB.
+ 
+ Looking forward to your comments on both the issue list as well as the tariff 
+ computation.
+ 
+ 
+ 
+ 
+ regards,
+ 
+ Rajesh S
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,28 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Keiser, Kam\Sent Items
+ X-Origin: KEISER-K
+ X-FileName: kam keiser 7-11-02.PST
+ 
+ Mike,
+ 
+ We will be setting up both physical and financial books for everyone.  I know not everyone will have physical but to keep it consistent everyone will have both just in case.  I have the 10 names you sent Jeff earlier, please let me know if that changes.  Do you know what the structure going to look like? ie.  will each trader be assigned specific curves/locations, cash vs. term, how many different people will be setting curves.
+ 
+ We will be starting over with our curve files also.  We want to only start with the true published curves.  We have many derived/internal curves that aren't necessary and if we need to create more curves we will look into it later.  Since the number of curves will be greatly reduced, we will probably start with one file.    
+ 
+ Thanks
+ Kam
+ 
+ 
+  
+     
+ Can you get together with Zach on Thursday or Friday and walk him through a simple book.  Take Jane Tholt's book and discuss Risk 101.
+ 
+ 
+ Send him an email with a time and place.
+ 
+ Thanks,
+ Mike

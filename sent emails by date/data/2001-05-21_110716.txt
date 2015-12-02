@@ -1,0 +1,7 @@
+
+ 
+ Amanda,
+ 
+ Please move the link for the West Ops reports from Testing to Pipeline\West and also add an additional link under Desk\West.  The location of the actual files should remain unchanged.  Thanks.
+ 
+ Mat

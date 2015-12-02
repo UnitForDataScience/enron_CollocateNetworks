@@ -1,0 +1,13 @@
+
+ 
+ I don't think the triggers are correct.
+ 
+ Ed, this brings up a good question that may already be addressed. Both of the Midland deals still show up in the trading system.  Should they be terminated effective 6/1/2002?  One of the Midland deals (MCV 2, deals #340305 and 332163) was put in Sitara with triggers.  We stopped serving MCV 2 effective 4/1/2002.  These triggers will continue to create an invoice each month unless we change the deal in Sitara.
+ 
+ 
+  
+    Cc:	Dhont, Margaret; Doner, Max
+  
+ Please check into deals 332163 and 340305 for sales invoices to Midland Cogen.  Max Doner thought these deals would not trigger activity anymore per your note to him on 5/13.  I see where these deals were updated by you on that date.  Are the deals legit, or are the triggers generated legit.  Please let me know ASAP.
+ 
+ Thanks  WRP

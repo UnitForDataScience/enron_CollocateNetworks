@@ -1,0 +1,9 @@
+
+ 
+ Angela,
+ 
+ Please delete all data for PGT (pipeline 15) with effective date less than 12/1/00, and then load the attached file with historicals with effective dates from 1996 through November 30, 2000.  Please let me know if you have any problems.  Thanks.
+ 
+ Mat
+ 
+  

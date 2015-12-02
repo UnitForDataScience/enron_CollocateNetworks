@@ -1,0 +1,37 @@
+
+ 
+ The meters in question are : 616, 894, 2538, 2690, 3396.
+ 
+ Mtrs 616 and 2538 are shrinkage and condensate meters.  Volumes are split 
+ among HPLR Liquids and HPLC, with the majority going to Liquids. 
+ Mtr 894 is a gas loss meter.  Volume should be allocated to our operational 
+ ua4 contract.
+ Mtrs 2690 and 3396 should be allocated to Liquids.
+ 
+ You can see these allocations by viewing prior months in POPS.  On Monday 
+ afternoon, Clem Cernosek will verify the above transactions and expain the 
+ split between parties at 616 and 2538.
+ 
+ D
+ 
+ 
+ 
+ 
+ Mandy MacKinnon
+ 03/03/2000 08:02 AM
+
+
+
+
+  
+ I have identified the additional HPLC wellhead purchases and have made 
+ corrections to the interconnect tickets accordingly.  Jackie is still having 
+ difficulty identifying all the wellhead purchase.  We feel there are at least 
+ 6 meters flowing a total of appox. 7000 a day that are not showing up on a 
+ HPLC purchase or a HPLR transport.  I believe she has given you this 
+ information and will await instructions or for the purchases to be input 
+ reflecting the proper Enron Entity purchasing these volumes.
+ 
+ We have worked very hard on this issue and I apologize that it has not yet 
+ been entirely corrected.
+ 

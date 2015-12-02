@@ -1,0 +1,21 @@
+
+ 
+ 
+ Please make this change
+ 
+ Thank You
+ Hunter
+  
+ The database change has been PRE-APPROVED for implementation in ITRADEV.  No further approval is necessary.  
+  
+ The DBA, David Wile, will send an email notification when the change has been completed.  
+  
+ If you have any comments or questions, or need additional changes, please contact Rene A. Enriquez at x33385.
+  
+ Proposed Implementation   
+ Business Overview:
+ The client has requested that a field be added for containing a URL that is specific to a given comment.
+  
+ To view the DB Change DOCUMENT, click on the following link:
+ http://hrweb.enron.com/crserver/dart/report/reportViewer.asp?id1=ENA-INTR&id2=FRM&id3=24&rptType=CR&rptName=RPT_CR_DOC
+  

@@ -1,0 +1,20 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Crandall, Sean\Sent Items
+ X-Origin: CRANDELL-S
+ X-FileName: 
+ 
+ I think I fixed them.  Sorry about that.  Let me know if there are any other problems.
+ 
+  
+    Cc:	Scholtes, Diana
+  
+ Sean:
+ 
+ Just wanna follow up w/ you on the deal number I gave to you yesterday.  Deal# 682306.1 was an interdesk deal between LTNW and STNW.  The flow hours are for offpeak only, but the index entered is Dow Jones Mid Columbia index rather than Dow Jones Mid Columbia Offpeak index.  I noticed that you changed the index for another deal number (#682297.1) I gave you.  Just wondering if this one should be changed too.  
+ 
+ Thanks,
+ Fran

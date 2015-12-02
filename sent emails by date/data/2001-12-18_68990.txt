@@ -1,0 +1,26 @@
+
+ 
+
+
+ 
+ Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+
+ X- X- X- X-b X-Folder: \ExMerge - Love, Phillip M.\Sent Items
+ X-Origin: LOVE-P
+ X-FileName: phillip love 6-25-02.PST
+ 
+ I will do it Wed and Thursday.  Kam and I will be out Friday, can someone else do it then?  We are supposed to email the post-id's to Debbie Bracket correct?
+ PL
+ 
+ 
+  
+    Cc:	Gossett, Jeffrey C.
+  
+ I started calculating the bankruptcy book last night for the credit group.  This needs to be done nightly.  I may be out a few days so if I am can someone else take this over from me please?  We can also use these to check daily for counterparties that have been moved incorrectly.
+ 
+ The file is in O:\erms\1intra\west\Bankruptcy post-ids.xls
+ 
+ Thanks
+ 
+ KK

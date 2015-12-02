@@ -1,0 +1,21 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Giron, Darron C.\Sent Items
+ X-Origin: GIRON-D
+ X-FileName: darron giron 6-26-02.PST
+ 
+ I just got the latest and greatest:
+ 
+ Shively
+ Storey
+ Lewis
+ Pimenov
+ Mahmassani
+ Williams
+ 
+ Assuming this is accurate, I would like to get from you, as soon as the decisions have been made, what products/regions each trader will be assigned to.  This is not only for EOL setup, but also for curve files and P&L/Position reporting.  There will be two people, not including myself to run the Central books, so I also need to begin thinking about who will be running each book.  Thanks.
+ 
+ DG

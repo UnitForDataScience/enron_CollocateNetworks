@@ -1,0 +1,28 @@
+
+ 
+ Jeff,
+ 
+ FYI. We completed the review of the LNG model.
+ The copy of the review is available if you want to take a look at it.
+ 
+ Vince
+ 
+ 
+ 
+ 
+
+ 10/16/2000 01:53 PM
+
+
+  
+ The review of Eric Groves' LNG Model spreadsheet has been completed.  No 
+ independent model was available for use in the comparison; however, the model 
+ appears complete and accurate in representating all important cost and 
+ revenue elements.
+ 
+ If this financial model is coupled with a optimization model for planning 
+ ship usage in the future, additional variables may be needed to represent the 
+ variability of trip times, weather factors, etc.  A reference describing 
+ these possible additions was provided.
+ 
+ Bob Lee

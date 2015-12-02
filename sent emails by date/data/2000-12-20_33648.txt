@@ -1,0 +1,26 @@
+
+ 
+ I killed deal 454471.
+ 
+ 
+ 
+ 
+ Brenda H Fletcher
+ 12/18/2000 04:56 PM
+
+
+  
+ Deal # 454471 and Deal # 418249 are both set up for contract 69357. Deal # 
+ 418249 matches the invoice so I think Deal # 454471 needs to be killed.  
+ 
+ The rate and volumes on Deal # 454471 match the invoice for contract 69759 
+ but Deal # 460384 is set for this contract.
+ 
+ Bottom line - we have an extra deal (454471) in the system according to how 
+ we were invoiced.
+ 
+ If you agree, please have Elizabeth kill the deal .
+ 
+ thanks,
+ Brenda
+ 

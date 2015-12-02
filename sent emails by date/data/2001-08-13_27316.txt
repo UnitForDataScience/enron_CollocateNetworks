@@ -1,0 +1,18 @@
+
+ 
+ 
+ 
+ We are required to input down balancing bids for all generators that we represent.     Every morning it is especially important that we have a DBES bid input for Frontera.
+ We should have balancing bids in for all hours,  but we are most likely to be deployed in the morning hours.
+
+ 
+ Frontera is willing to pay a max of $10 to decrease their gen.    This bid tells Ercot that we are willing to pay up to $10 for Ercot to fill our schedule during the time that we are being "balanced down."
+ 
+ We should never see prices below $10 without being deployed down.     If this situation happens,  we have to explain to Frontera why we didnt get selected by the ISO.
+ This is an important part of the Services side of our business,  and is the only way that we get paid on these type transactions.
+ 
+ 
+ If anyone has any questions on this, please give me a call as this is very important to all of us.'
+ 
+ 
+ JMF

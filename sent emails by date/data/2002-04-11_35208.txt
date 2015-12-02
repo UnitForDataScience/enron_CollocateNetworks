@@ -1,0 +1,11 @@
+
+ 
+ Our current cash balance with Reliant is $52,850.00.  We did not request any gas for tomorrow under the swing arrangements.  I have requested a wire in the amount of $22,000.00 to be made on Friday April 12th.
+ 
+ Melissa, I had to move the payment to Friday because some Enron "approval" people are out of the office but we have a large cash balance and it shouldn't be a problem if it gets delayed untill Monday.
+ 
+ Also, Tiffanie Wheeler discovered an error in my worksheet that impacted the cash balance effective March 1st forward.  My worksheet is set up so that any change in a volume or price for a prior month will change the current cash balance.  I will keep track of all changes at the bottom of the Summary worksheet in this file.
+ 
+ 
+ 
+  

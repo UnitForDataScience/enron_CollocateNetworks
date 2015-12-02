@@ -1,0 +1,53 @@
+
+ 
+ Guy, FYI.  Is anyone familiar with this?  Mike is looking for some feedback.  
+ It looks very premature and not worth a lot of time but he may need us to 
+ talk with them to help him with his business down there.  Any comments?
+ 
+ Mike
+ 
+ 
+ 
+ Patrick Hansen
+ 07/07/2000 12:39 PM
+
+  
+  
+ Michael, I have the following comments to the Nodocero.com project.
+ 
+ Currently works as a platform where buyers and sellers agree on a price 
+ through an auction process (brokerage fee)
+ They aim at becoming a regulated market with standardised contracts. (subject 
+ to market and regulatory evolution)
+ Their value drivers are the "Payment Guarantee" (through an insurance 
+ company) and "Backoffice" (registration before regulatory authorities). None 
+ of these issues are definitely solved (no agreement with Insurance Co. and if 
+ any transaction is done now, all the backoffice procedures have to be done 
+ manually with their employees).
+ No technological partner yet. They have developed the web site platform (you 
+ can see it at www.nodocero.com), but I understand that they don't have the 
+ rest of the technological components required (database, operations, clearing 
+ system, other). 
+ 
+ Apart from this, I would consider the following issues:
+ 
+ Currently there is no regulated market for this sector of the economy 
+ (Argentina and the rest of Latin America). Therefore their idea of becoming 
+ one is good.
+ The competitors in this race are: Nodocero.com - aXesoEnergia.com - 
+ EnergyVex.com - Rofex (Rosario Futures Exchange) - other.
+ No competitor has yet taken an important lead in this race. aXesoEnergia.com 
+ is doing an important investment in marketing, but it currently works via an 
+ auction process and does not provide any further service like guarantee or 
+ backoffice.
+ One of the competitors will eventually succeed in becoming the reference 
+ market.
+ Nodocero.com has no strategic partner yet. (this could be taken as positive 
+ or negative)
+ 
+ The attached file is their business plan
+ 
+ 
+ Patrick
+ 
+ 

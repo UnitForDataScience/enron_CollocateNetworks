@@ -1,0 +1,16 @@
+
+ 
+ PL
+ John        - 5,385
+ Maggi     + 3,502
+ May        -    625
+  
+  
+ VAR
+ John        28,167,2956
+ Maggi         1,937,614
+ May            1,948,078
+ Total          26,767,309
+  
+  
+ Let me know if you need anything

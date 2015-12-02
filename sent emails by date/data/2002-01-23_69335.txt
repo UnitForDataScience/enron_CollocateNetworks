@@ -1,0 +1,40 @@
+
+ 
+
+ 
+ Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+
+ X- X- X- X-b X-Folder: \ExMerge - Love, Phillip M.\Sent Items
+ X-Origin: LOVE-P
+ X-FileName: phillip love 6-25-02.PST
+ 
+ We can now calc the price book and we will cross reference the list with a fwd detail of the price book to verify there are no deals with terminated counter parties.  Because of the translation to the bankruptcy book, we can not calc the bankruptcy book for a while, so we will cross reference those in the morning.  I will keep you posted.
+ PL
+ 
+ 
+  
+    Cc:	Gossett, Jeffrey C.; Theriot, Kim S.; Miller, Don (Asset Mktg)
+  
+ Cecilia,
+ 
+ Here is the list of Counterparties that have been requested:
+ 
+ 
+ CP ID	     Counterparty 
+ 
+ 
+ 8	     Amerada Hess Corporation
+ 64516	     Avista Corporation
+ 55265	     Avista Energy, Inc.
+ 65291	     BP Corporation North America Inc.
+ 23848	     Cabot Oil & Gas Marketing Corporation
+ 79689	     Calpine Energy Services, L.P.
+ 5264	     Cargill, Incorporated	
+ 65599	     CMS Field Services Inc.
+ 56630	     Consolidated Edison Solutions, Inc.
+ 52577	     Cornerstone Propane, L.P.
+ 64141	NJR Energy Services Company	
+ 151	Northern Illinois Gas Company	
+ 69121	NRG Power Marketing Inc.	
+ 63665	Occidental Energy Marketing, Inc.         Risk Management CP ID 53447

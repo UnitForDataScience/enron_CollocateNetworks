@@ -1,0 +1,24 @@
+
+ 
+
+ 	04/02/2001 10:42 AM
+ 		 
+
+ 		  		  
+ Mark,
+ 
+ I have attached two word documents for your review, both of which contain the 
+ two long descriptions.  The document with filename TAS Descriptions most 
+ likely will be two new product types.  The other document (Nymex-GC Spreads) 
+ shows the long descriptions for the existing product type US HeatOil2 Fin 
+ Spread and US UNL Fin Spread.  We will create a new index for each of these 
+ product types that will be the Nymex vs Gulf Coast prices for the commodity.  
+ Savita has reviewed each of these documents and her only concern is how we 
+ capture the "Trade Date" for the TAS products.  These products have been 
+ requested by Larry Gagliardi, Phil Clifford, and John Wilson.  Please let me 
+ know your thoughts.
+ 
+ Thank you.
+ Kevin
+ 
+ 

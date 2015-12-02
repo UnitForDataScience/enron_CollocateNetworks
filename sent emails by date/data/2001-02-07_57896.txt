@@ -1,0 +1,22 @@
+
+ 
+ 
+ 
+
+ 	02/05/2001 02:04 PM
+ 		 
+
+ 		  		  
+ The following expense report is ready for approval:
+ 
+ Employee Name: Michael Terraso
+ Status last changed by:  Automated Administrator
+ Expense Report Name: February 5, 2001
+ Report Total: $860.64
+ Amount Due Employee: $860.64
+ 
+ 
+ To approve this expense report, click on the following link for Concur 
+ Expense.
+ http://nahou-wwxms01p
+ 

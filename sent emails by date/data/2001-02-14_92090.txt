@@ -1,0 +1,56 @@
+
+ 
+ Nancy,
+ 
+ The OPTIONS-EXOTIC-PRC book should not have EXCELSHEETS as the database id.  
+ This post id is calced and officialized in ERMS.  The book administrator 
+ informed me that this post id contains only option premiums and does not 
+ contain positions.  
+ 
+ Hope that answers your questions.
+ Robin
+ 
+ 
+    
+ 	Enron North America Corp.
+ 	
+
+ 	
+ 
+
+
+
+
+  
+ All:
+ 
+ Can you please review the attached and provide assistance in resolving.  We 
+ are trying to resolve why these postids did not get captured by  RisktRAC for 
+ Dec 29, 2000                   
+ 
+ 
+ 
+ 
+ 1) For the Gas-Chase9 books does anyone know when the database ID was changed 
+ to ERMS OLD? Are these accrual books?
+ 
+ 2)  Does anyone know why the Options-Exotic-PRC  book has a database id of 
+ EXCELSHEETS?  Is the book uploaded as a spreadsheet or is it suppose to feed 
+ from RisktRAC?
+ 
+ 3) For the FT-EAST-BAS book, which is the correct postid?
+ 
+ 4) For the Weather book does anyone know why the PostID was not 
+ officialized?  Does it need to be officialized?
+ 
+ Any help you can provide will be greatly appreciated.  They are in the 
+ process of tying out the Annual report and need to resolve these issues.
+ 
+ 
+ 
+ Regards,
+ 
+ 
+ 
+ Nancy
+ 

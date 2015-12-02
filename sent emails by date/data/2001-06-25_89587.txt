@@ -1,0 +1,35 @@
+
+ 
+
+ 
+
+ Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+
+
+ X- X- X- X-b X-Folder: \ExMerge - Platter, Phillip\Sent Items
+ X-Origin: PLATTER-P
+ X-FileName: phillip platter 6-26-02.PST
+ 
+ Dave,
+ 
+ Went OK.  I gave Susan a few issues that need to be worked on.
+ 
+ 1) Imports/Exports do not seem to be getting captured inFSP.
+ 2)SC trades - some ponts other than CAlifornia were being captured.
+ 
+ Some progress was made on Generation.  If entered in Enpower correctly,they appear in FSP. The only problem is once we enter deals in enpower at detailed points, The enpower to caps report does not balance.  We need Enpower to caps to be reformulated to include all NP SP and ZP deals including those at detailed points like sdg1,pandol_6_unit, etc.
+ 
+ The 10day test for day ahead is done as far as i'm concerned.  Susan was running template comparisons for the 1st thru the 3rd. which may need some work on our part.
+ 
+  
+    Cc:	Poston, David; Amador, Susan; Burleigh, Matt
+  
+ Hi Phil,
+ 
+ How is the testing coming along?  Did you make any progress last Friday (06/22)?
+ 
+ Please let me know where we stand on the "10 Day Test Parallel".
+ 
+ Thanks,
+ Pete

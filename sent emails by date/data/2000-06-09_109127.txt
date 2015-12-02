@@ -1,0 +1,13 @@
+
+ 
+ Dave
+ 
+  
+ 
+ can you redo with day + 1 products only?  Also can you display the data 
+ without placing multiple data in a given row?  I have attached an example.  
+ The first row in this spreadsheet is how I would like to see the data.  This 
+ way I can sort the data in any fashion.
+ 
+ Thanks
+ Hunter

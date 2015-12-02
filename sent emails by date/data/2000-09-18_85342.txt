@@ -1,0 +1,18 @@
+
+ 
+ Eva,  All the references are conditional upon term conversion occurring prior 
+ to closing, so they work even though Term Conversion won't occur prior to 
+ closing.  We plan on leaving the references as they exist.  Let me know if 
+ you have any questions.
+ 
+ 
+ 
+ 
+ 
+
+ 	09/16/2000 03:50 PM
+ 		 
+ 		  		  		  
+ Since theTerm Conversion won't occur prior to closing, will you be deleting 
+ the references to it on  3.1(d), 3.1(k), 3.1(n), 3.1(q), and 4.5?  Thanks.  
+ Eva.

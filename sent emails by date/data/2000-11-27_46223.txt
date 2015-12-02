@@ -1,0 +1,27 @@
+
+ 
+ 
+ 
+
+ 	11/20/2000 09:45 AM
+ 		 
+
+
+
+
+
+
+ 		  		  
+ Attached are ClickPaper approvals for November 20, 2000.  Please note that 
+ the credit limits in the spreadsheet reflect one-tenth of the actual credit 
+ limit that we have assigned for a given counterparty since the headroom 
+ within ClickPaper is calculated using Sigma Factor * Volume rather than 
+ Pprice * Volume.  We will assign all future limits by using one-tenth of the 
+ assigned credit limit since using the Sigma factor in these calculations 
+ generates a value of roughly one-tenth of the full limit.  Hopefully this 
+ will eliminate some of the recent problems we've had with counterparties 
+ busting their credit limits.  Please call or send a note if you have any 
+ questions.  Thanks.
+ 
+ Walter
+ 

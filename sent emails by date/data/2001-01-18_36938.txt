@@ -1,0 +1,21 @@
+
+ 
+ Nwest  FT-NY
+ FT-MGMT-West FT-West
+    FT-Nwest
+ West Gas Daily  FT-MGMT-West
+ Storage
+    NYMEX
+    MANAGEMENT
+    Henry Hub Gas Daily
+    Texas Gas Daily
+    West Gas Daily  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

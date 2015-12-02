@@ -1,0 +1,247 @@
+
+ 
+ Eric,
+ 
+ Thanks.
+ 
+ Vince
+ 
+   U.S.
+ 
+             1998      1999      2000      2001F     2002F     2003F
+   $/MWh    $21.36    $23.04    $41.28    $40.65    $14.15     $9.28
+ 
+ GUIDE TO INVESTORS:  COMPANY-LEVEL
+ 
+ STOCKS THAT CAN WEATHER THE STORM
+ 
+ The following factors will help companies weather the storm, from most to least
+ importance:
+ 
+ Trading and risk management skills.  A strong trading desk acts as the "eyes
+ and ears" to the market, often providing advance warning of changes in the
+ commodity price outlook.  Companies with generating plant portfolios can use a
+ strong trading desk to lock in power and gas prices earlier than their
+ competitors.  The pure play Energy Merchants derive the bulk of their profits
+ from trading and risk management activities, own little if any generating
+ capacity, and are characterized by a commodity price-neutral earnings model.
+ All of our Energy Merchants have trading and risk management skills that help
+ their overall activity.  Our top pick and a pure play Energy Merchant is Enron
+ (ENE-1H).  We do not see their earnings being affected by a declining price
+ environment.  Other companies with strong trading/risk management operations
+ include Dynegy (DYN-1H) and Aquila (ILA-1H).  Duke Energy (DUK-1H) and Mirant
+ (MIR-1H) also have strong operations.  In terms of vulnerability to power
+ prices, we think ENE and ILA have the strongest positions, owing to the lack or
+ near-lack of generating capacity owned.
+ 
+ Contracting/hedging activity.  The more aggressive a company's moves were to
+ lock in power prices earlier this year, the better positioned they are.
+ Nevertheless, the unhedged portion of capacity can have a significant affect on
+ earnings, particularly in the long-run.  We note that Calpine (CPN-2H), which
+ we have downgraded to 2H from 1H, has aggressively stepped up its hedging
+ activity in recent weeks, signing a 3,000 MW deal with Shell, a 1,000 MW deal
+ with Reliant Resources (RRI-NR).  This activity appears to coincide with the
+ rapid declines in the forward curve we have seen over the past two months.
+ 
+ Offsetting "short" positions.  This is a characteristic typical of electric
+ utilities, who in many cases offset their long positions in generation with the
+ short obligation to sell power to their customers.  Utilities that are well-
+ positioned in this regard include:  EXC and AEP.  Utilities that are most
+ vulnerable are those who have aggressively developed generating capacity in an
+ effort to capture some of the earnings and growth visibility of the pure play
+ Power Producers.  These include:  AYE, CEG, and PPL.  We are particularly
+ concerned about companies that have invested in peaking capacity, or,
+ separately, relatively inefficient plants that require a lot of capital dollars
+ to upgrade.  These plants are often the "marginal" unit, providing earnings in
+ tight pricing environments, but having significantly less value as prices
+ decline.
+ 
+ Backlog of plant development.  We also think that companies with significant
+ plant development backlogs can "muscle" their way through a weakened commodity
+ price environment.  In particular, we note CPN, whose plants in operation grow
+ as follows:
+ 
+ Figure 4. Calpine Earnings Metrics, 2000-2003E
+ 
+                          2000     2001     2002     2003       CAGR
+ Y/E MW in operation     5,883   11,705   21,266   30,463        73%
+ % of portfolio hedged             85%      71%      61%
+ EPS                     $1.11    $1.95    $2.30    $3.00        39%
+ 
+ They have hedged aggressively their output from their plants, so even though
+ future plants have lower margins, overall EPS growth can still be impressive.
+ Nevertheless, we have also lowered our EPS estimates for CPN, reflecting the
+ impact of lower spark spreads on the unhedged portion of output.  Our revised
+ "Outperform" rating for CPN reflects the likely strong visibility of EPS growth
+ over the 2000-2003 period.
+ 
+ SUMMARY OF RATINGS/ESTIMATES/PRICE TARGET CHANGES
+ 
+ REVISED VALUATION TABLE
+ 
+ RISKS TO OUR MORE CAUTIOUS STANCE
+ 
+ We see four principal risks to our more cautious stance.
+ 
+ Some horses are already out of the barn.  Power Producers and selected
+ Energy Merchants (those with exposure to power prices) are down 26% since
+ peaking on May 1.  Some of the risk of declining forward power prices is now
+ reflected in the stocks.  However, we do not think all of the horses are out of
+ the barn, and advise cautiously shutting the barn door on selected stocks at
+ this time.  The next leg that could drive stocks downward is declining EPS
+ estimates.  We think this is likely, particularly for 2002 and 2003, if power
+ prices continue their decline.  We think when this happens, stocks are likely
+ to go down further.
+ 
+ Hotter Weather.  So far in 2001, weather across the country has been near-
+ normal vs. hotter-than-normal weather last year.  The year-on-year moderation
+ has affected the forward curve.  Should August become hotter relative to last
+ year, the forward curve could temporarily strengthen, boosting power price and
+ earnings expectations near-term.  Ultimately, we think the principal cause of
+ the decline in power prices is the dramatic build in power plants.  Even if the
+ curve temporarily strengthens due to weather, we still expect it will be
+ downward sloping for the next several years.
+ 
+ A Rebound in the Economy.  A weak economy has certainly affected power
+ demand, which, in turn, has affected the forward curve.  When the economy
+ eventually rebounds, which some are predicting by 4Q:01 or early 2002, the
+ forward curve should strengthen.  We will watch for these signs and adjust our
+ outlook accordingly.
+ 
+ Cancellations of plant development plans.  This factor is a wildcard for the
+ group in our opinion.  We expect to see a number of weaker developers begin to
+ cancel plant development plans.  So far, sources such as turbine manufacturer
+ GE has not given any indication turbine orders are being canceled.  If/when
+ they occur, the cancellation of development plans will have two effects.
+ First, it will confirm the increasingly difficult industry environment, and
+ would likely be perceived as negative.  Then, following the cancellation of
+ enough development plans, it will sow the seeds for the recovery of power
+ prices in the future.  This is why we think power prices will bottom in 2003.
+ The mechanism for rebuilding the forward curve will, in part, be driven by
+ cancellation of plant development plans and the restoration of a tighter
+ supply-demand balance.
+ 
+ SUMMARY:  BECOMING MORE CAUTIOUS ON GROUP.
+ 
+ We are lowering ratings, price targets and/or estimates on 11 companies with
+ exposure to the declining trend in power prices.  We advise investors to be
+ more cautious on the group.  However, we continue to advise a shift toward
+ Energy Merchants, who have little or no commodity price exposure, and away from
+ Power Producers, who are long power, as well as those Integrated Utilities who
+ are long power.  Additionally, we see several factors that also merit a
+ cautious outlook, apart from the declining trend in power prices and its
+ adverse effect on earnings:
+ 
+ (1) Utilities as a defensive play may become less valuable if the broad market
+ begins to recover and/or tech stocks begin to outperform.
+ 
+ (2) Growth Energy stocks have benefited from strong earnings visibility at a
+ time when many other S&P 500 sectors have "rolled over."  The resumption of
+ earnings growth in any of these other sectors could draw growth capital away
+ from our Growth Energy names, particularly if their earnings is now under
+ challenge.
+ 
+ QUARTERLY ESTIMATES PER SHARE DATA
+                         Current Year*          Next Year        Next Year + 1
+ Ticker      Period  Current   Previous  Current   Previous  Current   Previous
+ AES#           1Q   $0.42A   $0.42A     NA       NA         NA       NA
+                2Q   $0.30E   $0.30E     NA       NA         NA       NA
+                3Q   $0.51E   $0.55E     NA       NA         NA       NA
+                4Q   $0.60E   $0.66E     NA       NA         NA       NA
+              Year   $1.80E   $1.90E     $2.20E   $2.30E     NA       NA
+ AYE#           1Q   $0.90E   $0.90E     NA       NA         NA       NA
+                2Q   $0.75E   $0.75E     NA       NA         NA       NA
+                3Q   $1.30E   $1.35E     NA       NA         NA       NA
+                4Q   $0.85E   $0.90E     NA       NA         NA       NA
+              Year   $3.80E   $3.90E     $4.20E   $4.30E     NA       $4.75E
+ CEG#           1Q   $0.68A   $0.68A     NA       NA         NA       NA
+                2Q   $0.46A   $0.46A     NA       NA         NA       NA
+                3Q   $0.95E   $0.95E     NA       NA         NA       NA
+                4Q   $0.56E   $0.56E     NA       NA         NA       NA
+              Year   $2.65E   $2.65E     $3.10E   $3.10E     $3.35E   $3.35E
+ CIN            1Q   $0.75A   $0.75A     NA       NA         NA       NA
+                2Q   $0.50E   $0.50E     NA       NA         NA       NA
+                3Q   NA       NA         NA       NA         NA       NA
+                4Q   NA       NA         NA       NA         NA       NA
+              Year   $2.80E   $2.80E     $2.95E   $3.00E     NA       NA
+ CPN#           1Q   $0.30A   $0.30A     NA       NA         NA       NA
+                2Q   $0.35E   $0.35E     NA       NA         NA       NA
+                3Q   $0.90E   $0.90E     NA       NA         NA       NA
+                4Q   $0.45E   $0.50E     NA       NA         NA       NA
+              Year   $1.95E   $2.00E     $2.30E   $2.60E     $3.00E   $3.10E
+ DTE#           1Q   $0.97A   $0.97A     NA       NA         NA       NA
+                2Q   $0.40E   $0.40E     NA       NA         NA       NA
+                3Q   $0.93E   $0.93E     NA       NA         NA       NA
+                4Q   $1.20E   $1.20E     NA       NA         NA       NA
+              Year   $3.50E   $3.50E     $4.20E   $4.24E     NA       $4.41E
+ DYN#           1Q   $0.41A   $0.41A     NA       NA         NA       NA
+                2Q   $0.40E   $0.40E     NA       NA         NA       NA
+                3Q   $0.80E   $0.80E     NA       NA         NA       NA
+                4Q   $0.40E   $0.40E     NA       NA         NA       NA
+              Year   $2.00E   $2.00E     $2.55E   $2.55E     NA       NA
+ ENE#           1Q   $0.47A   $0.47A     NA       NA         NA       NA
+                2Q   $0.45A   $0.45A     NA       NA         NA       NA
+                3Q   NA       NA         NA       NA         NA       NA
+                4Q   NA       NA         NA       NA         NA       NA
+              Year   $1.80E   $1.80E     $2.15E   $2.15E     NA       NA
+ EPG#           1Q   $0.96A   $0.96A     NA       NA         NA       NA
+                2Q   $0.78E   $0.78E     NA       NA         NA       NA
+                3Q   $0.76E   $0.76E     NA       NA         NA       NA
+                4Q   $0.85E   $0.85E     NA       NA         NA       NA
+              Year   $3.35E   $3.35E     $3.70E   $3.80E     NA       NA
+ EXC#           1Q   $1.19A   $1.19A     NA       NA         NA       NA
+                2Q   $0.90E   $0.90E     NA       NA         NA       NA
+                3Q   $1.56E   $1.61E     NA       NA         NA       NA
+                4Q   $0.85E   $0.90E     NA       NA         NA       NA
+              Year   $4.50E   $4.60E     $4.95E   $5.05E     NA       NA
+ FPL            1Q   $0.76A   $0.76A     NA       NA         NA       NA
+                2Q   $1.30E   $1.30E     NA       NA         NA       NA
+                3Q   $1.98E   $1.98E     NA       NA         NA       NA
+                4Q   $0.66E   $0.66E     NA       NA         NA       NA
+              Year   $4.70E   $4.70E     $4.95E   $5.10E     NA       NA
+ MIR            1Q   $0.51A   $0.51A     NA       NA         NA       NA
+                2Q   $0.45E   $0.45E     NA       NA         NA       NA
+                3Q   $0.54E   $0.54E     NA       NA         NA       NA
+                4Q   $0.40E   $0.40E     NA       NA         NA       NA
+              Year   $1.90E   $1.90E     $2.20E   $2.20E     NA       NA
+ NRG#           1Q   $0.19A   $0.19A     NA       NA         NA       NA
+                2Q   $0.22E   $0.22E     NA       NA         NA       NA
+                3Q   $0.69E   $0.69E     NA       NA         NA       NA
+                4Q   $0.27E   $0.27E     NA       NA         NA       NA
+              Year   $1.37E   $1.37E     $1.65E   $1.70E     NA       NA
+ PCG            1Q   $0.67E   $0.67E     NA       NA         NA       NA
+                2Q   $0.75E   $0.75E     NA       NA         NA       NA
+                3Q   NA       NA         NA       NA         NA       NA
+                4Q   NA       NA         NA       NA         NA       NA
+              Year   NA       $2.70E     $1.90E   NA         NA       NA
+ PEG#           1Q   $1.25A   $1.25A     NA       NA         NA       NA
+                2Q   $0.74E   $0.74E     NA       NA         NA       NA
+                3Q   $0.75E   $0.75E     NA       NA         NA       NA
+                4Q   $1.01E   $1.01E     NA       NA         NA       NA
+              Year   $3.75E   $3.75E     $4.00E   $4.05E     NA       $4.30E
+ PGN#           1Q   $0.77E   $0.77E     NA       NA         NA       NA
+                2Q   $0.75E   $0.75E     NA       NA         NA       NA
+                3Q   $1.18E   $1.18E     NA       NA         NA       NA
+                4Q   $0.70E   $0.70E     NA       NA         NA       NA
+              Year   $3.40E   $3.40E     $3.60E   $3.60E     NA       NA
+ PPL            1Q   $1.52A   $1.52A     NA       NA         NA       NA
+                2Q   $0.71E   $0.71E     NA       NA         NA       NA
+                3Q   $0.92E   $1.02E     NA       NA         NA       NA
+                4Q   $0.85E   $0.85E     NA       NA         NA       NA
+              Year   $4.00E   $4.10E     $4.40E   $4.50E     NA       $4.40E
+ REI#           1Q   $0.94A   $0.94A     $0.80E   $0.80E     NA       NA
+                2Q   $0.75E   $0.75E     $0.70E   $0.70E     NA       NA
+                3Q   $1.28E   $1.28E     $1.20E   $1.20E     NA       NA
+                4Q   $0.23E   $0.23E     $0.20E   $0.20E     NA       NA
+              Year   $3.20E   $3.20E     $2.90E   $2.90E     NA       NA
+ TE#            1Q   $0.54A   $0.54A     NA       NA         NA       NA
+                2Q   $0.52E   $0.52E     NA       NA         NA       NA
+                3Q   $0.74E   $0.74E     NA       NA         NA       NA
+                4Q   $0.50E   $0.50E     NA       NA         NA       NA
+              Year   $2.30E   $2.30E     $2.50E   $2.50E     NA       $2.75E
+ 
+     
+ 
+           This information compiled: July 24, 2001 10:10:02 AM EDT
+ 
+  - SBD45381.pdf << File: SBD45381.pdf >> 

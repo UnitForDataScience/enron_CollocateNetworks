@@ -1,0 +1,3 @@
+
+ 
+ I need Sitara access to all gas regions.  I'm trying to look at some of the Central Desk activity and I don't have authorization.  We might as well give me access to all ENA gas positions and the ability to create/update Sitara tickets for all gas regions.

@@ -1,0 +1,37 @@
+
+ 
+ Phase IV volumes will be FTS-2 rate schedule and will be company 536 (just like Phase III).  Phase V will also be company 536.
+ 
+ 
+ 
+ 
+ Hilda Lindley
+ 01/16/2001 11:39 AM
+
+  
+  
+ COuld someone help me with this question?.  I am still in the dark. Hilda
+ 
+ 
+ Nancy Bastida
+ 11/17/2000 04:18 PM
+ 
+ 
+
+
+  
+ Heads up!  In talking to Rachel about GRI charges and how they are handled in the system,  we identified some problems in how the GRI charges will be handled for Phase IV and Phase V customers.  These customers will be discounted GRI and the discount will not be limited to the delivery points on the contract, the discount will apply to any point they deliver to in the market area. 
+ 
+ Currently, when GRI discounts are input into the system, they are at a point level - this will not work when the same delivery point is on firm contracts other than Phase IV and Phase V.  Also, when the discount is given at the contract level, we need to keep in mind that the customer may deliver in the west - how will this affect the billing?  
+ 
+ Lastly, we need to consider for development in the new system, the possibility of consolidating these Phase IV and Phase V contracts with the customer's current firm contracts - how will they be billed then?  Certainly, this cannot be captured in our current system, but may be captured in our new system.
+ 
+ Let's get together and discuss these issues and any others anyone may think of so we can get a plan together before implementation of Phase IV.
+ I have reserved room 4102 for Tuesday, December 5th at 1:30pm.  Hope to see you then.  nb 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

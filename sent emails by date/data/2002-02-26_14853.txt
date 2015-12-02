@@ -1,0 +1,9 @@
+
+ 
+ 
+ Tim - The denominator in the load factor calculations needs to be updated.  Please check with Mike to get the current denominator for the months.
+  
+     
+ Please find the attached.
+ 
+ Thanks,  Tim 

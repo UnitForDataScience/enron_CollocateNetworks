@@ -1,0 +1,5 @@
+
+ 
+ I have added Shari's MAC clause (when there is no collateral annex and MAC is 
+ an additional event of default) as an alternative in the MAC clauses for the 
+ ISDA Master Agreement contained in ISDAexh.doc.

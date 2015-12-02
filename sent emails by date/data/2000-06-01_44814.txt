@@ -1,0 +1,16 @@
+
+ 
+ Yup, FX & Currency Option provisions added.  !  I hope to have our database 
+ open to you soon so you can look and see what definitions are included.
+ 
+ 
+ 
+ 	Laurel Adams
+ 	06/01/2000 03:38 PM
+ 		
+
+ 		  		  
+ Tana,
+ 
+ Since I did not see FX trades excluded, I presume that we can confirm FX 
+ trades and options under this master.  Please let me know.  Thanks

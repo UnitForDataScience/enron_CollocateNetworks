@@ -1,0 +1,54 @@
+
+ 
+ Nope.  How's that for an anwser.  Noone responded and I would be more than 
+ happy to have a big ol meeting on it too.
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 02/01/2001 11:42 AM
+
+   
+ Hi Chris,
+ 
+ Did you ever get an answer on this?
+ 
+ 
+ 
+
+ 01/04/2001 04:25 PM
+
+
+
+ 
+  
+ Hey gang.  Attached is the maualy invoice for Oglethorpe.  I have fixed the 
+ pricing and the volumes on the top part of deal 516907 to match the maual 
+ invoice.  Can we adjust the expected volumes in Sitara to match the manual 
+ invoice?  If yes, how do you balance Unify since these are deal volumes and 
+ not actual flow volumes.
+ 
+ AND Sherri, how this be entered from the accounting side in Unify, since 
+ scheduling vs actual flow vs billing are all different?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 01/04/2001 03:50 PM
+
+   
+ Can the Sitara ticket be updated to match this invoice?
+ 
+ 
+ 
+ 
+ 
+ 

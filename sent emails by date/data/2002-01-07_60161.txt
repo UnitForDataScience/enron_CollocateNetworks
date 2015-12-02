@@ -1,0 +1,13 @@
+
+ 
+ Harry/Jay, can you help come to some conclusion on this.
+ 
+  
+     
+ John/Louise -
+ 
+ Given that under the current plan, the bank will be trading our interest rate risk,  I doubt we are taking an interest rate trader to Newco.  In order to get the books run we will need an interest rate curve.  
+ 
+ Should I plan on just getting access to Reuters and setting a curve off of LIBOR on my own?
+ 
+ Jeff

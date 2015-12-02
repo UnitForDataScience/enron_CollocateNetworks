@@ -1,0 +1,22 @@
+
+ 
+ Please get with Tina and work out how we will handle expense reimbursements 
+ for Greg's approval.  If Tina and Greg are not yet using the online format, 
+ then simply sending him original receipts probably won't do anything for 
+ him.  Thanks.  
+     
+ 
+ The following expense report is ready for approval:
+ 
+ Employee Name: Sally W. Beck
+ Status last changed by:  Automated Administrator
+ Expense Report Name: SWB 3/2/2001
+ Report Total: $3,238.00
+ Amount Due Employee: $3,238.00
+ 
+ 
+ To approve this expense report, click on the following link for Concur 
+ Expense.
+ http://nahou-wwxms01p
+ 
+  - att1.eml

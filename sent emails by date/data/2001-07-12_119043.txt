@@ -1,0 +1,49 @@
+
+ 
+ 
+ 
+  
+
+   Cc:	Bhattacharya, Rasmani; Chan, Tony
+  
+ Mark:
+ 
+     I apologize for not getting this to you earlier.  This is a draft of a
+ license under which Enron Networks could disclose its data formats.  It is
+ very basic, but I think covers the points that we discussed last week.
+ 
+     I will be out of town on vacation, starting tomorrow.  But I have
+ briefed Rasmani Bhattacharya, an attorney at V&E who works with me on this
+ types of projects, and she can make any amendments or changes that may be
+ necessary.  You can reach Rasmani at 713 758-2109.
+ 
+     I have left some questions in the form, which need to be addressed and
+ edited.  Also, we should ask Jay what we should call these formats.  I just
+ made up a term.  He will be able to come up with a better one, I am sure.
+ 
+     Rasmani, you should have rights to this document, but if there is some
+ problem, just save it as a new document and go from there.  The iManage
+ number is 599547.  Also, please feel free to expand and clarify the
+ disclaimers and limits of the license.  Also, would you get with Tony Chan
+ and go over this draft with him.  I based this draft in large part on what
+ he gave me.  Thanks.
+ 
+ 
+ 
+ Ted Stockbridge
+ Vinson & Elkins L.L.P.
+ (713) 758-1032
+ 
+ 
+           ++++++CONFIDENTIALITY NOTICE+++++
+ The information in this email may be confidential and/or privileged.  This
+ email is intended to be reviewed by only the individual or organization
+ named above.  If you are not the intended recipient or an authorized
+ representative of the intended recipient, you are hereby notified that any
+ review, dissemination or copying of this email and its attachments, if any,
+ or the information contained herein is prohibited.  If you have received
+ this email in error, please immediately notify the sender by return email
+ and delete this email from your system.  Thank You
+ 
+ 
+  - July 11 License Agreement for Data Formats.DOC 

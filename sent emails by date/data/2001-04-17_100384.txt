@@ -1,0 +1,48 @@
+
+ 
+ I believe this was intended for the other Susan Scott...I'm with Nat Gas tr=
+ ading.
+ 
+ Thanks
+ 
+ 
+ 
+
+
+
+
+
+ =20
+  
+ 
+ Mike,
+ 
+ I see in your emails below that you are indicating that the allocation proc=
+ ess does not comply with the tariff. The allocation process I do not think =
+ is the problem. It is the way the rates are used today for PNR. Today, the =
+ only rates I think that are loaded in CBS are the posted rates and the tari=
+ ff rates. If you want the rate to carry through at the contract level for t=
+ he range of dates of the specific deal, then the rates must be loaded that =
+ way in CBS for each PNR deal that is granted prior to the timely allocation=
+  process. If the allocation does not find a contract specific rate, then it=
+  looks for the next level which is your posted rates, if no posted rates ar=
+ e found, then it looks for tariff rates on PNR. It sounds like to me that T=
+ W will need to implement specific deal sheets and calculate the specific ra=
+ tes for each deal sheet on a daily basis & load the total specific contract=
+  deal rate in CBS.  Please let me know if there are other problems in the a=
+ llocation process itself.
+ 
+ Thanks Ramona
+   who gets prior=
+ ity?
+ 
+ =09Answer:  Shipper A should have priority because it has the greatest tota=
+ l cost commitment to TW in accordance with Sheet 37E of the tariff.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

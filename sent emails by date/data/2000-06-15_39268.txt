@@ -1,0 +1,183 @@
+
+ 
+ Alan, there is a good article on power trading in Japan.  Please pass it on 
+ as appropriate.   Mark
+  The Philippine Central Bank has decided to withdraw a requirement
+ for banks to raise their minimum capital for 2000, a move expected to ease
+ investors' concerns over the stability of the country's banking industry,
+ analysts said.
+ 
+ The decision to eliminate the third and final round of a capital increase
+ for banks effectively extends to Dec. 31, 2000, the deadline for compliance
+ with last year's minimum capital requirement of 4.95 billion pesos (122.2
+ million euros) for universal banks and 2.4 billion pesos for commercial
+ banks.
+ 
+ Originally, universal banks were required to raise their minimum capital to
+ 5.3 billion pesos by the end of 2000, while commercial banks were required
+ to raise their minimum capital to 2.8 billion pesos.
+ 
+ In the Philippines, universal banks are commercial banks with expanded
+ licenses that allow them to venture into noncommercial banking operations
+ such as investment banking and fund management.
+ 
+ The central bank's decision to relax its capital rule will prevent a loss of
+ confidence in banks that would otherwise have had a difficult time meeting
+ the new requirement, said Angping & Associates Securities Inc. The move will
+ also prevent panic among depositors that could lead to heavy withdrawals at
+ banks or the banks' closure, Angping added.
+ 
+ The central bank's capital requirement for banks may be adjusted next year
+ in line with the new risk-based capital framework contained in the recently
+ passed General Banking Act.
+ 
+ The framework allows the central bank to impose new capital requirements
+ based on the activities banks are involved in and the capital risks tied to
+ them. Higher capitalization may be imposed, for instance, on banks engaged
+ in high-risk transactions such as derivatives trading, central bank Gov.
+ Rafael Buenaventura said.
+ 
+ The central bank implemented a three-stage increase of the minimum capital
+ of banks in 1998 in a bid to strengthen the banking system to prevent a
+ fallout from the Asian financial crisis. Ironically, however, the higher
+ capital requirements indirectly led to the closure of one commercial bank
+ and heavy withdrawals at two other banks earlier this year. Last month,
+ Urban Bank closed after experiencing a liquidity crunch after several days
+ of withdrawals by depositors.
+ 
+ The withdrawals were triggered by rumors that the bank's previous downgrade
+ to a thrift bank from a commercial bank was because of cash flow problems.
+ The bank was downgraded because it couldn't meet the original 2.4 billion
+ peso capital requirement deadline for commercial banks as of the end of
+ 1999.
+ 
+ 
+ The Economist, 6/10/00
+ Danger Signs
+ 
+ An unusual thing happened this week in America. The prices of corporate
+ bonds rose. Of late they have proved a dreadful investment-worse by far than
+ government bonds. How much farther their prices will rise depends largely on
+ what happens in the market in which they are priced: the swaps market. That
+ market is in turmoil.
+ 
+ Swaps are the glue that binds together the world's financial system. First
+ developed in the early 1980s, they now dwarf other financial instruments. At
+ the end of last year there were some $46 trillion of swaps outstanding,
+ compared with $5.4 trillion in, for example, international bond markets.
+ 
+ Broadly, swaps come in two forms: interest-rate swaps and currency swaps.
+ Simply put, both allow parties to exchange cash-flows. In a currency swap,
+ the two exchange currencies and re-exchange them at maturity at the same
+ rate. In the meantime they exchange interest payments.  In a typical
+ interest-rate swap, one side exchanges a floating-rate obligation (generally
+ based on Libor, the rate at which the best banks lend to each other) for a
+ fixed one.
+ 
+ This simplicity has made swaps, and interest-rate swaps in particular, a
+ very useful tool.  They allow banks, for example, to match their assets and
+ liabilities much more closely. If they have lots of short-term floating-rate
+ liabilities (such as savings accounts) but long-term fixed-rate assets (such
+ as loans) they can "swap" long-term assets into short-term ones. Likewise,
+ companies can use swaps to convert fixed-rate debt (which investors might
+ prefer) into floating-rate debt, or vice versa.
+ 
+ The level of the fixed rate in the swap reflects, among other things, the
+ willingness of the market to accept corporate debt rather than government
+ debt, which means that the swap rate is calculated at a spread over
+ government bonds. Euro swap-spreads have risen in recent weeks, but dollar
+ swap-spreads have widened dramatically. Ten-year spreads peaked at the end
+ of May at 140 basis points (hundredths of a percentage point)-a higher
+ spread than ever before (see chart on next page). They have since narrowed,
+ but are still wider than at the height of the financial crisis that followed
+ Russia's default. At times in recent weeks, the swaps market has shut down
+ completely; nobody was willing to receive a fixed rate.
+ 
+ What on earth is going on? There are, broadly, two sets of explanations, one
+ relatively benign, the other emphatically not. The benign view is that the
+ rise in swap spreads is explicable by rising interest rates, greater default
+ risk, and the relative sizes of government-and corporate-bond markets.
+ 
+ Governments are issuing fewer bonds. On optimistic assumptions, America's
+ government could buy back all its debt by 2010. American companies, in
+ contrast, are borrowing hugely. That makes government bonds more valuable,
+ compared with corporate debt. It reflects what Stephen Compton, head of
+ bonds at Schroder Salomon Smith Barney in Europe, calls "the privatisation
+ of the bond markets".
+ 
+ Rising interest rates, too, are partly to blame for widening swap spreads.
+ When the market thinks that interest rates will rise, there is more of an
+ incentive to pay, rather than receive, a fixed rate. That incentive is
+ greater at times when, as now, long-term rates are lower than short-term
+ ones (an "inverted yield curve"). This means that anybody receiving a fixed
+ (long-term) rate and paying a floating one loses money.
+ 
+ Then there is the increase in corporate debt Credit Suisse First Boston
+ (CSFB) expects American companies to issue as many bonds this year as they
+ did last, when they sold record amounts. Importantly for swap spreads, one
+ reason that firms are borrowing so much is to buy back their shares. So
+ American companies are becoming ever more highly geared, and hence less
+ creditworthy. Share buy-backs are running at double last year's level and,
+ reckons David Goldman, a strategist at CSFB, will remain in vogue as long as
+ debt is relatively cheap, and firms' managers think that more leverage is
+ good for shareholder value.
+ 
+ If this were not enough, swap-market folk also point accusing fingers at
+ Gary Gensler, under-secretary at the American Treasury. In March, he said
+ that federally sponsored agencies, such as Fannie Mae and Freddie Mac, which
+ everybody assumed were guaranteed by the government, were not. The yield on
+ their debt rose sharply. Since they are the biggest actors in the swaps
+ market, so did swap spreads.
+ 
+ Swap knot
+ 
+ Taken together, these factors might seem enough to explain what has
+ happened. But James Bianco, who runs an eponymous research firm, thinks they
+ are not. Swap spreads, he points out, have been widening for the past three
+ and a half years-before any of these other factors cropped up. And they do
+ not explain why swap spreads have risen so fast this year.
+ 
+ Mr. Bianco argues that two things dominate the pricing of interest-rate
+ swaps: interest rates and credit concerns. For most of the 1990S swap rates
+ went up and down with interest rates. That relationship has now largely
+ broken down, suggests Mr. Bianco, because markets have become more concerned
+ over risks to the financial system, as a result of the crises of recent
+ years. If Mr. Bianco is right, this has important ramifications: it suggests
+ there are growing worries about the riskiness of the swaps market, based on
+ fears about the health of financial firms-by far the biggest participants.
+ 
+ Pshaw, say critics: there is no credit risk in the swaps market. Forget
+ about those telephone-number figures: no principal amount is exchanged in a
+ swap, so what matters is not the "notional" amount at risk but the cost of
+ replacing the swaps-a far lower number. Moreover, big banks post collateral
+ if they are on the losing side of a swap, thus eliminating even any residual
+ risk.
+ 
+ Really? "Swaps are perceived as riskless. That must be wrong," says a
+ treasurer at a big bank. Unlike futures exchanges, the swaps market looks
+ only at current exposures, not potential ones (futures exchanges demand a
+ dollop of cash up front to cover the second). And the market has grown so
+ much that these potential risks are becoming huge.
+ 
+ So it is at least plausible that people are starting to fret about the
+ banking system. But why might this be a problem in America, of all places?
+ Because it is taking ever more risk to generate the returns demanded by
+ share-holders. Bank lending is growing by 10% at an annual rate, and
+ property lending by 13.5%, its highest rate since 1989. If anything, these
+ rates are accelerating because, after nine years of growth and few defaults,
+ banks' backward-looking risk models tell them that lending is a fine
+ business.
+ 
+ And not just in America. In Europe, too, banks are taking more risk to
+ generate higher returns. At best, the swap market is merely reflecting this
+ increase in risk. At worst, it might be signaling that the world's financial
+ system is in danger of becoming unglued.
+ 
+ End of ISDA Press Report, Thursday, June 15, 2000.
+ 
+ THE ISDA PRESS REPORT IS PREPARED FOR THE LIMITED USE OF ISDA STAFF, ISDA'S
+ BOARD OF DIRECTORS AND SPECIFIED CONSULTANTS TO ISDA.  THIS PRESS REPORT IS
+ NOT FOR DISTRIBUTION (EITHER WITHIN OR WITHOUT AN ORGANIZATION), AND ISDA IS
+ NOT RESPONSIBLE FOR ANY USE TO WHICH THESE MATERIALS MAY BE PUT.
+ 
+ 

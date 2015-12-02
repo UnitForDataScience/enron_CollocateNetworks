@@ -1,0 +1,19 @@
+
+ 
+ You need to path the change at mtr 8055.  You should not path the buyback at mtr 1040 (Only deals 538950 and 702826 should be pathed with volume.  All other deals at mtr 1040 should be pathed with zero volumes.)
+ 
+ D
+ 
+ 
+
+
+   
+ Daren,
+ I have HPL Resources meter 988055 wasn't sure if I should path this for April 3rd's deal change.
+ and I have Mobil Oil meter 981040 that I pathed on the first for 30,000 that change to 50,000 for the 3rd.
+ I didn't path them since they are industrials and Aimee's notes told me to path Industrials -
+ except for a few exceptions.
+ Thanks, Julie
+ x58639
+ 
+ 

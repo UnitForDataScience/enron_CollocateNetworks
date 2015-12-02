@@ -1,0 +1,36 @@
+
+ 
+ 
+ 
+ 
+ Dawn C Kenne
+ 02/16/2001 04:43 PM
+
+
+
+
+
+
+  
+ This evening, the new improved bridge monitor will be migrated to the EOL 
+ production environment.  Several new enhancements were created to make this 
+ application more efficient.  Such as:
+ 
+ 1.  The bridge will handle 20 messages/second, instead of processing 1 
+ message/second.
+ 2.  The screens will no longer jump around! (Yeah)  You can select and view a 
+ transaction without having the screen update with new deals.
+ 3.  Historical deal query - ability to select and process historical dates 
+ very quickly.
+ 4.  Sorting capability - you can query any of the eight column headers by 
+ selecting the column and typing a risk book, trans. id, deal capture system, 
+ etc. and it  will filter to that section.
+ 
+ Please forward this e-mail to your groups.  If you have any questions or 
+ concerns with the new bridge monitor please contact me at 3-9353 or Tara at 
+ 3-4523.  We hope this helps, I know it has made our lives easier while 
+ testing.  Also, feedback is much appreciated!
+ 
+ Thanks,
+ Dawn
+ 

@@ -1,0 +1,32 @@
+
+ 
+ 
+ 
+ 	John Suttle
+ 	05/17/2000 04:36 PM
+ 		 
+
+
+ 		  		  
+ EOL Team,
+ 
+ Please approve the above mentioned for online trading for financial oil and 
+ gas in the U.S. only.    
+ 
+ We have a Master Swap contract with these guys, and they are an ESP.  
+ However, their exposure is well above the contractual threshold ($6.5MM 
+ credit line versus $12MM exposure) and we are not collateralized for the 
+ amount of exposure above the credit line.  So, as a result, we want to 
+ approve them for online trading, but we actually do not want them to be able 
+ to complete any transactions.  The counterparty has requested approval, and 
+ Fred Lagrasta has asked that we approve them so they can get online and see 
+ the stacks.  Credit does not want them to complete trades, so we need to set 
+ a very low credit line for online trading so when the counterparty attempts 
+ to trade (if they attempt to trade), is turned down.
+ 
+ If this is not possible, please ket me know so I can get back with Fred and 
+ the counterparty.
+ 
+ Thanks,
+ 
+ John

@@ -1,0 +1,48 @@
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ 
+ I have received several comments about the WSJ data request.
+ 
+ Enron's Tim Beldon wrote me that he would consider it.  The PX's Gene
+ Waas was concerned based on previous experiences of letting data go to
+ the WSJ.  I talked with Dynegy's Lynn Lednicky this morning and he
+ suggested that the PX has aggregated data for several days, and that
+ releasing the aggregate data with individual bid data from our members
+ would give the WSJ a better window into the issues.  That is, simply
+ releasing your bid data will not tell the WSJ anything of value.
+ 
+ I know that Rebecca would insist that the dates for which any data are
+ polled our at her choice, not ours.  It must be necessary to assure
+ there is no possibility of bias.  I am wondering if the PX would be
+ willing to assist us by putting together aggregate data for days which
+ the WSJ selects, and then give us the opportunity to release our
+ individual data for the same days?
+ 
+ 
+ I am also wondering if we shouldn't have an off-the-record
+ teleconference call with the WSJ whereby both sides can get a better
+ understanding of what the WSJ wants, and how we can best provide it.
+ Would anyone be interested in me setting up such a meeting for next
+ week, say Wednesday or Thursday?
+ 
+ gba
+ 

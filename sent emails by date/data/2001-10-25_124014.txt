@@ -1,0 +1,24 @@
+
+ 
+ The power curves are actually located in M:\power2\region  If you want access to this drive please resubmit request and make sure it is Read Only.
+ 
+ Thanks,
+ Stacey
+ 
+  
+
+  
+ 
+ You have received this email because you are listed as a data approver. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000070996&Page=Approval to review and act upon this request.
+ 
+ 
+ 
+ 
+ Request ID          : 000000000070996
+ Request Create Date : 10/25/01 10:38:34 AM
+
+ Resource Name       : \\nahoutrd\houston\pwr\common\common\Power - [Read]
+ Resource Type       : Directory
+ 
+ 
+ 

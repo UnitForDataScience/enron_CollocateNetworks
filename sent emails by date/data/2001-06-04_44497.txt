@@ -1,0 +1,5 @@
+
+ 
+ Lee,
+  I have removed the collateral requirements from this document because we 
+ have blanket security request rights in the base contract.  Don't you agree?

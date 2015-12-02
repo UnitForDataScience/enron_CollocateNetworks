@@ -1,0 +1,22 @@
+
+ 
+ 
+ FYI
+  
+
+ 
+  
+ The Payment status has changed on the following report:
+ 
+ Status last changed by: Vickie P. Malloy
+ Expense Report Name: Coronado Club
+ Report Total: $69.26
+ Amount Due Employee: $69.26
+ Amount Approved: $69.26
+ Amount Paid: $0.00
+ Approval Status: Pre-Approved
+ Payment Status: Authorized
+ 
+ 
+ To review this expense report, click on the following link for Concur Expense.
+ http://nahou-wwxms01p

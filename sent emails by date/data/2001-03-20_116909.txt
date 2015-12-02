@@ -1,0 +1,33 @@
+
+ 
+ Our fax number is 503-464-3740. You can send those deal numbers over whenever 
+ you get a chance, and I'll look them over and talk to the appropriate traders 
+ and IT. Thanks so much for your diligence during this transition. I'll keep 
+ you informed on the IT effort.
+ 
+ Thanks,
+ Kate
+ 
+ 
+ 
+ 
+
+ 03/20/2001 07:18 AM
+
+
+ 
+  
+ Hi Kate!
+ I am beginning to see a familiar pattern beginning in the West (-familiar 
+ because it's the same problem we have with East traders).  There are A LOT of 
+ deals that need to be changed to "no confirm."  I'd like to fax a list of 
+ them to you so that you can 1st, change their status in Deal Entry to "not to 
+ be confirmed" and 2nd, bug the traders who enter the deals to remember to 
+ enter them correctly.  Also, you mentioned working with Will Smith in IT to 
+ get these deals to automatically be "no confirm" when the traders enter 
+ them.  You may want to use some of these as examples so to help IT figure the 
+ logic behind which deals are confirmed and which aren't.  Please let me know 
+ your fax number so that i can send you this report.  
+ Thanks!
+ Kim x31647
+ 

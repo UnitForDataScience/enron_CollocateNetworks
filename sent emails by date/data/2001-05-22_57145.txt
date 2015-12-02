@@ -1,0 +1,15 @@
+
+ 
+ 
+ 
+  
+    Cc:	Andrews, Naveen
+  
+ Vince,
+ 
+ I attached the data sets used to generate the results we discussed this morning.  The original MTM's were multiplied by -1 prior to generating these quantiles.  We then examine the right tail.
+ 
+ Mark
+ 
+ 
+  

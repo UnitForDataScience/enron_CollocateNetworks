@@ -1,0 +1,21 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X-
+ X- X-b X-Folder: \ExMerge - Crandall, Sean\Sent Items
+ X-Origin: CRANDELL-S
+ X-FileName: 
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ All:
+ 
+ For those people wanting to learn more about Var calculation and application, I've put a copy of JP Morgan's RiskMetrics documentation on the P: drive under \MidMarketing\RiskMetrics. Of the five documents, Part 2 probably gets most directly at the questions that were being asked in Matt's seminar.
+ 
+ Tim H

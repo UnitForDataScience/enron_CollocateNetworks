@@ -1,0 +1,17 @@
+
+ 
+ 
+ 
+ Please note that when you start/stop a schedule to or from the following control areas,  the listed static scheduling fee applies.   
+ 
+ Reliant/HLP  - $49
+ TNMP  - $55
+ COA   -  $40
+ BEC  - $25
+ 
+ 
+ For example,  if we schedule for one hour from BEC>COA,   the one-time charge for scheduling alone would be a flat  $65.      Also applicable would be the per mw  line losses and the wheeling fee of $.22  .    
+ Please account for all such charges in the P&L report.
+ 
+ Thanks,
+ JMF	

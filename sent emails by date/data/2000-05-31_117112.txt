@@ -1,0 +1,65 @@
+
+ 
+ Looks good to me.
+ 
+ 
+ 
+ 	Julie Ferrara
+ 	05/31/2000 01:54 PM
+ 		 
+
+ 		  		  
+ Mark,
+ Dave Forster asked me to send you the ticker item below for your review.  
+ Dave has already approved the text.  Please let me know if you have any 
+ changes or concerns.  
+ 
+ Thank you.
+ Julie Ferrara
+ 
+ 
+ 
+ Scott Neal
+ 05/30/2000 03:39 PM
+
+
+  
+ US Gas Swap works fine.  Thanks for being creative and flexible. Let's go 
+ with this ASAP.
+ 
+ 
+ Dale Neuner   05/25/2000 11:02 AM
+ 
+
+   
+ I brought this issue up to David Forster AGAIN, and again he suggests that if 
+ we are going to change the Product Description that we call it US Gas Swap - 
+ so a Product on the website would read, for example:
+ 
+ US Gas Swap   IF CNG SP               Jun00           USD/MM
+ 
+ We really don't want to change the name to Fixed/Float because the US Gas 
+ Daily products are ALSO Fixed 
+ Float trades, and we are afraid we would be misleading. 
+ 
+ Please talk about this and if this suggestion is acceptable we will make the 
+ changes. Also please remember that this
+ change requires manual intervention, so each month when you roll the product 
+ over you will need to let us know to 
+ make the change when you call to have the product activated. We also won't be 
+ able to use Tokenized Reference 
+ Periods on these Products.
+ 
+ Dale
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

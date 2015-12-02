@@ -1,0 +1,113 @@
+
+ 
+ Mr. Enloe -
+ 
+ Ken Lay asked me to let you know that he doesn't know Stephen Bennett.
+ 
+ Rosalee
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+  
+ 
+ If any of you know Stephen Bennett, would you please contact David Fusco to
+ make a call.
+ 
+ Thanks,  ted
+ 
+ > 
+
+ >  
+ >  Cc: Bell, Lance; Pan, Andrew
+ >   >
+ >
+ >  We first want to express our appreciation to both HP and Compaq for
+ > their
+ >  efforts in helping make our evaluation project a sucess.  This did
+ > not
+ >  surprise us, as you have both been strong partners with us up to
+ > now.
+ >
+ >  As we indicated at the beginning, this evaluation was specifically
+ > aimed at
+ >  how well each vendor performed at helping us install, develop, test
+ > and
+ >  engineer an effective Oracle HA solution.  The ability to work with
+ > our
+ >  Intuit team and the strength of the vendors support were critical
+ > factors.
+ >  Certainly the difficultly of data migration impacted this project,
+ > limited
+ >  our performance testing, and remains of great concern to us in
+ > considering
+ >  any migration in the future.
+ >
+ >  We are taking the opportunity to provide you with our honest
+ > evaluation in
+ >  the hopes that this information may be of value to you.  We do
+ > however
+ >  consider this information confidential and ask that you do not share
+ > it
+ >  outside of your organization.  In addition we are providing it with
+ > the
+ >  understanding that you will not use the details contained herein to
+ >  criticize each other in an effort to promote your own position.
+ >
+ >  Here is a summary of our evaluation:
+ >
+ >  Sun Clusters - unacceptable, lacking features and EMC disk support
+ >  Sun/Veritas Clusters - acceptable, but uncertain support and future
+ >  HP Clusters - very good, strong features,  strong product roadmap,
+ > very good
+ >  technical support,  marginal sales support, variable support during
+ >  evaluation
+ >  Compaq - very good, stronger features, strong product roadmap,
+ > outstanding
+ >  support, higher risk
+ >
+ >  It should be understood, that there has not been a final decision
+ > and
+ >  management has not approved a migration plan.
+ >
+ >  We recommended Compaq, provided that we would be able to reduce the
+ > risk
+ >  factor associated with the recent release of their current software
+ > and
+ >  hardware architectures.
+ >
+ >  Management has requested that some further analysis be done (which
+ > were not
+ >  in the scope of this project) including cost/benefit analysis from
+ > our
+ >  customer's viewpoint and conversion cost estimates.  We believe we
+ > have all
+ >  the vendor information necessary to complete this analysis though
+ > they may
+ >  be a few pricing issues that will need clarification.
+ >
+ >  We will be in contact with each vendor regarding the disposition of
+ > the
+ >  loaned equipment we have on site from each vendor.
+ >
+ >  We again thank you for your efforts.  You will both remain key
+ > partners of
+ >  Intuit in the forseeable future and we hope to see our relationship,
+ >  whatever the final determination by management concerning this
+ > project, to
+ >  continue to improve.
+ >
+ >  Richard Marino
+ >  Lance Bell
+ >   
+ 

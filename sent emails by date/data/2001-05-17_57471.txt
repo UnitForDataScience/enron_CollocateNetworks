@@ -1,0 +1,23 @@
+
+ 
+ 
+ 
+ 
+
+
+  
+  
+ The following expense report is ready for approval:
+ 
+ Employee Name: Michael Terraso
+ Status last changed by:  Automated Administrator
+ Expense Report Name: May 2001
+ Report Total: $5,773.63
+ Amount Due Employee: $5,773.63
+ 
+ 
+ To approve this expense report, click on the following link for Concur 
+ Expense.
+ http://xms.enron.com
+ 
+ 

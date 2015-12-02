@@ -1,0 +1,17 @@
+
+ 
+ 
+ 
+  
+    Cc:	Williams, Jason; Tonks, Colin
+  
+ Bryan,
+ 
+ 	We have a Web based application that access the oracle tns peoplesdev.  I receive the error ORACLE not available.
+ I'm trying to find out who maintains the db where this, and it's production version lives to see if we can resolve the issue.  Any
+ help you can provide is greatly appreciated.
+ 
+ Thanks,
+ 
+ Dave Dronet
+ xt53482

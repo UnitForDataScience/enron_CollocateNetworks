@@ -1,0 +1,11 @@
+
+ 
+ This morning it was discovered that a portion of John Arnold's Gas Daily 
+ position was being captured incorrectly as a February fixed price position 
+ instead of a February Index position.  I am currently working on  the problem 
+ and the positions will be captured correctly tonight.  John is aware of the 
+
+ 
+ Thanks,
+ 
+ Errol L. McLaughlin

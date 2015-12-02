@@ -1,0 +1,11 @@
+
+ 
+ We are borrowing 110,000 dth (deal 322012) on Transco on the 30th and paying 
+ the gas back on July 1st (deal 322007).  We are paying Trco a one time fee of 
+ $.0386 (see below)
+ 
+ Volume   Fee
+ 0 to 50,000  $.015
+ 50,001 to 100,000 $.05
+ 100,001 to 110,000 $.10
+ 

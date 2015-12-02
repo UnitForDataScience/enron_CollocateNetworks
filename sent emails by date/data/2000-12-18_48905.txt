@@ -1,0 +1,100 @@
+
+ 
+ Steve,
+ 
+ Yes, I read it. I am going to talk about it with Ted Murphy and possibly Rick 
+ Buy.
+ As you have correctly pointed out, the model validation issues cannot
+ be handled  internally by Research. 
+ 
+ The problem is that everybody is swamped right now with
+ PRCs and end-of-year issues.
+ 
+ I don't think we shall send our  full  VaR model under any circumstances.
+ We can offer to sell a reduced version based on RiskMetrics.
+ 
+ By the way, our meeting Tuesday will start at 11:00  a.m., Houston time.
+ 
+ 
+ Vince
+ 
+ 
+ 
+ 
+ Steven Leppard
+ 12/18/2000 04:25 AM
+
+
+  
+ Hi Vince - did you read this email I sent you?  We're waiting for some 
+ guidance!
+ 
+ Shirley - is Vince around?
+ 
+ Thanks,
+ Steve
+ 
+    
+ 
+ 
+
+         08/12/2000 19:54	
+ 	
+ 	
+ 	                           
+ 	
+ 
+
+
+
+ 
+  
+ James
+ 
+ I called and left a voicemail but I thought for the benefit of the CC's on 
+ this, my view is that RAC have never been required to sign off on valuation 
+ methods. The standard models used at Enron, like SPRDOPT and other routines 
+ in Exotica.xls are written by Research and therefore I have always assumed 
+ endorsed by Research. Having said that I do believe firmly that all RAC - MRM 
+ folks should have a deep understanding of the way products are valued and be 
+ able to assess and challenge a method. 
+ 
+ I am also happy to provide assistance in the process of designing a method 
+ but I wouldn't want either of us to feel that RAC are in the way of progress 
+ by being embedded in a project plan. 
+ 
+ In this instance, given the appropriate documentation, I would imagine the 
+ time taken to assess the EnergyDesk methodology would be very short - what do 
+ you have that I could look at ?
+ 
+ DP
+ 
+ 
+ 
+ 
+
+ 12/08/2000 12:38 PM
+
+
+ 
+  
+ I would like to try to clear up a few things regarding the proposed 
+ implementation of EnergyDesk into Oslo. 
+ 
+ I thought that it was a requirement that all valuation engines (and any 
+ future changes to the valuation code) are required to be signed off by 
+ research and RAC before they can be used to value the firm's positions. If 
+ this is true then this is all I am looking to get onto the project plan the 
+ time estimates you need to complete your review process. If there is no 
+ requirement for RAC or research to sign off new or changed valuation engines 
+ then I will trouble you no further.
+ 
+ Thanks James
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

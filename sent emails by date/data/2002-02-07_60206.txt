@@ -1,0 +1,18 @@
+
+ 
+ approved
+ 
+  
+
+    
+ The following expense report is ready for approval:
+ 
+ Employee Name: Timothy N. Belden
+ Status last changed by: Timothy N. Belden
+ Expense Report Name: Belden Expenses Feb 2002
+ Report Total: $156.92
+ Amount Due Employee: $156.92
+ 
+ 
+ To approve this expense report, click on the following link for Concur Expense.
+ http://expensexms.enron.com

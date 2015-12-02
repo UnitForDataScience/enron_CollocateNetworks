@@ -1,0 +1,83 @@
+
+ 
+ 
+ 
+ 
+ Pinnamaneni Krishnarao
+ 12/09/99 01:33 PM
+
+
+
+   
+ Hi guys!
+  I calculated the premiums for monthly caps for different cap (strike) levels 
+ using the 1999 prices as forward prices. The scenarios I included are:
+ 1. At-the-money (ATM) caps: cap level = forward price (FP)
+ 2. Out-of-the-money (OTM) caps: cap level = (1+x) * FP where x = 5%, 10%, 15% 
+ & 20%
+ 3. Constant cap level across months: $168 (average of FPs), $200, and $250.
+ 
+ Brief results: Historical naptha volatility is 34% over last 2-years (which 
+ is higher than over the 10-year period - see the volatility chart). Premiums 
+ expressed as percent of the average naptha price for 2000:
+  
+              ATM =  10.4%
+             ATM*=  13% (Assumiung FP = $224/MT)
+     5%  OTM = 8.4%
+    10% OTM = 6.8%
+    15% OTM = 5.5%
+    20% OTM =   4.4%
+    $168 Cap  = 15%
+    $200 Cap  = 9%
+    $225 Cap  = 6%.
+ 
+  If you are looking to protect from any price move up from the current level, 
+ you will be looking at 10-15% range. Please keep in mind these are only 
+ indicative, since we are just guessing the forward prices. Given such drastic 
+ changes in prices during the last year, we really need to get an indication 
+ of the forward prices. I made some inquiries here and found the name of the 
+ person trading naptha. It is John L Chismar in Singapore ( 
+
+ and try to get an indication of the forward prices and volatilities for 2000. 
+ 
+  It would be much easier if we can install our Exotic Options Library in your 
+ office. We need to place it in a common drive that all of you can access. If 
+ any of the common drives you use is G, J, M, O, or P, I can send you the 
+ files to be installed. If your common drive has another initial, we need to 
+ do some programming here before sending to you. 
+ 
+  Call me to discuss/clarify further. You can call me at home if necessary 
+ (home ph. 281-240-5705; I am awake till 11PM usually). 
+ best wishes,
+ Krishna.
+ 
+ 
+ 
+ 
+ 	
+
+ 	
+ 	12/09/99 09:05:49 AM
+ 	
+
+
+
+  
+ Hi Mr.Krishnarao,
+ 
+ Was really nice talking to you! As per out telecon please find attached an 
+ excel sheet with the monthly FOB Naphtha prices from 1987-99. I am trying to 
+ get the forward prices for naphtha sent to you as well.
+ 
+ Appreciate the help from you!!
+ 
+ Thank & Best Regards,
+ 
+ Anshuman
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,37 @@
+
+ 
+
+
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - White, Stacey W.\Sent Items
+ X-Origin: WHITE-S
+ X-FileName: stacy white 7-15-02.PST
+ 
+ FYI  - we will be running a live simulation on Thursday.  I will give you more details when I know something.
+ 
+ John,
+ When you get a chance will you ask Tim if he is aware of this?
+ 
+ Stacey
+ 
+  
+    Cc:	Shults, Bob; Carter, Carl; Forster, David; Webb, Jay
+  Importance:	High
+ 
+ Everyone,
+ 
+ As we prepare to re-launch the website, we're planning a simulation session for our traders and originators for next week (tentatively Monday).  This session will be similar to the ones we had before the initial launch of EnronOnline.  In brief, the goals are:
+ 
+ Test the integrity/functionality of the system and related processes,
+ Get everyone re-acclimated with the system and processes (traders, originators, credit, operations, help desk, et al), and
+ Show how the trading system and our processes work to the UBS staff visiting next week.
+ 
+ In order for the simulation to be successful, we will need to ensure that the simulation environment is exactly like the "live" trading environment.  We will need to coordinate with each one of you about what needs to get done to make this possible.  I will be sending out an invite for a meeting tomorrow morning.  Please make sure you attend to discuss what needs to get done on your end (setting up trader/counterparty profiles, credit headroom, etc.), as this simulation has been requested for early next week.  If you have prior commitments, please appoint someone from your group to fill in for you.
+ 
+ Feel free to call me with any questions.
+ 
+ Regards,
+ Rahil
+ 3-3206

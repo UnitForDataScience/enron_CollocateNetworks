@@ -1,0 +1,46 @@
+
+ 
+ cancel
+ 
+  
+
+ 
+ Cc:	ice helpdesk
+  
+ Gentlemen:
+ 
+ Please respond to this email to cancel Trade ID: 152172202 with leg deals:
+ 15849593423 and 15849593723 between Lewis Williams of AEP Energy Services,
+ Inc. and John Arnold of Enron North America Corp.
+ 
+ Trade ID: 152172202
+ Product:  NG Fin, FP for LD1 Spr Henry Hub tailgate-Louisiana
+ Strip:  Apr02-Oct02/Nov02-Mar03
+ Quantity: 5,000 MMbtus daily
+ Price: (-).4300 USD/MMbtu
+ Effective  Termination  Total Quantity:  1,070,000 MMbtus
+ 
+ 
+ Deal: 15849593423
+ Product:  NG Fin FP for LD1 Spr Henry Hub tailgate-Louisiana
+ Strip:  Apr02-Oct02
+ Quantity:  5,000 MMbtus daily
+ Price: 4.1800 USD/MMBtu
+ Effective  Termination  Total Quantity: 1,070,000 MMbtus
+ 
+ Deal: 15849593723
+ Procduct:  Ng Fin, FP for LD1 Spr Henry Hub tailgate-Louisiana
+ Strip: Nov02-Mar03
+ Quantity:  5,000 MMbtus Daily
+ Price:  4.6100 USD/ MMbtus
+ Effective  Termination  Total Quantity:  755,000 MMbtus
+ 
+ 
+ Chris Lowe
+ IntercontinentalExchange, LLC
+ 2100 RiverEdge Pkwy, Fourth Floor
+ Atlanta, GA 30328
+ +1 770-738-2101 (Office)
+ +1 770-951-5481 (Fax)
+
+ www.intercontinentalexchange.com

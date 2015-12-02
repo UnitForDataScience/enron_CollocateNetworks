@@ -1,0 +1,14 @@
+
+ 
+ We have a new service on CNG.
+ 
+ Pipeline CNG Transmission
+ Rate Sched TTT
+ Start Date  2/1/2000 - 2/29/2000 evergreen
+ k#  T00015
+ Firmness IT
+ Service Type Pooling Service
+ k#  T00015
+ Buyer   ENA - Im Market East
+ 
+ Brenda, for now the rates on this service will be 0.

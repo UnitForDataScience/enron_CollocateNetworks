@@ -1,0 +1,69 @@
+
+ 
+ The items noted look like a good start to earlier detection of issues that 
+ may require reruns of valuation.  Thanks for marshalling the right resources 
+ to make this happen.  I will look forward to seeing your process timelines 
+ for current, iterim and target final state.  If my trip to London in 
+ mid-January works for your schedule, maybe this is something that we could go 
+ over then.  
+ 
+ 
+ James New
+ 18/12/2000 09:10
+
+
+
+
+ 
+  
+ Rick,
+ 
+ Thanks you for your note below. We are today implementing a flash P&L 
+ process. We aim to report daily numbers at 7am Houston time and will start 
+ today with the P&L. We will build on this and hope to have draft positions 
+ and VAR for most books within a week or so. There will be a reconciliation of 
+ flash to final numbers which will be included in our return to Houston. 
+  
+ I will put together a note on the London DPR production process which goes 
+ into the process we currently have, the process we actually need to have, and 
+ the obstacles that are in the way. I would expect this to be finalised 
+ tomorrow. Obtaining the USD interest rate curve on a more timely basis is 
+ just one of our problems but it is unfortunately by no means our only or most 
+ serious problem.
+ 
+ James
+ 
+ 
+    
+ 
+ 
+  15/12/2000 21:59	
+ 	
+ 	
+ 	                           
+ 	
+ 
+
+
+
+ 
+  
+ Need your help on the following: Each day we are delayed in finalising var, 
+ p&L and positions because the UK must wait for a USD  interest rate curves 
+ before submitting their data to Houston. I am also told that it is really not 
+ necessary to wait for this curve and the data could be submitted close of 
+ business London. Even if there was some minor inaccuracy from this method it 
+ would be better than what we have now. This would greatly improve the 
+ efficiency (by 4 to 6 hours) in reporting to senior management. Can you guys 
+ initiate this change or get me to the right person there. Thanks, Rick
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

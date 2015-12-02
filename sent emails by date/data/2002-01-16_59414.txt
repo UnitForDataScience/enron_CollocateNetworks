@@ -1,0 +1,46 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Keiser, Kam\Sent Items
+ X-Origin: KEISER-K
+ X-FileName: kam keiser 7-11-02.PST
+ 
+ 
+ Can you please take care of this for the estate curve files?  It will have to be done on your machine, Ashely, for you to be able to load them after today.
+ 
+ Thanks
+ 
+ KK
+ 
+  
+    Cc:	Gossett, Jeffrey C.
+  
+ Currently the curves are being published into the old production database and are being replicated to the new Estate environment.      
+ 
+ 
+ 
+ Here are the steps to migrate the Curve files to the new env.
+ 
+ 1)	Load new ODBC driver utilizing script provided
+       A) Go to ( Start\Programs\System Utility Applic \ Installation&Diskette Creation)
+      Double click on "ODBC DSN Entries for ERMT & ESTERMTP"
+               This will load the correct ODBC on your machine
+   
+   2)   On the Publish tab in the Curve File sheet.
+ Change the environment name on the 5th row to estermtp
+ Change the service name on the 5th row to 7550     
+ 
+ 3) Then hit the   button on the publish sheet and save the new file.
+ If the sheet does not have the button, just save the file, close it, and bring it back up.
+ 
+ 4)	Save your curves as normal
+ 
+ 5)	Any questions or problems, please give me a call 
+ 
+ Russ
+ X37386
+ 
+ 
+ <Embedded Picture (Metafile)>

@@ -1,0 +1,23 @@
+
+ 
+ Make sure we are crystal clear on being able to fill this position physically at any VEPCO interface (hourly or day-ahead), and the PJM/VEPCO PJM LMP index is for pricing only.
+ 
+  
+    Cc:	Thomas, Paul D.
+  Importance:	High
+ 
+ Everyone,
+ 
+ Here are some follow-up items from our meeting this morning. Please review them and let me know if there are any changes to this at your earliest.  As discussed, we will tie-in Dave and Elizabeth into the meeting via phone (it starts at c. 8:00AM CST).
+ 
+ Leslie Reeves has confirmed that we do not have any reserves against previous years' audit.
+ 
+ Attending the meeting from VEPCO:
+ Kevin Howell (President - Energy Trading).  Kevin was at Duke prior to VEPCO (started with VEPCO on 10/01/01)
+ Karla Haislip - Head of Origination
+ John Mable - Origination
+ Jim Hayes - Trading
+ 
+ Goal:  ENE will aim to settle against the Real-Time hourly index published by the PJM ISO for VEPCO/Potomac interface + $5/MWh for delivery.  ENE will retain the option to deliver the physical energy at any point identified in the contract.  The legal definition of the settlement index has been reviewed by Paul Thomas in Kevin's group, and will be as follows:
+ 
+ The Floating Price during a Determination Period shall be the average of the hourly prices listed in the Index for electricity delivered at the during the applicable hours on each Delivery Day during the applicable Determination Period. The Floating Price for each Determination Period shall be calculated utilizing the hourly clearing prices published by PJM Interconnection, LLC, for the  VEPCO Interface (VAP), on its official web site currently located at www.pjm.com/pub/account/lmp/index.html, or any successor thereto, under the headings "PJM - Daily Real-Time Locational Marginal Pricing Files; VAP" (the "Index"). The price is quoted in US Dollars per unit of volume, which will be the Contractual Currency. The unit of measure against which the price is quoted shall be megawatt-hours (MWh) and the quantity shown shall be in MW's delivered in each applicable hour for the duration of the Transaction (the "Hourly Quantity').

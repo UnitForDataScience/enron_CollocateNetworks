@@ -1,0 +1,37 @@
+
+ 
+ Here are the deal numbers, with correct counterparty names and MW hours. I 
+ changed deal 467455 and added one new forward:
+ 
+ 467455
+ 10 MW
+ 175.00
+ Palo Verde
+ Southern Company Energy Marketing
+ 
+ 469098
+ 50 MW
+ 175.00
+ Palo Verde
+ Sempra Energy Marketing
+ 
+ Please let me know if there are anymore questions. 
+ 
+ Thanks,
+ Kate
+ 
+ 
+ 
+ 
+
+ 11/29/2000 07:02 AM
+
+  
+  
+ Hi Kate,
+ Just checking on this deal.  Is this gonna be an exchange for physical and 
+ the counterparty name will be added later?  It's been "new" for a couple of 
+ days now, which is fine, I just wanted to make sure someone is working on it.
+ Thanks,
+ Kim
+ 

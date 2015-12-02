@@ -1,0 +1,72 @@
+
+ 
+ please print
+ 
+ 
+ 
+
+
+   
+ 
+ 
+ As per our discussion.  Patty is expecting us to conference when fax 
+ arrives.  Also, would it possible for you to mark up and FAX back the 
+ attached power point slides on the into product to reflect changes to 
+ definition.  Thanks.
+ 
+ Andrew S. Katz, Director Industry Legal Affairs
+ Edison Electric Institute
+ 701 Pennsylvania Avenue, N.W.
+ Washington, D.C.  20004
+ Voice:  202-508-5616
+ Fax:     202-508-5673
+
+ 
+  18:54:15 -0500
+  (8.9.3/8.9.3) with SMTP id RAA11078; Wed, 1 Mar 2000 17:49:43 -0600 (CST)
+
+  86256895.00832FB3 ; Wed, 1 Mar 2000 17:52:54 -0600
+ X-Lotus-FromDomain: HOUIND
+
+
+
+
+   Mime-Version: 1.0
+ Content-type: text/plain; charset=us-ascii
+ Content-Disposition: inline
+ 
+ 
+ 
+ 
+ Andy / Fritz:
+ *Please forward this e-mail to Patty Dondanville as I did not have her e-mail
+ address*  THANKS!
+ 
+ DeDe and I spoke this afternoon regarding the "Independent Amount" term in the
+ EEI Agreement.
+ 
+ Just to provide some feedback from a "users" perspective, the "Independent
+ Amount" concept was something that Elizabeth Sager suggested we use as a proxy
+ for bilateral margining which I introduced at the Sept. EEI meeting in D.C.
+ This term was literally "borrowed" from the ISDA Agreement.
+ 
+ The definition used in the ISDA Credit Support Annex is as follows:
+ "Independent Amount" means, with respect to a party, the amount specified as
+ such for that party in Paragraph 13; if no amount is specified, zero.
+ (The ISDA Paragraph 13 is synonymous with the EEI Cover Sheet)
+ 
+ There isn't a "definition" per se.  The term comes into play in 8.3 as it is
+ added to the Termination Payment and compared to the Collateral Threshold.  To
+ put it in another way, it acts as "buffer" Termination Payment to handle
+ additional potential credit exposure created by transactions valued against
+ extremely volatile price indices.
+ 
+ Please call me in Houston should you have additional questions (713) 207-1211.
+ 
+ Thanks,
+ Randy
+ 
+ 
+ 
+  - intoproduct2.ppt
+  - examples.ppt

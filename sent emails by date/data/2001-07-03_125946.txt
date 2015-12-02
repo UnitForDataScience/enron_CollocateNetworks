@@ -1,0 +1,18 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Zufferli, John\Sent Items
+ X-Origin: ZUFFERLI-J
+ X-FileName: john zufferli 6-26-02.PST
+ 
+ 
+ 
+  
+     
+ Here is the hedge summary for July 3/01.
+ 
+ Two things to note are: 	1) I bought 125 MW of Cal 02 flat from Mirant for a 10 GJ/MWh heat rate
+ 			2) There is now a 20 year AECO basis curve, so the fixed price AECO gas from cal 15 on is generated off this curve.  Before the AECO basis
+ 				curve stopped at Cal 14 

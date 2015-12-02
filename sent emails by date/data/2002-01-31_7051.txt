@@ -1,0 +1,29 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Baughman Jr., Don\Sent Items
+ X-Origin: BAUGHMAN-D
+ X-FileName: don baughman 6-25-02.PST
+ 
+ Corry,
+ 
+ The tools listed below should be sufficient to serve the MDEA deal:
+ 
+ 1.  OATI
+ 2.  MetrixND
+ 3.  Historical Load, Weather Spreadsheets and SOP:
+ 	A.  M:\Eservices\MDEA\MDEA Load forecasting\*.*
+ 	B.  M:\Eservices\Appilications\saveloadtodatabase.xls
+ 	C.  M:\Eservices\MDEA\MDEA Load forecasting\SOP 13 MDEA Forecast.doc
+ 
+ 4.  Delphi Application:  M:\Eservices\Applications\Services.exe
+ 	(Contains all contact phone numbers)
+ 
+ 5.  Telephone & computer
+ 
+ 
+ Sorry for the delay,
+ 
+ Don

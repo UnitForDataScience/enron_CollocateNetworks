@@ -1,0 +1,37 @@
+
+ 
+ FYI - new EOL reports rules.(see below)
+ PL
+ 
+    
+ 
+ 
+    02/28/2001 02:10 PM	
+ 	
+ 	
+ 	                           
+ 	
+ 
+
+
+
+
+ Solmonson/HOU/ECT, Tom Moran/HOU/ECT
+
+  
+ Due to the significant amount of activity on EnronOnline, and the large 
+ number of users logged into the system during peak trading hours, please 
+ inform your respective teams that they should not use the EnronOnline 
+ applications (Reports, Product Manger, Profile Manager, and Data Manager) 
+ between the hours of 7:30am and 10:00am.  Only those actions that are 
+ absolutely critical should be performed (i.e. credit headroom adjustments, 
+ etc.).  
+ 
+ The IT group is reviewing the database in an attempt to make our queries more 
+ efficient, but until further notice, these guidelines should be followed.
+ 
+ Please call me if you have any questions.
+ Thanks-
+ Sheri
+ 
+ 

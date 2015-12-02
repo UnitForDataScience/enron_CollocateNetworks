@@ -1,0 +1,20 @@
+
+ 
+
+
+
+
+ 
+ Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+
+ X- X- X- X-b X-Folder: \ExMerge - Williams III, Bill\Sent Items
+ X-Origin: WILLIAMS-W3
+ X-FileName: 
+ 
+ Jim,
+ Just a quick note regarding scheduling on Saturday.  There should be a 25 mw n-firm export for HE 7-10 and HE 13-22.  The schedule ID for HE 7-10 was CISO_EPMI_BUNNY.  The schedule ID for HE13-22 was EPMI_CISO_BUNNY.  For HE 11 and HE12, Danielle at the CISO misentered our schedule.  CAPS shows a final of 25 mws as a firm import.  This should be a n-firm export.  We recieved the energy as a firm export from the CISO.  All schedules should be under ECTSTSW not ECTRT.  If you have questions please let me know.
+ 
+ Thanks,
+ 
+ Bill

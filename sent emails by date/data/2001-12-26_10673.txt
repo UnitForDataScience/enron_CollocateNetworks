@@ -1,0 +1,17 @@
+
+ 
+ 	John, what is the status of these todo's?  Thanks. Lynn
+ 
+  
+    Cc:	Barker, Robert; Stovall, Glenn; Mitchell, Russell
+  
+ The following summarizes the action items we identified in our meeting this afternoon:
+ Updated the Remedy records for Beverly, Shirley and Mary that they are Work At Home participants; to give their requests high priority; and to assign them to Glenn and Robert, when possible.
+ Glenn obtained a modem for Shirley and will install it tomorrow when she brings her system in.  He will map the drive (T:\) at the same time.
+ Sent John the note regarding completing the eRequest for reestablishing VPN access.
+ Will investigate the CITRIX Server not available message after new access is established and tested.
+ 
+ Please let me know if anything has been overlooked.  Otherwise, we will continue to work the issues above.
+ 
+ Chris
+ 33270

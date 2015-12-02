@@ -1,0 +1,29 @@
+
+ 
+ To re-cap:
+ I will talk to Will Smith in Houston IT about adding a function in Deal 
+ Blotter to choose confirm or no confirm. In the meantime, Houston Confirms 
+ group would greatly appreciate us changing these deals to no confirm. They 
+ will assume that all daily deals done with PGE are no confirm, but the deals 
+ will still show up on their report (and cause confirm group crankiness) if 
+ they are marked to be confirmed. Thanks for your help.
+ 
+ Kate
+ 
+ 
+ 
+ 
+ 
+ Diana Scholtes
+ 03/09/2001 12:24 PM
+
+  
+  
+ I just heard the same.  I was talking to Tim about the requirements being 
+ made regarding daily confirmations, and the final decision was not to confirm 
+ PGE daily deals.  Question though,  when we put deals into the system in 
+ Blotter, they automatically confirm.  Do we have to go into every deal and 
+ switch the flag or is there a better way around it?
+ 
+ d
+ 

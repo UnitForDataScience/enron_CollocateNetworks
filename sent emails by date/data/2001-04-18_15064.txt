@@ -1,0 +1,44 @@
+
+ 
+
+ 
+ Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+
+ X-
+
+ X-b X-Folder: \ExMerge - Crandall, Sean\Sent Items
+ X-Origin: CRANDELL-S
+ X-FileName: 
+ 
+ Kevin,
+ 
+ Here are the examples we talked about
+ 
+ Assumptions:
+ 
+
+ 2.  We put out a COB/MC market $4 at $7.
+ 3.  In EOL, Product 1 = COB and Product 2 = MC.
+ 
+ Here's what will happen in the broker market:
+ 
+ (A) If someone hits my bid of $4 in the broker market I will BUY COB at something like $35, and I will SELL Mid-C at $31.
+ (B) If someone lifts my offer of $7 in the broker market I will SELL COB at something like $35, and I will BUY Mid-C at $28.
+ 
+ If you take the same assumptions and show this market on EOL, here's my understanding of what will happen:
+ 
+ (C) If someone hits my bid of $4 on EOL, I will SELL COB at $35, and I will BUY MC at $39 (compare this with (A))
+ (D) If someone lifts my offer of $7 on EOL, I will BUY COB at $35, and I will SELL MC at $42 (compare this with (B)).
+ 
+ Clearly this doesn't work.
+ 
+
+ 
+ (E)  If someone hits my bid of $4 on EOL, I will SELL MC at $35, and I will BUY COB at $39 (achieves same result as (A), which is what we want).
+ (F)  If someone lifts my offer of $7 on EOL, I will BUY MC at $35, and I will SELL COB at $42 (achieves the same result as (B), which is what we want).
+ 
+ I realize (E) and (F) don't jive with our long contract description, but conceptually it works.
+ 
+ If you have any questions, let me know.
+ 

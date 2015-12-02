@@ -1,0 +1,31 @@
+
+ 
+ fyi
+ 
+    
+ 	
+ 	
+
+ 	
+ 
+
+
+
+
+
+  
+ Liquids VaR for effective date Dec. 06 is $8.5MM, a seven percent violation 
+ of its limit.  The cause of the violation was due to the following factors.
+ Company wide crude position got shorter 6.3MM barrels
+ Short NG from Jan-Feb-01 of 1.2 BCF.  (EOL trade placed in error, position 
+ Nowlan intended for was 10 contracts/month instead of 10 contract/day.)
+ 
+ With component VaR attached below, it is clear that crude product resulted 
+ the most VaR increase.  Keeping everything constant, if Nowlan gets out of 
+ his NG position, VaR would be $7.8MM.  
+ 
+ 
+ 
+ Please contact me for questions
+ 
+ Christian x58062 

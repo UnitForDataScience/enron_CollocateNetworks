@@ -1,0 +1,7 @@
+
+ 
+ 
+ 
+ 1 - NOT a bulkhead
+ 2 - Prefer an aisle
+ 3 - if it is a 2 - 2 - 2 configuration, prefer one of the center two seats

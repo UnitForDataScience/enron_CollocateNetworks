@@ -1,0 +1,27 @@
+
+ 
+ Sounds like a great idea.  a couple of questions:
+ Can we convert the draft into cash and still maintain our security interest?  
+ If not, can we get the bank to somehow guarantee that the funds will be there 
+ - in the US that would require either certification by the bank of the 
+ customer's draft or the issuance of an actual bank or cashier's check.
+ 
+ 
+ 
+ 	Peter Keohane
+ 	04/02/2001 07:02 PM
+ 		 
+
+
+
+ Tanya Rohauer/HOU/ECT
+
+
+ 		  
+ Greg Johnston may have a solution to the limitation on Canadian cash 
+ collateral.  Without getting into detail, a security interest in an 
+ "instrument" can be perfected by possession under the Personal Property 
+ Security Act, and an "instrument" includes a bank draft.  If counterparties 
+ were to provide bank drafts on the same terms as they provide LCs we could 
+ rely on perfection by possession.  Is this something we should investigate 
+ further?  Peter.

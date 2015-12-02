@@ -1,0 +1,9 @@
+
+ 
+ Scott,
+ 
+ Do you know who I need to contact to get the ODBC driver installed on my computer.  I think you were right in pointing out that it is not on Brad's old box.
+ 
+ Thanks,
+ 
+ Jon

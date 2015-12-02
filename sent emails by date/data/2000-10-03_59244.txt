@@ -1,0 +1,10 @@
+
+ 
+ I assume that the tokenized products for gas daily and daily basis with 
+ continue to be coded for my book on a forward basis.   I also am assuming 
+ that the Henry Hub products have been moved to FT East who is now managing 
+ them.
+ 
+ Thanks for your help
+ 
+ Pete

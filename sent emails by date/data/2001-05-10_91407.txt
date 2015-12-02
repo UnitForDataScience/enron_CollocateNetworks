@@ -1,0 +1,55 @@
+
+ 
+
+ 
+ Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+
+ X-
+
+ X-b X-Folder: \ExMerge - Richey, Cooper\'Sent Mail
+ X-Origin: RICHEY-C
+ X-FileName: cooper richey 6-26-02.PST
+ 
+ While our webserver up here hasn't been hammered yet, I've been concerned 
+ about similar issues (web hardware and administration) for awhile up here.  
+ Given that the web is our primary medium I agree with you and Tim that it's been 
+ neglected.  
+ 
+ Administration is an ongoing issue and I'm not sure what a good solution for this is,
+ but relying on Houston for this is not an option as far as I'm concerned (unless they
+ change their draconian policies).  At the moment Chris Wiebe is officially administrating
+ our web/file server, but I don't think this is where his interests lie, so I've been relying
+ on Colin for most day-to-day admin.  This isn't great since Colin is a contractor.  We should
+ definitely team up on this one as I don't think IIS administration is even a quarter-time job,
+ but it is vital.  I'm in a similar spot on SQL Server issues - Chris is the admin, but he's moving
+ more toward the development side of IT with each passing week.  
+ 
+ In terms of hardware, I've been in touch with Houston through Dan Dietrich and spoke
+ with a helpful individual who is responsible for web servers down there.  He sent me
+ the following documentation standard which I hope I forwarded onto you (as it's quite
+ good).  I'm pushing to move to the Houston standard for web servers which is two 
+ clustered pizza boxes (DL360s).    I just got the price quote for these and it would be 
+ about 9000 US$ for the two boxes (basically dual proc PIII 930, 512 MB RAM, 2 9GB drives)
+ 
+ You mentioned moving the dev environment from prod, but I'm not sure if you're interested
+ in splitting the web from the file server.  I think this is a good idea (more for file server reliability
+ than anything else.)  There's some time critical data up here that we can't recover if we 
+ miss it the first time, so I'm trying to make the backend as fault-tolerant as possible.  plus,
+ it seems like it's likely a cheap performance and fault tolerance boost for the web, as well.  
+ 
+ Sorry to hear about your web troubles yesterday, but hopefully it will serve as a catalyst
+ for us to clean things up.  
+ 
+ Should we set up a call to talk about this?  
+ 
+ Cooper
+ 
+ 
+  as well as any suggestions that you may have that we should consider. We want to make sure that, with whatever avenue is taken,  we maintain a position of compatibility to share resources and technology with Calgary Fundies...
+ 
+ Thanks!
+ Bob
+ 
+ 
+ 

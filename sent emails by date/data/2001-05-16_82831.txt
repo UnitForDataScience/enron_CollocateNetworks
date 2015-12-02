@@ -1,0 +1,34 @@
+
+ 
+ Your message did not reach some or all of the intended recipients.
+ 
+               
+ The following recipient(s) could not be reached:
+ 
+
+             A configuration error in the e-mail system caused the message to bounce between two servers or to be forwarded between two recipients.  Contact your administrator.The MTS-ID of the original message is:c=US;a= ;p=ENRON;l=NAHOU-MSMBX03-010516183923Z-4460
+             MSEXCH:MSExchangeMTA:EU:EULON-MSCNX04P
+ 
+
+             A configuration error in the e-mail system caused the message to bounce between two servers or to be forwarded between two recipients.  Contact your administrator.The MTS-ID of the original message is:c=US;a= ;p=ENRON;l=NAHOU-MSMBX03-010516183923Z-4460
+             MSEXCH:MSExchangeMTA:EU:EULON-MSCNX04P
+ 
+
+             A configuration error in the e-mail system caused the message to bounce between two servers or to be forwarded between two recipients.  Contact your administrator.The MTS-ID of the original message is:c=US;a= ;p=ENRON;l=NAHOU-MSMBX03-010516183923Z-4460
+             MSEXCH:MSExchangeMTA:EU:EULON-MSCNX04P
+ 
+
+             A configuration error in the e-mail system caused the message to bounce between two servers or to be forwarded between two recipients.  Contact your administrator.The MTS-ID of the original message is:c=US;a= ;p=ENRON;l=NAHOU-MSMBX03-010516183923Z-4460
+             MSEXCH:MSExchangeMTA:EU:EULON-MSCNX04P
+ 
+
+             A configuration error in the e-mail system caused the message to bounce between two servers or to be forwarded between two recipients.  Contact your administrator.The MTS-ID of the original message is:c=US;a= ;p=ENRON;l=NAHOU-MSMBX03-010516183923Z-4460
+             MSEXCH:MSExchangeMTA:EU:EULON-MSCNX04P
+ 
+
+             A configuration error in the e-mail system caused the message to bounce between two servers or to be forwarded between two recipients.  Contact your administrator.The MTS-ID of the original message is:c=US;a= ;p=ENRON;l=NAHOU-MSMBX03-010516183923Z-4460
+             MSEXCH:MSExchangeMTA:EU:EULON-MSCNX04P
+ 
+
+             A configuration error in the e-mail system caused the message to bounce between two servers or to be forwarded between two recipients.  Contact your administrator.The MTS-ID of the original message is:c=US;a= ;p=ENRON;l=NAHOU-MSMBX03-010516183923Z-4460
+             MSEXCH:MSExchangeMTA:EU:EULON-MSCNX04P

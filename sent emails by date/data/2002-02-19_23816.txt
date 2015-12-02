@@ -1,0 +1,18 @@
+
+ 
+ The revenue impact of the in-service delay of the Red Rock Expansion is as follows:
+ 
+ 	 Volume			Plan		Revenue	Month	
+ 
+ trsp	13,300/d	44 days		$  .05		$ 30,000	(June & July)
+ fuel	    341/d	30 days		$2.57		$ 26,000	(June)
+ fuel	    341/d	14 days		$2.64		$ 13,000	(July)
+ 
+ trsp/fuel	40,000/d	30 days		    0		      0		(June - made no subscription assumption in Plan)
+ trsp	40,000/d	14 days		$ .38		$213,000	(July)
+ fuel	  1,026/d	14 days		$2.64		$ 38,000	(July)
+ 							________
+ Total							$320,000
+ 
+ (Fuel calculated at 2.5% upside)
+ 

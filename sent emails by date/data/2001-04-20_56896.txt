@@ -1,0 +1,65 @@
+
+ 
+ 
+ their standard capital-project IRR hurdle .  The=
+  attached presentation is a first attempt at this qualitative argument.
+ 
+ We intend to use this only as a sales and marketing tool, to allow at least=
+  one of our customers who has an onerously high hurdle rate to manage aroun=
+ d his company's internal capital-budgeting requirements.  He has set aside =
+ a large sum of money for DSM projects, but will only be able to spend a sma=
+ ll portion of it under his company's current capital budgeting methodology,=
+  which does not take into account forward commodity price volatility.
+ 
+ In your opinion, is there any hope in devising a quantitative justification=
+ , or will we have to stick with the qualitative argument as described in th=
+ e attached presentation?  In other words, is it possible to quantify "resid=
+ ual time value" as I've defined it above? Or, even better, are you aware of=
+  a more practical way of conceptualizing this problem?
+ 
+ Thanks,
+ 
+ Jeff Gray
+ 
+ =20
+ 
+ =20
+ 
+ 
+ 
+
+ 01/05/2001 03:26 PM
+
+
+
+ CT=20
+  
+ Jeff,
+ 
+ A few comments on the model:
+ 
+ 1. We have a few reservations about some features of the model but would li=
+ ke to
+ discuss it internally and make the improvements without giving the benefit =
+ of our insights to the consultant.
+ In general, the model is not unreasonable but the devil is always in the de=
+ tails and in the inputs and
+ calibration. The same model may produce drastically different results depen=
+ ding
+ on the quality of inputs.=20
+ 
+ 2. We don't have a separate pool of programmers in the Research  Group. We =
+ were told that you
+ would provide an IT resource. Alex would supervise this person.
+ 
+ 
+ Vince
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <Embedded StdOleLink>

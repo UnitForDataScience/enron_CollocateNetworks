@@ -1,0 +1,24 @@
+
+ 
+
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Love, Phillip M.\Sent Items
+ X-Origin: LOVE-P
+ X-FileName: phillip love 6-25-02.PST
+ 
+ FYI - I have done the west and I have resaved this file out there.  I highlighted the rows to be changed in yellow.  If we all do this, we should be able to use the same list.  I added a column to the file and put IM S/B, LT S/B and Daily S/B.  
+ PL
+ 
+ 
+  
+     
+ The sitara mapping table is saved in the Netco file named CurveMappings.xls
+ 
+ Check your regions and if you see any locations mapped to curves we won't be setting anymore, make a list of those and what the new mappings should be.  Once the new database is set up we will get with Russ to have those changed over.
+ 
+ 
+ Thanks
+ 
+ KK

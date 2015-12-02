@@ -1,0 +1,49 @@
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+ 
+ 
+ All,
+ ?
+ You may already be  aware of this, but NYISO staff just revealed in a meeting 
+ that significant  opportunities exist to purchase in real time from the NYISO 
+ LBMP market at the  PJM proxy bus (i.e., as an external load), due to the 
+ impact of ECA 1006B.?  When the tie is import constrained in BME, prices 
+ there since the 1006 ECAs were  implemented have been as low as -$1000.? In 
+ this case the BME price would  be used for settlement, and you would be paid 
+ $1000/MWh to export power there  (as your export would offset inbound 
+ congestion).
+ ?
+ As more people begin  to take advantage of this, the BME prices can be 
+ expected to be less  negative.
+ ?
+ Caution!? If  you schedule a transaction DA, but it fails the DA checkout, 
+ when there is  congestion on the ties in BME, you will have to settle the 
+ difference at the BME  price, and could get hammered.
+ ?
+ NYISO will probably  issue a bulletin about this later today.
+ ?
+ Scott

@@ -1,0 +1,22 @@
+
+ 
+ Deal should be no confirm. It was done by Stan Cocke in Services, and those 
+ guys deal directly with their counterparty contacts. He thought he marked 
+ this no confirm, but must have defaulted to confirm anyway. I'll change deal 
+ as soon as risk is done with their calc.
+ 
+ Kate
+ 
+ 
+    
+ 	
+ 	
+ 	 	
+ 
+
+  
+  
+ This deal does not have a contact.  
+ 
+ Thanks!
+ 

@@ -1,0 +1,16 @@
+
+ 
+ Chris,
+ 
+ Please add the following locations for pipeline #42 and populate with indicated flow type..........
+ 
+ 109489 		Bullfrog Meter Station (BUL)		R
+ 4065		Desert Springs Meter Station (DES)	R,D
+ 41449		Pueblo North Meter Station (PUE)	D
+ 2546		Western Sugar Meter Station (WES)	D
+ 
+ Thanks.
+ 
+ Mat
+ 
+ PS.  We'll probably have a few more for WIC in the next day or so, but let's get these in to finish out CIG.

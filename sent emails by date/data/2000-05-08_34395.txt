@@ -1,0 +1,90 @@
+
+ 
+ Hi gang.  We still need to make some changes to Sea Robin.
+ 
+ I believe we need 2 pricing zones, Mainline Pool and Offshore.  The new Sea 
+ Robin curve will be used to value the Offshore zone and we will use CGLF/La 
+ curve to value everything else.  Per my discussion with Christine, the 
+ following meters should be moved/mapped to the Offshore zone;
+ 
+ Meter
+ 4743
+ 4747
+ 4741
+ 4754
+ 4771
+ 4753
+ 4794
+ 4728
+ 4700
+ 4749
+ 4751
+ 9740
+ 6335
+ 6333
+ 4794
+ 4700
+ 4850
+ ISRP84
+ FSRP3
+ 2SRP9
+ 
+ 
+ Please let me know what I need to do or if anyone has any questions.
+ 
+ 
+    
+ 	
+ 	
+ 	 	
+ 
+
+   
+ 
+ Chris,
+ 
+ Here is the thread on the Sea Robin Curve
+ 
+ Dave
+ 
+ 
+    
+ 	
+ 	
+ 	 	
+ 
+
+
+  
+ 
+ Imelda and Karie,
+ 
+ The East desk traders have asked me to set up a new curve for the Sear/Sea 
+ Robin Pool/ISRP zone.  The curve is already set up in Erms.  Please do your 
+ sitara voodoo to map the above location to this new curve.
+ 
+ Pipe Zone   Intramonth  Mid  Gas Daily
+ SEAR Sea Robin Pool/ISRP      IF-Searobinwh IF-Colgulf/LA        
+ GDC-Searobinwh
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

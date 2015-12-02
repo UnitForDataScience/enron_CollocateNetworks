@@ -1,0 +1,27 @@
+
+ 
+ 
+ Check with Griffith this morning.
+ 
+ DS
+  
+
+ 
+  
+ Late this afternoon, BVZ requested a ST Trip Test.  We were unable to do it
+ because of WAPA system problems related to loss of internet communications.
+ WAPA requested that we stay at 225 MW until further notice.
+ 
+ Therefore, we have scheduled to do the ST Trip at 7:01 tomorrow morning,
+ Sept. 19.
+ 
+ Possible Outcomes:
+ 1) Go from 225 MW to 150 MW starting at 7:01 and get back up to 225 MW
+ during HE 10:00
+ 2) Go from 225 MW to 150 MW starting at 7:01 then go to zero if the CTG
+ runs back.
+ 
+ DETM and WAPA have been informed of the possible outcomes.
+ 
+ 
+ 

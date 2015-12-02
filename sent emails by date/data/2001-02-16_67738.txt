@@ -1,0 +1,8 @@
+
+ 
+ I am curious why N70012.Q is a variance in 0001 and N70012.R is not a 
+ variance in 0008.  If you look in the two fred files, 0001 has the liq 
+ flashed and not in the GL, and in 0008 the liquidation is in flash and the 
+ GL.  The counterparties in both are the same.  Jim needs to revise 0001 
+ file.  Shout with any questions.  Thanks.
+ PL

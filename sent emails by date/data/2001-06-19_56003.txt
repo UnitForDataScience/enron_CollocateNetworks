@@ -1,0 +1,24 @@
+
+ 
+ I cannot access the system to approve the request. I get a message that the
+ page is not available on-line.
+ 
+ Vince Kaminski
+ 
+  
+
+  
+ 
+ You have received this email because the requester specified you as their Manager. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000041587&Page=Approval to review and act upon this request.
+ 
+ 
+ 
+ 
+ Request ID          : 000000000041587
+ Request Create Date : 6/19/01 9:28:50 AM
+
+ Resource Name       : Unlisted Application/Software
+ Resource Type       : Applications
+ 
+ 
+ 

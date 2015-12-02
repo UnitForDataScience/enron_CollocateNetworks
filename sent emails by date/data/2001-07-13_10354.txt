@@ -1,0 +1,38 @@
+
+ 
+ 	FYI.  Thanks. Lynn
+ 
+  
+     
+  
+ Attendees
+     Lynn Blair
+     Steve January
+     Hasan Kewdaii
+     Joanne Bisbee
+     Jeff may
+     Mike Sullivan
+     
+ A representative with Cedar Falls Utility contacted the NNG measurement desk about volumes for the current gas day changing on the Operator Confirmation Summary.
+  
+ Issue:
+  
+ The daily PGas extract is including partial volume with an Incomplete flag for the current gas day (not closed).  The MIPS extract did not process current gas day volumes.  The Operator Confirmation Summary in TMS displays the incomplete volume to the TMS scheduler and to external customers thus impacting the imbalance calculation.
+  
+ Possible Solution:
+ 1.	Hold the data pole file until gas day is complete
+ 2.	Modify downstream system to process the incomplete flag to ignore current day volumes 
+ 3.	Modify the PGas extract so that current day volume will not be included.
+ 
+ Solution:
+  
+ PGas IT staff will modify the PGas extract so that current day (non closed) volumes will no longer be included in the file.  This will make the extract identical to the MIPS daily extract file it replaces.  TMS IT staff will modify the Operator Confirmation Summary in TMS to display the flow codes included in the extract.  The flow codes are as follows:
+  
+ Blank     = Complete record
+ I             = Incomplete record
+ *             = Complete but edited record
+  
+ Mike Sullivan with provide a work plan and implantation date.  If you have any question call me at 713-853-1534.
+ 
+ Thank you
+ Dale Ratliff

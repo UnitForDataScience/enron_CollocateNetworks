@@ -1,0 +1,8 @@
+
+ 
+ The group numbers are right.  Can I make a suggestion, instead of alphabetical order list them 1  
+    Cc:     Hermanek, Patty 
+  
+ I have changed the point / group lookup when posting TW notices through the Informational Postings Administration Utility.  It now takes the group information from the CAS system instead of PLE.  Please take a look at it to make sure it looks right.
+ 
+ Go to <http://172.30.200.203/ebbadmin/notices/default.htm> and log on as "ebbadmin","august2000".  Go to enter a new TW allocation and press the "POI/Lateral" button from the notice detail window.  The point information is now taken from the new PLE system and the group information is now taken from the new CAS system.

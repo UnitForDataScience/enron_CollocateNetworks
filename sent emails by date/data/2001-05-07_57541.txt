@@ -1,0 +1,23 @@
+
+ 
+ 
+ 
+ 
+
+
+  
+  
+ The following expense report is ready for approval:
+ 
+ Employee Name: Elizabeth Linnell  
+ Status last changed by:  Automated Administrator
+ Expense Report Name: Elizabeth Linnell
+ Report Total: $776.46
+ Amount Due Employee: $776.46
+ 
+ 
+ To approve this expense report, click on the following link for Concur 
+ Expense.
+ http://xms.enron.com
+ 
+ 

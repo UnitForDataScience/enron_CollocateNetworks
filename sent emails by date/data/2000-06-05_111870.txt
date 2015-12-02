@@ -1,0 +1,58 @@
+
+ 
+ Susan and Susan:
+ Just wanted to give you the heads up that we will need a deemed ISDA done for 
+ this counterparty.  Jarrod and I are working on the details but could one of 
+ you undertake to get this drafted by early afternoon tomorrow?  Thanks.
+ carol
+ 
+    
+ 	
+ 	
+ 	 	
+ 
+
+
+
+  
+ Mikey, 
+ 
+ 
+ Our official and joint press release goes out on Monday. Sarah Heward from 
+ Corneys got drunk on Tuesday night and blurted out the deal to her media pals 
+ - hence the article in the Times.
+ 
+ An overview of the deal (subject to them seeing the contract)
+ 
+ Transaction Type:       Critical Day Index Put Option. The index will
+ settle on the number of Thursdays and Fridays from 1/Jun/99 to 30/9/99
+ where the high temperature (Tmax) recorded is 24 Celcius or higher
+ 
+ Type:    Put
+ Strike:                 9 days
+ Price                   1.5 days (GBP 22,500)
+ Client buys/sells       Buys
+ Payment terms:          Premium upfront
+ Notional amount:        GBP 15,000 per critical day
+ Payout limit:           GBP 135,000
+ Trade date:             30/5/00
+ Reference station       Heathrow
+ Fall back reference     ?
+ Data Sources:           Met Web site, QC data
+ Client name             Corney and Barrow Wine Bars Ltd (I'll confirm this)
+ Brokerage:    Speedwell Weather Derivatives Limited will be paid a flat fee 
+ of GBP 500
+ 
+ 
+ Speedwells address is
+ 19 St Mary at Hill
+ London 
+ EC3R 8EE
+ tel: +44 (0)20 7929 7979
+ 
+ Contact person there is Stephen Doherty. He is representing Corneys in this 
+ deal and will probably be the person to contact to get any info that you need 
+ on Corneys.
+ 
+ 
+ 

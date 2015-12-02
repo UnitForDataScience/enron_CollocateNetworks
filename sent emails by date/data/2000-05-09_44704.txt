@@ -1,0 +1,5 @@
+
+ 
+ I have opened the referenced counterparty to trade weather online.  However, 
+ they should continue to use the same special form of confirm that they are 
+ using offline until we get an ISDA Master in place with them.

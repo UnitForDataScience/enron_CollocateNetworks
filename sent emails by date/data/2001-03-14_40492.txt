@@ -1,0 +1,33 @@
+
+ 
+ FYI
+ 
+ 
+
+ 	03/14/2001 09:31 AM
+ 		 
+
+
+ 		  
+ 
+ The $150 "soft price" cap that FERC adopted in its December 15 order applies 
+ only to sales of power into the California ISO market and California PX 
+ day-aheadand day-of markets.  These are the real-time and short-term markets, 
+ respectively.   By the terms of the December 15 order, the cap does not apply 
+ to any bilateral transactions, including sales to the California Dept. of 
+ Water Resources (CDWR), which are generally for longer terms.
+ 
+ Given the instability of the California market, the current applicability of 
+ the cap may change in the future.  In a recentlly released report, FERC staff 
+ recommends that the cap be discontinued after April 2001 and replace by a 
+ series of other measures to mitigate market power.  Thes include a marginal 
+ cost price cap on sales into the ISO by sellers who are party to the 
+ participating generator agreement.
+ 
+ Although unlikely, it is not inconceivable that someone in the future might 
+ argue that the role currently being performed by CDWR is in some respects the 
+ same role as was formerly performed by the PX.  Based on that proposiiton, it 
+ might be argued that a price cap similar to the "soft price" cap  be imposed 
+ on sales to the CDWR.
+ 
+ 

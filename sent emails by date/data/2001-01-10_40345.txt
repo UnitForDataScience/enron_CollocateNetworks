@@ -1,0 +1,15 @@
+
+ 
+ Based on a discussion I had with Tim, we should report out-of-market 
+ transactions with the FERC and should not question the ISO about their 
+ reporting out-of-market transactions for the following reasons:
+ 
+ Even though the Commission's order referred only to bids into the ISO, it was 
+ not artfully written.  Otherwise FERC would not get any reporting information 
+ necessary for refunds.
+ We have always said that out-of-market should be more transparent and more 
+ liquid.  As long as this information is withheld from the market, these goals 
+ will not be achieved.
+ Nor will the Commission's goal of moving volumes out of the spot market be 
+ achieved if parties can simply withhold from the spot market and sell 
+ out-of-market without FERC scrutiny.

@@ -1,0 +1,80 @@
+
+ 
+ I don't think that the doorstep reviews are the right venue for this.  I 
+ believe that to address what seems to be David's concerns would be better 
+ handled with an appropriate person deemed to lead a special project in a 
+ directed timeframe with a well defined scope.  We purposefully utilize 
+ differing personal on the doorstep reviews and it would seem that concerns 
+ over proper valuation should be addresses in a timeframe that is not 
+ dependent on the schedule of doorstep reviews around the world.  
+ 
+ 
+    
+ 
+ 
+
+         01/12/2001 12:49 PM	
+ 	
+ 	
+ 	                           
+ 	
+ 
+
+
+
+
+  
+ Whatever we need to do, we should do.
+ 
+ 
+ 
+ Shona Wilson
+ 01/12/2001 12:26 PM
+
+
+
+
+ 
+  
+ Doorstep is a joint MRM RAC and Energy Ops review process.  If we want to 
+ include a full review of all the mtm methodologies we need to start building 
+ this into the doorsteps by ensuring that the RAC person attending the 
+ doorstep has the relevant experience to perform this review and that the time 
+ scheduled to do the review is adequate.
+ 
+ 
+ 
+ 
+
+
+
+
+ 
+  
+ 
+ I am getting a strong sense that there are many holes, patches and 
+ workarounds in the upstream risk systems, relating to their ability to 
+ reflect accurately the valuation, and the risk attached to the products that 
+ get traded.
+ 
+ I would like to use the doorstep process and the risk review process to 
+ establish precisely what those holes are, if we don't already know. Here is 
+ an example:
+ 
+  "All of our systems value options at-the-money, regardless of moneyness." 
+ True or False ?
+ 
+ Can you please include this concept in those exercises. The aim is, at least 
+ by the end of Q1 we can put our hands on a summary of everything.
+ 
+ Thanks
+ DP
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

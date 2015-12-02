@@ -1,0 +1,31 @@
+
+ 
+ Please see MAP comments at the end.  My phone number is 713/853-5620.  
+ Thanks.  Sara
+ 
+ 
+ Here starts my comments on the contract language.
+ 
+ 5.  As we talked about I am confused that which crack sale has occurred.  The 
+ fixed price referencing the attachment should indicate USGC 74 Grade (Pipe) 
+ Heating Oil.  I am unclear where in the document we mention Low Sulfur.
+ 
+ Floating Price: The average of USGC platts oilgram midpoint for USGC Pipeline 
+ No. 2 74 Grade OIl, multiplied by 42, less the First Nearby NYMEX WTI Crude 
+ Oil futrures settlement prices
+ 
+ Where is the settlement paragraph?  Something like:
+ 
+ If the Fixed Amount exceeds the Floating Amount for such calculation period, 
+ the fixed price payor shall pay the floating price payor an amount equal to 
+ such excess.  If the floating amount exceeds the fixed amount for such 
+ calculation period, the floating price payor shall pay the fixed price payor 
+ an amount equal to such excess.
+ 
+ Thanks for you help.
+ 
+ 
+ 
+ 
+ 
+ 

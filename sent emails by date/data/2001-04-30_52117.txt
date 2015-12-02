@@ -1,0 +1,25 @@
+
+ 
+ 
+ >  > 
+ >  >
+ > Jason,
+ >
+ > This is part of our project. We would use it to estimate american premiums
+ > and then add that premium to valuations that give european values.
+ >
+ > I hope it goes through.
+ >
+ > Jeff
+ > (I'm on Tracy and Nan's team)
+ >
+ >
+ > .....Didn't work
+ >
+ > I'll try zipped version.
+ >
+ >  <<Big Binomial.zip>>
+ 
+  - Big Binomial.zip
+ 
+ 

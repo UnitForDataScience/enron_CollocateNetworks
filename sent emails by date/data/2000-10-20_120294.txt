@@ -1,0 +1,53 @@
+
+ 
+ 
+ 
+ 
+
+
+   
+ 
+ 
+ Here is the message I received from my technical folks. (below in red).
+ As you can see a lot of work is involved.  Let me know how much you would
+ plan to nominate at this point, etc.    And can they committ to a certain,
+ volume, etc.   Also,  have they talked to HPL about taking gas at this
+ point.
+ 
+ 
+ After visiting the site (M&R 71886/76886), I found the following work that
+ would need to be done before custody transfer measurement could be
+ performed :
+  (The site has two 12" meter runs with valve switching (bidirectional flow)
+ and run switching - and has not flow gas in over 10 years)
+ 
+ 1. All valves will need to be inspected & overhauled
+      A. Run switching valve - major overhaul (needs to be sent off for this
+ work)
+      B. Control valves - inspected & overhauled (needs to be sent off for
+ this work)
+      C. Small regulators overhauled
+ 2. Both meter tubes pulled and inspected
+      A. Sr. fitting needs to be overhauled
+      B. Tubes will need to be honed (needs to be sent off to have fitting
+ overhauled and tubes honed)
+ 3. All transmitter need to be replaced
+      A. Differential - 2
+      B. Temperature - 2 (1 additional from original setup)
+      C. Pressure - 4
+      D. Direct mount manifolds - 2
+      E. UPS system
+ 4. RTU boards need to be furnished
+      A. Mother board
+      B. STI REM
+      C. Main terminal board
+      D. Serial IO LEM
+      E. Analog Output board
+
+ 6. Two sets of orifice plates (In .50" increments through Beta range)
+ 
+ It would take at least 1.5 months to re-work the station controls and
+ associated valves, meter runs, and EGM.  If you need more information
+ please let me know.
+ 
+ 

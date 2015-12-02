@@ -1,0 +1,59 @@
+
+ 
+ Chris,
+ 
+ I have read the paper.  It reads very well. Two comments.
+ 
+ 1. It probably makes sense to include a note on the standard GBM simulation 
+ equation and
+ the way it's typically discretized.
+ 
+ 2. It will help the reader who did not read the earlier articles to explain 
+ what CT is (perhaps a footnote).
+ 
+ 
+ I am also including a message I sent to Julie today.
+ 
+ 
+ 
+ Best regards.
+ 
+ Vince
+ 
+ 
+ 
+ 
+
+
+
+
+  
+ 
+ Hi Vince,
+ 
+ I'm wondering if you got this last week? If you could have a quick look and
+ get back to me with any comments that would be great - Robin is chasing me
+ on this one!
+ 
+ Best regards.
+ 
+ Chris.
+ 
+ 
+ 
+
+
+
+
+ >  >  >
+ >
+ > > Les,
+ > >
+ > > The revised version  of the VaR article looks fine.
+ > >
+ > > Vince
+ > >
+ >
+ 
+  - EPRM_04_sim_mr.zip
+ 

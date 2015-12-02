@@ -1,0 +1,52 @@
+
+ 
+ Nancy,
+ 
+ The new attributes you have assigned to the IM-EMWNSS2-PHY  book are 
+ duplicating the attributes of the INTRA-EMWNSS1-PHY book.  Per my original 
+ request please change the region code for IM-EMWNSS2-PHY to Midwest_Old, 
+ since it is my understanding from Burton that this book should no longer be 
+ used.
+ 
+ If you have any more questions, give me a call.
+ Robin
+ 
+ 
+    
+ 	Enron North America Corp.
+ 	
+
+ 	
+ 
+
+
+
+  
+ Robin:
+ 
+ Per your request, the attributes on FT-IM-ENOV-PHY have been changed as 
+ follows
+ 
+ 
+ 
+ 	Portfolio Code	Book Code	Book Type	Book Flag	Commodity	Region Code
+ OLD ATTRIBUTES	1	E	M	P	NG	MIDWEST
+ NEW ATTRIBUTES	P	A	M	P	NG	MIDWEST
+ 
+ In order to prevent duplicate book attributes,  IM-EMWNSS2-PHY attributes 
+ were also changed as follows:
+ 
+ 
+ 	Portfolio Code	Book Code	Book Type	Book Flag	Commodity	Region Code
+ OLD ATTRIBUTES	P	A	M	P	NG	MIDWEST
+ NEW ATTRIBUTES	P	A	M	P	NG	MIDWEST1
+ 
+ These changes will properly report the ERMS positions in the FT-IM-ENOV-PHY 
+ book as apposed to IM-EMWNSS2-PHY, which should have no positions.
+ 
+ 
+ If you have any questions, please call me at ext 54751
+ 
+ 
+ Nancy
+ 

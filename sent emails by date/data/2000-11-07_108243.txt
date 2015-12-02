@@ -1,0 +1,107 @@
+
+ 
+ fyi
+ 
+
+   
+ I still don't understand.  But we are net short crude, and Crude, company=
+ =20
+ wide got longer 1000 contracts yesterday.  This is counter to what you are=
+ =20
+ saying below... Jeff
+ 
+ 
+
+
+  
+ You are correct, JBLOCK got longer 495K barrels.  However, crude is a huge=
+ =20
+ hedge component on this deal and net crude position for Liquids is short.
+ As you can see on the Component VaR graph, with the short position in crude=
+ ,=20
+ it is eating up most of Agg-Liquids VaR.  Therefore, putting on any long=20
+ position in products (this includes LPG's) would act as a hedge. =20
+ 
+ 
+ 
+ 
+ 
+
+ 11/07/2000 12:41 PM
+
+
+ 
+  
+ how did it reduce var if we added to the underlying positions?
+ 
+ 
+
+
+  
+ JBlock does take up some of the VaR for Agg-Liquids; however, it is not a=
+ =20
+ contributor of VaR violation for effective date Nov. 6.  As matter of fact,=
+ =20
+ the VaR for JBlock went down.  The component VaR graph below shows that=20
+ heating oil was a hedge but no longer as of yesterday.  Gasoil is still a=
+ =20
+ hedge for Agg-Liquids but the hedge is reduced.   =20
+ 
+ 
+ 
+ 
+ 
+
+ 11/07/2000 12:07 PM
+
+
+ 
+  
+ Where is the mention of J Block hedges.=20
+ 
+ 
+   =20
+ =09
+ =09
+
+ 04 PM
+ =09
+ 
+
+
+
+
+
+
+  
+ Liquids desk has a VaR violation for effective date Nov. 6 of  $8.2MM, over=
+ =20
+ its limit by 3 percent.=20
+ 
+ The violation was due to heating and gasoil going shorter by 939K barrels. =
+ =20
+ Essential, shorten the heat/gasoil position reduced the overall net long=20
+ products=01, portfolio causing the crack spreads to widen when crude oil is=
+  net=20
+ short 5MM barrels.
+ 
+ Furthermore, volatility on crude was up 3 percent with 15 cents upward move=
+ =20
+ in price.=20
+ 
+ Christian        =20
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

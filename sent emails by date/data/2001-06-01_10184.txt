@@ -1,0 +1,26 @@
+
+ 
+ Dale, does this help any?  Thanks. Lynn
+  and id_poi_role = 'R' ???
+  and b.dt_date between dt_effective and dt_termination
+ 
+ group by 
+  a.nb_poi,
+  b.dt_date
+ 
+ 
+ 2.  NNG Current month imbalance
+ 
+ 	Alice in working on this one.
+ 
+ 
+ 3.  NNG Accum. month imbalance
+ 
+ 	Alice in working on this one.
+ 
+ 
+ 4. NNG Storage previous day / current day into.
+ 
+ 	Alice in working on this one.
+ 
+ 

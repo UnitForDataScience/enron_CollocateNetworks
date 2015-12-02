@@ -1,0 +1,7 @@
+
+ 
+ Chris,
+ 
+ Remember way back when......we threw out a bunch of PGE (#17) data that we were going to reload from the saved html files?  Anyway, it looks like we're missing data from 2/7/01 through 3/12/01.  As we discussed, we should have the html files so can we run those through the transform and get them into the database?  Let me know if there are any issues.
+ 
+ Mat

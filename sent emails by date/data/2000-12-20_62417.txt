@@ -1,0 +1,11 @@
+
+ 
+ Stinson
+ 
+ Thanks
+ 
+ P.S.  
+ 
+ At the end of the term of each simulation do we assume that we close the 
+ position on that date and take a hit or do we leave the simulation with an 
+ open positon.

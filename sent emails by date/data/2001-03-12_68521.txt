@@ -1,0 +1,32 @@
+
+ 
+ Can you take a look at this and let me know what we officialized instead of 
+ these.
+ PL
+ 
+ 
+ 
+ 
+
+ 03/12/2001 11:04 AM
+
+   
+ Phillip,
+ 
+ Each month we (in accounting) pull the forward detail for the post ids which 
+ were officialized at month end.  For February 2001, these post ids are on the 
+ Report page in the FT Intra Ontario file but they are not officialized in 
+ RunM:
+ 
+ 1054684
+ 1054685
+ 1054686
+ 1054689
+ 
+ Were there other post ids which were officialized for these particular 
+ rolls?  If not, would you please officialize these so I can pull them.
+ 
+ Best regards,
+ 
+ Rachel
+ 

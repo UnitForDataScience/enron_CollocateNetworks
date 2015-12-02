@@ -1,0 +1,12 @@
+
+ 
+ Brent,
+ 
+ I'm sure there would be no problem with you copying our Master Swap Agreement 
+ database and using it for your contract applications.  It is my hope to use 
+ it for all the ECT trading groups, the Power group has already copies it, I 
+ spoke to London about copying it for their other trading groups, and I have 
+ shown it to other groups, from Global Contracts to EES.  All you would need 
+ to do is change the contract drop downs.  Contact Mike Neves, who is working 
+ on this database for us, and either he, or someone else can be assigned to 
+ developing a similar system for you.

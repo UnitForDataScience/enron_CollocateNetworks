@@ -1,0 +1,8 @@
+
+ 
+ I added the pipelines and zone/point combonations that I feel we will be 
+ using most on EOL.
+ 
+ 
+ Let me know if you have any questions. 
+ 

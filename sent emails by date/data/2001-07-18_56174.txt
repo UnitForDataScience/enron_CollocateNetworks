@@ -1,0 +1,37 @@
+
+ 
+ Paolo,
+ 
+ I cannot open the file. When I try to use my Acrobat reader, I get
+ a message that the file does not begin with %PDF-. The file that
+ I receive is winmail.dat; the pdf files typically have an extension 
+ .pdf  and begin with teh same string of characters.
+ Possibly, the file is modified by the E-mail program.
+ 
+ 
+ My fax number is 713 646  2503.
+ 
+ Vince
+ 
+  
+
+    
+ Vincent,
+ 
+ Try with this file. It is a pdf one. If it does not work again let me know,
+ so that I can fax you the document. In this case I would need your fax
+ number.
+ 
+ Thank you again for your time and understanding.
+ 
+ Best regards,
+ 
+ Paolo Cadoni
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  - winmail.dat << File: winmail.dat >> 

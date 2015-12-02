@@ -1,0 +1,42 @@
+
+ 
+ I'm still looking at this.
+ 
+ 
+ 
+ 
+ 
+ 
+ Crystal Hyde
+ 07/27/2000 01:52 PM
+
+   
+ Chris,
+ 
+ Please take a look at this email and figure out where this zone should be 
+ mapped PLEASE!!  Just respond to Regina Perkins when you figure it out.
+ 
+ 
+ Thanks,
+ 
+ Crystal
+ 
+ 
+ 
+ Regina Perkins
+ 07/26/2000 05:09 PM
+
+
+  
+ Tricia,
+ 
+ Since we are setting up new zones, I would like to know how you would like 
+ them mapped.  Below is the mapping for Zone 0 Market.
+ 
+  Pipe  Zone    Intramonth   Mid   Gas Daily
+ 
+  TGT  Z0MARKET  IF - TGTZ0MARK  IF - TGT/ZSL  GDC - TGTZ0MRK
+  TGT  Z1MARKET        ???    ???        ???
+ 
+ 
+ 

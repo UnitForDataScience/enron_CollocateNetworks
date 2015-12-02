@@ -1,0 +1,22 @@
+
+ 
+ When I run a CompareRite redline I get a different number of changes, so I 
+ was unclear as to the compared documents.
+ 
+ Kay
+ 
+ 
+ 
+ 
+
+
+  
+  
+ The comparison was run against the last version you sent to FuelCell on the
+ 2nd of November.   
+ 
+ 
+ 
+ 
+ 
+ 

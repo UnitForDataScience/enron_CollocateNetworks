@@ -1,0 +1,54 @@
+
+ 
+ thanks for the work on the new locations the changes are as follow below.
+ 
+ 
+   =20
+ 
+ 
+    =20
+   02/14/2001 11:54 AM=09
+ =09
+ =09
+ =09                          =20
+ =09
+ 
+
+
+
+  
+ Steve,
+ 
+ Please review the attached language for the new locations.
+ 
+ Thanks,
+ 
+ Melba
+ 58986
+ 
+ 
+     =20
+ Location:=09Misc.Northwest pipeline gas  North of Green River
+ Abbreviation:=20
+ (as it appears on the web)=09
+ =09< NW No. GR >
+ Sort Code:=094550
+ Description:
+ (as it appears on the web)=09The transaction is for receipt point gas, Nort=
+ h of=20
+ Green River, south of Kemmer at seller=01,s choice of point on Northwest=20
+ Pipeline.
+ REQ'D BY:=09Steve South
+ 
+ Location:=09Misc. Northwest pipeline gas  South of Green River
+ Abbreviation:=20
+ (as it appears on the web)=09
+ =09< NW So. GR>
+ Sort Code:=094550
+ Description:
+ (as it appears on the web)=09The transaction is for receipt point gas, Sout=
+ h of=20
+ Green River at seller=01,s choice of point on Northwest Pipeline.
+ REQ'D BY:=09Steve South
+ 
+ 

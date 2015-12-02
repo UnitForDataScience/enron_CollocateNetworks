@@ -1,0 +1,23 @@
+
+ 
+ 
+ 
+ 
+
+
+  
+  
+ The following expense report is ready for approval:
+ 
+ Employee Name: Cindy K. Olson
+ Status last changed by:  Automated Administrator
+ Expense Report Name: April American Express
+ Report Total: $8,324.36
+ Amount Due Employee: $8,324.36
+ 
+ 
+ To approve this expense report, click on the following link for Concur 
+ Expense.
+ http://xms.enron.com
+ 
+ 

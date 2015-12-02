@@ -1,0 +1,37 @@
+
+ 
+ The employee for whom access if requested is not an employee of Energy 
+ Operations.  I would assume that with his supervisor listed as Ed Baughman, 
+ that he is in a commercial origination group.  Someone else should be 
+ reviewing and approving this.  
+ 
+ 
+  
+  
+ 	Security Resource Request System	
+ Application Approval		
+ Please review and act upon this request. You have received this eMail because 
+ you are listed as an approver on the original request.
+ 			Instructions	
+ For: 	Tom Swank                   			
+ Request	Original: 			
+ Application Name:	EOL - Other (US)			
+ Request Type:	Grant			
+ Role(s):				
+ Comments:	Read Only		Review the request in the Request section at left.
+ 			For more information regarding who the request is for, do the following:
+ 			Click on the name for PeopleFinder info
+ 			See the Further Information section below
+ 			In the Approval Section, select Approve or Reject, enter comments as 
+ necessary and click [Submit].	
+ 
+ 
+ 
+ 
+ 	Further Information		
+ 	         		
+ Requestor:			Tom Swank/HOU/ECT
+ Manager:	Edward D Baughman		
+ Request  RC #:	0010	WO #:	
+ Company #:	413	Priority:	Normal
+ General Comments:			

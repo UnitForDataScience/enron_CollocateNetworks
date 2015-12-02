@@ -1,0 +1,65 @@
+
+ 
+ OK for me.
+ 
+ 
+ 
+
+ =0906/05/2001 10:27 AM
+ =09=09=20
+
+
+
+ =09=09  
+ 
+ Tana/Kelly/Karen:
+ 
+ The product long descriptions below will fall under the new product type: =
+ =20
+  US Crude WTI Fin Spd
+ =20
+ Credit (Tom Moran) has approved copying the profiles for the new product ty=
+ pe=20
+ from the following:
+ 
+  US Crude WTI Fin Swap
+ 
+ Please respond no later than 10 a.m. on Wednesday, June 6.
+ 
+ Thank you.
+ 
+  
+    =20
+ Tom; Swinney, John; Hunter, Larry Joe
+ Cc: Lees, Lisa; Sever, Stephanie; Jones, Tana; Lambert, Karen; Lombardi,=20
+ Kelly; Sweitzer, Tara; Kenne, Dawn C.; Moorer, Torrey; Cass, Robert B.;=20
+ Lozano, Melba; Meredith, Kevin; Alatorre, Carlos
+  
+ Please approve the following new product type in Data Manager after 11 A.M.
+ 
+ US Crude WTI Fin Spd
+ 
+ (Please note that this product type will replace the existing US Crude WTI=
+ =20
+ Cal Spd Fin Swap)
+ 
+ 
+ 
+ 
+ STEPS FOR APPROVAL:
+ 
+ click the  START button=20
+ select  PROGRAMS
+ select  TEST APPLICATIONS
+ select ENRONONLINE CLUSTER(PROD)
+  PROCEED WITH USUAL LOGIN/PASSWORD=20
+ click the Enron Online Production Cluster "START" button =20
+ select EnronOnLine (this is the EOL Datamanager)
+  PROCEED WITH EOL LOGIN/PASSWORD
+ click on the "+" for EnronOnLine
+ click on the "+" for Product Types
+ click on the "+" for "Awaiting Approval" (OR  "Partially Approved")
+ select the product requiring review as stated in e-mail above
+ Right "mouse" click on "properties" to view product set-up=20
+ TO APPROVE:  Right mouse click on "Approved"
+ 

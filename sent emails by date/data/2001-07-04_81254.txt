@@ -1,0 +1,22 @@
+
+ 
+ this person does not report to me.
+ 
+  
+
+  
+ 
+ This request has been pending your approval for  3 days.  Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000043773&Page=Approval to review and act upon this request.
+ 
+ 
+ 
+ 
+ 
+ Request ID          : 000000000043773
+ Request Create Date : 6/29/01 3:33:30 PM
+
+ Resource Name       : EOL Canada Backoffice Product Data Manager
+ Resource Type       : Applications
+ 
+ 
+ 

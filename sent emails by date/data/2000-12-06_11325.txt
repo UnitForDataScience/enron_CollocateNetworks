@@ -1,0 +1,6 @@
+
+ 
+ No- the conclusion is incorrect. The peakers help to mitigate the risk 
+ created by market positions. Maybe just change the last sentence to read 
+ "Because the peakers offset the contract, the VAR is substantially reduced. " 
+ Rick

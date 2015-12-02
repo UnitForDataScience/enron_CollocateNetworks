@@ -1,0 +1,66 @@
+
+ 
+ 
+ 
+ 
+
+
+   
+ 
+                                                    SALES AGT: VA/YKLJAR
+ 
+                                           NEAL/CAROL
+                                           NEAL/SCOTT
+                                           NEAL/BRETT
+   ENRON                                   NEAL/COLTON
+   1400 SMITH
+   HOUSTON TX 77002
+   ATTN KIMBERLY BROWN X 35913
+ 
+ 
+   DATE:  DEC 22 2000                   ENRON
+ 
+ SERVICE               DATE  FROM           TO             DEPART
+ ARRIVE
+ 
+ CONTINENTAL AIRLINES  11MAR HOUSTON TX     SALT LAKE C UT 220P    430P
+ CO 369     B          SUN   G.BUSH INTERCO INTL
+                             TERMINAL C     TERMINAL 1
+                                                           NON STOP
+                             RESERVATION CONFIRMED         3:10 DURATION
+                   AIRCRAFT: BOEING 737-300
+                             SEATS 10A/10B/10C/07D NO SMOKING CONFIRMED
+ 
+ CONTINENTAL AIRLINES  16MAR SALT LAKE C UT HOUSTON TX     510P    911P
+ CO 588     B          FRI   INTL           G.BUSH INTERCO
+                             TERMINAL 1     TERMINAL C
+                             SNACK                         NON STOP
+                             RESERVATION CONFIRMED         3:01 DURATION
+                   AIRCRAFT: BOEING 737-300
+                             SEATS 21C/21D/21E/21F NO SMOKING CONFIRMED
+ 
+       AIR FARE 1488.36      TAX 145.64          TOTAL USD
+ 1634.00
+ 
+                                         INVOICE TOTAL USD
+ 1634.00
+ 
+ PAYMENT: CCAX378748867795005/0301/A000037
+ 
+ RESERVATION NUMBER(S)  CO/M37PBP
+ 
+ NEAL/CAROL                               TICKET:CO/ETKT 005 7019636584
+ NEAL/SCOTT                               TICKET:CO/ETKT 005 7019636585
+ NEAL/BRETT                               TICKET:CO/ETKT 005 7019636586
+ NEAL/COLTON                              TICKET:CO/ETKT 005 7019636587
+ 
+ 
+                   THANK YOU FOR CALLING VITOL TRAVEL
+ 
+ 
+
+ Do You Yahoo!?
+ Yahoo! Shopping - Thousands of Stores. Millions of Products.
+ http://shopping.yahoo.com/
+ 
+ 

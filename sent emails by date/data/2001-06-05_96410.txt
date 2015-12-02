@@ -1,0 +1,28 @@
+
+ 
+ 
+ 
+
+ 	06/04/2001 07:15 PM
+ 		 
+
+ 		 
+ 
+ 
+ This request has been pending your approval for  35 days.  Please click 
+ http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000029730&Page=
+ Approval to review and act upon this request.
+ 
+ 
+ 
+ 
+ 
+ Request ID          : 000000000029730
+ Request Create Date : 4/17/01 5:44:32 PM
+
+ Resource Name       : VPN/IPASS
+ Resource Type       : Applications
+ 
+ 
+ 
+ 

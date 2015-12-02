@@ -1,0 +1,9 @@
+
+ 
+ I still have to fix the liquidated damages/termination stuff, but here's a 
+ redline for you to look at.  I picked up the comments from others (Terry, 
+ Christi) and these should be lined as well.  
+ 
+ I should be done soon.
+ 
+ 

@@ -1,0 +1,47 @@
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+ 
+ 
+ Counterparty    TAGG#   Action                                            
+ AEP Energy Services, Inc.  qX4934.1  Rebook to AEP Energy Services, Inc.
+  "    qX4285.1   "
+ Blue Star Resources, Ltd  qV3059.5  Pending Jay Williams 
+ El Paso Energy Corporation  qX5675.1  Rebook to El Paso Merchant Energy LP
+ Husky Gas Marketing Inc.  qX5508.1  Rebook to Husky Oil Operations Limited
+ Louis Dreyfus Natural Gas Holdings qX5624.1  Louis Dreyfus Corporation
+ NGL Supply, Inc. dba Premier Enter. qX5790.1  Credit Previously Provided
+ National Fuel Resources, Inc.  qX5260.1  Pending Rudwell Johnson
+ Newton Paper Company, Inc.  qX5921.1  "Need L/C" language required in the 
+ confirm
+  "    qX5922.1   "
+ PG&E Energy Trading, Canada Co qX4420.1  Rebook ENA to ECC, under the ISDA
+ PanCanadian Energy Inc.  qX4599.1  Rebook to PanCanadian Energy Services Inc.
+  "    qX4637.1   "
+  "    qX4644.1   "
+ Paribas     qX4182.1  Rebook to BNP Paribas
+ Pickens Fuel Corp   qP0007.2   Pending Brant Reves
+  "    qX0714.4.5.7.9.A.B  "
+  "    qX5188.1   "
+ Smurfit Packaging Corp.   qX5745.1,qX5798.1,qX5917.1 Credit Previously 
+ Provided
+ Texaco Inc.    qX5487.1  Rebook to Texaco Natural Gas Inc.
+ Utilicorp United Inc.   qX4981.1  Rebook to Aquila Risk Management Corp.

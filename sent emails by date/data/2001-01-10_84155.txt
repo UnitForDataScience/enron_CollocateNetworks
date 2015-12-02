@@ -1,0 +1,34 @@
+
+ 
+ Stephanie,  I have the copy of the contract so don't worry about that.  Do 
+ you know of any other deals with PGT we currently hold?
+ 
+ Becky,  You knowledge of any other PGT deals we have along with the tariff 
+ provisions would be appreciated.  I am trying to prepare a brief for Travis 
+ by late tommorrow.
+ 
+ Thanks.
+ 
+ 
+ 	Travis McCullough
+ 	01/09/2001 09:12 AM
+ 		 
+
+
+ 		  Here is a list of the information that we will need to collect from each 
+ master agreement:
+ Governing law;
+ summary of setoff provisions (in particular, does the contract give us the 
+ right to setoff (i) only those transactions under the specific master, (ii) 
+ transactions under other agreements between the same counterparties; or (iii) 
+ transactions under other agreements between affiliates of the counterparties; 
+ (v) all transactions or only those transactions that we elect to offset;
+ summary of termination provisions (automatic upon bankruptcy or insolvency of 
+ a party? any notice requirements?) 
+ summary of liquidated damages provisions (how computed?  provision for 
+ two-way LD's (such that even the breaching party gets a payment if they are 
+ in the money?) 
+ We also need to discuss how we can get comfortable that all transactions were 
+ properly booked under the correct master agreement, and that there are no 
+ significant "glitches" in our transaction documentation.  
+ 

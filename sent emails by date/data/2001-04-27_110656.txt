@@ -1,0 +1,7 @@
+
+ 
+ Chris,
+ 
+ I stumbled across a few problems with CIG/WIC.  First, location 2776 for pipeline has historicals loaded with flow type "D" yet new data is scraped with flow type "T".  Let's change all D's to T's.  Where dates overlap (key violations), just leave the existing Ts and scrap the Ds.  Second, please move the usage data for 279577 with pipeline number 6 to the same DRN with pipeline number 43 and delete the location under pipeline 6, as this is a manually entered point.  Let me know if you have any questions.  Thanks.
+ 
+ Mat

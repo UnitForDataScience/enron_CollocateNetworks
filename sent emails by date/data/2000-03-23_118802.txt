@@ -1,0 +1,31 @@
+
+ 
+ This looks good to me so I will go ahead and approve it unless you have an 
+ objection.
+ 
+ Dale Neuner   03/23/2000 08:31 AM
+ 
+
+
+
+
+
+
+
+
+  
+ I have created the following new Product Type in the Data Manager:
+ 
+ US East Power Phy Firm ICAP
+ 
+ Please go into the DataManager and indicate your approval. If you have any 
+ questions concerning the Product Type, please DO NOT REJECT it, rather call 
+ me instead.
+ 
+ I have attached a full description of the Product that will be built under 
+ this Product Type for your review.
+ 
+ Dale
+ 3-9746
+ 
+ 

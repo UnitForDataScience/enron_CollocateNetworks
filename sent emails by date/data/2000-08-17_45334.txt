@@ -1,0 +1,110 @@
+
+ 
+ Each legal trading group here in Houston checks on a relevant counterparty's 
+ ability to trade its products.  So far the only physical trading area where a 
+ governmental counterparty appears to have problems is the power trading group 
+ where there are licensing requirements that may or may not have been obtained 
+ to trade power.  For financial trading we do have to inquire into the 
+ relevant governmental entities' authority to enter into derivative 
+ transactions.  In order to do that we look at statutory authority, any 
+ relevant local regulations, investment policities, etc., in addition to 
+ obtaining legal opinions on the subject, and with some counterparties hiring 
+ outside counsel to advise us.  For most governmental entities if we do not 
+ have an ISDA Master in place and have already done such due diligence, I will 
+ not be approving them to trade financial products.
+ 
+ As far as the financial test, for the US based counterparty list, I check 
+ with Credit on every counterparty to determine whether they meet the US 
+ eligible swap participant standards.  As I'm sure you know, for most plain 
+ vanilla corporates and partnerships this means having total assets of $10mm 
+ or a net worth of $1mm.  Pretty much, if I am turning down a counterparty to 
+ trade financial it will be because they do not meet the ESP test or they are 
+ a governmental or quasi-governmental entity.
+ 
+ If what you are telling me is that the Australian counterparties have to meet 
+ a $6mm asset test to trade any products, then I will add this to my daily 
+ inquiry to Credit and turn down Australian counterparties if they do not meet 
+ this test.  At your direction I will handle this in this manner.  How would 
+ you like me to proceed?
+  
+ 
+ 
+ 
+
+ 	08/16/2000 07:58 PM
+ 		
+
+ 		  		  
+ Is this an incorporated entity? I assume its authority to trade a range of 
+ products has been checked out? In Australia this assumption can not be made 
+ for government  entities
+ 
+ Under our licencing requirements we need to make reasonable enquiries that a 
+ counterparty has (or is guaranted by someone who has) atleast USD6 million in 
+ assets. Can this assumption be made?         
+ 
+ 
+
+
+  
+  
+ Tauton is ok for all products, except for financial products (it can do 
+ power).  David, when I talk about this I am never including credit 
+ derivatives unless Credit specifically tells us in their spreadsheet that 
+ this is a credit derivatives counterparty.
+ 
+ 
+ 
+
+ 	08/15/2000 05:32 PM
+ 		
+
+ 		  		  
+ Tana what can the Taunton Municipal Light Plant trade? Is it the same as 
+ Huntsville? 
+ 
+ 
+
+
+
+
+
+
+ Communications
+  
+  
+ 
+ 
+ 
+ 	Bradley Diebner
+ 	08/14/2000 05:27 PM
+ 		 
+
+
+
+
+
+
+ Contracts and Facilities, Enron Europe Global CounterParty, Stephanie 
+
+
+
+ 		  		  
+ The EOL approvals for 08/14/00 are attached below.
+ 
+ 
+ 
+ 
+ Regards,
+ bd
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,44 @@
+
+ 
+ FYI
+ can be traded (albeit in a 
+ more limited fashion) offshore.   Because money market instruments can't be 
+ shorted locally, they are really just passive investment vehicles (like a 
+ bank CD) off of which one trades the interest rate via swaps.  That is, you 
+ are shortening or lengthening your investment horizon based on one's 
+ expectation of rates and continually earning either a higher or lower carry 
+ than market.  Most of this type of trading can be done offshore through 
+ credit-linked notes (including R$ CDI, R$ prefixed and USD fixed) and 
+ short-term Brazil Bradys.  Currency futures of course can be traded via NDFs.
+ 
+ In sum, I think we need to better define the type of trades we will do and 
+ where we are going to do those trades.  My hope is that we can define a 
+ couple of products/ideas we want to implement now and then figure out in 
+ which entity to house that activity.  
+ 
+ I will try to set up a conference call for next week on this topic.   
+ 
+ Regards,  Bruce
+ 
+ 
+ 
+
+ 09/17/99 11:39 AM
+
+
+
+
+
+ 
+  
+ Please review the attached memo to verify that I have identified all of the 
+ products that you are interested in trading in Brazil.  I will be in Sao 
+ Paulo on Monday, September 20, 1999.
+ 
+ Thank you,
+ Sara
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,24 @@
+
+ 
+ Becky
+    Cc:	Superty, Robert; Pittenger, Cathy; Black, Don; Homco, Jim; Kavi, Nagesh; Pena, Matt; Cantrell, Rebecca W.; Lovvorn, Kelly; Sullivan, Patti; Ruffer, Mary Lynne; Hall, Bob M; Jaquet, Tammy
+  
+ Suzanne,
+ 
+ Please be advised that Kelly Lovvorn (x5-8997) will coordinate the FERC data requirements with IT personnel for the EES Systems.
+ I passed on all the details regarding data specifications and a high level overview of ENAs plan.
+ 
+ The EES data will need to be pulled from all Settlement applications which include HP9000, STAT, and Altra.  Kelly does
+ have a few programming resources available in house, yet he may need to request the information from CSC.  If that is the
+ case, there will be costs associated with the data pull and it will be much more difficult to validate the data.  In addition, there
+ may also be timing issues (????)....
+ 
+ I have asked Kelly to coordinate directly with you as he has questions/concerns.  You may want to check back with him in a few days to
+ workout target dates for your team to actually receive the information, who he should forward info to, etc...
+ 
+ Thanks,
+ 
+ dg
+ 
+ (note:  Just as an "extra" thought....as long as we Settle out of Altra/HP/Stat, all FERC data 
+  requests (involving pricing w/ volumetric actuals) will need to come from those systems.)

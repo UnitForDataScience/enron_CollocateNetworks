@@ -1,0 +1,179 @@
+
+ 
+ Alan:
+ 
+ Regarding the legal comments below:
+ 
+ My impression was that the Joe had settled the choice of law issue:  i.e. the 
+ umbrella documents (Password Application and Electronic Trading Agreement) 
+ will be identical to those used in North America containing a New York choice 
+ of law provision.  These agreements have been approved by local counsel in 
+ Japan.  This is till my recommendation unless the commercial team decides 
+ that a document governed by Japanese law is essential.  As is the case for 
+ all EnronOnline trading, the online GTC's governing various commodities 
+ contain an appropriate choice of law for that product (e.g. English law for 
+ UK gas, New York law for US derivatives, etc.) regardless of where the 
+ counterparty is situated.  When a Japanese product is offered, I would assume 
+ that you will create a GTC governed by Japanese law, but last I heard that 
+ bridge is still ahead of us.
+ 
+ I don't know what the "international contracts" are that Rousseau refers to.  
+ There is no standard agreement for online trading.  The ETA provides that if 
+ a counterparty and the relevant Enron entity have a master agreement in place 
+ (such as an ISDA Master Agreement for derivatives trading [is this what 
+ Rousseau had in mind?]) such master will control the relevant transactions.  
+ The choice of law in that master would be the subject of negotiation at the 
+ time the master was signed.
+ 
+ In summary, unless the commercial team has changed its mind on the documents, 
+ the legal side of things is ready to go.
+ 
+ Mark
+ 
+ 
+ 
+ 
+ 
+ Alan Aronowitz
+ 04/03/2000 11:52 AM
+
+
+
+  
+ I have copied Mark Taylor on this note and asked him to call me to discuss. 
+ We will update you and Rousseau as we learn more from the Enron Online people.
+ 
+ Alan
+ 
+ 
+ 
+
+ 04/03/2000 12:48 AM
+
+   
+ Alan,
+ 
+ Pls look into the legal comments made below.
+ 
+ Joe
+ 
+    
+ 	Enron International
+ 	
+ 	 	
+ 
+
+
+ 
+  
+ Dave,
+ 
+ I understand that the meeting has been set for 2:00 p.m. on Monday in your 
+ office.  I look forward to our getting together to nail down the details 
+ while there is still an opportunity to make necessary adjustments. 
+ 
+ On the subject of cover letters, there are several reasons for our approach:
+ Given the urgency of completing the necessary pieces of the  mailing, it is 
+ more expedient to include two letters than to go through approvals on a new 
+ joint letter.
+ We want our counterparties to understand that there are two avenues of 
+ communication into Enron - EnronOnline (initially in English) for its 
+ e-commerce platform and Enron Japan for a host of Japan specific business 
+ lines.  It is important that we position them as separate but complementary.  
+ It's very easy for people in this market to confuse multifaceted business 
+ interests.  To be effective, we need to direct them to the appropriate 
+ sources/authorities.
+ At this point EnronOnline will only be available in English, so potential 
+ users would need to be able to read your letter in English anyway.  
+ However, in following Japanese protocols, many of the packets will need to be 
+ sent to higher level officials, who would then pass the packet on to the end 
+ users.  These are the people that we need to notify of Enron's Tokyo office 
+ and that EnronOnline is one of the many products and services available 
+ through Enron.  It is essential that this higher audience have the name of 
+ just the top Enron official in Japan, otherwise they may think that they 
+ should bypass the Enron Japan office and always go to Houston.  (In this 
+ culture it is a real risk.)  This would  jeopardize Enron's strategy for 
+ Japan.
+ 
+ I hope the above mentioned considerations are helpful.  I look forward to 
+ discussing this further when we meet Monday.
+ 
+ John 
+ 
+   
+ 
+ 
+ 
+
+ 03/31/2000 07:11 PM
+
+
+ 
+  
+ John,
+ 
+ It seems strange to me that we will not be translating the cover letter. This 
+ would mean that the cover letter is the only thing in the envelope which is 
+ not in Japanese?
+ 
+ Also, I'm wondering why we would have two cover letters. Would it not be 
+ better to combine the messages into one?
+ 
+ Perhaps we can discuss on Monday - I understand a conference call with the 
+ recipients of this email is being set up.
+ 
+ Dave
+ 
+ 
+
+
+ 
+  
+ Mario,
+ We sent the translation to Kal yesterday afternoon, Japan time.  The cover 
+ letter is fine with us (we don't plan to translate it, since users can read 
+ English).  We plan to add another cover letter in Japanese from Hirl as 
+ well.  If, in addition to Kal, you need the translation too, please let me 
+ know.  I'll be back in the US next week if we need to discuss (I'll be 
+ calling Kal to ask about printing delivery dates).
+ Thanks,
+ John
+ 
+ 
+ 
+
+ 03/31/2000 03:32 PM
+
+
+ 
+  
+ John,
+ 
+ We were checking today the launch process for EOL in Japan. Could you please 
+ let us know the status of the Press Release and the translation of the 
+ "Getting Started", the ball brochure and the cover letter? Is there an 
+ expected date for the completion of the translation?
+ 
+ Thanks in advance,
+ 
+ Mario
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

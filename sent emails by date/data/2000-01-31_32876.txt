@@ -1,0 +1,23 @@
+
+ 
+ I just updated the transport rate and corrected some of the points.
+ 
+ 
+ 
+ Chris Germany
+ 01/31/2000 03:36 PM
+
+
+   
+ I created deal 159513 to capture the IT gas we are flowing on IROQ for Jan 
+ and Feb.  Here is how it works.
+ 
+ Rate Comment
+ $.2855 1.  Schedule gas on our IT contract from Waddington to Canjahorie
+ $.004 2.  Flow gas through our parking contract at Canajoharie
+ $.4727 3.  Schedule gas on our IT contract from Canajoharie to Brookfield
+ $.004 4.  Flow gas through parking at Brookfield
+ $.2409 5.  Schedule gas on our IT contract from Brookfield to S Commack.
+ 
+ 
+ The total cost is about $1.00.  I will follow up with the exact cost later.

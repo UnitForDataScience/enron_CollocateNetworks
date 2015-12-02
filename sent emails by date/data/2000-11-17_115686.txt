@@ -1,0 +1,47 @@
+
+ 
+ We just changed the deal - it was input correctly, but the computer did not 
+ change the time zones correctly. That's why we were off 25 MW. I'll let Duong 
+ Luu know of the problem.
+ 
+ Thanks,
+ Kate
+ 
+ 
+ 
+ 
+
+ 11/17/2000 12:39 PM
+
+  
+  
+ i was talking about the total mws, they have 23,775, we have 23,800.  i think 
+ they entered the strips wrong.  can you pls check on that.
+ 
+ thanks
+ 
+ 
+ 
+ 
+
+ 
+
+  
+  
+ Mike confirmed with Natsource this was a 25MW deal with no broker fee.
+ 
+ 
+ 
+
+ 11/17/2000 07:47 AM
+
+  
+  
+ the broker has 23,775 as total mws, and also has a fee of .0075.
+ 
+ 
+ 
+ 
+ 
+ 
+ 

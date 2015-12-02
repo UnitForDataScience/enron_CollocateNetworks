@@ -1,0 +1,36 @@
+
+ 
+ In addition, make sure we understand the steam obligation and it's effect on dispatch flexibity and heat rate.  It appears the 8000 Heat Rate is assuming above market steam sales are buying down the heat rate.   Solar turbines in combined cycle (without a steam sale credit) would usually have a heat rate around 10,000 Btu/kwh.
+ 
+ The lower heat rate is probably predicated on providing 24 hour steam, which means less dispatch flexibility and producing off-peak energy at a loss.
+ 
+ Make sure we are modeling these dynamics properly.
+ 
+  
+    Cc:	Bernstein, Mark; Virgo, Robert; Presto, Kevin M.; Ader, Jeff; Misra, Narsimha; Dietrich, Janet
+  
+ Brad -
+ 
+ Some items we need to make sure we are addressing in this valuation analysis:
+ 
+ Fixd Costs and O&M:
+ Property Taxes
+ Gross Receipts Tax
+ Franchise Tax
+ Firm Transport Costs - Demand Charges (Full Basis in outer years)
+ Operations
+ Service Fees associated with any wholesale dispatch (Lloyd's group)
+ 
+ Heat Rates & Other Variable Issues
+ What is the Heat Rate Assumption during CT and CC mode and has Bob Virgo confirmed this?
+ Degradation factors
+ Recent Historical Run Times and awhen we would provide on-site live verification tests
+ Emmissions limitations
+ NG Intra-Day Premiums
+ 
+ 
+ Bob - I would like to get any information that you have that will be necessary to complete this evaluation.
+ Brad - I would like to discuss where you are in this process sometime befor the day is over.
+ 
+ Thanks,
+ Rogers

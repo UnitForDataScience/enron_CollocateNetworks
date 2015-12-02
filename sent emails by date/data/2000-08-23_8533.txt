@@ -1,0 +1,36 @@
+
+ 
+ Do you know who this is?  I don't recognize the manager's name.  Thanks. 
+ 
+ 
+  
+  
+ 	Security Resource Request System	
+ Application Approval		
+ Please review and act upon this request. You have received this eMail because 
+ you are listed as an approver on the original request.
+ 			Instructions	
+ For: 	Ashu Tewari                   			
+ Request	Original: 			
+ Application Name:	EOL - Backoffice (US)			
+ Request Type:	Grant			
+ Role(s):	EOL- Bridge Monitor, EOL- Data Manager, EOL- Product Data Manager, 
+ EOL- Reports, EOL- Stack Manager, EOL-FX Manager			
+ Comments:	READ ONLY...EOL Help Desk Role EOL Test and Prod		Review the request in 
+ the Request section at left.
+ 			For more information regarding who the request is for, do the following:
+ 			Click on the name for PeopleFinder info
+ 			See the Further Information section below
+ 			In the Approval Section, select Approve or Reject, enter comments as 
+ necessary and click [Submit].	
+ 
+ 
+ 
+ 
+ 	Further Information		
+ 	         		
+ Requestor:			Ashu Tewari/NA/Enron
+ Manager:	Keith Clark		
+ Request  RC #:	105643	WO #:	
+ Company #:	413	Priority:	High
+ General Comments:			

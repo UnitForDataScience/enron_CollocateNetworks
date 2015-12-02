@@ -1,0 +1,20 @@
+
+ 
+ Check against functional income statement and Co 366 schedules
+ 
+ 
+ 
+ Jan Ding
+ 01/31/2001 12:39 PM
+
+
+ 
+  
+ Attached is a file which contains the IT Infrastructure 2001 charges split by pipeline.  You will note I have added two line items: Telephone direct and Market Data direct.  These represent charges which will be billed based on actual usage and will post to the applicable cost center(s) which incurred the usage to the EIS general ledger account.  The numbers reflected in the attached file for these items are our estimate only.  If you would like to plan a different estimate, that is your call for your BU.  The remaining line items are for the items which will be billed via an SAP assessment based on the agreed plan amounts.  Please contact Kerry or me if you have questions.
+ 
+ Thanks,
+ Elise
+ 
+  
+ 
+ 

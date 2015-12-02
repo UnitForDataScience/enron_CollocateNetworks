@@ -1,0 +1,13 @@
+
+ 
+ Jan already has TW's average historical rates derived from TW's actuals (contract rates and throughput/MAXDTQ's) totaled up to TW's contract paths for 2000 and 2001.  I am going to use these numbers to allocate the path average rates to the pipeline segments in Davis' template.
+ 
+ 
+     
+ 
+ I have attached a template to use to summarize the capacity rolloff issue discussed today.  I just filled in a bunch of numbers as an example - if they don't make any sense, you can guess why! 
+  
+ Lindy, if you could use this to fill in the required data, then either Michael or I will incorporate it into the TW model.
+  
+ Thanks-
+ Davis

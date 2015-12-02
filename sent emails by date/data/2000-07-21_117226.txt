@@ -1,0 +1,4 @@
+
+ 
+ The only changes were in the definition of Floating Price - otherwise this is 
+ the same as the "no-out" version we prepared last week.

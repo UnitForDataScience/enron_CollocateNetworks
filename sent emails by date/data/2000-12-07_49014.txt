@@ -1,0 +1,32 @@
+
+ 
+ Review for Tue.
+ 
+ 
+ 
+ 
+ Tanya Tamarchenko
+ 12/07/2000 03:54 PM
+
+
+
+
+  volatilities calculation  
+ 
+ Winston, 
+ I am sending you the documentation on the new methodology for creating ffvols
+ from implied vols. This methodology requires some minimization procedure
+ to fit the given vol curve with a smoothing function. I am sending you the
+ code I wrote that performs minimization with simulated annealing method from 
+ Numerical Recipes.
+ 
+ We might need to discuss some details. Please, let me know if you have 
+ questions.
+ 
+ Tanya.
+ 
+ 
+ 
+ 
+ 
+ 

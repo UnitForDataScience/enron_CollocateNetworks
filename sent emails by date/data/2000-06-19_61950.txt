@@ -1,0 +1,31 @@
+
+ 
+
+
+
+  
+  
+ 
+ This is a change ticket from the PeopleFinder.
+ 
+ The PeopleFinder received these changes to your information
+ from the LAN Phonebook on 6/19/2000:
+ 
+     change Extension to "7991"
+     change Office to "713-853-7991"
+ 
+ If you want these changes made to your information,
+ simply reply to this message:
+ In Netscape Mail, press the "Re: Mail" button and then "Send".
+ In Lotus Notes, press the "Reply" button and then "Send".
+ Only the subject line with the confirmation ID is important.
+ 
+ If you don't want these changes, throw this message away.
+ 
+ There is currently no way to approve some of these changes and not others.
+ If you don't want all of these changes, please discard this message
+ and you can submit your own changes through the peoplefinder at
+ http://home.enron.com/pfinder.
+ If you prefer not to receive these confirmations in the future,
+ please visit the Change My Info page and turn off Confirm External Changes.
+ 

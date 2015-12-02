@@ -1,0 +1,53 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Sturm, Fletcher J.\Sent Items
+ X-Origin: STURM-F
+ X-FileName: fletcher sturm 6-26-02.PST
+ 
+ 
+ 
+  
+     Importance:	High
+ 
+ Good day all:
+ 
+ Below is a list of applications used by your groups.  We are trying to ascertain which applications are critical to your business.  Please review the list and send me any additional applications that you need to do your job.
+ 
+ Thank you all for your help,
+ Daniel A. Muschar
+ ECS Trader Support Group
+ Office: 713-853-4344
+ Cell: 281-541-6203
+
+ CCNA, MCSE, CNA, A+
+ 
+ LIST OF Applications:
+ 
+ CRITICAL APPLICATIONS
+ 
+ Gas EBBs (Dial-up)
+ Kobra
+ Reuters
+ TDS
+ EOL
+ Internet
+ Enpower
+ Excel
+ CQG
+ Bloomberg
+ Sitara
+ Unify
+ Pricing Models
+ Telerate 9.27
+ ERMs
+ CPR
+ Tibco
+ Exceed
+ RUNM
+ Mapp
+ RiskTrac
+ 
+  

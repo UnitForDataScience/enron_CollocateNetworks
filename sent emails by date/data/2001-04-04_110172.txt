@@ -1,0 +1,38 @@
+
+ 
+ Angela,
+ 
+ This file contains the historicals for Socal in the specified format.  Can you please dump them into the database.  Thanks.
+ 
+ Mat
+ 
+  
+ 
+ 
+ 
+    
+ 
+ 	Enron North America Corp.   		
+ 
+ 
+
+  
+  
+ Here are the headers:
+ 
+ 1.  PIPELINE_ID
+ 2.  EFFECTIVE_DTM
+ 3.  DATA_REFERENCE_NUM
+ 4.  FLOW_TYPE_CD
+ 5.  MAXIMUM_CAPACITY_QTY
+ 6.  UTILIZED_CAPACITY_QTY
+ 7.  AVAILABLE_CAPACITY_QTY
+ 8.  PIPELINE_CYCLE_ID
+ 
+ These are the column headings needed for the historical data Excel files (they do not have to be in any particular order, but initially a template should be created, and then used throughout).  This format makes it a simple process to load this information into the database.
+ 
+ Thanks for all of your hard work!!
+ 
+ Chris
+ 
+ 

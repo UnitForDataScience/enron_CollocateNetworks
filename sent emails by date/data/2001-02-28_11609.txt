@@ -1,0 +1,26 @@
+
+ 
+ It is critical that RAC speak as one here. Be sure to coordinate with Tribolet and Hachen on this stuff. Rick
+ 
+  
+
+   Cc:	Gorny, Vladimir; Murphy, Ted
+  Sensitivity:	Private
+ 
+ 
+ I had a meeting today with Janet Dietrich, Wanda Curry and Sally Beck in connection with the forthcoming "Doorstep" reviews of EES. 
+ 
+ In an attempt to head this off, Wanda'a group had prepared a quick summary of the state of their world. From a risk management standpoint it appears to me that urgent tactical fixes required are as follows:
+ 
+ Characterization and representation of EAM options in the risk system;
+ Tarriff curves required;
+ No intra - month books;
+ J C Penney deal to go in tomorrow;
+ Inability to track roll - off of MTM value into actual cash paid or received;
+ Potentially inaccurate credit exposure numbers due to inconsistent counterparty data in their systems
+ 
+ Obviously Janet is very keen to manage expectations in this area, and I think one of the key points is their value at risk, which I think could jump as points 1 to 4 above are tackled.
+ 
+ The heads - up here is that I believe some discretionary VAR may be required shortly.
+ 
+ DP

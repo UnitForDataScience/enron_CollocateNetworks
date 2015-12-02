@@ -1,0 +1,49 @@
+
+ 
+
+  air-zc03.mail.aol.com (v77.31) with ESMTP; Tue, 23 Jan 2001 11:42:54 -0500
+  rly-zc02.mx.aol.com (v77.27) with ESMTP; Tue, 23 Jan 2001 11:32:11 -0500
+  postmaster.enron.com (8.8.8/8.8.8/postmaster-1.00) with ESMTP id QAB22754 for 
+
+
+  nahou-msmsw02px.corp.enron.com (Content Technologies SMTPRS 4.1.5) with ESMTP 
+
+
+ 
+ 
+ X-MIMETrack: Serialize by Router on ENE-MTA01/Enron(Release 5.0.6 |December 
+ 14, 2000) at 01/23/2001 10:30:24 AM
+  Content-type: multipart/mixed;  
+ Boundary="0__=862569DD0057C3EF8f9e8a93df938690918c862569DD0057C3EF"
+ Content-Disposition: inline
+  
+ 
+ 
+ 
+ 
+  (Embedded     Enron North America Corp.
+  image moved
+
+  pic03039.pcx) 01/23/2001 09:13 AM
+ 
+ 
+ 
+ 
+ 
+ 
+
+ cc:
+  
+ Vince,
+ Here is the newest Enron Presentation.  Please take a look at the new one
+ and make any changes you want.  Please e-mail me the final version and I
+ will save it to my laptop and we can run it from my laptop at the
+ presentation.  I will also be forwarding the logistics for Cal Berkeley.
+ Regards,
+ Ed
+ 
+ (See attached file: Presentation Spring '01.ppt)
+ 
+ 
+  - pic03039.pcx
+  - Presentation Spring '01.ppt

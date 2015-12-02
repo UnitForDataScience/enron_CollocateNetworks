@@ -1,0 +1,21 @@
+
+ 
+ Production Area to New York
+ k#  Volume  Rec 
+ 3.4708  20000  Telescoped
+ 3.4358  15000  St 65
+ ???  5000  St 62
+ 
+   40,000 Total
+ 
+ 
+ 
+ Production Area to Non New York
+ ???  3000  St 65
+ 
+ 
+ Z6 Space
+ 3.4522  10000  Leidy to PSE&G
+ 3.5318  6500  Leidy to PSE&G
+ 
+   16500 Total

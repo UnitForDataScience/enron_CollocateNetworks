@@ -1,0 +1,103 @@
+
+ 
+ Shirley,
+ 
+ Yes, It will be  a swap of one machine for another.
+ 
+ Vince
+ 
+ 
+ 
+ 
+ Shirley Crenshaw
+ 03/17/2000 12:17 PM
+
+   
+ Vince:
+ 
+ Is this ok to order?
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 03/17/2000 09:34 AM
+
+   
+ 
+ 
+ Mark-
+ 
+ Shirley will order an 800 MHZ machine with 512 MB of RAM, and a large (17"+) 
+ flat-screen monitor for me.
+ 
+ Clayton
+ 
+ 
+ 
+ 
+ Mark Davidson
+ 03/17/2000 08:52 AM
+
+
+ 
+  
+ Clayton-
+ 
+ Sorry it took so long to get back to you.  There are a couple of things to 
+ keep in mind:
+ 
+  -Enron IT supports Enron equipment.
+  -All equipment must be purchased through "Enron IT Purchasing"
+ 
+ Our current high end desktop is a 800 MHZ pentium III machine with 128M of 
+ RAM.  You can bump up the RAM to whatever you feel is appropriate. When the 
+ 1GHz processors come out (in the very near future) that will become our 
+ standard.
+ 
+ What we want to avoid is getting equipment that we do not have a image for.  
+ The "image" is the complete package of software that we put on a machine when 
+ it is deployed.  If you go out and buy a machine that we do not have a image 
+ for, we can't support it for a multitude of reasons. 
+ 
+ Hopefully this answered your questions/concerns.
+ 
+ If not, please call me so that we can discuss this further.
+ 
+ Thanks
+ 
+ Mark Davidson
+ x 39038
+ 
+ 
+ 
+ 
+ 
+ Clayton Vernon
+ 03/14/2000 03:39 PM
+
+   
+ Mark-
+ 
+ I have developed a model for Enron that requires ultra-high-end PC 
+ performance (it does many calculations in Excel), and my boss has authorized 
+ me to buy whatever PC I need. I'm looking at the Compaq 850, but Richard (our 
+ floor rep) says no PC's over the 600 series will be supported by IT. I need 
+ to resolve this issue; we are sophisticated buyers, we know the type of 
+ machine we want, and we have the money to pay for it.
+ 
+ Sincerely,
+ 
+ Clayton Vernon
+ Manager, Research
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

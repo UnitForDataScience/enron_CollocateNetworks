@@ -1,0 +1,7 @@
+
+ 
+ Here is the confirm template (used when an ISDA Master is in place)
+ 
+ 
+ This is the index language for EnronOnline.  We would use something similar 
+ for the offline confirms.

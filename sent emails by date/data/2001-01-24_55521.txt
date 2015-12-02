@@ -1,0 +1,62 @@
+
+ 
+ Debbie,
+ 
+ This is an update on the continuing Winston saga. Tanya
+ identified the sections of the code that produce inefficiencies
+ but the rest is in the Winston's hands.
+ 
+ Steve Stock is very cooperative and takes a very rational, Enron-first
+ approach to the problem. Privately, my concern is that the code, based on 
+ Tanya's
+ report to me, leaves a lot to be desired. The code tends to be a very 
+ mechanical
+ implementation of the algorithm, developed without a series attempt to 
+ optimize it.
+ 
+ Let's keep paddling along.
+ 
+ Vince
+ 
+ 
+ 
+     
+ Steve,
+ - we spent about 5 fruitful hours with Winston last week.
+ - I pretty much understand the data flow when the code runs.
+ - I also got an idea where the time is spent during the execution of the code 
+ by questioning Winston.
+ I did not see any results of profiling the code. Winston's opinion is (as I 
+ understood) that he knows how much time is spent 
+ on different calculations and profiling is not easy to do, so we don't need 
+ to do it. 
+ - Based on above I suggested possible way to reduce the time credit model 
+ takes to run and we discussed it with Debbie, who was
+ going to arrange a meeting with Winston.
+ - It might be useful to look at the Documentation created by contractors, if 
+ you have it handy - send it to me, please.
+ 
+ Thank you,
+ 
+ Tanya.
+ 
+ 
+ 
+
+
+   
+ Tanya,
+ 
+ how's it going with code-review from your perspective?
+ 
+ ...did you manage to talk to our Documentation contractors?
+ 
+ ...if not, would you me to arrange for them to bring you the documentation as 
+ it currently stands?
+ 
+ regards
+ 
+ Steve
+ 
+ 
+ 

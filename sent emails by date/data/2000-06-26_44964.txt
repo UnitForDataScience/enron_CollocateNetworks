@@ -1,0 +1,38 @@
+
+ 
+ So paraxylene is a petrochem and not a chem?!!
+ 
+ 
+ 
+ 	Frank L Davis
+ 	06/26/2000 04:50 PM
+ 		 
+
+ 		  		  
+ More fun on the way!!!  Below is the description for the new US Paraxylene 
+ physical product type.  Should we copy the profiles from another US 
+ petrochemical physical product type???  Please send me your comments.
+ 
+ Thanks!!!
+ 
+ Frank
+ 
+ 
+ Comercial is rolling out the following new product for Paraxylene FOB 
+ Physical Forward. 
+ 
+ 
+ Commodity:  Paraxylene FOB
+ Currency:  USD
+ Default UOM:  mt
+ Country:  USA
+ 
+ Description:
+ 
+ A Transaction with Enron Petrochemicals Company, a division of Enron Liquid 
+ Fuels, Inc., under which the Seller shall sell and the Buyer shall purchase 
+ Paraxylene with minimum purity 99.70%,  on a FOB basis and at the specified 
+ quantity/tolerance, quality and price. The quantity shall be the volume 
+ submitted by Counterparty via EnronOnline. The price shall be the price 
+ submitted by Counterparty via EnronOnline multiplied by the quantity.
+ 

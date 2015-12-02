@@ -1,0 +1,41 @@
+
+ 
+           probability   * payout =
+ 1 heads         .5  0 = 0
+    tails  2 heads        .25  1  = .25
+       tails  3 heads     .125  2 = .25 
+        tails  4 heads   .0625  4 = .25 
+          tails  5 heads .03125  8 = .25
+ 
+ 
+ 
+ 
+
+
+
+   
+ 
+ which game is that?
+ 
+ 
+ 
+
+ 
+  
+ 
+ 
+ rules to a game:
+ You flip a coin. If you get tails you win 0.  if you get heads, i give you
+ $1.  Keep flipping until you get a tails, at which point you walk away with
+ the money.  however, each heads you get after the first you double your
+ money.  So if you flip heads 3 times and then tails, you get $4.  What's
+ you bid/offer on playing this game?  (would you pay $.5 to play? $1? $2?
+ what you charge me play against you?)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

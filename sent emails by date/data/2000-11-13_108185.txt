@@ -1,0 +1,30 @@
+
+ 
+ Great.  Thanks.  So what do you think of Crude for tomorrow?  
+ 
+ Jeff
+ 
+ 
+    
+ 	
+ 	
+
+ 	
+ 
+
+
+  
+ Per our conversation this morning, the graph below shows the combined VaR for 
+ the last 30 days on just the long-dated deals.  Unfortunately, there is some 
+ intra-day trading and long term strategic trading for Energy Trend and 
+ JBlock.  The Risk Management group have started breaking out intra-day 
+ trading for FGH  and PAN-NAT, and they are currently in the process of 
+ breaking-out Energy Trend and JBlock.   This process requires setting up new 
+ books and re-booking new deals.  However, the graph below should give you an 
+ idea of how much VaR these deals are eating up.  I will send an updated graph 
+ once all books are successfully setup.  
+ 
+ 
+ 
+ 
+ 

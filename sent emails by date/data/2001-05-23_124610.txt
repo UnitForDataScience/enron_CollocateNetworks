@@ -1,0 +1,25 @@
+
+ 
+ Please take me off your mailing list.
+ 
+  
+ CompanySleuth has revised its Privacy Policy.  Click here  http://www.companysleuth.com/privacy.cfm to view the revised Privacy Policy.
+ 
+ Cancel E-mail
+ http://www.companysleuth.com/login/email_login.cfm?username=WMSON&actiontype=1
+ 
+ Contact Company Sleuth
+ http://www.companysleuth.com/login/email_login.cfm?username=WMSON&actiontype=2
+ 
+ Change Stakeout Companies
+ http://www.companysleuth.com/login/email_login.cfm?username=WMSON&actiontype=3
+ 
+ Modify E-mail Content
+ http://www.companysleuth.com/login/email_login.cfm?username=WMSON&actiontype=4
+ 
+ Change to HTML E-mail
+ http://www.companysleuth.com/login/email_login.cfm?username=WMSON&actiontype=5
+ 
+ 
+ Company Sleuth is a registered trademark of Infonautics, Inc. (Nasdaq: INFO) or its subsidiaries.
+ Copyright 2000 Infonautics Corporation http://www.infonautics.com

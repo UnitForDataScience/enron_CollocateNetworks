@@ -1,0 +1,18 @@
+
+ 
+ we would also like to keep all files under g:\west desk\gas reports
+ and matt lenhart needs to keep a file on his h: drive called "matt-pl"
+ 
+  
+    Cc:	Holst, Keith; Kuykendall, Tori
+  
+ Jeff,
+ 
+ If there is no limit to size, we would ideally like to move everything within the following directories:
+ 
+ o:\ect_trading\West
+ r:\webcontent\GasTrading\west_desk
+ 
+ Let me know if we need to narrow these anymore.  They include all west desk files on the network excluding those in the central fundies directories.  Also, will we have a mechanism to transfer individual network directories from the H: drive?  In not, we'll move everyone's directories into one of the above directories.  Thanks.
+ 
+ Mat

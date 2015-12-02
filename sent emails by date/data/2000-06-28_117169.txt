@@ -1,0 +1,64 @@
+
+ 
+ We may have a problem with adding our own time stamp.  First, I believe our 
+ agreement with Reuters limits our ability to modify their content and 
+ restricts what we can say about the current nature of the quotes (they are 
+ time delayed) and second, we don't want our time stamp to make people believe 
+ that the quote was even current as of that time - since it won't be.  It 
+ might be ok to have the entire quotes section headed by a line indicating 
+ when it was last refreshed.  Many sites providing quotes like this have a 
+ line (usually towards the bottom) indicating the delay period and most people 
+ using those sites know they have to refresh their screen to update them.  
+ Jason Peters is the expert on the terms of that agreement, so if you still 
+ feel like you need to add something you might check with him.
+ 
+ 
+ 
+ 	James Bruce
+ 	06/28/2000 11:26 AM
+ 		
+
+ 		  		  
+ 
+ Mark
+ 
+ As I understand it, the answer is 'no'--we get a quote from Reuters but not 
+ the time stamp.  The time stamp that would appear is the one that we place 
+ next to it, telling the user when the quote was placed on the site.  So if 
+ you happen along at noon and you see 'ENE 70 9am', you know that you're most 
+ certainly not getting a recent price.
+ 
+ Jay
+ 
+ 
+ 
+ 
+  
+  
+ Will the Reuters feed contain a time stamp?  Some other sites let you know 
+ what  time the trade was done that resulted in the quote. 
+ 
+ 
+ 
+ 	James Bruce
+ 	06/28/2000 08:03 AM
+ 		 
+
+ 		  		  
+ 
+ Dear Mark
+ 
+ Do you know of any legal issue that there could be about adding our own time 
+ stamp to a stock quote from Reuters (so that people viewing the site would 
+ know when the stock quotes were last updated by us)?
+ 
+ Let me know if I should direct this question to someone else.
+ 
+ Thanks Mark
+ 
+ Jay
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,26 @@
+
+ 
+ 
+ 
+ 
+ Karen Lambert
+ 12/13/99 10:09 AM
+
+
+
+  
+ Rejected Master Contracts:
+ 
+  Counterparty:  CP ID # 35578 City of Azusa
+ EPMI's Power Master Bilateral contract dated 1/18/95 should not be used.  EOL 
+ should use an online GTC with collateral instead. 
+ 
+ Counterparty:  CP ID # 11111 Gulf Canada Resources Limited
+ ECC's Master Purchase/Sale Firm (Calgary) contract dated 10/15/96 should not 
+ be used by EOL per John Lavorato. 
+ 
+ Please provide copies of the letters that go out where masters have been 
+ rejected.
+ 
+ Thank you,
+ Karen

@@ -1,0 +1,82 @@
+
+ 
+ Yes,
+ 
+ Thanks a lot.
+ 
+ Vince
+ 
+  
+
+    
+ "Conditional Value-at-Risk for General Loss Distributions"
+ 
+       BY:  TYRRELL R. ROCKAFELLAR
+               University of Washington
+               Department of Applied Mathematics
+            STANISLAV P. URYASEV
+               University of Florida
+               Department of Industrial and Systems Engineering
+ 
+ Document:  Available from the SSRN Electronic Paper Collection:
+            http://papers.ssrn.com/paper.taf?abstract_id=267256
+ 
+            Other Electronic Document Delivery:
+            http://www.ise.ufl.edu/uryasev/CVaR2.pdf
+            SSRN only offers technical support for papers
+            downloaded from the SSRN Electronic Paper Collection
+            location. When URLs wrap, you must copy and paste
+            them into your browser eliminating all spaces.
+ 
+ Paper ID:  U of Florida, ISE Dept. Working Paper No. 2001-5
+      
+  Contact:  STANISLAV P. URYASEV
+
+   Postal:  University of Florida
+            Department of Industrial and Systems Engineering
+            PO Box 116595
+            303 Weil Hall
+            Gainesville, FL 32611-6595  USA
+    Phone:  352-392-3091
+      Fax:  352-392-3537
+  Co-Auth:  TYRRELL R. ROCKAFELLAR
+
+   Postal:  University of Washington
+            Department of Applied Mathematics
+            408 L Guggenheim Hall
+            Box 352420
+            Seattle, WA 98195-2420  USA
+ 
+ ABSTRACT:
+  Fundamental properties of conditional value-at-risk, as a
+  measure of risk with significant advantages over value-at-risk,
+  are derived for loss distributions in finance that can involve
+  discreetness. Such distributions are of particular importance in
+  applications because of the prevalence of models based on
+  scenarios and finite sampling. Conditional value-at-risk is able
+  to quantify dangers beyond value-at-risk, and moreover it is
+  coherent. It provides optimization shortcuts which, through
+  linear programming techniques, make practical many large-scale
+  calculations that could otherwise be out of reach. The numerical
+  efficiency and stability of such calculations, shown in several
+  case studies, are illustrated further with an example of index
+  tracking.
+ 
+  Keywords: Value-at-risk, conditional value-at-risk, mean
+  shortfall, coherent risk measures, risk sampling, scenarios,
+  hedging, index tracking, portfolio optimization, risk management
+ 
+ 
+ JEL Classification: G0
+
+ 
+ John D. Martin
+ Carr P. Collins Chair in Finance
+ Finance Department
+ Baylor University
+ PO Box 98004
+ Waco, TX 76798
+ 254-710-4473 (Office)
+ 254-710-1092 (Fax)
+
+ web:    http://hsb.baylor.edu/html/martinj/home.html  

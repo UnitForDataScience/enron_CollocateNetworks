@@ -1,0 +1,36 @@
+
+ 
+ Dawn,
+ 
+ The deals look good in both Tagg and Sitara, but the link field in Tagg has 
+ not been populated with the Sitara number.  When will this be ready?  Thanks.
+ 
+ DG    3-9573
+ 
+ 
+ 
+ 
+ Dawn C Kenne
+ 12/19/2000 02:28 PM
+
+
+  
+ Darron,
+ 
+ Please take a look at these deals in Tagg Stage and Sitara parallel.  Look at 
+ the pricing, risk book assignments, and the hedges in sitara (if needed).
+ 
+ Let me know if there is a problem.  If there is not, we want to roll this out 
+ as soon as possible.
+ 
+ EOL #  Tagg #  Sitara#
+ 123708  Q12851  4012471
+ 123673  Q12662  4012421
+ 123712  Q14284  4012503 
+ 
+ Thanks for your help!
+ 
+ Dawn
+ 3-9353 
+ 
+ 

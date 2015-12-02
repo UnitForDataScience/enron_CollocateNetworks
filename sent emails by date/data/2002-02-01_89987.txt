@@ -1,0 +1,12 @@
+
+ 
+ Casey has a list of all the East Power curves.   Frank - Stop re-inventing the wheel.   This stuff has been done already.
+ 
+  
+    Cc:	White, Stacey W.; Gossett, Jeffrey C.; Gorny, Vladimir; Whalley, Greg
+  
+ I have to clean up clustering and curve mappings from Estate to NETCO.  Last correlation update was Nov. 29th and I'm assuming we may have some issues.  The curves we are rolling into NETCO need to be highly accurate for the last 60 days to ensure variance covariance matrix is appropriate.  Please provide me list of curves we are using in NETCO.  Identify which curves should be primary and which curves can be secondary.  Additionally, please identify if there are any regional constraints that need to be "locked in" between primary and secondary curves.  I will then re-run correlations so we can properly understand diversification benefit across wholesale as it relates to proposed VAR limit structures.
+ 
+ Thanks,
+ Frank
+  

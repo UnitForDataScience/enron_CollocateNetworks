@@ -1,0 +1,23 @@
+
+ 
+ 
+ 
+ 
+
+
+  
+  
+ The following expense report is ready for approval:
+ 
+ Employee Name: Michael Terraso
+ Status last changed by:  Automated Administrator
+ Expense Report Name: May - Env Strat
+ Report Total: $1,668.88
+ Amount Due Employee: $1,668.88
+ 
+ 
+ To approve this expense report, click on the following link for Concur 
+ Expense.
+ http://xms.enron.com
+ 
+ 

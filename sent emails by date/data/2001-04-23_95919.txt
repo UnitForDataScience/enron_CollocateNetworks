@@ -1,0 +1,32 @@
+
+ 
+ e.g., the ISDA termination payment.  We also reference the 
+ claims held by EPMI through the CalPX, even though we are not "terminating" 
+ any "contracts" in that respect.  I assume that we do not want to reference 
+ in the letter the claims held by Portland General which "route" through the 
+ CalPX and the ISO, even though we are not claiming rights of offset for 
+ those.  PG&E will be put on notice of those when we put in Portland's claims 
+ as part of our proof of claim with the bankruptcy court.
+ 
+  I'll plan on getting together with you to review this tomorrow afternoon.  
+ Lastly, I have not read the decision yet, but I saw that the DC Circuit 
+ upheld FERC in all respects in the PCA case so since our contracts do not 
+ have to be on file, they can be terminated without waiting for the 60 day 
+ period to expire.  That should reduce another potential challenge to the 
+ power contract termination.
+ 
+ Thanks.
+ 
+ John
+ 
+ 
+ 
+ John Klauberg
+ LeBoeuf, Lamb, Greene & MacRae, L.L.P.
+ 212 424-8125
+
+ 
+ 
+ 
+  - Settlement-3.doc
+  - Settlement-bl.rtf

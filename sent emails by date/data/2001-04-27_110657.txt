@@ -1,0 +1,7 @@
+
+ 
+ Chris,
+ 
+ I think we need a new pipeline for El Paso Manual Entry.  We need to enter linepack once a day.  Let's call the DRN LinePack and populate with flow type S.  Thanks.
+ 
+ Mat

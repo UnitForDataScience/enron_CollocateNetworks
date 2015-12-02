@@ -1,0 +1,4 @@
+
+ 
+ We have a volumetric contract on Texas Gas and I'm not sure how to enter it 
+ in Sitara.  The volumetric demand charge is $.005, deal #461568

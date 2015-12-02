@@ -1,0 +1,28 @@
+
+ 
+ 
+ 
+ 
+ Richard Abramowicz
+ 08/09/2000 10:48 AM
+
+  
+  
+ 
+ company user id  password
+ 
+ Duke  duke  kyg4399g
+ ePrime  eprime  rpm3752p
+ Sempra sempra  sew2983u
+ Coral  coral  bcy8736h
+ Texaco  texaco  xvn4672m
+ Western western  zum5763n
+ Dynegy  dynegy  oyc3527a
+ Oneok  oneok  wrv4782x
+ Questar  questar  prk5975m
+ Reliant  reliant  hus8953w
+ 
+ 
+ p.s.
+ 
+ The iosadmin password for this round is "AdamAnt2000"

@@ -1,0 +1,92 @@
+
+ 
+ OK.  Mine is updated...FYI, I had to still use the U versus N drive!
+ 
+ 
+ 
+ 
+ Dan Bunch
+ 11/27/2000 01:27 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+ CORRECTION
+ In the document I sent out this morning, "Instructions to install Internet 
+ explorer 5" The Instructions said to type: "U:\COMMOM\ie5\i386\setup.exe" in 
+ the
+ run dialog box. It should have read "N:\common\ie5\i386\setup.exe" .  
+ I apologize for any inconvenience this may have caused. If you have any 
+ problems with or questions about the install please call the help desk at 
+ 78-7454
+ 
+ Thank you
+ 
+ 
+ 
+ 
+ Dan Bunch
+ 11/27/2000 10:20 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+ On Monday, December 4th, a new version of the Marketing Dashboard will be 
+ rolled out. In order for this new version of The Dashboard to work you will 
+ need to have Internet Explorer 5.01(IE5.01) loaded on your system. If you 
+ already have IE5.01, PLEASE RESPOND, to this message  with a confirmation 
+ that you have IE5.01 or higher loaded. (No other action on your part is 
+ necessary)
+ 
+ If you DO NOT have IE5.01 please follow the instructions below to install it 
+ . then respond to this email that IE5 has been loaded. 
+ 
+ If you are uncomfortable doing the upgrade alone or are unsure what version 
+ of IE you have please call the helpdesk 87-7454 and someone will assist you.
+ 
+ Again please respond to this message ASAP - we are looking to have everyone 
+ in Houston upgraded by Dec 1st. The total process takes less that 15 
+ minutes.  If you have any question, comments or concerns please contact the 
+ helpdesk at 87-7454, 
+ 
+ Thank you
+ 
+ 
+ 
+ 
+ 
+ 

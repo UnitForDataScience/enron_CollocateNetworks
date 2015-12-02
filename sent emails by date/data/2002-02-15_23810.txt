@@ -1,0 +1,10 @@
+
+ 
+ The fuel assumptions to be backed-out of the spread should be:
+ 
+ 	2002 - 2006	San Juan to CA		4.75%
+ 	2002 - 2006	Permian to CA		5.00%
+ 	2007 - on	San Juan to CA		2.50%
+ 	2007 - on	Permian to CA		2.50%
+ 
+ Kevin, Tracy, Steve, Paul - Let me know if you think these are not the right assumptions.

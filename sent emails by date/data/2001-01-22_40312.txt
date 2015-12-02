@@ -1,0 +1,22 @@
+
+ 
+ 
+ 
+ 
+ Steve C Hall
+ 01/22/2001 09:50 AM
+
+
+
+   
+ As if we needed another reason to avoid at all costs a default at the PX:  
+ 
+ I notice that one "Event of Default" under Enron's EEI master agreement is an 
+ Enron Corp default on indebtedness to third parties, which results in the 
+ acceleration of obligations in excess of $100 million.  This sounds like our 
+ doomsday scenario at the PX, under which we default on a payment or 
+ chargeback, and the PX liquidates our block forward/CTS positions, which the 
+ PX values in excess of negative $100 million, and then exercises our LCs.  
+ 
+ This makes it even more imperative that we (1) avoid a default at the PX and 
+ (2) reduce our CTS collateral with the PX.

@@ -1,0 +1,4 @@
+
+ 
+ Should we have an explanation of index calculation?  It may build more trust 
+ in the numbers.

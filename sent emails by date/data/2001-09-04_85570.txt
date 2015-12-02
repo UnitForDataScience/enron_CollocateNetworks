@@ -1,0 +1,7 @@
+
+ 
+ Russell,  The data you requested last week concerning the motor is as follows:
+ 
+ 1.  Full Load MVA rating:  11.4 for each unit
+ 2.  Across the line starting MVA:  43.8 for each unit
+ 3.  Input Voltage:  12 KVA

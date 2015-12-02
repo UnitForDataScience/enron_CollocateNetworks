@@ -1,0 +1,11 @@
+
+ 
+ John,
+ 
+ Attached are updated results of Zimin's model assuming each trade is on a 
+ total notional of 30,000 bbls.   Note that I have re-scaled the results to be 
+ in $MM.
+ 
+ --Stinson
+ 
+ Open-Close prices Continuous Prices

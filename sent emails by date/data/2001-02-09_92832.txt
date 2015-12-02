@@ -1,0 +1,41 @@
+
+ 
+ Stacey,
+ 
+ I have a couple of questions for you to ensure that we report the positions 
+ correctly.  First, is this a Power East or Power West book?  Second, when can 
+ we expect to be reporting positions in this book?  Finally, who is the trader 
+ for this book?
+ 
+ Thanks for your help.
+ Robin
+ 
+ 
+    
+ 	Enron North America Corp.
+ 	
+
+ 	
+ 
+
+
+  
+ Stacey:
+ 
+ Can you please confirm that new book PWR-NY-GAS-MTM should be included in the 
+ AGG-PWRII portfolio for VaR purposes?  Can you further indicate into which 
+ subportfolio of AGG_PWRII the book should be added?
+ 
+ 
+ Robin:
+ 
+ In order for you to capture the positions for the GAS bench, does the book 
+ need to be included within any GAS portfolio?
+ 
+ 
+ I look forward to your responses.
+ 
+ 
+ 
+ Nancy
+ 

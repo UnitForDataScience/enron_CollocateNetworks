@@ -1,0 +1,4 @@
+
+ 
+ can we use the MOU total load numbes (e.g., 93 GWH for PG&E) and divide it up 
+ using the proportions in the PG&E numbers?

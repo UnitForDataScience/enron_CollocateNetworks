@@ -1,0 +1,47 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Williams III, Bill\Sent Items
+ X-Origin: WILLIAMS-W3
+ X-FileName: 
+ 
+ 
+ Alan,
+ 
+ I just received this from our client rep detailing their position.
+ As expected they are treating the Stage 1 as ending at 11:32 rather than HE 23 as stated on May 31 in both their website and on their message net.  
+ I would like to get FERC's position on this if necessary.  If it is $91.87 rather than $108.49 as indicated in the FERC order, we will use that as a cap as soon as FERC (or you) recommends it.
+ 
+ Thanks,
+ 
+ Bill
+ 
+ 
+  
+
+    
+ Bill, the $108.08 price you see in Footnote #3 of the e-mail titled CAISO
+ Notice: Correction of FERC June 19 Order Market Notice is the highest hourly
+ ex-post price during the last Stage 1.  The $91.87 price is 85% of $108.08
+ per the FERC Order.
+ 
+ The last Stage 1 occurred on Trade Date 5/31/01, HE 10 and 11.  A Stage 2
+ was in effect from 1132 - 2215.  See
+ http://www.caiso.com/docs/09003a6080/08/8a/09003a6080088aa7.xls , 2001
+ Emergency Detail tab.
+ 
+ The Hourly Ex Post Price can be found in OASIS under Button 29, Ex Post
+ Market Information on the CAISO Website. The Order indicates that the price
+ should not include a Stage 2 and 3 and even though the cancellation notice
+ of the Stage 1was not until HE23 we are going by the strict definition of
+ when the Stage 1 was actually implemented.  Hope this helps.
+ 
+ Keoni Almeida
+ California Independent System Operator
+ phone: 916/608-7053
+ pager:  916/814-7352
+
+
+ 

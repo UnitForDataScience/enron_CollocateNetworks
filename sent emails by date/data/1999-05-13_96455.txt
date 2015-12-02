@@ -1,0 +1,22 @@
+
+ 
+ fyi
+ thanks
+  eas
+ 
+ 
+
+  
+ Comments on the draft.
+ 
+ The language in 3.1 and 3.4 should be enough to show control of the 
+ generator's running status by EPMI (which has been delegated to Enron -SE 
+ Corp. for control area responsibility purposes).
+ 
+ In 3.8, Yes, EPMI would need to schedule the gas and electricity.  Please add 
+ "EPMI is responsible for scheduling any necessary transportation to the Gas 
+ Delivery Point and transmission from the Energy Delivery Point."
+ 
+ 5.2  Change "energy" to "power"
+ 
+ 12.1 As you discussed with Sam, this agreement would have to be filed at FERC.

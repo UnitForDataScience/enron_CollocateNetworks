@@ -1,0 +1,9 @@
+
+ 
+ We have set up this VNG contract in Sitara twice, as   6507  (see deal 512077)
+       and  .6507
+ 
+ Currently all Transco contracts have the decimal preceding the number.  
+ Please terminate 6507 effective 12/31/2000.
+ 
+ Thanks

@@ -1,0 +1,49 @@
+
+ 
+ Mike,
+ 
+ Following request has been made for a number of people.
+ 
+ The access requested is: o:\research\power meteorology\weather temperatures - 
+ Read/Write
+  Data Approval  Grant  
+ 
+ This is what I wrote, denying the request:
+ 
+ The reason for the rejection has been communicated  several times.
+ The person who requested the access does not want it any more.  Granting both 
+ read/write access could threaten the integrity of the data.
+ 
+ 
+ Any comments?
+ 
+ Vince
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ This request has been pending approval for  2 days and you are the 
+ alternate.  Please click 
+ http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000015384&Page=
+ Approval to review and act upon this request.
+ 
+ 
+ 
+ 
+ 
+ Request ID          : 000000000015384
+
+ Request Create Date : 1/25/01 7:59:02 AM
+
+ Resource Name       : \\enehou\houston\common\Research - [Read/Write]
+ Resource Type       : Directory
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,77 @@
+
+ 
+ Shirley,
+ 
+ Please, enroll me in this course.
+ 
+ Vince
+ 
+ 
+ Course Leaders: Dr Les Clewlow and Dr Chris Strickland
+ 
+ Houston: 31 March 2000
+ London:  5 April 2000
+ 
+ Fee : STG 950 / USD 1950
+ 
+ This is an intermediate course aimed at the Energy professional who is
+ familiar with energy derivative products but who requires an understanding
+ of the theory and calculation of Value at Risk for energy derivative
+ portfolios.
+ 
+ The format for the course will follow our usual highly practical and
+ successful style of alternate sessions of lectures and Excel based computer
+ workshops. To facilitate intensive interaction the course will be limited
+ to a maximum of 15 participants so early booking is advisable.
+ 
+ The Excel based computer workshops deal with oil and gas as well as
+ electricity derivatives. At the end of the course participants leave with a
+ diskette containing answers to all the workshops as well as valuable code
+ for pricing and VaR calculations.
+ 
+ Registration fee includes: pre-course reading, course materials, copies of
+ relevant research materials, diskette with fully worked solutions to
+ computer workshops, lunch and refreshments.  Additionally, each attendee
+ will receive a free copy of Clewlow and Strickland's forthcoming book
+ "Energy Derivatives: Pricing and Risk Management".
+ 
+ Upon registration, participants will be sent a pack containing relevant
+ pre-course reading.
+ 
+ COURSE OUTLINE
+ 
+ Day 1, AM : Understanding the VaR methodologies and issues
+ 
+      What is VaR?
+      Uses of VaR
+      Types of VaR methodologies
+      Implications of applying the RiskMetrics assumptions in energy markets
+ 
+      Delta VaR, historical simulation
+      Linear and Non Linear Instruments
+ 
+ Workshop: Applying simple VaR methodologies in the energy market
+ 
+ Day 1, PM : Calculation of Energy portfolio VaR using simulation
+ 
+      Modelling the energy forward curve - single and multi-factor
+      Modelling the joint behaviour of different energies simultaneously
+      Calculation of covariances and correlations
+      Incorporating jumps
+      Detailed example VaR calculation for an energy portfolio
+ 
+ Workshop: Simulating energy forward curves and calculation of VaR for an
+ energy portfolio.
+ 
+ Dr. Les Clewlow and Dr Chris Strickland hold Associate Research Positions
+ at both the School of Finance and Economics, University of Technology,
+ Sydney and the Financial Options Research Centre, University of Warwick,
+ UK.  Together they have over 20 years combined experience in the financial
+ and energy derivative markets and have published many articles in academic
+ and trade journals.  They are the authors of the book "Implementing
+ Derivatives Models" (Wiley, 1998) and editors of "Exotic Options: The State
+ of the Art" (ITP, 1998). Their forthcoming book, "Energy Derivatives:
+ Pricing and Risk Management," is due to be published during the second
+ quarter 2000.  Currently, their interests are concentrated in the energy
+ derivatives area, where they have developed a wide range of pricing tools
+ for electricity options and other energy derivatives.

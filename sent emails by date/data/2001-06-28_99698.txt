@@ -1,0 +1,21 @@
+
+ 
+ looks good to me.  Thanks DS
+ 
+  
+    Cc:	Kuehl, Toby
+  
+ I have made the changes to the CAS Group tables in Development. Attached is a report of the Updated data. In the column headings, I have indicated where the Group names would be visible. 
+ 
+ I have one suggestion.
+ 
+ The Secondary Group Name (lack of a better name) that will be displayed on the Unsubscribed Report, should I rename those six groups to the name that is currently displayed on the report, then there would be no change to the Customers except that there are less groups. 
+ 
+ Let me know.
+ 
+
+ 
+ 
+ Jeanne
+ 
+  << File: cas group name.xls >> 

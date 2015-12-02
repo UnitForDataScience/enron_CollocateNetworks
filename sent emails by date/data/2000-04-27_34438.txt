@@ -1,0 +1,12 @@
+
+ 
+ Here is the segmented capacity volumes for May
+ 
+ Zone Master K# Volume  Segmented Contract
+ 6-6 3.4367  40,000  3.4367 (ready to rock)
+ 
+ 3-3 .7537  46,800  3.4620 (will execute last segments tomorrow)
+ 
+ 3-3 .7537  24,400  3.4620 (will execute last segments tomorrow)
+ 
+ 3-3 .7537  100,000  3.4801(backhaul k) (will execute last segments tomorrow)

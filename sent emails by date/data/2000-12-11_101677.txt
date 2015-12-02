@@ -1,0 +1,54 @@
+
+ 
+ The only one I'm still not really sure about is Stanfield, which is in red.
+ 
+ 
+ 
+ 
+ Susan M Scott
+ 12/11/2000 10:46 AM
+
+   
+ 
+ GDP-CAL BORDER    4.33
+ GDP-CGT/APPALAC   4.53
+ GDP-CHI. GATE  4.45
+ GDP-CNG/APPALACH  4.59
+ GDP-HEHUB   4.37
+ GDP-ELPO/PERM2  4.10
+ GDP-ELPO/SANJUA  3.87
+ GDP-HPL/SHPCH  4.38
+ GDP-KERN/OPAL  3.65
+ GDP-MALIN-CTYGA  3.90
+ GDP-MICHCON   4.53
+ GDP-NTHWST/CANB  3.64
+ GDP-PAN/TX/OK  4.21
+ GDP-PG&E/CITIGA  4.44
+ GDP-TENN/500  4.32
+ GDP-TRCOZ6/NY  4.72
+ GDP-TETCO/M3  4.67
+ GDP-WAHA   4.17
+ NW STANF/1ST-GD  3.75
+ 
+ 
+ 
+ 
+ 
+
+ 12/08/2000 12:17 PM
+
+   
+ Hi Susan,
+ 
+ This is what I had for 6/1/00:
+ 
+   
+ I did not have info for the 'NW-STANFIELD' curve (for 6/1 or 6/2):
+ 
+ Let me know if I can try anything else,
+ 
+ Hal
+ x53707
+ 
+ 
+ 

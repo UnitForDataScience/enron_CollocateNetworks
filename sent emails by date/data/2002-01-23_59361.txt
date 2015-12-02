@@ -1,0 +1,24 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Keiser, Kam\Sent Items
+ X-Origin: KEISER-K
+ X-FileName: kam keiser 7-11-02.PST
+ 
+ 
+ How do we get into test to view these trades?
+ 
+  
+    Cc:	Denny, Jennifer; Engel, Tom; Sweitzer, Tara; Meredith, Kevin; Lozano, Melba
+  
+ 
+ Melba and I tested 4 more deals today..2 power and 2 gas.  I am attaching the transaction summary for your review.  Again, we are using the Dynegy counterparty name for testing purposes  Please verify that everything is flowing correctly to the downstream systems.
+ 
+ O'Neal, I will be getting with you tomorrow or Friday about how these look in Tagg and Sitara.  Also, the 11 deals that I tested yesterday, I will need you to check them out as well.  Thanks for your help. 
+ 
+ Dawn
+ 3-9353
+ 
+  

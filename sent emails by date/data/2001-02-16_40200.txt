@@ -1,0 +1,52 @@
+
+ 
+ Tim alerted everyone about this.  It's just an average for each number.
+ 
+    
+ 	Enron Capital & Trade Resources Corp.
+ 	
+
+  02/16/2001 08:45 AM
+ 	
+ 
+  <IMCEAEX-_O=CAISO_OU=CORPORATE_CN=DISTRIBUTION+20LISTS_CN=ISO+20MARKET+20PARTI
+
+ 
+
+
+  site
+ 
+ 
+ Market Participants:
+ 
+ As of trade date 2/12/01 the ISO began publishing estimated Daily cost
+ associated with Incremental Imbalance energy on the CAISO Webster
+ http://www.caiso.com/marketops/OASIS/pubmkt2.html under button #46 Imbalance
+ Energy Costs.  This information is presented as follows:
+ 1. As-Bid:  Energy purchased via BEEP but with bids above the soft-cap
+ of $150.
+ 2. Daily MCP:  Energy purchased via BEEP at or below soft cap that will
+ settle at MCP.
+ 3. Out-of-Market:  Energy purchased out-of-market.
+ 
+ This Market data is available at 1800 hours on the day following the
+ applicable trade date.
+ The ISO did receive requests for hourly breakdown of these values.   At this
+ point, we have only received approval to publish Daily Averages.
+ The ISO has also posted historical data file for this same energy purchase
+ data for the period Nov 1, 2000 through Feb 11, 2001.  This historical data
+ is available in the Exceptions Log under real time data
+ http://www.caiso.com/marketops/OASIS/exceptions/.
+ 
+ 
+ 
+   Ginger Y. Seitles
+    <<...OLE_Obj...>>  California ISO
+   Market Operations
+   Phone: (916) 351-4420
+   Pager: (800) 901-1898
+ 
+ CRCommunications
+ Client Relations Communications
+ 
+ 

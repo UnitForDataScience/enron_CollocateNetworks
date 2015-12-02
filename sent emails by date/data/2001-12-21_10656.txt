@@ -1,0 +1,14 @@
+
+ 
+ 	Raetta, can you follow up on the Flowing gas reports.  Thanks. Lynn
+ 
+  
+    Cc:	Abshire, Scott; Hotte, Steve; Sawyer, Lisa; McFarland, Jean; Kedwaii, Hasan; Wagner, Glenda; Daze, Don; Karas, Phylis
+  
+ 
+ 
+ All testing was completed.  We have confirmed with the ENW Resolution Center that the Exchange servers are up.  However, the Flow Gas testing was unsuccessful.  We logged into the system successfully, but received an error message when selecting the NNG Invoice.  We paged the NNG Accounting On-call pager.  We will forward updates as they are received.
+ 
+ 
+ 
+ 

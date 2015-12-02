@@ -1,0 +1,34 @@
+
+ 
+ Thanks, Vince.  Kim.
+ 
+  
+    Cc:	Watson, Kimberly; McConnell, Mark; Y'Barbo, Paul
+  
+ Sandy please add Mark McConnell and Paul Y'Barbo to the Caminus Zai*net users list per Kim Watson's request.
+ 
+ Thanks
+ 
+ Vince Strohmeyer
+ 713.853.6701
+ 
+ 
+ 
+ Paul and Mark,
+ 
+ You should be able to get into the Caminus system as outlined below, after you have been added to the user group.
+ 
+ To initiate the installation of the Caminus Zai*Net application, the users should perform the following:
+ 
+ Click Start button
+ Click Programs menu
+ Click Business Applications menu
+ Double click the Caminus ZaiNet option
+ 
+ 
+ After you reboot your system, you will be able to log in to Caminus Zai*net.  Your User ID is your first and last initials, followed by the numbers "01" (e.g. Fred Flintstone would be FF01), and your initial password is "password".  You will be prompted to change your password on initial log in.
+ 
+ Thanks,
+ Vince Strohmeyer
+ 
+ 713.853.6701

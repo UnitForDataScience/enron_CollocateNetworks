@@ -1,0 +1,29 @@
+
+ 
+ Everything is working.
+ 
+ Thanks for the help.
+ 
+ 
+ Eric
+ 
+ 
+ 
+ 
+ Julie Pechersky
+ 03/17/2000 07:45 AM
+
+   
+ Eric:
+ You should now have access to CQG.  To install CQG choose Start, Programs, 
+ Trading, CQG Local Install.  After the application has
+ installed you will choose Start, Programs, Trading, CQG to access.  No 
+ password is necessary, find your name in the drop down menu
+ and choose login. 
+ 
+ Let me know if you have any questions.
+ 
+ Thanks,
+ 
+ Julie
+ 

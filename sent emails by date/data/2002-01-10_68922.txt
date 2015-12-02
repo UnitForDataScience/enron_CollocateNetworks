@@ -1,0 +1,33 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Love, Phillip M.\Sent Items
+ X-Origin: LOVE-P
+ X-FileName: phillip love 6-25-02.PST
+ 
+ Is this value on these deals rought 8K?
+ If so, tell portfolio acct to put them in and generate a PMA for the gas books.  It is not worth investigating for such a small number and the deal ended 12/01.  Are these the only four deals you have with the gas desk?  
+ PL
+ 
+ 
+  
+     
+ Phillip,
+ 
+ Below is the information for the CGAS book that was killed on 12/13/01.  This book should have liquidated in December.  Can we get this deal back?
+ 
+ Thanks,
+ 
+ Susie
+ x30524
+ 
+ 
+ 
+ 									
+ 							Totals	$7,714	
+ 			Monthly	PV	Discount	Mid	Fixed	Mid	
+ Deal Num	Pub Code	Period	Quantity	Quantity	Factor	Price	Price	Value	
+ ER6451.1	IF-CGT/APPALAC	01-Dec-01	-75,255	-75,255	100.00%	-0.119	0.313	$32,497	
+ ER6451.2	IF-CGT/APPALAC	01-Dec-01	75,255	75,255	100.00%	-0.119	0.210	-$24,784	

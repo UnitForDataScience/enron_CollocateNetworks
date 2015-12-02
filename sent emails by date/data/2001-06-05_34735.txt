@@ -1,0 +1,5 @@
+
+ 
+ The ENA counterparty on deal 810054 needs to be changed from ENA - IM ME TCO to ENA - IM EAST TP1.  Please change it or unvalidate it and I will change it.
+ 
+ thanks

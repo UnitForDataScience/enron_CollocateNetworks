@@ -1,0 +1,33 @@
+
+ 
+ 
+ 
+ 
+
+
+   # MD00-02MP
+ 
+ 
+ I think the Proxim solution is the way to go.  Compaq has partnered with
+ these guys.
+ 
+ You need: an ISA card for your desktop and a PC card for your notebook
+ 
+ 
+ Here is the link that gives an overview of the product:
+ 
+ http://www.proxim.com/symphony/learn/costben.shtml
+ 
+ 
+ Here is the best deal I found where they were in stock.  I believe you need
+ the last two items listed on the page.
+ 
+ http://www.proxim.com/symphony/learn/costben.shtml
+ 
+ 
+ 
+ Here is an overview report
+ 
+ 
+ 
+  - C.DTF

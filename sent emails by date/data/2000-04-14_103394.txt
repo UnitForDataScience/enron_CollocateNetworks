@@ -1,0 +1,49 @@
+
+ 
+ FYI only.  It looks like this trade will be done by EAF.
+ 
+ 
+ 
+
+ 13/04/2000 13:38
+
+
+  
+  
+ 
+ 
+ 
+ 
+ David Minns
+ 04/13/2000 12:17 PM
+
+
+
+ 
+  
+ Raymond attached is the CDD confirmation form. I have gone through the 
+ comments on the draft Jerven gave me. The only change I made is the inclusion 
+ of a weather station number in addition to a name. There was a question mark 
+ next to the website reference and a comment that there is no quality control 
+ for public access. Is the website reference OK?
+ 
+ Sara this confirmation follows the ENA model. The changes  only relate to the 
+ differing measurement references. We also included a  paragraph 5 to further 
+ reduce the possibility of the trade being characterised as insurance. If ENA 
+ is the counterparty then it should be enough to reference the relevant ISDA 
+ Master Agreement and change the references to EAF to ENA.
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

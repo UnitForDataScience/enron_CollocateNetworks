@@ -1,0 +1,96 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ect: 2- SURVEY/INFORMATION EMAIL=09
+ 
+ 
+ Current Notes User:=20
+ 
+ To ensure that you experience a successful migration from Notes to Outlook,=
+  it is necessary to gather individual user information prior to your date o=
+ f migration.  Please take a few minutes to completely fill out the followin=
+ g survey. Double Click on document to put it in "Edit" mode. When you finis=
+ h, simply click on the 'Reply With History' button then hit 'Send'  Your su=
+ rvey will automatically be sent to the Outlook 2000 Migration Mailbox.
+ 
+ Thank you.
+ 
+ Outlook 2000 Migration Team
+ 
+ 
+ 
+ Full Name:=09Elizabeth Sager      =20
+ 
+ Login ID:  =09esager
+ 
+ Extension:  =0936349
+ 
+ Office Location:  =093805
+ 
+ What type of computer do you have?  (Desktop,  Laptop,  Both)   Desktop
+ 
+ Do you have a PDA?  If yes, what type do you have:   (None, IPAQ, Palm Pilo=
+ t, Jornada)  No
+ 
+ Do you have permission to access anyone's Email/Calendar? =20
+     If yes, who?  No
+ 
+ Does anyone have permission to access your Email/Calendar? =20
+     If yes, who?  Yes, my secretary, Alice Wright
+ 
+ Are you responsible for updating anyone else's address book? =20
+     If yes, who?  No
+ 
+ Is anyone else responsible for updating your address book? =20
+    If yes, who?  =09Yes, my secretary, Alice Wright
+ 
+ Do you have access to a shared calendar? =20
+     If yes, which shared calendar?  Yes
+ 
+ Do you have any Distribution Groups that Messaging maintains for you (for m=
+ ass mailings)? =20
+     If yes, please list here: =20
+ 
+ Address Books:   Enron, Personal, ECT, EES, EI Lotus Notes, EC, Eott's, Azu=
+ rix NAB, Transredes, MGUSA, New Power, Local Address Books.
+ 
+ Please list all Notes databases applications that you currently use:=09ECT =
+ Sec Resource, ECT Bulletin Boards, Catalog 5.0, Personal Web Navigator, Dev=
+ elopment Center, ECT Legal Foreign and Domestic, New Power Contracts, On Lo=
+ cal, Journal on Local, Favorites on Local, Finanical Trading Agreement, ECT=
+  Technical Support for SRRS.
+ 
+ 
+ Media - Wall Street Journal, New York Times, Carthage Today
+ 
+ In our efforts to plan the exact date/time of your migration, we also will =
+ need to know:
+ 
+ What are your normal work hours?   
+ Will you be out of the office in the near future for vacation, leave, etc?
+        If so, when?        From (MM/DD/YY):      To (MM/DD/YY):     =20
+ 
+ 

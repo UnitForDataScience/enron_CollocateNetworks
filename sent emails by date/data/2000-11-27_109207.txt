@@ -1,0 +1,42 @@
+
+ 
+ 
+ 
+ 
+
+
+  
+  
+ 
+ 
+ Dear Johnny Palmer,
+ 
+ I am a Mathematics Ph.D. candidate at Boston University, specializing on
+ statistics.  I have worked at Citizens Power (now Edison Mission Marketing
+ and Trading) since April of this year developing software for their
+ trading desk and risk management department.
+ 
+ In particular, I have implemented state-of-the-art
+ procedures to price derivative contracts on gas and electricity, and
+ worked on default correlations among counterparties.
+ 
+ Attached is a html copy of my vita.
+ 
+ Sincerely,
+ 
+ 
+ Carlos J. Morales
+ Department of mathematics and Statistics
+ Boston University
+ 
+  - cv.html
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

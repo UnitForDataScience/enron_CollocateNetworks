@@ -1,0 +1,19 @@
+
+ 
+ Marlene:  the following information per your request to set up Transcolorado 
+ Pipeline in Global.
+ 
+ Transcolorado Gas Transmission Company
+ Interstate pipeline
+ Address:  370 Van Gordon Street
+                     Lakewood, CO  80228
+ Phone # (Main) 303-763-3673
+ Contact:  Steve Irizarry  303-763-3473
+ Rate Zones:  Rocky Mountains
+                           San Juan 
+ 
+ Imelda:  the curves you need to set up are
+ Rocky Mountains:  curve will be Wyoming Hub
+ San Juan:  curve will be El Paso San Juan Non-Bondad
+ 
+ Thanks, and let me know if there are any additional questions.

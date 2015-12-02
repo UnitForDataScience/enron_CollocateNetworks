@@ -1,0 +1,65 @@
+
+ 
+ 
+ 
+ Hi Jason,
+ I've attached an excel file with both sets of prices.  However, the HA Zone 
+ Price data set appears to be incomplete.  I'm currently looking to complete 
+ this set and will get back to you shortly on it's progress.  If you prefer 
+ the data in a different format please let me know.
+ Thanks,
+ Maria V.H.  
+ 
+   
+ 
+ 
+
+   
+ Maria,
+ 
+ Is it possible to get both sets of prices?
+ We will need to go back as far as we can.
+ 
+ Thanks.
+ Jason Sokolov
+ 
+ 
+    
+ 	Enron North America Corp.
+ 	
+ 	 	
+ 
+
+   
+ 
+ Jason,
+ 
+ Are you looking for CalPX hour ahead UMCP or CalPX hour ahead zone prices?  
+ We have hour ahead zone price data from 10/1/98 - current and hour ahead UMCP 
+ from 11/6/2000 onward.  
+ Maria V.H.  
+ 
+ 
+    
+ 	
+ 	
+ 	 	
+ 
+
+   
+ Maria,
+ 
+ I am looking for historical hourly real-time (spot) power prices for CalPX.
+ Can you help me to locate them?
+ 
+ Jason Sokolov
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

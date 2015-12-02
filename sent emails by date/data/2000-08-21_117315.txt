@@ -1,0 +1,67 @@
+
+ 
+ That works to make it more bilateral.  I think we still have the fundamenta=
+ l=20
+ problem that it is a basically flawed concept.  But that's not going to be=
+ =20
+ fixed by drafting.
+ 
+ 
+ 
+
+ =0908/21/2000 06:48 PM
+ =09=09
+
+ =09=09  =09=09  
+ I think we need for this to be reciprocal -although I agree the errors are=
+ =20
+ likely to be only our own.
+ 
+ Therefore, I suggest the following:
+ 
+ (f) Notwithstanding any provision of this Agreement, any master agreement o=
+ r=20
+ any GTC to the contrary, any Transaction resulting from a Gross Error may  =
+ be=20
+ voided and the parties agree that any such voided Transaction shall be of n=
+ o=20
+ force or effect.  =01&Gross Error=018 shall mean the posting of any price t=
+ hat is=20
+ [5]% or more above or below then prevailing market prices, which difference=
+ =20
+ is verified by the average of quotations from three or more participants in=
+ =20
+ the relevant market for Transactions which would be conducted at the time o=
+ f=20
+ the Transaction containing the Gross Error. For a Transaction to qualify as=
+ =20
+ subject to Gross Error, one party must communicate by facsimile to the othe=
+ r=20
+ the claimed existence of Gross Error within [3] hours of the Transaction=20
+ occurring.=20
+ 
+ 
+ What do you think?
+ 
+ Dave
+ 
+ 
+ 
+ 
+
+
+  
+  
+ (f) Notwithstanding any provision of this Agreement, any master agreement o=
+ r=20
+ any GTC to the contrary, any Transaction resulting from a Gross Error by=20
+ Enron shall be voided at Enron=01,s election and Counterparty agrees that a=
+ ny=20
+ such voided Transaction shall be of no force or effect.  =01&Gross Error=01=
+ 8 shall=20
+ mean the posting of any price that is [30]% or more above or below then=20
+ prevailing market prices, which difference is verified by the average of=20
+ quotations from three or more participants in the relevant market.
+ 
+ 
+ 

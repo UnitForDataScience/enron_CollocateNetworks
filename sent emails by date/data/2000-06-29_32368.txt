@@ -1,0 +1,15 @@
+
+ 
+ k#  MDQ
+ 892510  16136 Access to M3
+ 892511  7426 Access to M3
+ 893145  5000 Access to M3
+ 892875  9496 Access to M3
+ 
+ Total  38058
+ 
+ 
+ 892872  19355 Access to M2
+ 893589  11250 Access to M2
+ 
+ Total  30605

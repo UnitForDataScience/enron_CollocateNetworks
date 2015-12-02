@@ -1,0 +1,27 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - White, Stacey W.\Sent Items
+ X-Origin: WHITE-S
+ X-FileName: stacy white 7-15-02.PST
+ 
+ Thanks!
+ 
+  
+    Cc:	Lee, Norman
+  Importance:	High
+ 
+ Dear all,
+ 
+ Current Oracle power production database has been moved. All Excel applications that directely involeve with power database for "New ESTATE Alias" have been modified. Also, all of your TS setting have been updated.
+ 
+ All those Excel applications infotrmation are in attached.
+ 
+ Thanks!
+ 
+ Min Zheng
+ 
+  << File: LatestWestApplicationForNewESTATEAlias.xls >> 
+  

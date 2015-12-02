@@ -1,0 +1,18 @@
+
+ 
+ FYI.
+ 
+  
+     
+ Here is how I see the February release, with the 50/50 sharing mechanism:
+ 
+ ENA's contract with TW is at a daily rate of $0.0600 (one-part)
+ The release to Burlington is at a daily rate of $0.1020 (demand only plus applicable commodity and fuel based on usage)
+ TW will bill Burlington through normal course of business (reservation of $71,400 [$0.1020 x 25,000 x 28 days] plus applicable commodity fees)
+ ENA demand invoice will be adjusted for a capacity release credit of $56,700  [($0.1020 - $0.021) x 25,000 x 28 days]
+ TW will need to book marketing fee revenues of $14,700 [$0.021 x 25,000 x 28 days]
+ ENA will be looking for a payment of $14,700 for their portion of the shared upside
+ 
+ 
+ I'd copied your format for January...what do you think of the February numbers?    
+ 

@@ -1,0 +1,18 @@
+
+ 
+ please approve this.
+ 
+  
+
+    
+ The following expense report is ready for approval:
+ 
+ Employee Name: Judith G. Townsend
+ Status last changed by:  Automated Administrator
+ Expense Report Name: Misc.
+ Report Total: $308.79
+ Amount Due Employee: $308.79
+ 
+ 
+ To approve this expense report, click on the following link for Concur Expense.
+ http://expensexms.enron.com

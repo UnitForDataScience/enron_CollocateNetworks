@@ -1,0 +1,23 @@
+
+ 
+ 
+ 
+ 
+
+
+  
+  
+ 
+ 
+ 
+ 
+
+ 
+ On further review, I don't think we need to challenge the proposed
+ reference to Parking and Loaning Transactions as being "interruptible".
+ Although Peoples' GTC does not characterize this service as interruptible,
+ there are provisions in the GTC re scheduling and priority that render the
+ service interruptible, e.g. Sect. 6.3.
+ 
+ 
+ 

@@ -1,0 +1,36 @@
+
+ 
+ Hey, it worked! I have no idea what happened, but it looks great. Thanks for 
+ checking it out.
+ 
+ Kate
+ 
+ 
+ 
+
+
+  
+  
+ Kate, I ran the report with the exact same options and it came right up.  Try 
+ it again, exactly as before.  Usually if it works for one person and not the 
+ other it is a security issue.  Let me know what happens.
+ 
+ Thanks,
+ Brett
+ 
+  
+     
+ Following are the terms under which I ran the Forward Obligation report and 
+ received this message:
+ 
+ General SQL error.
+ ORA-00907: missing right parenthesis.
+ 
+ Terms:
+ 
+ 
+ 
+ Let me know what you find. Thanks!
+ 
+ Kate
+ 

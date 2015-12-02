@@ -1,0 +1,21 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Giron, Darron C.\Sent Items
+ X-Origin: GIRON-D
+ X-FileName: darron giron 6-26-02.PST
+ 
+ Everything is lumped together, meaning price, basis, and index, in that file.
+ 
+ DG
+ 
+  
+     
+ This is the last file I sent Dierdre.  It has four tabs.  One summarizes the monthly cash flow into two columns (Peoples Deal and PERC Deal).  The monthly values are PV'd.  The PERC tab is the Lagrasta deals.  The Peoples Deal is broken into two tabs (Baseload Sale and Transport).  The baseload sale includes all of the price fixing deals as well as the index -$.03 deal.  Transport is just that.  I hope this helps.
+ 
+ DG
+ 
+ 
+  << File: PeoplesSummary.xls >> 

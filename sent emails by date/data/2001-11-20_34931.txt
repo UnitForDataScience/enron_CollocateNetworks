@@ -1,0 +1,3 @@
+
+ 
+ Is there a way I can see the amount of gas on my storage contract on the EBB?  I looked yesterday and I even tried the "help button" but I couldn't find anything.  The contract number is 15692.

@@ -1,0 +1,39 @@
+
+ 
+ I had assumed we were going to have a separate PA for the Auction-only 
+ counterparties.  The PA contains an unfortunate reference to the ETA which 
+ will need to change if they will only be accepting the Auction-only agreement.
+ 
+ 
+ 
+ 
+ David Forster
+ 02/29/2000 10:00 AM
+
+
+
+  
+ Mark/Justin,
+ 
+ Attached is a copy of the Australian PA. It includes the addition of an 
+ Address for Service.
+ 
+ Do you think we should incorporate this in our other PA's as well?
+ 
+ I realise that in many instances we are already doing business with the 
+ relevant company - and the same or similar information might be included on 
+ the Registration form (where completed) - but are you concerned about 
+ ambiguity in the event that no Registration form is completed?
+ 
+ Also: We will need to have some way to distinguish PA's which arrive for 
+ customers who want access to Auctions only. What do you think about adding a 
+ statement like: "(Optional): Tick this box if you wish to have access only to 
+ EnronOnline auctions and not to the main transactions site"  [tick box].
+ 
+ If you wish to proceed with either of the above, we will need to revise all 
+ PA's and post them on the website.
+ 
+ Thanks,
+ 
+ Dave
+ 

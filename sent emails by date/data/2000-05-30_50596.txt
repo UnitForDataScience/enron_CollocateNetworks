@@ -1,0 +1,105 @@
+
+ 
+ Zimin,
+ 
+ I have a copy of the article.
+ I agree with you. The model is
+ essentially the same (in intentions).
+ 
+ I shall distributed the copy of the paper
+ to the trades here. It explains  
+ well the logic behind the model and it's
+ an independent source.
+ 
+ 
+ Vince
+ 
+ 
+ 
+ 
+ 
+ 
+ Zimin Lu
+ 05/30/2000 10:44 AM
+
+
+  
+ 
+ Vince, 
+ 
+ I got the article.  I can make a copy for you when I get back.
+ The article is pretty much for marketing purpose.   My reading
+ from that paper is as follows:
+ 
+ 1. solve optimal exercise bounday using stocastic DP;
+ 2. runing price trajectory to tracking storage level to give average storage 
+ cycling;
+ 
+ Our model addresses the same issues,  althrough maybe the implementation is
+ not quite the same. 
+ 
+ I will fax to you if I can find the article here.
+ 
+ Regards,
+ 
+ Zimin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vince J Kaminski
+ 05/30/2000 09:56 AM
+
+
+  
+ Zimin,
+ 
+ There was an interesting article on gas storage modeling
+ by people from Camminus in the March issue
+ of Energy and Power Risk Management.
+ Please, see if you can get this article.
+ 
+ Vince
+ 
+ 
+ 
+ 
+ 
+ Zimin Lu
+ 05/30/2000 04:59 AM
+
+
+  
+ 
+ Vince and Stinson,
+ 
+ I am in the London office this week. Things are quite nice here.  My host 
+ Anjam arranged a full itinerary for me.
+ Tuesday is reserved for Anjam to talk about various subjects including 
+ inflation modeling, power vol curve,
+ mean reverting price & vol model, and I will talk about the spot and 
+ multi-factor models, XLL. Wednesday, I
+ will concentrate on the gas storage model with  Natasha Danilochkina. 
+ Thursday and Friday I will talk to 
+ Haakan Olafsson, Mark Jones, Anjam, and Natasha about UK gas forward curve 
+ simulation, gas swing model,
+ and implementation issues of UK virtural storage model.   I will give you a 
+ full report when I get back.
+ 
+ It is cold and rainy here in London. It makes me feel sunny and hot Houston 
+ actually is not that bad.
+ 
+ 
+ Zimin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

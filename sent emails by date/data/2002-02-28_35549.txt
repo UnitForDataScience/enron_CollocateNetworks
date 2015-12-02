@@ -1,0 +1,16 @@
+
+ 
+ FYI:  Pipeline name change.  Not sure who this might impact.  At least I don't see any deals in Sitara on this pipeline.
+ 
+ There will be a quiz tomorrow afternoon at 4:45 PM.
+ 
+  
+     
+ Okay, not sure who, if anyone, cares or needs to know BUT . . . . 
+ 
+ Stingray Pipeline Company (34271) has been changed to Stingray Pipeline Company, L.L.C. (200104). This change created a new Global Counterparty number so it prompted manual changes to the Pipeline Name & Pipeline Counterparty data within Global Facilities. It also prompted the need to move (via assignment within Global Contracts) all service related agreements from the old GCP record to the new GCP record. I left both names on the Global Record, BUT due to system controls can only have 1 listed with the role of "Pipeline". This role was assigned to the "new" name & the old name (which is now a suspended GCP record) was made "Alternate Payee". This was a "guess" role - - - - and I have no idea of how the service side is impacted or at what level it validates the Global record attached to the deal. All contract services are the same on each record, but the role of "Pipeline" now resides with the new GCP.
+ 
+ Can you either let all those who need to know - - - know & let me know who/how should I share information like this in the future. You got a Transportation Greenie (just 'learned' how to change pipeline names today) over here.
+ 
+ Thanks so much!!
+ Cyndie

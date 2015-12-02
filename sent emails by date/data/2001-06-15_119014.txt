@@ -1,0 +1,25 @@
+
+ 
+ I'm happy to take a look at the proposed language and coordinate with the lawyers in London and Singapore.  The difficulty in making the Long Description language the same around the world is that the underlying GTC's are necessarily different because they are governed by different laws.  We'll see what we can do.
+ 
+  
+    Cc:	Aziz, Arfan; Moncrieff, Scott
+  
+ 
+ Matt/Robert,
+ 
+ I understand that there seems to be a delay in finalising the SG Tanker Freight Swap Index language as there are problems arising from possibly not covering the appropriate Worldscale flat rate for the Determination Period.  I have spoken to Scott Moncrief as to the the issues which seem to have arisen. 
+ 
+ I have attached new wording below, which should cover if the Worldscale flat rate changes at anytime so the latest applicable flat shall be taken for the relevant Determination Period especially if they trade a forward starting swap effective in the following year.
+ 
+ Please review as we would like to use the attached for all SG and UK Tanker Freight Swaps.  I have attached all relevant wording for all three porducts which may be traded OTC and EOL so our clients receive consistant confirms, rather than different variations.
+ 
+ Let me know your comments as we need to finalise this wording by Monday or lastest Tuesday to be able to post the long description into EOL.
+ 
+ 
+  << File: Tanker Freight Index wording.doc >> 
+ 
+ 
+ Many Thanks
+ 
+ Debbie

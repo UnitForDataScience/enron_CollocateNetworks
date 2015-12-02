@@ -1,0 +1,49 @@
+
+ 
+ I would like to be able to run "Facilitation By Location" with the following 
+ criteria
+ 1.  I want to pick the counterparty or leave it blank.
+ 2.  I want to enter a date range ==> 02/01/2001 to 02/11/2001
+ 3.  I want to be able to select one or more pipelines without choosing a desk.
+ 
+ 
+ 
+ 
+    
+ 	
+ 	
+ 	 	
+ 
+
+
+
+   
+ Ok, looks like we got some attention.  Please let me know which ones you 
+ think and I'll consolidate and forward to Felicia.
+ 
+    Cc: Lamadrid, Victor; Beaty, Beverly; Germany, Chris; Goodell, Scott; Junek, 
+ Dan; Townsend, Judy
+  
+ Terry, 
+ 
+ Unless I'm missing something, it does not appear that there is a way for us 
+ to run a CPR report that shows all business done on a particular pipe 
+ regardless of desks.  For example, if I want to see all business that is 
+ being done on Transco, I must run the report for both the Northeast desk and 
+ the Market East desk.  This next weekend, the east is to be split into 12 
+ different desks, which will only complicate the issue even more.  
+ 
+ Russ Severson has the position screen set so that all business will roll into 
+ one position manager.  Is there any way that we get something similar from 
+ the reporting environment.  I'm thinking that the easiest way might be to 
+ have the ability to select just a pipe without being forced to select a desk 
+ first when submitting a report.  
+ 
+ Please let me know your thoughts on this.
+ 
+ Thanks!
+ 
+ Kathy
+ 
+ 
+ 

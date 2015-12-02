@@ -1,0 +1,30 @@
+
+ 
+ I'm having a problem sending this to Don.  What is eamil?
+ 
+ 
+
+   by postmaster.enron.com (8.8.8/8.8.8/postmaster-1.00) with ESMTP id PAA27389
+
+
+  nahou-msmsw01px.corp.enron.com
+  (Content Technologies SMTPRS 4.1.5) with ESMTP id 
+
+  Wed, 11 Oct 2000 15:44:25 -0500
+ 
+ 
+ X-MIMETrack: Serialize by Router on ENE-MTA01/Enron(Release 5.0.3 (Intl)|21 
+ March 2000) at
+  10/11/2000 03:41:10 PM
+  Content-type: text/plain; charset=us-ascii
+ 
+ I went motorcycle riding last night - I think I need to get some better
+ winter riding gear.
+ 
+ We will definitely go to court next Tuesday at 1:00 PM.  All we are doing
+ is verifying Dad's signature on the will.  Once the judge sees us it should
+ only take about five minutes.
+ 
+ That's all I have for now.
+ 
+ 

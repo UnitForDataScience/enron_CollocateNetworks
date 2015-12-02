@@ -1,0 +1,47 @@
+
+ 
+ Mike,
+ 
+ How can these people access the database?
+ 
+ 
+ 
+ 	Michael Neves
+ 	09/18/2000 05:36 PM
+ 		
+
+ 		  		  
+ This request has been completed.
+ 
+ Also, I spoke with a contact in IRM and they said that the best way for Jason 
+ to keep is access would be to maintain his NT and Notes accounts and have him 
+ set up his Laptop/Desktop with a Terminal Server client.  With this Terminal 
+ Server client he can access the Enron network as if he's in the office (a 
+ little/lot slower).  
+ 
+ To get Terminal Server:  from his Enron Corp desktop he should click 
+ "Start-Programs-Utilities-Make Terminal Server Client Disks"  -  Then of 
+ course he needs to install TS on his machine at A&K (or home).
+ 
+ Let me know if you/he has any questions.
+ 
+ Mike 3-3363
+ 
+ 
+ 
+
+
+  
+ Per our conversation yesterday, we would like to open the "Other Agreements" 
+ information in the Financial Trading Agreement Database to members of the 
+ Interest Rate and Currency Desk.  If possible, we would also like them to see 
+ the comments screen.  The people who will need access are Laurel Adams, 
+ George Garcia, Sheila Glover, Kelly Templeton, Teresa Brogan.
+ 
+ As usual, we would like to get them access ASAP.  Can you keep me posted on 
+ their access.  Thanks!
+ 
+ 
+ 
+ 
+ 

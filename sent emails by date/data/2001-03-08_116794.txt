@@ -1,0 +1,31 @@
+
+ 
+ broker is right - changed to Coral
+ 
+ 
+ 
+ 
+
+ 03/08/2001 01:44 PM
+
+  
+  
+ 541368
+ broker has coral for the cp
+ 
+ missing deals for mike:
+ 
+ buy idaho
+ Q3
+ 25 mw
+ 280.00
+ mid c
+ light load
+ 
+ sell aep
+ Q3
+ 25 mw
+ 290.00
+ mid c
+ light load
+ 

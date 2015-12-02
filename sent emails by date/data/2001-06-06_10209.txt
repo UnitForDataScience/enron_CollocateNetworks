@@ -1,0 +1,9 @@
+
+ 
+ Steve, this is going to possible make a difference in how much gets scheduled
+ at Socal.  So you may see a little lower numbers at time.  Let's discuss if that
+ does not make sense.  Thanks. Lynn
+     San Juan Scheduled      870,000
+ ID/1                                                                875,000
+ ID/2                                                                875,000 
+ (we will have to do the right mouse click and update the capacity to the flow rate needed.)

@@ -1,0 +1,53 @@
+
+ 
+  Click here for Network World's home page:
+ http://www.nwfusion.com
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 
+ Pervasive.SQL=01v 2000 Product Family SDK
+ http://www.pervasive.com/products/psql/sdk/
+ 
+ Understanding Pervasive.SQL 2000, a white paper (PDF)
+ http://www.pervasive.com/products/psql/psql_wkgrengine/workgroupwp.pdf
+ 
+ Migration Guide 6 to Pervasive.SQL.doc
+ http://www.pervasive.com/support/technical/papers/Migration%20Guide%20-%206=
+ .15
+ %20to%20Pervasive.SQL.pdf
+ 
+ 
+ Other NetWare-related articles from Network World:
+ 
+ Active Directory upgrade requires strong game plan, Network World,
+ 03/13/00
+ http://www.nwfusion.com/archive/2000/89629_03-13-2000.html
+ 
+ Microsoft exec sketches future for Win 2000, Network World, 03/13/00
+ http://www.nwfusion.com/archive/2000/89698_03-13-2000.html
+ 
+ 
+ Subscription Services
+ 
+ To subscribe or unsubscribe to any Network World e-mail newsletters,
+ go to:
+ http://www.nwwsubscribe.com/news/scripts/notprinteditnews.asp
+ 
+ To change your email address, go to:
+ http://www.nwwsubscribe.com/news/scripts/changeemail.asp
+ 
+ Subscription questions? Contact Customer Service by replying to this
+ message.
+ 
+ Other Questions/Comments
+ 
+ Have editorial comments? Write Jeff Caruso, Newsletter Editor, at:
+
+ 
+ For advertising information, write Jamie Kalbach, Account Executive,
+
+ 
+ Network World Fusion is part of IDG.net, the IDG Online Network.
+ IT All Starts Here:
+ http://www.idg.com
+ 
+ Copyright Network World, Inc., 2000

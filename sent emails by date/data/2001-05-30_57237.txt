@@ -1,0 +1,20 @@
+
+ 
+ 
+ Frank,
+ 
+ I shall catch you tomorrow (Thu) morning with m feedback. I shall be glad to attend
+ any meeting on Thursday or Friday this week (I am still relatively open).
+ 
+ Sorry for the delay.
+ 
+ Vince
+  
+    Cc:	White, Stacey; Vinson, Donald Wayne; McIntyre, Burton
+  
+ Frank,
+ 
+ Concerning our ongoing discussions on the proper capture of ancillary and renewable energy credit positions in VAR, I have a proposed solution that I would like to run by you to ensure that proper valuation for these positions will be captured by your VAR engine.  As the positions are marked on their own curve but are valued for VAR purposes using the volatility curves and correlation factors for an energy curve, the VAR on these positions is obviously inaccurate.  As a result, the traders will be setting volatility curves and correlation factors today which will be unique for each ancillary/energy credit position.  All of the correlation factors will be zero and a majority of the volatility curves will be zero, as well.  I simply wanted to ensure that your model would not have a problem with volatilityies or correlations of zero.  I would appreciate your thoughts.
+ 
+ Thanks.
+ Casey

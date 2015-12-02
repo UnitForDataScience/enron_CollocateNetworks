@@ -1,0 +1,20 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - White, Stacey W.\Sent Items
+ X-Origin: WHITE-S
+ X-FileName: stacy white 7-15-02.PST
+ 
+ Hope this helps a little bit re: RisktRAC.  After talking to Jeff, I believe the key to book codes is ensuring from IT that we can use whatever we want as the database will be entry.  Andrea, I agree that you should keep a power list and Kam should keep the gas list.  Also, just wondering if when we set up the gas books should we have also put in requests for gas daily, basis, index, etc.  I couldn't remember how that worked.
+ 
+ Stacey
+ 
+  
+    Cc:	Ramesh, Ganapathy
+  
+ 
+ Debbie, here's the updated Book Entry template.  Added a few dropdowns and "helpful entry tips".  Thanks.
+ 
+  

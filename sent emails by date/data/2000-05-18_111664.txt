@@ -1,0 +1,54 @@
+
+ 
+ Joe:
+ I think that Tana is right.  I guess that if we do a telephone trade and use 
+ the ECC Canada Annex A then we need to make the same modifications to that.  
+ Is that correct?  Have they requested any modifications to the online GTC?
+ 
+ Carol
+ 
+ 
+ 
+ 	Larry Joe Hunter
+ 	05/18/2000 12:14 PM
+ 		
+
+ 		  		  
+ 
+ Carol,
+ 
+ We've had some issues lately with EnronOnline deals and Puget Sound.  Should 
+ this entity always be booked with ECC?  Currently, depending on the index 
+ traded, it downloads into Trade Capture as either ENA or ECC.  In speaking 
+ with Tana the other day we had decided that whichever Enron entity downloads 
+ is the one we should confirm the deal under.
+ 
+ thanks,
+ Joe
+ 
+ 
+ 
+ 
+    Carol St Clair                05/18/2000 10:02 AM
+ 
+
+
+
+  
+ 
+ Joe:
+ We are entering into an Agreement with Puget Sound Energy, Inc. in which we 
+ are agreeing to some chnages to our new form of Annex A.  Enclosed is the new 
+ form which we have agreed to which should be attached to all trades done with 
+ Puget after February 2, 2000.  Alos enclosed is the Agreement that we will 
+ enter into.  Call me if you have any questions.
+ 
+  
+ 
+ Carol St. Clair
+ EB 3892
+ 713-853-3989 (Phone)
+ 713-646-3393 (Fax)
+ 
+ 
+ 

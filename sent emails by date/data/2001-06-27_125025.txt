@@ -1,0 +1,22 @@
+
+ 
+
+
+
+
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X-
+ X- X-b X-Folder: \ExMerge - Williams III, Bill\Sent Items
+ X-Origin: WILLIAMS-W3
+ X-FileName: 
+ 
+ Group,
+ For 06/28 only:
+ 
+ We need to send APS losses, 2 mws for HE 1 at 4C345 from EPE.  Lisa Gang has put this in the sheet and made a preschedule tag.  We need to make a buy from EPE under ST-Whourly in Enpower, and a sale to APS at zero in Enpower.  Please make sure this schedule is in as losses.  You can call me with any questions.
+ 
+ Thanks,
+ 
+ Bill

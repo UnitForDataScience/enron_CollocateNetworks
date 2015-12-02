@@ -1,0 +1,44 @@
+
+ 
+ 
+ 
+
+ 	06/08/2001 03:17 PM
+ 		 
+
+ 		  		  
+ 
+ Another set of comments.
+ 
+ Andrew S. Katz, Director Industry Legal Affairs
+ Edison Electric Institute
+ 701 Pennsylvania Avenue, N.W.
+ Washington, D.C.  20004
+ Voice:  202-508-5616
+ Fax:     202-508-5673
+
+  - TEXT.htm
+   (Switch-2.1.3/Switch-2.1.0) with ESMTP id f57Dwg014738; Thu, 7 Jun 2001 
+ 09:58:42 -0400
+ 
+
+
+ 
+ X-MIMETrack: Serialize by Router on DSML3OR/SERVERS/AEPIN(Release 5.0.5 
+ |September 22, 2000) at 06/07/2001 09:58:42 AM
+  Content-type: multipart/mixed ; 
+ Boundary="0__=85256A6400447CAC8f9e8a93df938690918c85256A6400447CAC"
+ Content-Disposition: inline
+ 
+ Please see AEP's comments to the EEI Collateral Annex attached.  I have
+ revised AEP's comments to correspond to Enron's comments.
+ 
+ Also, I will be attending the EEI meeting, so could you please include my
+ name on the distribution list.
+ 
+ Thank you.
+ Patty
+ 
+ (See attached file: AEP's comments to EEI Collateral Annex.doc)
+  - AEP's comments to EEI Collateral Annex.doc
+  - Andy Katz.vcf

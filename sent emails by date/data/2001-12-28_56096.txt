@@ -1,0 +1,21 @@
+
+ 
+ 
+  
+
+       by postmaster.enron.com (8.10.1/8.10.1/external_corp-1.08) with ESMTP id f94DU2302305 
+
+ 
+ Thu, 4 Oct 2001 08:30:02 -0500 
+     Thu, 4 Oct 2001 08:30:02 -0500 
+ content-class: urn:content-classes:message 
+   Content-Transfer-Encoding: quoted-printable 
+ X-MimeOLE: Produced By Microsoft Exchange V6.0.4712.0 
+  
+ X-MS-Has-Attach:  
+ X-MS-TNEF-Correlator:  
+ Thread-Topic: LJM/Raptor valuations 
+ Thread-Index: AcFM2FMHpaiFOfRsQDCq6NwF20YoUQAABKQw 
+
+
+ X-OriginalArrivalTime: 04 Oct 2001 13:30:02.0949 (UTC) FILETIME=[AC3E3750:01C14CD8] 

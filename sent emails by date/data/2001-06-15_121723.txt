@@ -1,0 +1,22 @@
+
+ 
+ 
+ 
+  
+
+    
+ Please provide a price for the following volumes for 2 years starting Jul
+ 01.  All volumes are in MMBtu per day at PG&E citygate.
+ 
+ Jul 80
+ Aug 75
+ Sep 65
+ Oct 65
+ Nov 75
+ Dec 90
+ Jan 135
+ Feb 130
+ Mar 115
+ Apr 120
+ May 100
+ Jun 90

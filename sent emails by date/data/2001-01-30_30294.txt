@@ -1,0 +1,14 @@
+
+ 
+ I need the company listed below set up in SAP.  The parent is 1N9.  The name of the company is Mavrix Transportation Trading Corp.  It will need one profit center and one cost center at this time.  Please let me know when the set up is complete.
+ 
+ Thanks
+  Thanks.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <Embedded StdOleLink>

@@ -1,0 +1,32 @@
+
+ 
+ 
+ 
+ 
+ Karen Lambert
+ 12/13/99 09:23 PM
+
+
+
+  
+ Attached below is the PA review spreadsheet with complete Global contracts 
+ data.
+ 
+ 
+ 
+ 
+ 
+ Please add the following contracts to the matrix:
+ Tristar Gas Marketing Company's Master Purchase Sale Firm contract # 96007722 
+ for ENA physical delivery of natural gas (no duration limits).
+ 
+ The following master contracts should not be used by EOL and a GTC with 
+ collateral should be used instead:
+ Tristar Gas Marketing Company's Master Purchase Sale Spot contract # 96002715 
+ for ENA.
+ Equitable Energy, LLC's Master Purchase Sale Spot contract # 96003661 for ENA.
+ 
+ Please let me know if you have any questions.
+ 
+ Thank you,
+ Karen

@@ -1,0 +1,7 @@
+
+ 
+ Anne,
+ 
+ Hey, do you know where i might get a list of the curve codes in the Oracle database for west index curves?
+ 
+ Mat

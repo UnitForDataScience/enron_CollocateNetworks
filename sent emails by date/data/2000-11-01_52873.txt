@@ -1,0 +1,65 @@
+
+ 
+ Alex,
+ 
+ I agree. Let them make up the data. Please, ask Shirley to determine 
+ convenient date and time.
+ 
+ Vince
+ 
+ 
+ 
+ 
+ 
+
+ 11/01/2000 03:59 PM
+
+
+
+   
+ Hi all,
+ I got the following reply from Mike Denton. 
+ 
+ Can you let me know what time is most convenient for you so I will
+ arrange a time for the presentation?
+ 
+  I don't think we should provide them any data, unless you think otherwise.
+ 
+ Alex
+ 
+ 
+ 
+
+
+  
+  
+ 
+ Mr. Huang,
+ 
+ We would be happy to demonstrate the features and functionality of the
+ WeatherDelta tool set for your team at Enron.  Early next week (Tuesday or
+ Wednesday) are both possible, as well as early the following week.  The
+ demonstration can take 90 minutes or more, depending on the number of
+ questions and the level of detail.
+ 
+ Ideally, you could provide us with some of your data and we could
+ demonstrate how to value a full-requirements contract to service that
+ particular load.  To do this we will need one or more years of hourly
+ consumption data, and the general location of the load.  Ideal data formats
+ are csv files of either 365 rows x 25 columns (date,hr1,hr2..) or 8760 rows
+ x 3 columns (date,hr,load).  In lieu of using your data, we will provide
+ sample load data.
+ 
+ Please feel free to call me and we can discuss schedules and the particulars
+ of the product overview and demonstration.
+ 
+ Thank you for your interest,
+ 
+ Michael J. Denton
+ VP NA Strategic Consulting
+ Caminus Corporation
+ 212-515-3667
+ 
+ 
+ 
+ 

@@ -1,0 +1,31 @@
+
+ 
+ Can I get a copy?  I don't really know what we're talking about.
+ 
+ 
+ 
+ Carol St Clair
+ 03/02/2000 03:27 PM
+
+
+ 
+  
+ Dave:
+ I've read the comfort letter.  With respect to item #1, the first paragraph 
+ is fine.  With respect to the second paragraph, what situation is he trying 
+ to address?  For example, I thought that in situations where the counterparty 
+ clicked on a price and the price changed in the counterparty's favor before 
+ the trade was executed, that the counterparty would get the better price.  
+ The second paragraph might negate this as written.  Can a situation really 
+ arise where the system misreads a counterparty's offer?  I think that we need 
+ to be very careful in what we say here.
+ 
+ With respect to point #2, I need to defer to Mark Taylor on this because I 
+ thought that the confirmations control, but it could be the case that our 
+ electronic records could prevail if there is a conflict between the 2.  That 
+ would seem to make sense to me but I would prefer that Mark concurred with 
+ this.
+ 
+ Carol
+ 
+ 

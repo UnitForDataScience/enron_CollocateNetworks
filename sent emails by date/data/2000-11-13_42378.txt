@@ -1,0 +1,20 @@
+
+ 
+ 
+ 
+ 
+
+
+
+   
+ 
+ Content-Transfer-Encoding: binary
+ 
+
+
+
+
+  Mime-Version: 1.0
+  Content-Disposition: attachment; filename="Floridaballot_1.jpg"
+ 
+  - Floridaballot_1.jpg

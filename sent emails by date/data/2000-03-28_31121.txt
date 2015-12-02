@@ -1,0 +1,6 @@
+
+ 
+ I executed the Bug capacity for April.  Offer #16219, vol=103,  k#892865, 
+ deal numbers 229304/229314
+ 
+ I set it up under MarketEast and East with Market East as primary.

@@ -1,0 +1,19 @@
+
+ 
+ The broker put delivery point in wrong for a second and then changed it. It 
+ is Mid-C.
+ 
+ 
+ 
+ 
+
+ 12/08/2000 12:19 PM
+
+  
+  
+ 
+ ref 476900
+ Amerex shows delivery as Cob and we show Mid-C
+ 
+ 
+ 

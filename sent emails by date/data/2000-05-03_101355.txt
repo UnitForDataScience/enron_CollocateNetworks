@@ -1,0 +1,74 @@
+
+ 
+ FYI
+ 
+ 
+ 
+
+ 05/03/2000 08:00 AM
+
+
+
+
+ =20
+
+
+
+
+
+ =20
+
+
+  
+  
+ The suction strainer was removed last night.  The piping spool was=20
+ reinstalled without the major compressor alignment problems that were=20
+ expected.  This significantly reduced the downtime necessary for the remova=
+ l=20
+ of the suction strainer.
+ 
+ No major foreign materials were found in the strainer.  Some small weld bea=
+ ds=20
+ were found.  There were some signs that the strainer may have been vibratin=
+ g.
+ 
+ Several compressor test runs were made early this AM to measure the vibrati=
+ on=20
+ levels without the suction strainer.  The high frequency vibration was=20
+ reduced to safe levels.  There is no longer any risk to the unit piping=20
+ integrity.
+ 
+ The compressor bearing vibration did not decrease due to the removal of the=
+ =20
+ strainer.  Rolls will continue to assess the collected vibration data to=20
+ determine the cause of the high drive end bearing vibration and construct a=
+ =20
+ game plan.
+ 
+ The station once again became available for service around 4 AM.  The=20
+ compressor may or may not be run dependent on need.  Gallup Ops and Gas=20
+ Control are in close contact.
+ 
+ The station will be manned if the compressor is running due to Gas Control=
+ =20
+ being unable to send remote setpoints to the station controller.  The probl=
+ em=20
+ stems from OPTO-22 not supporting the particular Modbus function required t=
+ o=20
+ send setpoints.  This is a =01+lack of functionality=01, in the new LCM4 ve=
+ rsion=20
+ controllers/software utilized on the Gallup Project. =20
+ 
+ EECC has been in contact with OPTO-22 to determine the time table for=20
+ resolving this problem.  EECC, TW Ops are working on a temporary fix to=20
+ enable Gas Control to send remote setpoints to Gallup.  Gas Control is=20
+ currently able to monitor data from Gallup.
+ 
+ Some instrumentation will be replaced today that failed due to the high=20
+ vibration over the fast few days.
+ 
+ Final tuning of the station control loops and surge control will be also be=
+ =20
+ conducted today.
+ 
+ James Pfeffer

@@ -1,0 +1,8 @@
+
+ 
+ ST- Trading (Martin)                 $26,045,166
+ Storage (Schwieger)                   $8,566,895 
+ Transport (Gottlob)                      $19,858,000
+ Firm Trading (McClendon)       $(1,884,668)
+ Gas Daily                                       $(522,922)
+ 

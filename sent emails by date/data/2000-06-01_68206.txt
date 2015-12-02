@@ -1,0 +1,17 @@
+
+ 
+ The following are the liquidations for the transport book that are hitting 
+ the texas desk(a negative is expense that is hitting - need a revenue entry 
+ to clear):
+ Liq #  Type  Prod Month Amount
+ N71394.1 Physical 0002  $372,649.99
+     0003  $401,449.98
+ N78544.1 Physical 0002  $372,649.99
+     0003  $401,449.98
+ NA7655.1 Financial 0002  ($344,375)
+     0003  ($368,125)
+ NA7651.1 Financial 0002  ($369,750)
+     0003  ($395,250)
+ 
+ Please call with any questions.
+ PL

@@ -1,0 +1,9 @@
+
+ 
+ Please grant Robin Barbe the following origination from TP1.
+ 
+ Deal		Date	Volume	Orig	Tot orig
+ 1129458	10/24	2880	$.02	$58
+ 1125595	10/23	2952	$.02	$59
+ 
+ Deal 1129458 is in the New England book.  I did a desk to desk with TP1

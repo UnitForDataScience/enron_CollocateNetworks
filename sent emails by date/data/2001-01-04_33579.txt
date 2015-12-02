@@ -1,0 +1,8 @@
+
+ 
+ I sold gas to New Power for today and tomorrow, deal 557800.  New Power will 
+ take this gas into their pool.
+ 
+ Date  Volume  Price
+ 1/4/2001 963  10.31
+ 1/5/2001 1007  10.31

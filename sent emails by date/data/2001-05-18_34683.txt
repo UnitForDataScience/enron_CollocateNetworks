@@ -1,0 +1,7 @@
+
+ 
+ o:/logistics/capacity/east/ne/2001tran05.xls
+ 
+ We creat a new sheet each month.  And the the last 2 digits are the month - "05" = May get it get it get it?  Anyone can pull this file up.  You need a password to open the file and make changes.  The password is the file name.  I just didn't want people to make changes by accident (which I have done myself).
+ 
+  

@@ -1,0 +1,10 @@
+
+ 
+ Due to problems with the gas curves there will be incorrect credit information for TXU, Calpine and Indeck Pepperel Power Assoc. out of EnPower (these counterparties have spread options and/or heat rate swaps that utilize the gas curves.)  If you need these transaction re-calced in the morning please contact Andrea Dahlke and X 5-4080.
+ 
+ Thanks,
+ 
+ Stacey
+ 
+  
+ 

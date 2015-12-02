@@ -1,0 +1,63 @@
+
+ 
+ Dawn,
+ 
+ John Arnold is now hitting the crude oil stacks.  Currently the deals are 
+ booking to NG-Price.  Attached is a completed new book request form with the 
+ short name for his new crude book - NG-Price-Crude.  We are changing the 
+ deals to the new book today, but we need them to start booking automatically 
+ tomorrow, if possible.  We can discuss in the meeting at 4 pm.
+ 
+ Thanks, 
+ 
+ Errol
+ 
+    
+ 	
+ 	
+ 	 	
+ 
+
+
+
+
+
+
+
+
+
+
+ Leggett/NA/Enron
+
+ 
+  
+ Attached please find completed bookrequest 691.  
+ 
+ 
+ 
+ For Information purposes the following is a detail of the various portfolios 
+ which contain the newly created book.
+ 
+ 
+ Root Portfolio     Portfolio Name 
+ AGG-ECT     NG-PRC-CRUDE-P1 
+ AGG-ENE      NG-PRC-CRUDE-P1 
+ GASUSER      NG-PRC-CRUDE-P1 
+ COMMODITY-VAR     NG-PRC-CRUDE-P1 
+ NG-HOUSTON     NG-PRC-CRUDE-P1 
+ US-VAR      NG-PRC-CRUDE-P1 
+ COMMODITY_VAR1     NG-PRC-CRUDE-P1 
+ AGG-CREDIT      NG-PRC-CRUDE-P1 
+ DISCOUNTING-USD     NG-PRC-CRUDE-P1 
+ INFINITY-USD      NG-PRC-CRUDE-P1 
+ POS-GAS-TRD     NG-PRC-CRUDE-P1 
+ CREDIT-AGG      NG-PRC-CRUDE-P1 
+ AGG-GASII      NG-PRC-CRUDE-P1 
+ COMP-INC-VAR     NG-PRC-CRUDE-P1 
+ AGG-GASIV      NG-PRC-CRUDE-P1 
+ 
+ 
+ Regards,
+ 
+ 
+ Nancy

@@ -1,0 +1,14 @@
+
+ 
+ We need to get the Exotica library - it's in the docs.  How do I get this done - it is in the deal.
+ 
+  
+    Cc:	Lu, Zimin; Aucoin, Berney C. ; Kaminski, Vince J
+  
+ Hello,
+ 
+ I talked to Jim Fallon and he told me not to release any software etc. to NETCO without a formal letter from him.
+ 
+ Please, make sure that we get this request ASAP, so that we can guarantee an orderly transition.
+ 
+ Vince

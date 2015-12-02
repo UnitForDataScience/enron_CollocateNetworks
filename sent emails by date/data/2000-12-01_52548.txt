@@ -1,0 +1,20 @@
+
+ 
+ 
+ 
+ 
+
+ 12/01/2000 11:23 AM
+    
+ Todd and Joseph,
+ 
+ As discussed earlier, I did recall reading somewhere that grep had been 
+ ported to Windows. I did some research and was able to find the Windows 
+ ported version of grep. Attached you will find a compressed file that 
+ contains the grep binary and source. Please let me know if I can be of any 
+ further assistance. Thanks.
+ 
+ 
+ -carlos
+ 
+ 

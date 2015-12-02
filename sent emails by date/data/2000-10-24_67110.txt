@@ -1,0 +1,19 @@
+
+ 
+ FYI.
+ PL
+ 
+ 
+ 
+ 
+ Phillip M Love
+ 10/24/2000 12:51 PM
+
+   
+ The FRED file for Ontario did not include flashed liquidations detail.  It 
+ appears the files were not prepared by risk.  I have prepared the files and 
+ attached them.  Do you mind including this in the FRED file and reissuing?  
+ Thanks for your help, please call with questions.
+ PL
+ 
+ 

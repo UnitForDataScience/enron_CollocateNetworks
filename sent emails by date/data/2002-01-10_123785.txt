@@ -1,0 +1,17 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - White, Stacey W.\Sent Items
+ X-Origin: WHITE-S
+ X-FileName: stacy white 7-15-02.PST
+ 
+ Each of you needs to send a book request for the East & West portfolios for the counterparties listed in the following spreadsheet.  The spreadsheet identifies those counterparties which we are still performing under the contracts.  Please create a East-Performance and a West-Performance book.  We then need to get all deals with the following counterparties moved to those books.  I would suggest you pull the values out of AdHoc as of 12/31 for the counterparties by desk before transferring them to the new desk.  Obviously these transactions will create prior days and the amount will run through the P&L in the old and new books and flatten out.  The remaining prior day value will need to be in Schedule E.
+ 
+ Stacey
+ 
+  
+     
+  
+ Don asked me to send you this file.

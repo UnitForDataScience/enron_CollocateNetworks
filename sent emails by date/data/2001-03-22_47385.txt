@@ -1,0 +1,34 @@
+
+ 
+ Done.
+ 
+ 
+ 
+
+
+ 	03/21/2001 01:30 PM
+ 		
+
+ 		  		  
+ Stephanie, if I asked Sam to make sure that this is done, could you do so?  
+ Thanx.
+ 
+ Cheryl Nelson
+ Senior Counsel
+ EB3816
+ (713) 345-4693
+ 
+ 
+ 
+
+ 	03/14/2001 04:26 PM
+ 		 
+
+ 		  		  
+ The above counterparty has been created in the Financial Trading Agreements 
+ Database and is listed as a master swap agreement, and it's not.  It is an 
+ Electronic Trading Agreement and needs to be moved down to "Other 
+ Agreements".  Please let me know when that is done and I will delete the 
+ entry in  the master swap agreement database.  Thanks!
+ 
+ 

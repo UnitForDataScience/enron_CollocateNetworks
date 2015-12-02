@@ -1,0 +1,21 @@
+
+ 
+ 
+    
+ 	Enron North America Corp.
+ 	
+
+ 	
+ 
+
+    
+ A payment test file was sent to the bank in error and, as a result, a deposit 
+ was posted on Monday, July 10, 2000.  This impacts only employees who utilize 
+ direct deposits (ACH) and are paid semi-monthly.
+ 
+ To correct this situation, on Tuesday, July 11, 2000 a withdrawal of the 
+ amount deposited will be processed.  Your bank may not post this transaction 
+ until Wednesday, July 12, 2000.
+ 
+ If you have any questions, please call (713) 345-5555.  We apologize for any 
+ inconvenience.

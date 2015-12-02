@@ -1,0 +1,63 @@
+
+ 
+ Cecillia,
+ 
+ When we choose FIMAT as a broker in Exchange Capture, we can not save a deal 
+ because the account number section is blank.  Could you please fix this as 
+ soon as possible.  Please call me with any questions at X5-8274.
+ 
+ Errol
+ 
+ 
+ 
+
+
+
+ 
+  
+ FIMATUSA has been set up as a clearing broker with the commodity and account 
+ number associated.
+ 
+ Cecilia
+ x53362
+ 
+  
+     
+ 
+ FIMAT
+ Natural Gas
+ Acct No.: 03915250
+ Clearing broker
+ 
+ Thanks,
+ 
+ Errol McLaughlin
+ 
+ 
+ 
+
+
+
+ 
+  
+ Hi Errol, please provide the following information...
+ 
+ 1. The name of the new broker.
+ 2. The commodity(s) under this new broker.
+ 3. The account number and the account description for this new broker.
+ 4. Any sub account number(s).
+ 5. I assume that we going to set this up as a clearing broker, not an exec 
+ broker.
+ 
+ Once I got the information from you I'll set this up.
+ 
+ Cecilia
+ x53362
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 

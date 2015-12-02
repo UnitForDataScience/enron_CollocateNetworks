@@ -1,0 +1,32 @@
+
+ 
+ I never know what contract the deal is under but I can confirm the price and the volumes for the following;
+ 
+ Deal	 	Counterparty					Comment
+ 1192958	Sequent Energy Management, LP 		approved
+ 1198866	Anadarko Energy Services Company		approved
+ 1195770	MidAmerican Energy Company			approved
+ 1195777	MidAmerican Energy Company			Changed price from $2.05 to $2.02 in Sitara per notes from Sylvia Pollan.
+ 1195767	MidAmerican Energy Company			approved
+ 1192959	City of Tallahassee				this should be on deal #30534 - part of the long term contract.
+ 
+ I don't have access to view the other deals but I'm working on it.  I believe I entered the other 2 Anadarko deals in Sitara but either I put them on the wrong desk or they were moved after I entered them because I don't have access to them either. GRRRR.
+ 
+ Scott, Margaret, I changed the price on deal 1195777 (Feb 2002 activity) from $2.05 to $2.02.  We prepaid MidAmerican $1,158,864.00 for all 3 deals shown above.  Not sure who to tell about Sitara changes.
+ 
+ 
+ 
+ 
+ 
+  
+    Cc:	Balfour-Flanagan, Cyndie; Osire, Ann
+  
+ Hi Stacy,
+ 
+ Attached is a list of post-12/3 deals pending confirmatiopn for your review.  Please send notice as to approval for each to be released to the counterparty.
+ 
+ Thanks,
+ 
+ Ann
+ 
+  << File: DCAFF deals 3-18-2002.xls >> 

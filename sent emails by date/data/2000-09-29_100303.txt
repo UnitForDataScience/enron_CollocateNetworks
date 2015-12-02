@@ -1,0 +1,68 @@
+
+ 
+ Jim, if we delete current Section 4.3, then we would like to reinsert the 
+ "negligence" clauses in Section 4.2 (I don't remember how they got negotiated 
+ out in the first place).  So it would read:
+ 
+ 4.2  a.  TW shall release, protect, indemnify, defend and hold harmless EPFS, 
+ its affiliated companies and officers, directors, employees, and agents and 
+ servants, contractors and subcontractors ("Indemnified Party" or "Indemnified 
+ Parties") from and against that portion of the liabilities, losses, claims, 
+ damages, penalties, causes of action, suits (including suits for personal 
+ injuries or death or property damage and including reasonable attorneys' fees 
+ and expenses) caused or contributed to by the negligence of TW or its 
+ agent(s) arising out of or in connection with its obligations under the terms 
+ of this Agreement.
+ 
+ b.  EPFS shall release, protect, indemnify, defend and hold harmless TW and 
+ its Indemnified Parties from and against that portion of the liabilities, 
+ losses, claims, damages, penalties, causes of action, suits (including suits 
+ for personal injuries or death or property damage and including reasonable 
+ attorneys' fees and expenses) caused or contributed to by the negligence of 
+ EPFS or its agent(s) arising out of or in connection with its obligations 
+ under the terms of this Agreement.
+ 
+ c.  [same as current version]
+ d. [same as current version]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+  
+ 
+ Susan-
+ See what you think of using the following in Section 4.2 and deleting
+ Section 4.3 in its entirety and replacing it with the below:
+ 
+ Section 4.2
+   a.  TW shall release, protect, indemnify, defend, and hold harmless EPFS,
+ its affiliated companies and officers, directors, employees, agents and
+ servants, contractors and subcontractors ("Indemnified Party" or
+ "Indemnified Parties") from and against any and all liabilities, claims,
+ damages, penalties, causes of action, suits (including suits for personal
+ injuries or death or property damage and including reasonable attorney's
+ fees and expenses) in any way directly or indirectly arising out of or in
+ connection with TW's performance of its obligations under the terms of this
+ Agreement.
+   b.   EPFS shall release, protect, indemnify, defend, and hold harmless TW
+ and its Indemnified from and against any and all liabilities, claims,
+ damages, penalties, causes of action, suits (including suits for personal
+ injuries or death or property damage and including reasonable attorney's
+ fees and expenses) in any way directly or indirectly arising out of or in
+ connection with TW's performance of its obligations under the terms of this
+ Agreement.
+ 
+ Section 4.3
+ In no event shall either party be responsible for the gross negligence or
+ wilfull misconduct of the other party or their Indemnified Parties.
+ 
+ 
+ 
+ 

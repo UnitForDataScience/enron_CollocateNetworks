@@ -1,0 +1,13 @@
+
+ 
+ Russ,
+ 
+ Please add all the following trading pipes/zones to the VNG desk.
+ 
+ Pipeline  Zones
+ TRCO   All
+ CNG   All
+ CGAS   All
+ Tenn   Zones 0, 1, 2, 3, and 4
+ Tetco   All
+ Texas Gas  Zone 4

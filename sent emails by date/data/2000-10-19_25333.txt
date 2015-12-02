@@ -1,0 +1,34 @@
+
+ 
+ FYI.  You may want to check with someone to see if this will affect you this 
+ weekend.
+ 
+ D
+ 
+ 
+ 
+
+
+  
+  
+ 
+ The UNIX Infrastructure team  would like to request downtime on system
+ 'aurora' this weekend.  The system has 2 faulty memory simms that we need
+ to replace BEFORE they cause a problem.  We are requesting 3 hours to
+ perform the memory replacement.  The following databases would be effected:
+ 
+ eqtprod
+ dcfprod
+ popprod
+ trdprod
+ semprod
+ sitprod2
+ infprd53
+ 
+ Please let me know if/when we can have time for this maintenance.
+ 
+ 
+ 
+ 
+ 
+ 

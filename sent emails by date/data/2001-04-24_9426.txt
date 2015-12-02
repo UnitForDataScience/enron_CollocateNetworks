@@ -1,0 +1,9 @@
+
+ 
+ Leslie Reeves and I met today with Mark Taylor and Mark Haedicke to discuss the eliminination of confirmations for transacations executed on EnronOnline.  Mark Taylor has been supportive of the elimination of confirmations, and in the meeting today Mark Haedicke agreed.  This elimination of confirmations will have to be reviewed on a counterparty by counterparty basis, and for each counterparty, commodity by commodity.  
+ 
+ Next steps:  Document EOL process and records that can evidence the execution of a transaction (ease of availability, type of 		record available, retention schedule for records, etc. (Sheri Thomas?)
+ 
+ 	       Create a priortized list of counterparties to be approached for elimination of confirmations - large number of 			transactions, those that have asked for paper-relief, etc. (Leslie Reeves/Kim Theriot)
+ 
+ 	        Set up meeting with Andy Zipper, Jay Webb, Tom Gros, Mark Taylor, Jeff Hodge (Legal-Physical Gas), Elizabeth 		Saeger (Legal-Power), and Leslie Reeves to review game plan for elimination of confirmations and impact on 		ConfirmLogic (my assistant will set up meeting) 

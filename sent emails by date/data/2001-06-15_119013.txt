@@ -1,0 +1,11 @@
+
+ 
+ I have to agree.  It sounds like a fundamental lack of consideration situation.  If we are the buyer and actually believe there is value here, we should be willing to pay SOME kind of premium, even if it is fairly small.
+ 
+  
+     
+ 
+ 
+   Mark,
+ 
+   I have a trader who is trying to do a stand alone Put option where we are the option buyer.  There is no premium or other consideration.  I have a real problem with the enforceability of this deal.  Any thoughts?

@@ -1,0 +1,83 @@
+
+ 
+ Stinson,
+ 
+ Let's bring up these two ideas at the meeting with John Bloomer
+ (to discuss the other product ideas).
+ 
+ Vince
+ 
+ 
+ 
+ 
+ 
+ Steven Leppard
+ 05/11/2000 08:38 AM
+
+   
+ Vince
+ 
+ If it's new EBS products you're after, how about a real-time bandwidth swing 
+ contract with automatic exercise?  The customer pays for the minimum 
+ (baseload) bandwidth they need for their (say) videoconference, with a 
+ premium on top that automatically buys them extra bandwidth as it becomes 
+ available from the system.  They are guaranteed a minimum quality they can 
+ live with, and (more than likely) they get improved quality much of the time 
+ for a bargain price.
+ 
+ We get to charge for the use of bandwidth that would otherwise be idle.
+ 
+ Steve
+ 
+ 
+ 
+ Vince J Kaminski
+ 05/11/2000 02:09 PM
+
+
+ 
+  
+ Steve,
+ 
+ I think personally it's a great idea, though my son, who studies
+ computer science, poured a bucket of icy water on me. Computers
+ are becoming very cheap and most companies have already a lot of 
+ spare capacity on their systems.
+ 
+ But we can always try. We shall take this idea, to the person in EBS 
+ responsible for the 
+ new products and ask him to talk directly to you to discuss the details.
+ 
+ EBS is dying to come up with some new products.
+ 
+ Vince
+ 
+ 
+ 
+ 
+ 
+ Steven Leppard
+ 05/11/2000 03:56 AM
+
+   
+ Vince, Stinson
+ 
+ Have any investigations been made of the issue of trading (spare) processing 
+ power?  Such a proposal would have natural synergies with the bandwidth 
+ business, since the jobs to be processed would need to be piped around, as 
+ would their results.
+ 
+ Obvious technical and legal problems are:
+ 1.  Standardisation.  (Java?)
+ 2. Security and confidentiality.
+ 
+ Just a thought that's been buzzing around my head for a while.
+ 
+ Steve
+ 
+ 
+ 
+ 
+ 
+ 
+ 

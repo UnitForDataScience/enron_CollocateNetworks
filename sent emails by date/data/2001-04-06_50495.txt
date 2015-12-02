@@ -1,0 +1,19 @@
+
+ 
+ 
+ 
+ 
+
+ 04/02/2001 10:42 AM
+
+
+  
+ Hi guys,
+ We have put together an option pricing model (using exotic library) for Harry 
+ Arora.
+ I figure you may want to have the same model  in case questions arise.
+ 
+ Best, 
+ Alex
+ 
+ 

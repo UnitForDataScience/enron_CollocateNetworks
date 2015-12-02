@@ -1,0 +1,17 @@
+
+ 
+ [You'll need to amend the credit worksheet to reflect changes]
+ 
+ "Threshold" means with respect to Party A, unlimited; provided however, that 
+ the Threshold for Party A shall be U.S. $5,000,000 upon the occurrence and 
+ during the continuance of a Material Adverse Change, and the Threshold for 
+ Party A shall be zero upon the occurrence and during the continuance of an 
+ Event of Default or a Potential Event of Default with respect to Party A.
+ 
+ "Threshold" means with respect to Party B, unlimited; provided however, that 
+ the Threshold for Party B shall be U.S. $3,000,000 upon the occurrence and 
+ during the continuance of a Material Adverse Change; and the Threshold for 
+ Party B shall be zero upon the occurrence and during the continuance of an 
+ Event of Default or a Potential Event of Default with respect to Party B or 
+ upon execution of any Transaction pursuant to this Agreement having a term 
+ greater than or equal to one (1) year.

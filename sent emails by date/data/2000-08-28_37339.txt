@@ -1,0 +1,51 @@
+
+ 
+ 
+ 
+ 
+ Jane S Saladino
+ 07/21/2000 04:10 PM
+
+   
+ Please correct the following deals:
+ 
+ Enron Canada purchase deal # 121397  Was 4.18427 should be 4.10185  This is 
+ due to a Buy/back at Chippawa which reduces our Sithe transport by 
+ $70,191.70   I normally book this manually (with Journal entry) but with SAP, 
+ it needs to be in Unify and this is the only deal I can book it to.  The 
+ Sithe transport is in Canadian dollars and this reduction is in US $.
+ 
+ 
+ Also I have the following deals which are scheduled different on our side 
+ that Enron Canada and causes me about a $500 out of balance each month.  We 
+ have netted this with other out of balances in previous months but with SAP, 
+ I can no longer do this. Here is what happens:
+ 
+ ENA Books:  Purchase Deal 290657  for 30,390  MMBTU per day at 
+ Michcon.Citygate.GD.M.I.-.005 = $4,125,442.50
+             Sale Deal 290652 for     ( 5,000) MMBTU per day at 
+ Michcon.Citygate.GD.M.I.-.0075=    678,375.00
+                                                                               
+   Total          $3,447,067.50
+                                                                         
+ Enron Canada Books:
+ 
+             Sale                  for 20,000 MMBTU per day at 
+ Michcon.Citygate.GD.M.I.-.005=   $2,715,000.00
+   Sale                  for  5,390 MMBTU per day at 
+ Michcon.Citygate.GD.M.I.     =      732,501.00
+                                                                               
+   Total          $3,447,501.00
+ 
+ I don't know why we book a purchase and sale but it messes up the deal in 
+ SAP.  Can we change the ENA sale deal 290652 to posting -.005 and the ENA 
+ purchase deal # 290657 tier it for 25,000 at Posting -.005 and balance at 
+ posting.  Let me know as soon as possible.  I need to pay this AM on Monday.
+ 
+ 
+ Thanks, Jane
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,595 @@
+
+ 
+ <OMNI>
+ <OMNINotes></OMNINotes>
+ 
+ <OMNIPAB>PERSON~Chloe~~~~Andrews-James~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~=
+
+
+ #PERSON~Hassan~~~~Al-Sayed~~~~~~~~~~~~~~~~~~~~AD Gas~~~~~~~~~~~~~~~~~~~~~~~=
+
+ 77-3871~~713 877-3510~~~~Coastal~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#PERSON~Renn=
+ ie~~~~Arends~~~~~~~~~~~~~~800 877 3906 x-8808 or 297-8-98808~~~~~~Coastal~~=
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#PERSON~R.R.~~"Rudy"~~Adamiak~~~~75 State Stre=
+ et
+ Boston, MA 02109~~Boston~~MA 02109~~~~~~617-526-8336~~617-526-8344~~~~Cabot=
+
+ com~#PERSON~Silvina~~~~Arias~~~~~~~~~~~~~~54-11-4865-9068~~~~~~TGS~~~~~~~~~=
+ ~~~~~~~~~~~~~~~~~~~~~~#PERSON~Stuart~~~~Anderson~~~~~~~~~~~~~~44-207-551-66=
+ 00~~44-207-551-6601~~~~~~~~~~~~~~~~~~~~~~44-208-295-0927~~~~44-7770-694-520=
+
+
+ PERSON~Axel~~~~Boerr~~~~~~~~~~~~~~011-54-11-4323-1386~~011-54-11-4329-5577~=
+
+ l-ypf.com~#PERSON~Ian~~~~Brimelow~~~~~~~~~~~~~~011-44-207-551-6600~~011-44-=
+ 207-551-6601~~~~Dynegy~~~~~~~~~~~~~~~~~~011-44-1293-884-928~~011-44-1293-88=
+
+ ne~~~~~~~~~~~~~~~~~~~~TGS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#PERSON~Roman~~~~Ba=
+ kke~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#PERSON~Tara~~~~Brown=
+ ~~~~~~~~~~~~~~949 798-7807~~949 252-8769~~~~Edison Mission Energy~~~~~~~~~~=
+
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~44-1582-760-597~~~~44-860-403-796~~~~~~~~tb=
+
+ 3~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#PERSON~Nancy~~~~Diaz~~~~~~~~~~~~~~713 651-=
+
+ s.com~#PERSON~Ray~~~~Dapena~~~~~~~~~~~~~~787 759-8000~~~~~~~~~~~~~~~~~~~~~~=
+ ~~~~~~~~~~~~~~~#PERSON~Simon~~C.~~Dixon~~~~~~~~~~~~~~713-767-8033~~713-767-=
+
+ RSON~A.~~Aydin~~Esener~~Dr.~~~~~~~~~~~~+1 809 472-9803~~+1 809 542-3566~~~~=
+
+ RSON~John~~~~Gorman~~~~~~~~~~~~~~713 877-3110~~~~~~Coastal~~~~~~~~~~~~~~~~~=
+ ~~~~~~~~~~~~~~#PERSON~ENRON~~~~HOUSTON~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~=
+ ~~~~~~~~~~~~~~#PERSON~Sam~~~~Henry~~~~~~~~~~~~~~949 798-7979~~~~~~~~~~~~~~~=
+
+ ~~~~~~~~~~~~011-44-207-551-6600~~011-44-207-551-6601~~~~~~~~~~~~~~~~~~~~~~~=
+
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#PERSON~Debbie~~~~Keller~~~~=
+ ~~~~~~~~~~949 798-7837~~949 252-8769~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~debor=
+
+ Suite 1700
+ Irvine, California 92612~~Irvine~~California 92612~~~~~~949 798-7409~~949 2=
+ 25-2718~~~~Edison Mission Energy~~~~~~~~~~~~~~~~18101 Von Karman Ave.
+
+ ~~~~~~~~~~~~~44-171-493-7272~~44-171-629-7078~~~~~~~~~~~~~~~~~~~~~~44-181-4=
+
+ y~~~~~~~~~~~~~~281 444-1241~~281 580-7732~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~=
+
+
+ cim.com~#PERSON~Chris~~~~Muessel~~~~~~~~~~~~~~202-857-6420~~~~~~Arent Fox~~=
+
+ ~Maciula~~~~~~~~~~~~~~787-836-1280~~~~~~Peerless~~~~~~~~~~~~~~~~~~~~~~787-3=
+ 97-7063~~~~~~~~~#PERSON~Gene~~~~Massey~~~~~~~~~~~~~~202-857-6287~~202-857-6=
+
+ Jane~~P.~~Michalek~~~~75 State Street
+ Boston, MA 02109~~Boston~~MA 02109~~~~~~617-526-8333~~617-526-8360~~~~Distr=
+ igas~~~~~~~~~~~~~~~~75 State Street~~978-887-6065~~~~617-592-8593~~~~~~~~jm=
+
+
+ SON~Alex~~~~Nicki~~~~~~~~~~~~~~713-260-5557~~713-975-4281~~~~Duke Energy~~~=
+
+ ~~~Ness~~~~~~~~~~~~~~(202) 508-4368~~(202) 508-4321~~~~~~~~~~~~~~~~~~~~~~~~=
+
+ -2739~~703 227-7791~~~~~~~~~~~~~~~~~~~~~~703 548-5993~~~~703 801-0412~~~~~~=
+
+ 7-6119~~713 297-1902~~~~Coastal~~~~~~~~~~~~~~~~~~~~~~713 824-2744~~~~~~~~~#=
+ PERSON~EcoElectrica~~~~PUERTORICO~~~~~~~~~~~~~~787-759-0203~~787-282-0986~~=
+ ~~EcoElectrica~~~~~~~~~~~~San Juan~~~~~~~~~~~~~~~~~~~#PERSON~EcoElectrica~~=
+ ~~PUERTORICO~~~~~~~~~~~~~~787-836-2740~~787-836-2260~~~~EcoElectrica~~~~~~~=
+ ~~~~~Plant~~~~~~~~~~~~~~~~~~~#PERSON~Eduardo~~~~Pallette~~~~~~~~~~~~~~54-11=
+ -4329-5807~~~~~~Repsol~~~~~~~~~~~~~~~~~~~~~~54-11-5621-5807~~~~~~~~epallett=
+
+ 7-620-0308~~~~Enron~~~~~~~~~~~~San Juan~~~~~~~~~~~~~~~~~~~#PERSON~Enron~~~~=
+ PUERTORICO~~~~~~~~~~~~~~~~~~~~Enron~~~~~~~~~~~~LPG~~~~~~~~~~~~~~~~~~~#PERSO=
+ N~Gonzalo~~~~Paris~~~~~~~~~~~~~~~~~~~~PDVSA~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~pa=
+
+ 87-836-5712~~~~ProCaribe~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#PERSON~Adnan~~A.~~R=
+ ajab~~~~~~~~~~~~~~~~~~~~Oman LNG~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~adnan.a.rajab=
+
+ tal - LPG~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#PERSON~Hilda~~~~Rodriguez~~~~~~~~~=
+
+ .org~#PERSON~Mariela~~~~Ricardo~~~~~~~~~~~~~~58-2-708-1671~~58-2-708-1920 o=
+
+ ~#PERSON~Pablo~~~~Ray~~~~~~~~~~~~~~54-11-4865-9068~~~~~~TGS~~~~~~~~~~~~~~~~=
+
+ ~~~~~011-44-207-551-6600~~011-44-207-551-6601~~~~~~~~~~~~~~~~~~~~~~~~~~011-=
+
+ ~~~~~212 536-8215~~212 536-8118~~~~Amerada Hess~~~~~~~~~~~~~~~~~~~~~~~~~~~~=
+
+
+ ~Ali~~Sultan~~~~~~~~~~~~~~~~~~~~AD Gas~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~jasulta=
+
+
+ ion.com~#PERSON~Martha~~~~Spikes~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~=
+
+ ~~~~~~~~~~TGS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#PERSON~Alfredo~~~~Vilas~~~~~~~=
+ ~~~~~~~713 420-2214~~713 420-3065~~~~El Paso~~~~~~~~~~~~~~~~~~~~~~832 256-0=
+
+ ~~~~~~713 651-6418~~~~~~EOG Resources~~~~~~~~~~~~~~~~~~713 630-0688~~~~~~~~=
+
+ 713 236-0318~~~~~~Purvin & Gertz~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#PERSON~Pete=
+ r~~~~Wilkens~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~peter_wilkens=
+
+ Suite 1700
+ Irvine, California 92612~~Irvine~~California 92612~~~~~~949-798-7928~~~~~~E=
+ dison Mission Energy~~~~~~~~~~~~~~~~18101 Von Karman Ave.
+
+ PERSON~Tim~~~~Whiteley~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~twh=
+
+ London, England, United Kingdom SW7 1QJ~~London~~England, United Kingdom SW=
+ 7 1QJ~~~~~~011-44-207-823-8030~~011-44-207-823-7069~~~~Sonatrach Petroleum =
+ Corporation~~~~~~~~~~~~~~~~5 Princes Gate~~~~~~011-44-411-152-582~~~~~~~~ze=
+
+ 
+ <OMNIToDos></OMNIToDos>
+ 
+ <OMNICalendarEntries>
+ 
+     <OMNICalendarEntry>
+         <OMNICalendarEntryID>1</OMNICalendarEntryID>
+         <OMNICreatedDate>3/23/2001 9:06:27 AM</OMNICreatedDate>
+         <OMNIStartDateTime>03/25/2001 02:45:00 PM</OMNIStartDateTime>
+         <OMNIEndDateTime>03/25/2001 03:00:00 PM</OMNIEndDateTime>
+         <OMNIPrincipal>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNIPrincipal>
+         <OMNIExcludeFromView>D</OMNIExcludeFromView>
+         <OMNICHAIR>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNICHAIR>
+         <OMNI$NoPurge>03/25/2001 03:00:00 PM</OMNI$NoPurge>
+         <OMNI$BusyPriority>1</OMNI$BusyPriority>
+         <OMNI$BusyName>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNI$BusyName>
+         <OMNICalendarDateTime>03/25/2001 02:45:00 PM</OMNICalendarDateTime>
+         <OMNIORGDONTDOUBLEBOOK></OMNIORGDONTDOUBLEBOOK>
+         <OMNIOrgTable>C0</OMNIOrgTable>
+         <OMNI$PublicAccess>1</OMNI$PublicAccess>
+         <OMNIDocAuthors>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNIDocAuthors=
+ >
+         <OMNIBody></OMNIBody>
+         <OMNI$PrevBusyName>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron;CN=3DPaul Y'=
+ Barbo/OU=3DNA/O=3DEnron;CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNI$PrevBusyN=
+ ame>
+         <OMNIFrom>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNIFrom>
+         <OMNIAppointmentType>0</OMNIAppointmentType>
+         <OMNIDuration>1</OMNIDuration>
+         <OMNIReminderTime>03/25/2001 02:00:00 PM</OMNIReminderTime>
+         <OMNISubject>Depart for Dubai</OMNISubject>
+         <OMNIStartDate>03/25/2001 02:45:00 PM</OMNIStartDate>
+         <OMNITimeRange>03/25/2001 02:45:00 PM-03/25/2001 03:00:00 PM</OMNIT=
+ imeRange>
+         <OMNIBookFreeTime></OMNIBookFreeTime>
+         <OMNIOrgConfidential></OMNIOrgConfidential>
+         <OMNISendTo></OMNISendTo>
+         <OMNICopyTo></OMNICopyTo>
+         <OMNIBroadcast></OMNIBroadcast>
+         <OMNI_ViewIcon>160</OMNI_ViewIcon>
+         <OMNIForm>Appointment</OMNIForm>
+         <OMNI$ExpandGroups>3</OMNI$ExpandGroups>
+         <OMNI$UpdatedBy>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNI$UpdatedBy=
+ >
+         <OMNI$Revisions>03/23/2001 09:06:46 AM;03/23/2001 09:06:46 AM;03/23=
+ /2001 09:19:23 AM</OMNI$Revisions>
+     </OMNICalendarEntry>
+ 
+     <OMNICalendarEntry>
+         <OMNICalendarEntryID>2</OMNICalendarEntryID>
+         <OMNICreatedDate>3/23/2001 9:07:01 AM</OMNICreatedDate>
+         <OMNIStartDateTime>03/26/2001 06:45:00 PM</OMNIStartDateTime>
+         <OMNIEndDateTime>03/26/2001 07:00:00 PM</OMNIEndDateTime>
+         <OMNIPrincipal>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNIPrincipal>
+         <OMNIExcludeFromView>D</OMNIExcludeFromView>
+         <OMNICHAIR>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNICHAIR>
+         <OMNI$NoPurge>03/26/2001 07:00:00 PM</OMNI$NoPurge>
+         <OMNI$BusyPriority>1</OMNI$BusyPriority>
+         <OMNI$BusyName>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNI$BusyName>
+         <OMNICalendarDateTime>03/26/2001 06:45:00 PM</OMNICalendarDateTime>
+         <OMNIORGDONTDOUBLEBOOK></OMNIORGDONTDOUBLEBOOK>
+         <OMNIOrgTable>C0</OMNIOrgTable>
+         <OMNI$PublicAccess>1</OMNI$PublicAccess>
+         <OMNIDocAuthors>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNIDocAuthors=
+ >
+         <OMNI$PrevBusyName>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron;CN=3DPaul Y'=
+ Barbo/OU=3DNA/O=3DEnron;CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron;CN=3DPaul Y'Bar=
+ bo/OU=3DNA/O=3DEnron;CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNI$PrevBusyName=
+ >
+         <OMNIBody></OMNIBody>
+         <OMNIFrom>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNIFrom>
+         <OMNIAppointmentType>0</OMNIAppointmentType>
+         <OMNIDuration>1</OMNIDuration>
+         <OMNIReminderTime>03/26/2001 06:00:00 PM</OMNIReminderTime>
+         <OMNISubject>Arrive in Dubai 8 PM</OMNISubject>
+         <OMNIStartDate>03/26/2001 06:45:00 PM</OMNIStartDate>
+         <OMNITimeRange>03/26/2001 06:45:00 PM-03/26/2001 07:00:00 PM</OMNIT=
+ imeRange>
+         <OMNIBookFreeTime></OMNIBookFreeTime>
+         <OMNIOrgConfidential></OMNIOrgConfidential>
+         <OMNISendTo></OMNISendTo>
+         <OMNICopyTo></OMNICopyTo>
+         <OMNIBroadcast></OMNIBroadcast>
+         <OMNI_ViewIcon>160</OMNI_ViewIcon>
+         <OMNIForm>Appointment</OMNIForm>
+         <OMNI$ExpandGroups>3</OMNI$ExpandGroups>
+         <OMNI$UpdatedBy>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNI$UpdatedBy=
+ >
+         <OMNI$Revisions>03/23/2001 09:07:21 AM;03/23/2001 09:07:22 AM;03/23=
+ /2001 09:17:51 AM;03/23/2001 09:17:52 AM;03/23/2001 09:18:58 AM</OMNI$Revis=
+ ions>
+     </OMNICalendarEntry>
+ 
+     <OMNICalendarEntry>
+         <OMNICalendarEntryID>3</OMNICalendarEntryID>
+         <OMNICreatedDate>3/23/2001 9:23:21 AM</OMNICreatedDate>
+         <OMNIStartDateTime>03/27/2001 08:30:00 AM</OMNIStartDateTime>
+         <OMNIEndDateTime>03/27/2001 09:30:00 AM</OMNIEndDateTime>
+         <OMNIPrincipal>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNIPrincipal>
+         <OMNIExcludeFromView>D</OMNIExcludeFromView>
+         <OMNICHAIR>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNICHAIR>
+         <OMNI$NoPurge>03/27/2001 09:30:00 AM</OMNI$NoPurge>
+         <OMNI$BusyPriority>1</OMNI$BusyPriority>
+         <OMNI$BusyName>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNI$BusyName>
+         <OMNICalendarDateTime>03/27/2001 08:30:00 AM</OMNICalendarDateTime>
+         <OMNIORGDONTDOUBLEBOOK></OMNIORGDONTDOUBLEBOOK>
+         <OMNIOrgTable>C0</OMNIOrgTable>
+         <OMNI$PublicAccess>1</OMNI$PublicAccess>
+         <OMNIDocAuthors>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNIDocAuthors=
+ >
+         <OMNIBody></OMNIBody>
+         <OMNIFrom>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNIFrom>
+         <OMNIAppointmentType>0</OMNIAppointmentType>
+         <OMNIDuration>1</OMNIDuration>
+         <OMNIReminderTime>03/23/2001 09:30:00 AM</OMNIReminderTime>
+         <OMNISubject>Dubai</OMNISubject>
+         <OMNIStartDate>03/27/2001 08:30:00 AM</OMNIStartDate>
+         <OMNITimeRange>03/27/2001 08:30:00 AM-03/27/2001 09:30:00 AM</OMNIT=
+ imeRange>
+         <OMNIBookFreeTime></OMNIBookFreeTime>
+         <OMNIOrgConfidential></OMNIOrgConfidential>
+         <OMNISendTo></OMNISendTo>
+         <OMNICopyTo></OMNICopyTo>
+         <OMNIBroadcast></OMNIBroadcast>
+         <OMNI_ViewIcon>160</OMNI_ViewIcon>
+         <OMNIForm>Appointment</OMNIForm>
+         <OMNI$ExpandGroups>3</OMNI$ExpandGroups>
+         <OMNI$UpdatedBy>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNI$UpdatedBy=
+ >
+         <OMNI$Revisions>03/23/2001 09:23:41 AM</OMNI$Revisions>
+         <OMNI$PrevBusyName>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNI$PrevBu=
+ syName>
+     </OMNICalendarEntry>
+ 
+     <OMNICalendarEntry>
+         <OMNICalendarEntryID>4</OMNICalendarEntryID>
+         <OMNICreatedDate>3/23/2001 9:00:42 AM</OMNICreatedDate>
+         <OMNIStartDateTime>03/28/2001 09:30:00 AM</OMNIStartDateTime>
+         <OMNIEndDateTime>03/28/2001 01:30:00 PM</OMNIEndDateTime>
+         <OMNIPrincipal>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNIPrincipal>
+         <OMNIExcludeFromView>D</OMNIExcludeFromView>
+         <OMNICHAIR>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNICHAIR>
+         <OMNI$NoPurge>03/28/2001 01:30:00 PM</OMNI$NoPurge>
+         <OMNI$BusyPriority>1</OMNI$BusyPriority>
+         <OMNI$BusyName>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNI$BusyName>
+         <OMNICalendarDateTime>03/28/2001 09:30:00 AM</OMNICalendarDateTime>
+         <OMNIORGDONTDOUBLEBOOK></OMNIORGDONTDOUBLEBOOK>
+         <OMNIOrgTable>C0</OMNIOrgTable>
+         <OMNI$PublicAccess>1</OMNI$PublicAccess>
+         <OMNIDocAuthors>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNIDocAuthors=
+ >
+         <OMNI$PrevBusyName>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron;CN=3DPaul Y'=
+ Barbo/OU=3DNA/O=3DEnron;CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron;CN=3DPaul Y'Bar=
+ bo/OU=3DNA/O=3DEnron;CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNI$PrevBusyName=
+ >
+         <OMNIBody></OMNIBody>
+         <OMNIFrom>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNIFrom>
+         <OMNIAppointmentType>0</OMNIAppointmentType>
+         <OMNIDuration>1</OMNIDuration>
+         <OMNIReminderTime>03/23/2001 09:00:00 AM</OMNIReminderTime>
+         <OMNISubject>AD Gas at 10:30 am</OMNISubject>
+         <OMNIStartDate>03/28/2001 09:30:00 AM</OMNIStartDate>
+         <OMNITimeRange>03/28/2001 09:30:00 AM-03/28/2001 01:30:00 PM</OMNIT=
+ imeRange>
+         <OMNIBookFreeTime></OMNIBookFreeTime>
+         <OMNIOrgConfidential></OMNIOrgConfidential>
+         <OMNISendTo></OMNISendTo>
+         <OMNICopyTo></OMNICopyTo>
+         <OMNIBroadcast></OMNIBroadcast>
+         <OMNI_ViewIcon>160</OMNI_ViewIcon>
+         <OMNIForm>Appointment</OMNIForm>
+         <OMNI$ExpandGroups>3</OMNI$ExpandGroups>
+         <OMNI$UpdatedBy>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNI$UpdatedBy=
+ >
+         <OMNI$Revisions>03/23/2001 09:02:00 AM;03/23/2001 09:02:01 AM;03/23=
+ /2001 09:05:00 AM;03/23/2001 09:05:00 AM;03/23/2001 09:23:12 AM</OMNI$Revis=
+ ions>
+     </OMNICalendarEntry>
+ 
+     <OMNICalendarEntry>
+         <OMNICalendarEntryID>5</OMNICalendarEntryID>
+         <OMNICreatedDate>3/23/2001 9:38:04 AM</OMNICreatedDate>
+         <OMNIStartDateTime>03/28/2001 11:00:01 PM</OMNIStartDateTime>
+         <OMNIEndDateTime>03/29/2001 10:59:01 PM</OMNIEndDateTime>
+         <OMNIPrincipal>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNIPrincipal>
+         <OMNIExcludeFromView>D</OMNIExcludeFromView>
+         <OMNICHAIR>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNICHAIR>
+         <OMNI$NoPurge>03/29/2001 10:59:01 PM</OMNI$NoPurge>
+         <OMNI$BusyPriority>1</OMNI$BusyPriority>
+         <OMNI$BusyName>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNI$BusyName>
+         <OMNICalendarDateTime>03/28/2001 11:00:01 PM</OMNICalendarDateTime>
+         <OMNIORGDONTDOUBLEBOOK></OMNIORGDONTDOUBLEBOOK>
+         <OMNIOrgTable>P0</OMNIOrgTable>
+         <OMNI$PublicAccess>1</OMNI$PublicAccess>
+         <OMNIDocAuthors>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNIDocAuthors=
+ >
+         <OMNIBody></OMNIBody>
+         <OMNIFrom>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNIFrom>
+         <OMNIAppointmentType>2</OMNIAppointmentType>
+         <OMNIDuration>1</OMNIDuration>
+         <OMNIReminderTime>03/23/2001 09:45:00 AM</OMNIReminderTime>
+         <OMNISubject>Dubai</OMNISubject>
+         <OMNIStartDate>03/28/2001 11:00:00 PM</OMNIStartDate>
+         <OMNITimeRange>03/23/2001 09:45:00 AM-03/23/2001 10:45:00 AM</OMNIT=
+ imeRange>
+         <OMNIBookFreeTime></OMNIBookFreeTime>
+         <OMNIOrgConfidential></OMNIOrgConfidential>
+         <OMNISendTo></OMNISendTo>
+         <OMNICopyTo></OMNICopyTo>
+         <OMNIBroadcast></OMNIBroadcast>
+         <OMNI_ViewIcon>9</OMNI_ViewIcon>
+         <OMNIForm>Appointment</OMNIForm>
+         <OMNI$ExpandGroups>3</OMNI$ExpandGroups>
+         <OMNI$UpdatedBy>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNI$UpdatedBy=
+ >
+         <OMNI$Revisions>03/23/2001 09:38:15 AM</OMNI$Revisions>
+         <OMNI$PrevBusyName>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNI$PrevBu=
+ syName>
+     </OMNICalendarEntry>
+ 
+     <OMNICalendarEntry>
+         <OMNICalendarEntryID>6</OMNICalendarEntryID>
+         <OMNICreatedDate>3/23/2001 9:38:04 AM</OMNICreatedDate>
+         <OMNIStartDateTime>03/28/2001 11:00:01 PM</OMNIStartDateTime>
+         <OMNIEndDateTime>03/29/2001 10:59:01 PM</OMNIEndDateTime>
+         <OMNIPrincipal>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNIPrincipal>
+         <OMNIExcludeFromView>D</OMNIExcludeFromView>
+         <OMNICHAIR>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNICHAIR>
+         <OMNI$NoPurge>03/29/2001 10:59:01 PM</OMNI$NoPurge>
+         <OMNI$BusyPriority>1</OMNI$BusyPriority>
+         <OMNI$BusyName>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNI$BusyName>
+         <OMNICalendarDateTime>03/28/2001 11:00:01 PM</OMNICalendarDateTime>
+         <OMNIORGDONTDOUBLEBOOK></OMNIORGDONTDOUBLEBOOK>
+         <OMNIOrgTable>P0</OMNIOrgTable>
+         <OMNI$PublicAccess>1</OMNI$PublicAccess>
+         <OMNIDocAuthors>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNIDocAuthors=
+ >
+         <OMNIBody></OMNIBody>
+         <OMNIFrom>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNIFrom>
+         <OMNIAppointmentType>2</OMNIAppointmentType>
+         <OMNIDuration>1</OMNIDuration>
+         <OMNIReminderTime>03/23/2001 09:45:00 AM</OMNIReminderTime>
+         <OMNISubject>Dubai</OMNISubject>
+         <OMNIStartDate>03/28/2001 11:00:00 PM</OMNIStartDate>
+         <OMNITimeRange>03/23/2001 09:45:00 AM-03/23/2001 10:45:00 AM</OMNIT=
+ imeRange>
+         <OMNIBookFreeTime></OMNIBookFreeTime>
+         <OMNIOrgConfidential></OMNIOrgConfidential>
+         <OMNISendTo></OMNISendTo>
+         <OMNICopyTo></OMNICopyTo>
+         <OMNIBroadcast></OMNIBroadcast>
+         <OMNI_ViewIcon>9</OMNI_ViewIcon>
+         <OMNIForm>Appointment</OMNIForm>
+         <OMNI$ExpandGroups>3</OMNI$ExpandGroups>
+         <OMNI$UpdatedBy>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNI$UpdatedBy=
+ >
+         <OMNI$Revisions>03/23/2001 09:38:15 AM</OMNI$Revisions>
+         <OMNI$PrevBusyName>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNI$PrevBu=
+ syName>
+     </OMNICalendarEntry>
+ 
+     <OMNICalendarEntry>
+         <OMNICalendarEntryID>7</OMNICalendarEntryID>
+         <OMNICreatedDate>3/23/2001 9:12:38 AM</OMNICreatedDate>
+         <OMNIStartDateTime>03/31/2001 08:00:00 AM</OMNIStartDateTime>
+         <OMNIEndDateTime>03/31/2001 01:30:00 PM</OMNIEndDateTime>
+         <OMNIPrincipal>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNIPrincipal>
+         <OMNIExcludeFromView>D</OMNIExcludeFromView>
+         <OMNICHAIR>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNICHAIR>
+         <OMNI$NoPurge>03/31/2001 01:30:00 PM</OMNI$NoPurge>
+         <OMNI$BusyPriority>1</OMNI$BusyPriority>
+         <OMNI$BusyName>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNI$BusyName>
+         <OMNICalendarDateTime>03/31/2001 08:00:00 AM</OMNICalendarDateTime>
+         <OMNIORGDONTDOUBLEBOOK></OMNIORGDONTDOUBLEBOOK>
+         <OMNIOrgTable>C0</OMNIOrgTable>
+         <OMNI$PublicAccess>1</OMNI$PublicAccess>
+         <OMNIDocAuthors>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNIDocAuthors=
+ >
+         <OMNIBody></OMNIBody>
+         <OMNI$PrevBusyName>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron;CN=3DPaul Y'=
+ Barbo/OU=3DNA/O=3DEnron;CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNI$PrevBusyN=
+ ame>
+         <OMNIFrom>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNIFrom>
+         <OMNIAppointmentType>0</OMNIAppointmentType>
+         <OMNIDuration>1</OMNIDuration>
+         <OMNIReminderTime>03/23/2001 09:15:00 AM</OMNIReminderTime>
+         <OMNISubject>Oman LNG</OMNISubject>
+         <OMNIStartDate>03/31/2001 08:00:00 AM</OMNIStartDate>
+         <OMNITimeRange>03/31/2001 08:00:00 AM-03/31/2001 01:30:00 PM</OMNIT=
+ imeRange>
+         <OMNIBookFreeTime></OMNIBookFreeTime>
+         <OMNIOrgConfidential></OMNIOrgConfidential>
+         <OMNISendTo></OMNISendTo>
+         <OMNICopyTo></OMNICopyTo>
+         <OMNIBroadcast></OMNIBroadcast>
+         <OMNI_ViewIcon>160</OMNI_ViewIcon>
+         <OMNIForm>Appointment</OMNIForm>
+         <OMNI$ExpandGroups>3</OMNI$ExpandGroups>
+         <OMNI$UpdatedBy>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNI$UpdatedBy=
+ >
+         <OMNI$Revisions>03/23/2001 09:12:52 AM;03/23/2001 09:12:53 AM;03/23=
+ /2001 09:20:03 AM</OMNI$Revisions>
+     </OMNICalendarEntry>
+ 
+     <OMNICalendarEntry>
+         <OMNICalendarEntryID>8</OMNICalendarEntryID>
+         <OMNICreatedDate>3/23/2001 9:20:46 AM</OMNICreatedDate>
+         <OMNIStartDateTime>04/01/2001 08:00:00 AM</OMNIStartDateTime>
+         <OMNIEndDateTime>04/01/2001 10:30:00 AM</OMNIEndDateTime>
+         <OMNIPrincipal>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNIPrincipal>
+         <OMNIExcludeFromView>D</OMNIExcludeFromView>
+         <OMNICHAIR>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNICHAIR>
+         <OMNI$NoPurge>04/01/2001 10:30:00 AM</OMNI$NoPurge>
+         <OMNI$BusyPriority>1</OMNI$BusyPriority>
+         <OMNI$BusyName>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNI$BusyName>
+         <OMNICalendarDateTime>04/01/2001 08:00:00 AM</OMNICalendarDateTime>
+         <OMNIORGDONTDOUBLEBOOK></OMNIORGDONTDOUBLEBOOK>
+         <OMNIOrgTable>C0</OMNIOrgTable>
+         <OMNI$PublicAccess>1</OMNI$PublicAccess>
+         <OMNIDocAuthors>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNIDocAuthors=
+ >
+         <OMNIBody></OMNIBody>
+         <OMNIFrom>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNIFrom>
+         <OMNIAppointmentType>0</OMNIAppointmentType>
+         <OMNIDuration>1</OMNIDuration>
+         <OMNIReminderTime>03/23/2001 09:30:00 AM</OMNIReminderTime>
+         <OMNISubject>India</OMNISubject>
+         <OMNIStartDate>04/01/2001 08:00:00 AM</OMNIStartDate>
+         <OMNITimeRange>04/01/2001 08:00:00 AM-04/01/2001 10:30:00 AM</OMNIT=
+ imeRange>
+         <OMNIBookFreeTime></OMNIBookFreeTime>
+         <OMNIOrgConfidential></OMNIOrgConfidential>
+         <OMNISendTo></OMNISendTo>
+         <OMNICopyTo></OMNICopyTo>
+         <OMNIBroadcast></OMNIBroadcast>
+         <OMNI_ViewIcon>160</OMNI_ViewIcon>
+         <OMNIForm>Appointment</OMNIForm>
+         <OMNI$ExpandGroups>3</OMNI$ExpandGroups>
+         <OMNI$UpdatedBy>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNI$UpdatedBy=
+ >
+         <OMNI$Revisions>03/23/2001 09:21:45 AM</OMNI$Revisions>
+         <OMNI$PrevBusyName>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNI$PrevBu=
+ syName>
+     </OMNICalendarEntry>
+ 
+     <OMNICalendarEntry>
+         <OMNICalendarEntryID>9</OMNICalendarEntryID>
+         <OMNICreatedDate>3/23/2001 9:39:03 AM</OMNICreatedDate>
+         <OMNIStartDateTime>04/07/2001 12:00:01 AM</OMNIStartDateTime>
+         <OMNIEndDateTime>04/07/2001 11:59:01 PM</OMNIEndDateTime>
+         <OMNIPrincipal>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNIPrincipal>
+         <OMNIExcludeFromView>D</OMNIExcludeFromView>
+         <OMNICHAIR>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNICHAIR>
+         <OMNI$NoPurge>04/07/2001 11:59:01 PM</OMNI$NoPurge>
+         <OMNI$BusyPriority>1</OMNI$BusyPriority>
+         <OMNI$BusyName>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNI$BusyName>
+         <OMNICalendarDateTime>04/07/2001 12:00:01 AM</OMNICalendarDateTime>
+         <OMNIORGDONTDOUBLEBOOK></OMNIORGDONTDOUBLEBOOK>
+         <OMNIOrgTable>P0</OMNIOrgTable>
+         <OMNI$PublicAccess>1</OMNI$PublicAccess>
+         <OMNIDocAuthors>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNIDocAuthors=
+ >
+         <OMNIBody></OMNIBody>
+         <OMNIFrom>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNIFrom>
+         <OMNIAppointmentType>2</OMNIAppointmentType>
+         <OMNIDuration>1</OMNIDuration>
+         <OMNIReminderTime>03/23/2001 09:45:00 AM</OMNIReminderTime>
+         <OMNISubject>London</OMNISubject>
+         <OMNIStartDate>04/07/2001 12:00:00 AM</OMNIStartDate>
+         <OMNITimeRange>03/23/2001 09:45:00 AM-03/23/2001 10:45:00 AM</OMNIT=
+ imeRange>
+         <OMNIBookFreeTime></OMNIBookFreeTime>
+         <OMNIOrgConfidential></OMNIOrgConfidential>
+         <OMNISendTo></OMNISendTo>
+         <OMNICopyTo></OMNICopyTo>
+         <OMNIBroadcast></OMNIBroadcast>
+         <OMNI_ViewIcon>9</OMNI_ViewIcon>
+         <OMNIForm>Appointment</OMNIForm>
+         <OMNI$ExpandGroups>3</OMNI$ExpandGroups>
+         <OMNI$UpdatedBy>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNI$UpdatedBy=
+ >
+         <OMNI$Revisions>03/23/2001 09:39:16 AM</OMNI$Revisions>
+         <OMNI$PrevBusyName>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNI$PrevBu=
+ syName>
+     </OMNICalendarEntry>
+ 
+     <OMNICalendarEntry>
+         <OMNICalendarEntryID>10</OMNICalendarEntryID>
+         <OMNICreatedDate>3/23/2001 9:16:44 AM</OMNICreatedDate>
+         <OMNIStartDateTime>04/08/2001 12:00:01 AM</OMNIStartDateTime>
+         <OMNIEndDateTime>04/08/2001 11:59:01 PM</OMNIEndDateTime>
+         <OMNIPrincipal>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNIPrincipal>
+         <OMNIExcludeFromView>D</OMNIExcludeFromView>
+         <OMNICHAIR>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNICHAIR>
+         <OMNI$NoPurge>04/08/2001 11:59:01 PM</OMNI$NoPurge>
+         <OMNI$BusyPriority>1</OMNI$BusyPriority>
+         <OMNI$BusyName>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNI$BusyName>
+         <OMNICalendarDateTime>04/08/2001 12:00:01 AM</OMNICalendarDateTime>
+         <OMNIORGDONTDOUBLEBOOK></OMNIORGDONTDOUBLEBOOK>
+         <OMNIOrgTable>P0</OMNIOrgTable>
+         <OMNI$PublicAccess>1</OMNI$PublicAccess>
+         <OMNIDocAuthors>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNIDocAuthors=
+ >
+         <OMNI$PrevBusyName>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron;CN=3DPaul Y'=
+ Barbo/OU=3DNA/O=3DEnron;CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron;CN=3DPaul Y'Bar=
+ bo/OU=3DNA/O=3DEnron;CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNI$PrevBusyName=
+ >
+         <OMNIBody></OMNIBody>
+         <OMNIFrom>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNIFrom>
+         <OMNIAppointmentType>2</OMNIAppointmentType>
+         <OMNIDuration>1</OMNIDuration>
+         <OMNIReminderTime>03/23/2001 09:30:00 AM</OMNIReminderTime>
+         <OMNISubject>London</OMNISubject>
+         <OMNIStartDate>04/08/2001 12:00:00 AM</OMNIStartDate>
+         <OMNITimeRange>03/23/2001 09:30:00 AM-03/23/2001 10:30:00 AM</OMNIT=
+ imeRange>
+         <OMNIBookFreeTime></OMNIBookFreeTime>
+         <OMNIOrgConfidential></OMNIOrgConfidential>
+         <OMNISendTo></OMNISendTo>
+         <OMNICopyTo></OMNICopyTo>
+         <OMNIBroadcast></OMNIBroadcast>
+         <OMNI_ViewIcon>9</OMNI_ViewIcon>
+         <OMNIForm>Appointment</OMNIForm>
+         <OMNI$ExpandGroups>3</OMNI$ExpandGroups>
+         <OMNI$UpdatedBy>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNI$UpdatedBy=
+ >
+         <OMNI$Revisions>03/23/2001 09:17:09 AM;03/23/2001 09:17:10 AM;03/23=
+ /2001 09:24:30 AM;03/23/2001 09:24:31 AM;03/23/2001 09:25:14 AM</OMNI$Revis=
+ ions>
+     </OMNICalendarEntry>
+ 
+     <OMNICalendarEntry>
+         <OMNICalendarEntryID>11</OMNICalendarEntryID>
+         <OMNICreatedDate>3/23/2001 9:38:41 AM</OMNICreatedDate>
+         <OMNIStartDateTime>04/11/2001 12:00:01 AM</OMNIStartDateTime>
+         <OMNIEndDateTime>04/11/2001 11:59:01 PM</OMNIEndDateTime>
+         <OMNIPrincipal>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNIPrincipal>
+         <OMNIExcludeFromView>D</OMNIExcludeFromView>
+         <OMNICHAIR>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNICHAIR>
+         <OMNI$NoPurge>04/11/2001 11:59:01 PM</OMNI$NoPurge>
+         <OMNI$BusyPriority>1</OMNI$BusyPriority>
+         <OMNI$BusyName>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNI$BusyName>
+         <OMNICalendarDateTime>04/11/2001 12:00:01 AM</OMNICalendarDateTime>
+         <OMNIORGDONTDOUBLEBOOK></OMNIORGDONTDOUBLEBOOK>
+         <OMNIOrgTable>P0</OMNIOrgTable>
+         <OMNI$PublicAccess>1</OMNI$PublicAccess>
+         <OMNIDocAuthors>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNIDocAuthors=
+ >
+         <OMNIBody></OMNIBody>
+         <OMNIFrom>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNIFrom>
+         <OMNIAppointmentType>2</OMNIAppointmentType>
+         <OMNIDuration>1</OMNIDuration>
+         <OMNIReminderTime>03/23/2001 09:45:00 AM</OMNIReminderTime>
+         <OMNISubject>Return Houston</OMNISubject>
+         <OMNIStartDate>04/11/2001 12:00:00 AM</OMNIStartDate>
+         <OMNITimeRange>03/23/2001 09:45:00 AM-03/23/2001 10:45:00 AM</OMNIT=
+ imeRange>
+         <OMNIBookFreeTime></OMNIBookFreeTime>
+         <OMNIOrgConfidential></OMNIOrgConfidential>
+         <OMNISendTo></OMNISendTo>
+         <OMNICopyTo></OMNICopyTo>
+         <OMNIBroadcast></OMNIBroadcast>
+         <OMNI_ViewIcon>9</OMNI_ViewIcon>
+         <OMNIForm>Appointment</OMNIForm>
+         <OMNI$ExpandGroups>3</OMNI$ExpandGroups>
+         <OMNI$UpdatedBy>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNI$UpdatedBy=
+ >
+         <OMNI$Revisions>03/23/2001 09:38:55 AM</OMNI$Revisions>
+         <OMNI$PrevBusyName>CN=3DPaul Y'Barbo/OU=3DNA/O=3DEnron</OMNI$PrevBu=
+ syName>
+     </OMNICalendarEntry>
+ </OMNICalendarEntries>
+ 
+ </OMNI>

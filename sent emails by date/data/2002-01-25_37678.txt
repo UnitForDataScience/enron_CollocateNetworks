@@ -1,0 +1,14 @@
+
+ 
+
+ 
+ Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+
+ X- X- X- X-b X-Folder: \ExMerge - Giron, Darron C.\Sent Items
+ X-Origin: GIRON-D
+ X-FileName: darron giron 6-26-02.PST
+ 
+ The file was too big to email.  It contains all financial deals (P,B,I,GD) in the active NG-PRICE book.  It does not contain any option deals.  I will set up the new books so that we can move the net positive deals by counterparty.  Let me know if you have any questions.  It is saved in O:/_Dropbox.
+ 
+ DG

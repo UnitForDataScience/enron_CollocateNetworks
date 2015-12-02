@@ -1,0 +1,22 @@
+
+ 
+ 
+ 
+  
+     
+ Paul,
+ 
+ During testing of the NYISO Deal Upload I noticed that there are many hourly deals in Enpower for the same NYISO Transaction ID.
+ 
+ Please tell your guys that if this is going to work there can only be ONE deal in Enpower for EACH NY trans id.
+ 
+ __
+ 
+ The testing is almost complete - as it stands now the upload can be used for NE-PHYS deals (I have updated 6/1-6/18), but until we resolved
+ The problem mentioned above it can NOT be used for HRLY-NE deals.
+ 
+ There are still some enhancements needed for error/warning processing and reporting and researching.
+ 
+ Thanks,
+ 
+ Rebecca

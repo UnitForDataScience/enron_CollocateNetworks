@@ -1,0 +1,40 @@
+
+ 
+ One of the problems with Indian derivatives is that when foreign exchange is 
+ involved, Reserve Bank of India approval is required in advance of the 
+ transaction.  A $US deal would involve foreign exchange from an Indian 
+ counterparty's point of view.  Certain transactions have pre-approved status 
+ but an ECT commodity swap is not one of them.  I'm still trying to track down 
+ whether a commodity deal can be done at all, even with RBI approval.   I've 
+ also asked whether, if approved commodity swaps are permitted but not by ECT, 
+ it might  be possible to use an Indian bank or other approved dealer as an 
+ intermediary. 
+ 
+ 
+ 
+ 
+ Marc De La Roche
+ 02/16/99 10:52 AM
+
+
+  
+ Mark,
+ 
+ Since the Platt's Arab Gulf FOB Naphtha Index that is being used in the 
+ naphtha supply contract between DPC and Glencore is in $US/MT, I think it 
+ would probably be best to use $US as the currency for the proposed DPC hedge. 
+ The standby L/C that we wouyld require DPC to post in ECT's favor would also 
+ be denominated in $US.
+ 
+ Marc
+ 
+ 
+
+   
+ Marc:
+ 
+ In what currency will the proposed DPC hedge be denominated?  
+ 
+ 
+ 
+ 

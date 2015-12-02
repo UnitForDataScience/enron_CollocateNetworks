@@ -1,0 +1,34 @@
+
+ 
+ Please, take a look at his results. Another model for CA PX.
+ 
+ 
+ Vince
+ 
+ 
+ 
+ 
+ 
+
+
+   
+ 
+ Vince,
+ 
+ Thanks for taking the time to look at these initial results.  They are
+ based on the Cal PX volumes and unconstrained market clearing price
+ (UMCP).  Any commercial application would involve Cal ISO loads and
+ zonal prices, a relatively straight-forward extension of the work.
+ 
+ Currently I'm working on modifying the deterministic portion of the
+ power price to account for the sharp increase in oil and gas prices
+ since last year.  I'll let you know if I make any headway in that
+ effort.
+ 
+ I'd appreciate any feedback you might have regarding these results.
+ 
+ Thanks Again,
+ Joel Brown
+ EnergyRisk, llc
+ 
+  - SimResults.xls

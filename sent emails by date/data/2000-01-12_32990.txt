@@ -1,0 +1,58 @@
+
+ 
+ This is in Sitara.
+ 
+ 
+ 
+ Sylvia A Campos
+ 01/12/2000 02:06 PM
+
+
+  
+ Transco contract 3.2846 is set up in Global.
+ 
+ Sylvia
+ 
+ 
+ 
+ Chris Germany
+ 01/12/2000 01:45 PM
+
+   
+ Opps -   3.2846
+ 
+ 
+ 
+ Sylvia A Campos
+ 01/12/2000 01:41 PM
+
+   
+ Chris,
+ What is the contract no.?
+ 
+ 
+ 
+ Chris Germany
+ 01/12/2000 01:32 PM
+
+
+  
+ Please set up the following contract 
+ 
+ Shipper  Columbia Energy Services
+ Agent  ENA
+ Pipe  Transco
+ Firmness IT 
+ Service Type Transortation
+ Rate Sched IT
+ 
+ Term  1/1/2000 - 1/31/2000 then evergreen.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

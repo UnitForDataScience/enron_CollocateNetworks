@@ -1,0 +1,5 @@
+
+ 
+ Use Tenn. Zone 6 for the Gas Curve and NOT Transco Zone 6.
+ Thanks
+ Ben

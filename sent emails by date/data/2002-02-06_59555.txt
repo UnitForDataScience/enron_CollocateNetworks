@@ -1,0 +1,21 @@
+
+ 
+
+ 
+ Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+
+ X- X- X- X-b X-Folder: \ExMerge - Keiser, Kam\Sent Items
+ X-Origin: KEISER-K
+ X-FileName: kam keiser 7-11-02.PST
+ 
+ The following will be the deal entry procedures for UBSWEnergy:
+ 
+ Financial
+ 1.  All non-electronic financial deals to be entered directly by Risk Management from a written and signed deal ticket (required) from front office 
+ 
+ Physical
+ 1.  All current month physical deals to be booked directly into Sitara by front office (logistics/trading)
+ 2.  All prompt month forward deals to be booked directly into TDS by Risk Management from a written and signed deal ticket (required) from front office 
+ 	 - physical meters to be added by logistics/trading
+ 

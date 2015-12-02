@@ -1,0 +1,8 @@
+
+ 
+ Please sweep the products in phys non-tx<1 month and phys index non TX<1 
+ month.  Also, i need access to view restricted products in product manager 
+ for non-tx phys forward and index<1 month.
+ 
+ Thanks,
+ Mike

@@ -1,0 +1,43 @@
+
+ 
+ 
+ >  >  >  >  > Importance: High
+ >
+ > Rich,
+ >  Here is a summary of what we discussed with respect to EES.
+ >
+ > 1. EES will take its oldest backup tape as a snapshot of the email
+ > system as it then existed.  EES will not be making daily backups of the
+ > email system.  (This would involve about 7 tapes per day.)  Thus, current
+ > business email will not be kept for EES unless there is a business reason
+ > to do so.
+ >
+ > 2. EES will take its oldest backup tape of data for its file servers as
+ > a snapshop of the data that existed at that time.  EES will not be making
+ > any other backups of file server data other than they normally would in
+ > the ordinary course of business
+ >
+ > 3. EES will not be taking copies or mirror images of the 300 employees
+ > hard drives and any associated floppy disks at this time.  Employees will
+ > continue to use their equipment as they normally would.
+ >
+ > 4. If you need additional data preservation regarding EES other than as
+ > described above, you will let me know.
+ >
+ > Please let me know if this summary is not accurate.
+ > Thanks
+ > Gary
+ 
+ 
+ This email message is for the sole use of the intended recipient(s) and may 
+ contain confidential and privileged information. Any unauthorized review, 
+ use, disclosure or distribution is prohibited. If you are not the intended 
+ recipient, please contact the sender by reply email and destroy all copies of 
+ the original message.
+ 
+ To reply to our email administrator directly, send an email to 
+
+ BROBECK PHLEGER & HARRISON LLP
+ http://www.brobeck.com
+ 
+ 

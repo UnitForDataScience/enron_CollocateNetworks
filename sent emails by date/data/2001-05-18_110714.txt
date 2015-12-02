@@ -1,0 +1,22 @@
+
+ 
+ um, I don't really know.  I did a search for "VB6" and did find one file.  When you get a chance, can you make the long journey across the isle to take a look.  Thanks.
+ 
+ Mat
+ 
+  
+     
+ Per our conversation yesterday, I'd like to test the send key process for obtaining the Socal hourly storage postings.  Once I get the scheduling system opened and set, the following is the keystrokes required:
+ 
+ 
+ Enter
+ Alt-F
+ P
+ Enter
+ Enter
+ 
+ Of course, a slight pause between the keystokes might be needed.  And if we need to maintain activity to keep the system from kicking us out, we can simply use two Enter keystrokes.  Please let me know when you'll be able to give this a shot.
+ 
+ Thanks.
+ 
+ Mat

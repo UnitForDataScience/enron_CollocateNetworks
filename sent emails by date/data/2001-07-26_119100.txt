@@ -1,0 +1,105 @@
+
+ 
+ 
+ FYI
+  
+ 
+ (1) the date of such rejection; or
+ 
+ (2) the date or dates of such liquidation, termination, or acceleration
+ unless:
+ 
+      (A)  there are not any commercially reasonable determinants of value
+ as of such date or dates, in which case such forward contract merchant,
+ stockbroker, financial institution, securities clearing agency, repo
+ participant, financial participant, master netting agreement participant,
+ or swap participant shall measure damages as of the earliest subsequent
+ date or dates on which there are commercially reasonable determinants of
+ value; or
+ 
+      (B) there are no determinants of value as of such date or dates, in
+ which case such forward contract merchant, stockbroker, financial
+ institution, securities clearing agency, repo participant, financial
+ participant, master netting agreement participant, or swap participant
+ shall measure damages as of the earliest date or dates after, or the latest
+ date or dates before, such date or dates on which there are commercially
+ reasonable determinants of value.
+ 
+ For the purposes of subsection (2), if damages are not measured as of the
+ date or dates of liquidation, termination or acceleration and the trustee
+ challenges the timing of the measurement of damages by a forward contract
+ merchant, stockbroker, financial institution, securities clearing agency,
+ repo participant, financial participant, master netting agreement
+ participant, or swap participant,  such forward contract merchant,
+ stockbroker, financial institution, securities clearing agency, repo
+ participant, financial participant, master netting agreement participant,
+ or swap participant has the burden of proving that there were no
+ commercially reasonable determinants of value or no determinants of value
+ as of such date or dates.
+ 
+ 
+ Legislative History:
+ 
+ 
+ 
+ Section 910 adds a new section 562 to the Bankruptcy Code providing that
+ damages under any swap agreement, securities contract, forward contract,
+ commodity contract, repurchase agreement or master netting agreement will
+ be calculated as of the earlier of (i) the date of rejection of such
+ agreement by a trustee or (ii) the date or dates of liquidation,
+ termination or acceleration of such contract or agreement.  Section 562
+ provides an exception to the rule in (ii) if there are no commercially
+ reasonable determinants of value as of such date or dates,  in which case
+ damages are to be measured as of the earliest subsequent date or dates
+ after such date or dates on which there are commercially reasonable
+ determinants of value, or if there are no determinants of value as of such
+ date or dates, in which case damages are to be measured as of the earliest
+ subsequent date or dates after such date or dates or the latest date or
+ dates before such date or dates on which there are commercially reasonable
+ determinants of value.  Although it is expected that in most circumstances
+ damages would be measured as of the date or dates of liquidation,
+ termination or acceleration, in certain unusual circumstances, such as
+ dysfunctional markets or liquidation of very large portfolios, there may be
+ no commercially reasonable determinants of value, and in other unusual
+ circumstances, such as war conditions, there may be no determinants of
+ value whatsoever.  Measuring damages as of a date or dates before the date
+ of liquidation, termination or acceleration will occur in very unusual
+ circumstances.  An example was the need to use the most recent available
+ information for the Kuwaiti Dinar after the virtual disappearance of the
+ currency after the invasion of Kuwait in 1990.
+ 
+ The non-bankrupt party is not given unlimited discretion to determine the
+ date as of which damages are to be measured.  Instead, its actions are
+ circumscribed unless there are no "commercially reasonable" determinants of
+ value (or no determinants of value whatsoever) for it to measure damages on
+ the date or dates of liquidation, termination or acceleration.  The
+ references to "commercially reasonable" are intended to reflect existing
+ state law standards relating to a creditor's actions in determining
+ damages.  New section 562 provides that if damages are not measured as of
+ the date or dates or liquidation, termination or acceleration and the
+ trustee challenges the timing of the measurement of damages by a forward
+ contract merchant, stockbroker, financial institution, securities clearing
+ agency, repo participant, financial participant, master netting agreement
+ participant, or swap participant, such forward contract merchant,
+ stockbroker, financial institution, securities clearing agency, repo
+ participant, financial participant, master netting agreement participant,
+ or swap participant has the burden of proving the absence of any
+ commercially reasonable determinants of value or any determinants of value,
+ as the case may be.
+ 
+ New section 562 is not intended to have any impact on the determination
+ under the Bankruptcy Code of the timing of damages for contracts and
+ agreements other than those specified in section 562.  Also, section 562
+ does not apply to proceedings under the FDIA, and it is not intended that
+ Section 562 have any impact on the interpretation of the provisions of the
+ FDIA relating to timing of damages in respect of QFCs or other contracts.
+ 
+ 
+ 
+ 
+ 
+ 
+ This message is being sent from a law firm and may contain information
+ which is confidential or privileged.  If you are not the intended
+ recipient, please advise the sender immediately by reply e-mail and delete
+ this message and any attachments without retaining a copy.

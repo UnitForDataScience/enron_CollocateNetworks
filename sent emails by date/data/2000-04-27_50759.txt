@@ -1,0 +1,30 @@
+
+ 
+ Mark,
+ 
+ Thanks a lot.
+ 
+ Vince
+ 
+ 
+ 
+    
+ 
+ 
+  04/26/2000 05:52 PM	
+ 	
+ 	
+ 	                           
+ 	
+ 
+
+   
+ Vince - attached is the most recent E&P version of the old corporate cash 
+ flow model that I could find.  Note that "most recent" still dates it back a 
+ few years.  A couple caveats:  I did try to clean it up somewhat from old 
+ macros, but no guarntees offered.  Also, some of the underlying methodology 
+ is not what we would probably currently use, such as for pricing, stochastic 
+ processes, and perhaps decline rates.  
+ Please let me know if I can provide any additional help.
+ Mark
+ 

@@ -1,0 +1,6 @@
+
+ 
+ FYI, 
+ I spoke with the erms team about the problem we have with curveview going through runm.  If you open runm on your PC instead of a sun machine, you need to open curveview first.  If open curveview before any other applications, the screen will be blue and all others will be set up correctly as well.  According the Erms guys this is an ancient program and they are unable to fix the logic.  Pass this on to your groups.
+ PL
+  

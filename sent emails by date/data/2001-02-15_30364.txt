@@ -1,0 +1,12 @@
+
+ 
+ Can you work with Lee on this one.
+ 
+ 
+ 
+
+
+
+ 
+  
+ I have discovered some FAR orders of ours which do not have plan settlement rules either.  It appears that a program to find and correct these would help us also.

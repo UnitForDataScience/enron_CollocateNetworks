@@ -1,0 +1,41 @@
+
+ 
+ AMEREX
+ Bob Badeer
+ 567991 - sell sempra
+ 567997 - buy ees
+ 
+ 
+ 
+ 
+
+ 04/02/2001 02:29 PM
+
+  
+  
+ 
+ AMEREX WEST
+ Bob Badeer
+ 
+ I am missing the following deals:
+ 
+ 1)  Sell  Sempra Energy Trading Corp.  100  NP 15  1/1/02- 3/31/02 50mw  
+ off     0.0075  fee
+ 2)  Buy  Enron Energy Services, Inc.  99.95  NP 15  1/1/02- 3/31/02 50mw   
+ off      0.00  fee
+ 
+ 
+ 
+ 
+ BLOOMBERG
+ All deals checked out fine.
+ 
+ 
+ 
+ 
+ 
+ PREBON WEST
+ All deals checked out fine.
+ 
+ 
+ 

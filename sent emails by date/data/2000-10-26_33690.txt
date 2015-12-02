@@ -1,0 +1,20 @@
+
+ 
+ 28213
+ 
+ I just spoke with Joann and this is what we are coming up with on CGAS.
+ 
+ Est Citygate for Nov  43,213
+ Storage Withdrawal  15,000
+ 
+ Net Purchase from ENA  28,213
+ 
+ 
+ Does this look correct?
+ 
+ We would enter a citygate sell to New Power for 43,212 and a purchase from 
+ New Power of 15,000 (grossed up for fuel).
+ 
+ AND, Dave, it looks like you might have 3 or more worksheets that you are 
+ maintaining.  Do you want to try and do away with any of them?  All I really 
+ need are the FOM numbers buy pipeline buy pricing zone.

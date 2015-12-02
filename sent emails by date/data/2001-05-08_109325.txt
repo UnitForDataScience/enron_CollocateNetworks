@@ -1,0 +1,20 @@
+
+ 
+ I don't understand this
+ 
+  
+     
+ Colin,
+ 
+ Can you get me the XML schemas or DTDs for EOL.EOLPROD.DISTRIBUTOR.NEW_DEAL.SITARA and EOL.EOLPROD.DISTRIBUTOR.NEW_DEAL.TAGG?
+ 
+ I need to figure out the mappings for conterparty id, price, volume, etc.
+ 
+ Attached are the msgs captured on the TIB.
+  << File: TAGG.txt >>  << File: SITARA.txt >> 
+ 
+ Thanks,
+ 
+ Ronggen Pan
+ x54964
+ EB3296C

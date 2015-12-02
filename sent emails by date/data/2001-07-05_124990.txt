@@ -1,0 +1,22 @@
+
+ 
+
+ 
+
+
+
+ Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+
+
+
+
+ X- X-
+ X-b X-Folder: \ExMerge - Williams III, Bill\Sent Items
+ X-Origin: WILLIAMS-W3
+ X-FileName: 
+ 
+ Jim,
+ On Tuesday we sold the CAISO replacement reserves at Malin for HE 15 and HE 16, then HE 18 through HE 22.  We were exercised for the first 40 minutes of HE 15 (for the last 20 minutes of HE 15 our energy was uninstructued and we received the dec price).  For HE 16, and HE 18-22 we were awarded the capacity payment but were not exercised.  The capacity payment should be at least $91.86 for each hour it was received.  If you have questions, please let me know.
+ Thanks,
+ Bill

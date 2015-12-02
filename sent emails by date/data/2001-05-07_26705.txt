@@ -1,0 +1,19 @@
+
+ 
+ Eric, 
+ 
+ The Carthage meters to report on EOL are listed below:
+ 
+ Tennessee				4603001
+ Texas Gas (Firm take away only)	4021021
+ Koch Midstream				4602001
+ Koch Gateway				4601003
+ Lonestar Header				4609001
+ Reliant					4082006
+ EPGT Texas Pipeline (PGE Texas)	4615002
+ 
+ 
+ 
+ There are a couple of meters in the hub, but the capacity is limited.  So, we should not list them.  Let me know if you have any questions or need additional info.
+ 
+ D

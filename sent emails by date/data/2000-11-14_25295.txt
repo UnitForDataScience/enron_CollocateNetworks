@@ -1,0 +1,35 @@
+
+ 
+ This has been corrected.  A transport usage ticket should have been used, 
+ instead of a desk to desk.
+ 
+ D
+ 
+ 
+    
+ 	Enron Capital Management
+ 	
+ 	 	
+ 
+
+   
+ 
+ 
+    
+ 	
+ 	
+ 	 	
+ 
+
+
+  
+ Transport Book has never bought or sold before.  Should this be changed to 
+ HPLC - Operational or do we need to set up a new desk for HPLC Transport.  
+ Right now, the buy side is not recorded anywhere.
+ 
+ SRM (x33548)
+ 
+ 
+ 
+ 
+ 

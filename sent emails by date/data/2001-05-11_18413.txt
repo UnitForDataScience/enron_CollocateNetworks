@@ -1,0 +1,9 @@
+
+ 
+ Michael:  did we decide to use the PUC's load numbers?  I would worry about 
+ that (particularly since we use the MOU QF/IOU gen numbers).  I suggest that 
+ we use the MOU load numbers for the three utilities, since the PUC numbers 
+ seem real screwy e.g., they have PG&E's load being smaller than Edison.
+ 
+ Best,
+ Jeff

@@ -1,0 +1,20 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - White, Stacey W.\Sent Items
+ X-Origin: WHITE-S
+ X-FileName: stacy white 7-15-02.PST
+ 
+ 
+ 
+  
+     
+ John/Louise -
+ 
+ Given that under the current plan, the bank will be trading our interest rate risk,  I doubt we are taking an interest rate trader to Newco.  In order to get the books run we will need an interest rate curve.  
+ 
+ Should I plan on just getting access to Reuters and setting a curve off of LIBOR on my own?
+ 
+ Jeff

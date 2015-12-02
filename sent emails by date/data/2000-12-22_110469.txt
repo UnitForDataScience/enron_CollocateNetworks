@@ -1,0 +1,32 @@
+
+ 
+             Total price for this trip: $268.50 
+ Here is a detailed description of the flight(s) you selected, along with any 
+ rules and restrictions that apply.  
+  
+  1  Review the flight details  
+  
+  
+   Fri 5-Jan-01  
+  
+ 1415 mi
+ 4hr 0mn New York (LGA)
+ Depart 3:00 PM  to  Houston (IAH)
+ Arrive 6:00 PM    
+ Flight: 1975  
+ 
+ 
+  
+  
+ Total miles: 1415 mi
+ Total flight time: 4hr 0mn  
+  
+   Sun 7-Jan-01  
+  
+ 1415 mi
+ 3hr 13mn Houston (IAH)
+ Depart 5:47 PM  to  New York (LGA)
+ Arrive 10:00 PM    
+ Flight: 1974  
+  
+  

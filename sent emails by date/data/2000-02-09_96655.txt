@@ -1,0 +1,55 @@
+
+ 
+ As promised, here is rough idea of deal.  Terms have changed since this was 
+ prepared.   I will keep you informed as the deal progresses.
+ Thanks
+ Elizabeth
+ 36349
+ 
+ 
+ 
+ Mike Curry
+ 02/02/2000 04:05 PM
+
+   
+ Dave,  Here is an indicative three year proposal for your consideration:
+ 
+ Seller:   Enron Power Marketing Inc.
+ 
+ Buyer:   Duke Power
+ 
+ Commodity:  Capacity and Energy - Unit Contingent
+ 
+ Term:   Jun'00 through May'03 (three years)
+ 
+ Quantity:  120 MW (two New Albany units)
+ 
+ Capacity Source: ENNA - New Albany Plant (in TVA)
+ 
+ Delivery Point:  TVA / Duke Interface
+ 
+ Energy Price:  $/MWh = 12.8 * Gas Price($/MMBtu) + $2.00/MWh + 3% 
+ transmission losses through TVA
+    Gas Price = Gas Daily, Lousianna Onshore South, Columbia, Midpoint 
+            plus $0.08, plus 3% fuel
+    
+ Demand Charge: $9.47 / KW-Month for each calendar month of term
+ 
+ Scheduling:  max. run 900 hrs/yr, min. take 4 hrs, 1 hr notification
+ 
+ Transmission:  Enron is responsible for any transmission charges (not 
+ including losses)
+ 
+ Conditions Precedent: Enron being able to acquire TVA-Duke PTP firm monthly 
+ transmission for term 
+ 
+ The prices in this proposal are subject to change until a final agreement is 
+ reached.  This proposal is for discussion purposes only to facilitate the 
+ negotiation, preparation, and execution of definitive agreements. This is not 
+ an offer or commitment of Seller or any of its affiliates to enter into any 
+ transaction. The transaction described herein is subject to further review 
+ and approval of the Board of Directors of Seller and Buyer, and execution of 
+ definitive agreements containing all appropriate provisions, including those 
+ related to credit and limitation of damages and remedies.
+ 
+ 

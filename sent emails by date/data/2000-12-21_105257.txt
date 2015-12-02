@@ -1,0 +1,73 @@
+
+ 
+ Mark;
+ I thought you should see this - Sara
+ 
+ 
+ 
+ Tracy Ngo
+ 12/20/2000 10:54 PM
+
+
+
+
+
+
+ 
+  
+ Edison Mission Marketing & Trading, Inc. ("EMMT") has agreed to provide to 
+ ENA two (2) separate guaranty agreements:  (i) the first guaranty from Edison 
+ Mission Energy for four (4) specific swaps that were previously entered into 
+ with ENA, and (ii) the second guaranty from Edison Mission Midwest Holdings 
+ Co. for other financial transactions (previously entered into and for new 
+ swaps).
+ 
+ EMMT had previously provided to me their guaranty format (which actually 
+ looks like a combination of a previously accepted physical power gty and the 
+ financial guaranty format that ENA sends with ISDA drafts).  I have taken 
+ EMMT's format and took a stab at reviewing/commenting on their format by 
+ following our accepted format.  There are two guaranty format attachments 
+ below that have my red-lined comments for ENA financial legal's review.  The 
+ third attachment is my suggestion to add the 4 executed confirms for the 
+ Edison Mission Energy gty as a Schedule A to the gty (for your review and 
+ comments as well).
+ 
+ In summary and for clarification, the terms for both guaranties are as 
+ follows:
+ (i)  Guarantor:  Edison Mission Midwest Holdings Co.
+ Covered CP:  Edison Mission Marketing & Trading, Inc.
+ Beneficiary:  Enron North America Corp.
+ Effective Date of Gty:  August 28, 2000
+ Execution Date of Gty:  December 21, 2000 (or as soon as possible)
+ Expiry  Amount:  $15,000,000
+ Products Covered:  swaps, options, or other financially-settled derivative 
+ transactions (NO executed ISDA)
+ 
+ (ii)  Guarantor:  Edison Mission Energy
+ Covered CP:  Edison Mission Marketing & Trading, Inc.
+ Beneficiary:  Enron North America Corp.
+ Execution and Effective Date of Gty:  December 21, 2000 (or as soon as 
+ possible)
+ Expiry  Amount:  $35,000,000
+ Specific Financial Transactions Covered:  four (4) specific confirms.  
+ Transaction ID's are:  NA8930.1, NA9105.1, NA9106.1, NC8086.1 (NO executed 
+ ISDA)
+ 
+ I made efforts on wearing my "legal hat" by the red-lined comments to the 
+ guaranty format.  Feel free to modify/accept/add comments, etc.  I would 
+ appreciate your immediate attention to the requested reviews.  I am available 
+ in Portland at 503-464-8755 or (cell 503-807-5633) should you have any 
+ questions regarding the aforementioned.  In the essence of time, Credit is 
+ requesting that legal provide comments given that there is NO EXECUTED MASTER 
+ ISDA.  It is critical that we accept the guaranties first once negotiated, 
+ and pursue an ISDA early next year.
+ 
+ Thanks for all of your prompt attention regarding this matter.
+ 
+ Regards,
+ Tracy
+ 
+  
+ 
+ 
+ 

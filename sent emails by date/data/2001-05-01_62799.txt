@@ -1,0 +1,11 @@
+
+ 
+ first i heard about this.
+ 
+  
+     
+ John,
+ I heard that the traders are required to put together supporting documentation for large trades, outlining fundamentals and market assumptions.  Is this true? And if possible, any chance I could review the files?  I'm thinking we/RAC can add value by perhaps "balancing" out analysis and maybe even suggest a way to optimize the process by periodically backtesting analytical assumptions.  (e.g. Are we making money because are analysis was correct, or are there "new" features driving the market.) 
+ 
+ 
+ Frank

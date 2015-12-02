@@ -1,0 +1,13 @@
+
+ 
+ We have received the following executed Master Agreement:
+ 
+ Type of Contract:  ISDA Master Agreement (Multicurrency-Cross Border)
+ 
+ Effective  
+ Enron Entity:   Enron North America Corp.
+ 
+ Counterparty:   Bellingham Cold Storage Co.
+ 
+ Transactions Covered:  Approved for all products with the exception of:  
+ Foreign Exchange

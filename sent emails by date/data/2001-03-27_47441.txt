@@ -1,0 +1,75 @@
+
+ 
+ OK for me.
+ 
+ 
+ 
+ 	Stephanie Sever
+ 	03/27/2001 03:40 PM
+ 		 
+
+
+
+
+ 		  (Clickpaper to EOL migration)
+ 
+ Tana/Karen/Kelly:
+ 
+ Credit (Tom Moran) has approved copying the profiles for the following new 
+ product types; US East SPF Lumber Phy, US Newsprint Phy, US OSB Phy, US 
+ Recycled OCC #11 Phy, US SYP Lumber Phy, US West SPF Lumber Phy and US 
+ Recycled ONP #8 Phy from the following:
+ 
+ Pulp Phy Fwd
+ 
+ Please respond by 5 p.m. today, Tuesday, March 27.
+ 
+ Thank you.
+ Stephanie
+ 
+ 
+ 
+ Chris Walker
+ 03/22/2001 05:32 PM
+ 
+
+ Lee/NA/Enron
+
+
+
+
+
+  migration)
+ 
+ Please approve the following 7 product types in Datamanager at your earliest 
+ convenience.  The product type descriptions and GTC are attached.
+ 
+ US East SPF Lumber Phy
+ US Newsprint Phy
+ US OSB Phy
+ US Recycled OCC #11 Phy
+ US SYP Lumber Phy
+ US West SPF Lumber Phy
+ US Recycled ONP #8 Phy   changed since last email
+ 
+ 
+ 
+ 
+ STEPS FOR APPROVAL:
+ 
+ click the  START button 
+ select  PROGRAMS
+ select  TEST APPLICATIONS
+ select ENRONONLINE CLUSTER(PROD)
+  PROCEED WITH USUAL LOGIN/PASSWORD 
+ click the Enron Online Production Cluster "START" button  
+ select EnronOnLine (this is the EOL Datamanager)
+  PROCEED WITH EOL LOGIN/PASSWORD
+ click on the "+" for EnronOnLine
+ click on the "+" for Product Types
+ click on the "+" for "Awaiting Approval" (OR  "Partially Approved")
+ select the product requiring review as stated in e-mail above
+ Right "mouse" click on "properties" to view product set-up 
+ TO APPROVE:  Right mouse click on "Approved"
+ 
+ 

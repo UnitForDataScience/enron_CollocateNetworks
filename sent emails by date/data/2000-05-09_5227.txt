@@ -1,0 +1,61 @@
+
+ 
+ I really just need historical throughput, especially third party, to the 
+ major market areas.  I am going to analyze this data from a temperature 
+ correlation perspective to see if we can use weather derivatives to hedge 
+ throughput exposure.  
+ Data as far back as can be pulled accurately would be helpful.
+ 
+ Call with questions.
+ 
+ Thanks,
+ 
+ Eric
+ x3-0977
+ 
+ 
+    
+ 	Enron North America Corp.
+ 	
+ 	 	
+ 
+
+
+  
+ We have access to a pretty realistic (close to actual) physical throughput 
+ number going back to about February of 1998.  Anything prior to that would 
+ take some work to come up with.  If you are looking for a scheduled 
+ throughput number the best place to get that data from would be POP's/Unify.  
+ By totalling all of the reciept or delivery contracts and including any 
+ Bammel activity, you should get a pretty accurate scheduled throughput 
+ number.  You just have to make sure you don't double dip on gas going through 
+ processing plants, partnership activity, etc.
+ 
+ Let me know what you and Ed are looking for and we can help pull the data 
+ together.
+ 
+ Thanks
+ Gary  36449
+ 
+    
+ 	Enron North America Corp.
+ 	
+ 	 	
+ 
+
+   
+ Earl,
+ 
+ James McKay referred me to you for information regarding historical 
+ throughput numbers on HPL.  Ed Gottlob and I are looking at ways to hedge the 
+ pipe and need this data as far back as can accurately be obtained.
+ 
+ Thanks,
+ 
+ 
+ Eric
+ 
+ 
+ 
+ 
+ 

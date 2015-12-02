@@ -1,0 +1,90 @@
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ 
+ 
+ > As promised at the last ADR meeting, attached are three documents
+ > summarizing the settlement proposal El Paso would like to discuss at the
+ > June 12 meeting in San Francisco.
+ >
+ > This document outlines the proposal:
+ >  <<Outline of Settlement Proposal 6-6-00.doc>>
+ >
+ > This document summarizes the receipt and delivery right assignments.  For
+ > simplicity, all of the assignments have been summarized on the worksheet
+ > labeled "Consolidated Results."  The remaining worksheets in this workbook
+ > are the detailed calculations used to arrive at the individual
+ > assignments.
+ >  <<June 12 Proposal  Without J4JB in Mcfd.xls>>
+ >
+ >
+ > This document summarizes the flow assumptions used in generating the
+ > receipt and delivery right assignments:
+ >  <<Flow Assumptions.ppt>>
+ >
+ > Bill Healy
+ > (915) 496-2144
+
+ 
+ 
+ 
+ 
+  - Outline of Settlement Proposal 6-6-00.doc
+  - June 12 Proposal  Without J4JB in Mcfd.xls
+  - Flow Assumptions.ppt

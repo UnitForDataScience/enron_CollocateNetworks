@@ -1,0 +1,39 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - White, Stacey W.\Sent Items
+ X-Origin: WHITE-S
+ X-FileName: stacy white 7-15-02.PST
+ 
+ Just make sure this is OK.
+ 
+ Stacey
+ 
+  
+    Cc:	Wilson, Shona; Abel, Chris; Ayala, Susie
+  
+ The following books will be inactivated today due to the fact that there are no 3rd party nor intercompany positions. Please advise if otherwise.
+ 
+ Thank you,
+ Susan
+ x3-1462
+ 
+ 
+ PWR-NG-WEST-GD-GDL
+ PWR-NG-LTCA-BAS	
+ PWR-NG-LTCA-PRC	
+ PWR-NG-LTSW-BAS	
+ PWR-NG-LTSW-PRC	
+ PWR-NG-ST-WEST-BAS	
+ PWR-NG-ST-WEST-PRC	
+ PWR-NG-STNW-BAS	
+ PWR-NG-STNW-PRC	
+ PWR-NG-WEST-BAS	
+ PWR-NG-WEST-PRC	
+ PWR-NG-WST-BAS	
+ PWR-NG-WST-PRC	
+ PWR-PRICE-PRC-MIDC	
+ PWR-PRICE-PRC-PWRC	
+ PWR-PRICE-PRC-PWRP	

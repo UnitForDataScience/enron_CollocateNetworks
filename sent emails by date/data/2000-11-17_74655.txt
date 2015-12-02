@@ -1,0 +1,28 @@
+
+ 
+ I just spoke with GE's counsel, and here's where we are:
+ 
+ Change the following for the final draft:
+ 1.80  delete "remaining"
+ 10.2.1  take out the note
+ 
+ Otherwise, GE had no comments.
+ 
+ Peter/Chris,
+ 
+ If you look on the spreadsheet I sent you earlier, it gives the unit numbers 
+ for each of the projects.  You can figure out the guaranteed delivery dates 
+ by matching up the delivery dates from the contracts with the number.  Also, 
+ please fix the use of purchase amount in 10.10.6 as suggested by Dale.
+ 
+ The ESA deal has a change order associated with it (change order 3, attached 
+ below) and that CO is not reflected in the amounts to be paid.  
+ 
+ 
+ 
+ City of Austin has no change orders.  The assignee is Enron South America.
+ 
+ 
+ Thanks,
+ 
+ Kay

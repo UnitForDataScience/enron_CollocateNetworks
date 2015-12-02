@@ -1,0 +1,28 @@
+
+ 
+ I just checked the 24th, the actual number per navigator (actuals delivered 
+ to New Power from Stow) is 54246.  I'll check the others on Monday now that I 
+ know how to do it.
+ 
+ 
+ 
+ Chris Germany
+ 01/19/2001 04:17 PM
+
+   
+ Just looking high level, I see 3 days where storage is off by more than 1,000 
+ dt's that I will check into.
+ 
+ Date Sitara  Jeff's 
+ 24th 54245  55720 
+ 26th 25058  32794
+ 28th 39388  40053
+ 
+ I don't understand your storage number on the 16th.  Does that mean you 
+ banked gas that day?
+ 
+ Also, I setup a column for Navigator numbers and it looks like we took out 
+ 66,000 for ENA.
+ 
+ I need to reconcile storage back to Nov so I can track what we took out vs. 
+ what we pay New Power for.

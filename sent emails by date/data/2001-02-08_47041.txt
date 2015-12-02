@@ -1,0 +1,69 @@
+
+ 
+ Sheri,
+ 
+ Obviously, you're aware that Brent Hendry had problems when he tried to log 
+ in yesterday.  Now Wayne Gresham has tried to log in and can't get in 
+ either.  I expect no one else can get in, they just haven't tried yet.  Can 
+ you go over your directions and figure out what's wrong.  Thanks...
+ 
+ 
+ 
+ 	Sheri Thomas
+ 	01/30/2001 11:08 AM
+ 		
+
+ 		  		  
+ Attached is the file that you guys need to load on your desktop.  It is 
+ pretty self explanatory - I am also sending the instructions I received from 
+ them.  I have a guest password that you can use to speed up the process.  
+ user id - sthomas   password - perry76
+ 
+ 
+ 
+ 
+ Installation Instructions:
+ 
+   1. Double click on the EXE file that you have downloaded.
+   2.  Run the Setup program (the program will guide you
+ through the setup, just follow the prompts).
+   3.  Double click on the shortcut to load the application.
+   4.  Enter the following User ID in the User Name box:
+ netnrg3
+   5.  Click on the Preferences button and enter the following
+ IP address in both the Primary and Secondary Session Manager fields:
+    199.105.208.129:8000
+   6.  If you have a proxy server, check the "enable proxy" box 
+ and enter the server IP: port #.
+   7.  Click OK
+   8.  Enter the following password in the Password box:
+ espeed
+   9.  Click the "Login" button
+  10.  If you see your available instruments loading in the bottom
+ left hand corner of the screen, you have logged in successfully.
+         
+ 
+ Sheri
+ 
+ 
+ 
+ 
+
+
+
+  
+ Please provide the following lawyers with a guest ID to the above website.  
+ The individuals listed next to the products will check any online GTC's (we 
+ think there are none), and/or short or long product descriptions to determine 
+ whether we are happy with the language/contract terms.
+ 
+ Mark Taylor
+ Mark Greenberg
+ Stacy Dickson-nat gas
+ Shari Stack-power
+ Wayne Gresham-coal
+ Brent Hendry-weather
+ John Viverito-emissions
+ 
+ 
+ 

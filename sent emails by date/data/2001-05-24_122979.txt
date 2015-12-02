@@ -1,0 +1,27 @@
+
+ 
+ Steve,
+ 
+ As of yesterday's curves, financial mid is 5.169 and physical mid is 5.311.  The physical Index premium is at TranscoZ6 is  ~.035 in summer and ~0.5 in winter.
+ 
+ Let me know if you need anything else.
+ 
+ 
+ Charlie
+ 
+ 
+  
+     
+ Charlie & Steve,
+ 
+ I work in the power structuring group and need your assistance in pricing a gas swap.  The details are as follows:
+ 	Jan 1, 2002 - Dec 31, 2012
+ 	transco z6
+ 	priced at mid
+ 	
+ I'm sure I am missing some inputs since I am new to this.  Please tell me what else I need to provide you.  Could you please give me one price with basis included and one without basis.
+ 
+ Thanks,
+ 
+ Steve 
+ x3-7214

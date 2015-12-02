@@ -1,0 +1,20 @@
+
+ 
+ 
+ 
+ 
+
+
+
+   
+ 
+
+ In order to begin receiving emails from E*TRADE, you'll need to complete
+ the e-mail authentication process, by entering  this code on the E*TRADE
+ Email Authentication page
+  (https://trading.etrade.com/cgi-bin/gx.cgi/AppLogic+SAEmailProfile)
+ within 7 days. Once you've completed this, you'll be able to select this
+ email address for Smart Alerts delivery.
+ 
+ Saturday, June 24, 2000 02:41PM EDT
+ 

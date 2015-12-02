@@ -1,0 +1,21 @@
+
+ 
+ 
+    
+ 	
+ 	
+ 	 	
+ 
+
+   
+ Vince,
+ I have downloaded data for
+ - NYMEX prompt-month NG contract since 1996
+ - COB day-ahead power prices
+ - CINERGY day-ahead power prices
+ 
+ 
+ 
+ I am still looking for CalPX real-time prices.
+ 
+ Jason

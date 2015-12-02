@@ -1,0 +1,12 @@
+
+ 
+ Contract Rec  Del  Volume
+ 892510  Access  M3  15,570
+ 892511  Access  M3  8,068
+ 893145  Access  M3  5,000
+ 892875  Access  M3  9,496
+ 
+ 893880  Access  M2  11,900
+ 892872  Access  M2  18,705  <== I don't think all of this will flow from the 
+ access area.
+ 

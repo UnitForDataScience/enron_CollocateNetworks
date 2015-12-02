@@ -1,0 +1,18 @@
+
+ 
+ please approve for me.
+ 
+  
+
+    
+ The following expense report is ready for approval:
+ 
+ Employee Name: Scott E. Goodell
+ Status last changed by:  Automated Administrator
+ Expense Report Name: October Expenses
+ Report Total: $216.84
+ Amount Due Employee: $216.84
+ 
+ 
+ To approve this expense report, click on the following link for Concur Expense.
+ http://expensexms.enron.com

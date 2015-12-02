@@ -1,0 +1,22 @@
+
+ 
+ Per my message, here is the info on those mappings
+ 
+ Meter #        Current Trade Zone       Current Curve Mapping      New Trade 
+ Zone      New Curve Mapping
+ 
+ 1009            14            IF-THOMPSONVILLE           11            
+ IF-CORPUS
+ 1175             5   IF-AGUA DULCE           11                           
+ IF-CORPUS
+ 
+ 
+ 
+ Please change both Intramonth and Mid Mkt mappings.
+ 
+ Thanks,
+ 
+ 
+ Eric
+ 
+ 3-0977

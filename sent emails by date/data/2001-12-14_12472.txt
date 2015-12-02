@@ -1,0 +1,20 @@
+
+ 
+ Steve, what I have on my board is that when cubix did the test for 703 the engine load was 89%.  If Cubix is willing to provide us a report that shows the load on 703 to be greater than 90%, we've satisified the compliance testing for 703.  Id like to have a copy of the revised report to submit to the Air Quality Bureau for their records and the facility should also have copy.  My records show that the ceiling for using unit 702 is 68% load.  Under our agreement with the AQB, we can operate unit 702 ONLY UP TO A 68% LOAD.  Above this, we need to bring in Cubix or have a portable test completed to raise the ceiling of operation.  One other thing, there seem to be some confusion about which units are required to be tested at station 7.  I have a copy of the approval from the AQB about allowing us to test units 702 and 703 instead of 701 and 702.  Ill pass a copy of this letter on to anyone who needs it.
+ 
+  
+    Cc:	Maestas, Gary
+  
+ 
+ 
+     Update:  
+ 
+       I have communicated with Rick Stallings (Cubix Corp) about an hour ago and Rick recalls our past conversation concerning the horsepower & load discrepancies for unit 703.  Rick no longer has the data in his data base, but will be glad to make the necessary adjustments with attached explanations for our records in case their are any questions.
+ 
+      The corrected torque load should have been 96 %.
+     
+ Larry Wayne will this work for you?
+ 
+ Steve
+ 
+     

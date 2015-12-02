@@ -1,0 +1,8 @@
+
+ 
+ Claudio,
+ 
+ I am still in the process of setting up what we are going to look at and how, but it will very definitely be options focused. I think the three major drivers we will care about will be Gas, Power, and weather. I am particularly interested in the relationship of how gas and power prices react with weather. One trade I am interested in is gas daily options that knock-in based on an observed temperature for the particular delivery point. What are your views and what would you focus on if you were me ?
+ 
+ Thanks
+ Andy

@@ -1,0 +1,26 @@
+
+ 
+ <OMNI>
+ <OMNINotes></OMNINotes>
+ 
+
+ 
+ <OMNIToDos>    <OMNIToDo>
+         <OMNIStartDateTime></OMNIStartDateTime>
+         <OMNIDueDateTime></OMNIDueDateTime>
+         <OMNIDUESTATE>1</OMNIDUESTATE>
+         <OMNISubject>Don't forget to check www.palm.net for new query applications!</OMNISubject>
+         <OMNIBody></OMNIBody>
+         <OMNIImportance>1</OMNIImportance>
+         <OMNIASSIGNSTATE>0</OMNIASSIGNSTATE>
+         <OMNIAssignedTo>CN=Mike Maggi/OU=Corp/O=Enron</OMNIAssignedTo>
+         <OMNIFrom>CN=Mike Maggi/OU=Corp/O=Enron</OMNIFrom>
+         <OMNIORGTABLE>T0</OMNIORGTABLE>
+         <OMNI$UpdatedBy>CN=Mike Maggi/OU=Corp/O=Enron</OMNI$UpdatedBy>
+     </OMNIToDo>
+ </OMNIToDos>
+ 
+ <OMNICalendarEntries>
+ </OMNICalendarEntries>
+ 
+ </OMNI>

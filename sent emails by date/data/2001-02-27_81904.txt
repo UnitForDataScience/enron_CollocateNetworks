@@ -1,0 +1,25 @@
+
+ 
+ BT is no longer a valid counterparty (according to TAGG when you go into the 
+ deal).  One can not save a deal w/ an invalid c/p name in the deal.  Jennifer 
+ Blay is currently trying to get us the correct counterparty name.
+ 
+ Thanks, Errol
+ 
+ 
+    
+ 	Enron North America Corp.
+ 	
+ 	 	
+ 
+
+  
+  
+ Errol-
+ 
+ There are two Bankers Trust Deals that you changed to Bankers Trust 
+ International. I pulled the trades from EOL and they say Bankers Trust. The 
+ Deal Nos are QT6916 and QT7116. Were these changed in error?
+ 
+ Thanks. Julie
+ 

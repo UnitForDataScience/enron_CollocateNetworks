@@ -1,0 +1,12 @@
+
+ 
+ I tried logging in to corp, but it failed because it prompted for new 
+ hardware - a 3COM card?  Should I get a phone number of one of the 
+ technicians, so that I may call them from my house when I try to log in.  
+ 
+ Also, the guys set up a hub for my desktop and laptop.  How do I have the 
+ laptop share the printer (which is connected to my desktop)?  Do I use 
+ Network Neighborhood?
+ 
+ Thanks,
+ Mike

@@ -1,0 +1,13 @@
+
+ 
+ Can you explain why we over delivered to NNG on total order.
+ 
+ Order:
+ 35.397 to NNG
+ 
+ Flow:
+ 57.753 to NNG
+ 
+ Please let us know.
+ 
+ Thanks DS

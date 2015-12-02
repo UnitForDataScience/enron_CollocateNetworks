@@ -1,0 +1,39 @@
+
+ 
+ Kevin,
+ 
+ FYI
+ 
+ Vince
+ 
+ 
+ 
+ Vasant Shanbhogue
+ 07/28/2000 04:34 PM
+
+   
+ Hi Vince,
+ 
+  I have communicated the following requirements to Clayton.  Please give me 
+ your thoughts on  additions/modifications.
+ 
+ For EOL Model,
+ 
+ 1.  Working program, with easily usable interface
+ 
+ 2.  User docs, for new user to easily start using system
+       plus includes details about program structure and modules
+ 
+ 3.  Reports for tabulation of data by commodity, counterparty, period, etc.  
+ Should be easy to run daily.
+ 
+ 4.  Time series description, including graphs, plus some time series analysis 
+ (say, relationship of volume to time of day, day of week)
+ 
+ 5.  Cross commodity trading relationships (identify potential arbitrage)
+ 
+ For Gas Model,
+ 
+ 1.  Calibrate model
+ 
+ 2.  User docs, with complete description of data

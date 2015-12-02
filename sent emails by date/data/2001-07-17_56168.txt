@@ -1,0 +1,13 @@
+
+ 
+ 
+ 
+  
+     
+ 
+ Three approaches are proposed:
+ 1. Maximizing profit.
+ 2. Minimizing variance.
+ 3. Minimizing value at risk (in progress, but not very promising).
+ 
+  

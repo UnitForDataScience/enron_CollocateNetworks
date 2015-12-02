@@ -1,0 +1,69 @@
+
+ 
+ Is there any intention of selling off equity in this company?  If so, in the 
+ near future?
+ 
+ Sara Shackleton
+ Enron North America Corp.
+ 1400 Smith Street, EB 3801a
+ Houston, Texas  77002
+ 713-853-5620 (phone)
+ 713-646-3490 (fax)
+
+ 
+ 
+ 
+
+ 	04/19/2001 07:52 AM
+ 		 
+
+ 		  		  
+ This is where the Daishowa mill assets are held so they are elegible; 
+ additionally, this is 100% owned Enron sub.  Let me know if you have any 
+ questions.
+ 
+ Thanks,
+ Tanya
+ 
+  
+
+
+   
+ Ana,
+ 
+ The information on the confirm executed (deal no. m439607) between EGM and 
+ EIM needs a couple of changes.  Please make the counterparty:
+ 
+  Compagnie de papiers Stadacona
+  Bay Wellington Tower - BCE Place
+  181 Bay Street, Suite 1540, P.O. Box 822
+  Toronto, Ontario, Canada
+  M5J 2T3
+ 
+ And the bank accounts should be 
+ 
+ 
+ Account Name    Currency  Notes
+ 
+ 2013883015	EIM Holdings, (Canada) Inc.	US$		Primary concentration & funding account
+ 	Co# 1469			Receives US$ deposits from BoA collections
+ 				US$ collection
+ 				Funds FX settlement for Can$
+ 				Funding source for BNS US$ accounts
+ 				
+ 				
+ 2013883007	EIM Holdings, (Canada) Co.	Can $		Can$ deposit account
+ 	Co# 1469			Deposit Acct for FX purchases of Can$
+ 				Primary funding account for operations
+ 				
+ 
+ 
+ 
+ Thank you
+ 
+ Bob Crane
+ 
+ 
+ 
+ 
+ 

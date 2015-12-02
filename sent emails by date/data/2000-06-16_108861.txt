@@ -1,0 +1,28 @@
+
+ 
+ 
+ 
+ 
+ 	Calendar Entry
+ 
+ 
+ Brief description:
+ Date:
+ Time:
+ 
+ Pipeline Site Mtg
+ EB3674
+ 06/19/2000
+ 04:00 PM - 05:00 PM
+ 
+ 
+ Detailed description:
+ 
+ 
+ Invitations have been sent to: Hunter S Shively/HOU/ECT, Geoff 
+ Storey/HOU/ECT, Chris Gaskill/Corp/Enron
+
+ Chairperson: John P Tollefsen/HOU/ECT
+ Sent by: Terry Furches/Corp/Enron
+ This meeting repeats   starting on    (if the date occurs on a weekend the 
+ meeting ).

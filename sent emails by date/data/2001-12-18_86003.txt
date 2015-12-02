@@ -1,0 +1,18 @@
+
+ 
+ At this point, I don't think any assignment to ECS solve any of these issues.  We still have to get approval for any cash outlaws from ECS since it is 100% owned by ENA.  Also assignment from a debtor entity to a non-debtor entity might require certain approvals from the Bankruptcy Ct. and the DIP financing.  I can look into it if it necessary, but does it really help the cash situation?
+ 
+  
+   
+  
+ Chip/Dave, 
+ 
+ If you will recall, you had me check into whether Midland was a utility under the Bankruptcy Code.  Your thought was that past due amounts to "utilities" had special treatment under the law of bankruptcy.  Gerald and I communicated with David Zdunkewicz of Andrews & Kurth and concluded that Midland is likely a "utility" and that as such, would not be able to stop service for failure to pay pre-petition obligations.  Utilities, such as Midland, are however entitled to request additional assurance of payment.  Our first day bankruptcy order provides such additional assurance by definition, unless a utility counterparty objects in a writing sent to Steve Woods within 30 days of the filing of the petition in bankruptcy (December 2nd).
+ 
+ By carbon copy of this email, I am asking Steve whether he has received any such objection from Midland and, if none has been received to date, to notify myself and Gerald Nemec upon receiving any such objection. 
+ 
+ David Z. suggested that we wait until the expiration of the 30 day period (roughly January 2, 2002) and if nothing is received by that time, just pay invoices which relate to post-petition periods.  We must, however, pay all post petition invoices in a timely manner and it probably makes sense to pre-approve these.
+ 
+ Thanks 
+ 
+ Stuart 

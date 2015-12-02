@@ -1,0 +1,23 @@
+
+ 
+ Tom, 
+ 
+ Please handle this.  The deal is already out there for this time period.  You 
+ will probably need to send a zero nom.
+ 
+ D
+ 
+    Aimee Lannou                05/22/2000 03:14 PM
+ 
+
+   
+ Daren - During the Saxet Thompsonville outage, May 8 - May 11, the meter 
+ flowed a small volume with no nom.  Can you set up a deal for the days that 
+ flowed?
+ 
+  5/8 .012
+  5/9 0
+  5/10 .087
+  5/11 6.970
+ 
+ - Aimee

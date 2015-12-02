@@ -1,0 +1,8 @@
+
+ 
+  Give me a C
+     Give me an N
+  Give me an R
+  Give me an S
+ 
+ What do you have?  A Quarter!

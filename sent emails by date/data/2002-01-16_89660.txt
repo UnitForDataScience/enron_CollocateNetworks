@@ -1,0 +1,27 @@
+
+ 
+ The UBSW Energy on-line products should be limited to the locations below through 2003 only.   Off-Peak markets will be only in NY, PJM, NEPOOL, and ERCOT.
+ 
+ NEPOOL PTF
+ NY Zone J (FP and Basis)
+ NY Zone G
+ NY Zone A
+ Ontario (FP and Basis)
+ PJM East Hub (FP and Basis)
+ PJM West Hub
+ PJM West (Basis)
+ Cinergy
+ Com-Ed (FP and Basis)
+ TVA (FP and Basis)
+ Entergy (FP and Basis)
+ SOCO
+ ERCOT South (FP)
+ ERCOT North (Basis)
+ 
+ Casey - Please see above the markets that will be Fixed Price (1-30 day market) and Basis/Spread (forwards).
+ 
+ Kevin Presto
+ Vice President, East Power Trading
+ Phone:  713-853-5035
+ Cell:  713-854-3923
+ Fax:  713-646-8272

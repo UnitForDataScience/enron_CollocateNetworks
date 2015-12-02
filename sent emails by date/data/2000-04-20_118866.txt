@@ -1,0 +1,26 @@
+
+ 
+ 
+ 
+ 
+
+ 04/18/2000 06:37 PM
+
+   
+ Mark
+ 
+ In your FAQ, you might like to outline the contract structure in some detail, 
+ for eg:
+ 
+ * the counterparty contracts with Enron North America re: PA
+ * contracts with ENA re: ETA and 
+ * contracts with Singapore re: GTC
+ 
+ Was there any particular reason that you chose the PA to be with ENA rather 
+ than Enron Japan.  Note, Australia was done for the Australian market.
+ 
+ I would prefer to change it to Enron Japan. Will we have to receive further 
+ external advice? If not, I will change it accordingly.
+ 
+ Regards 
+ Rousseau

@@ -1,0 +1,58 @@
+
+ 
+ Prebon
+ Mark Fischer
+ Changed 547680/681 to APB
+ 
+ Chris Mallory
+ 547716
+ 
+ Amerex
+ Mark Fischer
+ Killed 547637
+ 
+ Diana Scholtes
+ Says 547287 is definitely only 25 mw
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 03/12/2001 02:37 PM
+
+  
+  
+ 
+ PREBON
+ 
+ Mark Fischer
+ deal 547680- Prebon does not recognize
+ deal 547681- Prebon does not recognize
+ 
+ Chris Mallory
+ I am missing the following deal per Prebon:
+ Enron buys from Merrill Lynch 25 mw of April'01 Sp-15  peak hours at $209.00
+ 
+ 
+ 
+ AMEREX WEST
+ 
+ Mark Fischer
+ deal 547637 and deal 547678- Amerex only recognizes one deal.
+ 
+ Diana Scholtes
+ deal 547287
+ Amerex shows 50 mw and Enpower has 25 mw..
+ 
+ 
+ 
+ 
+ 
+ BLOOMBERG
+ 
+ All deals checked out fine.
+ 
+ 
+ 

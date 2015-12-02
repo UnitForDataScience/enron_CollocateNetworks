@@ -1,0 +1,32 @@
+
+ 
+ Tom,
+ 
+ It looks like everything ran perfectly.  I have attached a copy of the 
+ positions that were loaded into the system.  Let me know if you see any 
+ problems, but they seem to be in line with what you expected.  
+ 
+ Let me know if you have any questions.
+ Robin
+ 
+ 
+ 
+ 
+
+   
+ 
+ 
+ 
+ Good morning,
+ 
+ Here is last night's benchmark report which includes our latest intramonth 
+ deals.  I also made the changes you suggested.  You should see MTM of around 
+ (79,000) and a volumetric position of approximately (600,000) for the 
+ intramonth deals.
+ 
+ Please test the file at your first convenience.
+ 
+ Thanks,
+ 
+ Tom
+ 

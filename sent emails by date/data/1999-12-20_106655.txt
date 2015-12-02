@@ -1,0 +1,5 @@
+
+ 
+ The account number in the confirmation is correct.
+ 
+ Please add "without duplication" language to the Floating Amount calculation.

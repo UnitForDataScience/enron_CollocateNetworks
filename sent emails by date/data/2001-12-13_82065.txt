@@ -1,0 +1,19 @@
+
+ 
+ I will take a look at it and let you know ASAP.
+ 
+ Errol
+ 
+  
+    Cc:	Chilkina, Elena
+  
+ Errol,
+ 
+ We think that we have discovered an error in the system.  Elena has been valuing the San Diego Gas & Electric position.  It looks as if the mid for Dec 01 NGI Socal is in the system as $-.046.  The actual index however was $2.27.  Could you or someone in your group pls look into this and let us know asap.  We need to value this deal correctly so that we can unwind it.
+ 
+ Thanks,
+ Craig
+ 
+ Craig A. Breslau
+ Enron Americas
+ 713-853-4722

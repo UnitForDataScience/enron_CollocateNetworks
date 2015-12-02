@@ -1,0 +1,26 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X-
+ X- X-b X-Folder: \ExMerge - Richey, Cooper\'Sent Mail
+ X-Origin: RICHEY-C
+ X-FileName: cooper richey 6-26-02.PST
+ 
+ sub SendEmail {
+
+
+   	
+   	print "<from: $recipient> <to: $sender> <sub: $subject> <body: $body> \n";
+   	
+  		$smtp = Net::SMTP->new('mail.ect.enron.com') || die "couln't start smtp";
+ 	  $smtp->mail($sender);
+ 		$smtp->to($recipient);  
+ 		$smtp->data();
+ 		$smtp->datasend(" 		$smtp->datasend(" 		$smtp->datasend($body);
+  		$smtp->dataend(); 
+ 	  $smtp->quit;
+ 			
+  		return $messageID;  # return error code in here if necessary
+ }

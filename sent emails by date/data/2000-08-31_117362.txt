@@ -1,0 +1,65 @@
+
+ 
+ John - While we can delete Part 6 it then becomes necessary to add additional 
+ language in each confirmation which is not part of the templates for 
+ transactions used by the back office.  Each transaction would therefore 
+ require significant additional time and effort to prepare making it more 
+ cumbersome to do business with that counterparty.  There is no down-side to 
+ having the language in the master - the whole point of the master is that we 
+ agree to these things now so we don't have to deal with them at the confirm 
+ stage.  You can say "it's enough if the terms are referred to in the 
+ confirmation" for ALL of the terms of the master.  Since we would insist on 
+ the appropriate provisions being in the confirm in any event, if they have a 
+ problem with this language we need to know now what the problem is.  With 
+ respect to the CSA, that is an issue for Credit.  It is certainly not 
+ necessary to have a valid agreement but it is necessary if you want to insist 
+ on collateral.  In this case, if IBJ is a stronger credit than Enron it may 
+ well be that the csa is more of a burden than a benefit.  It strikes me as 
+ disingenuous to say that they don't have the internal systems for csa's with 
+ nonfinancial counterparties - the same systems would work for nonfinancial 
+ parties as well as financial parties.  
+ 
+ 
+ 
+
+ 	08/30/2000 07:49 PM
+ 		 
+
+
+ 		  
+ Mark-
+ 
+ We have received some preliminary comments from IBJ, attached hereto for your 
+ review.  Please give me your thoughts regarding deletion of Part 6 of the 
+ Schedule and not utilizing the CSA.
+ 
+ Thanks,
+ 
+ John
+ 
+
+
+
+   
+ 
+ > Dear Mr. Konishi,
+ >
+ > Attached hereto, is the draft ISDA documentation, for your review.
+ > Included are the Schedule, the Credit Support Annex and the Enron Corp.
+ > Guaranty.
+ >
+ > I apologize for the delay in the preparation and distribution of these
+ > documents.
+ >
+ > We look forward to receiving your comments.
+ >
+ > Best regards,
+ >
+ > John Viverito
+ >
+ >
+ > (See attached file: IBJ Schedule 30.08.00.doc)(See attached file: IBJ CSA
+ > 30.08.00.doc)(See attached file: IBJ EC guarantee 30.08.00.doc)
+ 
+ 
+ 

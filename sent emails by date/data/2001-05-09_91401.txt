@@ -1,0 +1,50 @@
+
+ 
+
+ 
+
+
+ Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+
+
+
+ X-
+
+ X-b X-Folder: \ExMerge - Richey, Cooper\'Sent Mail
+ X-Origin: RICHEY-C
+ X-FileName: cooper richey 6-26-02.PST
+ 
+ I've made the appropriate change in the AlbertaPower database, but it won't 
+ be automatically pushed to PETE since the pool doesn't change the data they 
+ have on the web (they just send out the letter.)  i.e., you may have to pull it in by hand.
+ 
+ 
+ 
+ 
+ 
+
+
+  
+ Cooper/Willie, can you arrange to re-scrape the Pool Price for the Pool's web site.
+ Rob/Karim, can you discuss with John P to ensure that this change is picked up in his DPR.
+ 
+ Everyone else - FYI
+ 
+ Thanks
+ 
+ Mark
+ 
+ 
+ 
+ 
+
+
+   
+ 
+  - Pool Price Error 20010502 Lorry letter.doc 
+ 
+ 
+ 
+ 
+ 

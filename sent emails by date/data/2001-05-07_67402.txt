@@ -1,0 +1,36 @@
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+ 
+ 
+ Counterparty    TAGG#   Action      
+ CMS Energy Corporation  v78462.1,v78468.1 Rebook to CMS Marketing, Services 
+ and Trading
+  "    v78807.1,v78808.1   "
+ Calpine Natural Gas Company  v78254.1,v78255.1 Rebook to Calpine Energy 
+ Services, LP
+ Engage Energy Canada LP  v78253.1  Rebook ENA trades to ECC (under the ISDA)
+ Kinder Morgan Energy Partners, Inc v78446.1,v78762.1 Rebook to Kinder Morgan 
+ Inc. (under the ISDA)
+ New Counterparty    v78797.1  Pending Paul Radous
+ Pacificorp    v77849.1,v77879.1 Rebook to Pacificorp Power Marketing, Inc.
+ Tiger     v78638.1  Rebook to Tiger Natural Gas Inc.
+ Total Gas & Electric, Inc   v78680.1  Pending Brant Reves
+ 

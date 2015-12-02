@@ -1,0 +1,41 @@
+
+ 
+ FYI
+ 
+ 
+ 
+ Dawn C Kenne
+ 02/13/2001 02:35 PM
+
+
+
+  
+ Phillip,
+ 
+ Andy Lewis is setting up a new gas daily index and I need to map the correct 
+ indexes in EOL.  I am assuming for IF GD/D NGPL MidCont, it needs to be 
+ mapped as IF-NGPL/MIDCON and I need the GDP index for NGPL/MIDCON.  Can you 
+ please let me know at your earliest convenience?
+ 
+ Thanks,
+ Dawn
+ 
+ 
+ 
+ Chris Walker
+ 02/13/2001 02:10 PM
+
+
+
+ 
+  
+ Dawn and Tara,
+ 
+ Could you please map in TEST the new gas daily index product requested by 
+ Andy Lewis.  The short name is IF GD/D NGPL MidCont (product #11181).  Let me 
+ know if you need additional information.
+ 
+ Chris W.
+ 
+ 
+ 

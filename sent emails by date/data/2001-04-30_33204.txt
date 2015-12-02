@@ -1,0 +1,18 @@
+
+ 
+ I missed this.  Looks like IT will not flow through St 90
+ 
+ 
+ 
+ Trans. Svc. Provider: 007933021 - TRANSCONTINENTAL GAS PIPE LINE CORPORATION
+    Notice Identifier: L0104271
+      Critical Notice: Yes
+       Type of Notice: 8-Capacity Constraint
+    Required Response: 5-No Response Required
+    Resp By Date/Time: N/A
+ Notice Eff Date/Time: 04/27/01 10:18:57
+ Notice End Date/Time: N/A
+               Status: 1-Initiate
+  Prior Notice Ident.: N/A
+ 
+  - C.DTF

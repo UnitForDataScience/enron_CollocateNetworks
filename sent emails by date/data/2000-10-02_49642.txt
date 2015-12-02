@@ -1,0 +1,34 @@
+
+ 
+ Tom,
+ 
+ The system does not take my approval of this request.
+ 
+ 
+ Vince
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ Please review and act upon this request. You have received this email because 
+ the requester specified you as their Manager. Please click 
+ http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000003619&Page=
+ Approval to approve the request.
+ 
+ 
+ 
+ 
+ Request ID          : 000000000003619
+ Request Create Date : 9/27/00 9:18:21 AM
+
+ Resource Name       : Unlisted Application/Software
+ Resource Type       : Applications
+ 
+ 
+ 
+ 
+ 

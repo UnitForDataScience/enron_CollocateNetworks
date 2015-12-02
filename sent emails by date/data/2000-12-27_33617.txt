@@ -1,0 +1,69 @@
+
+ 
+ I don't see the facility numbers in Sitara.  However, I do use meter numbers 
+ and the NFUL meter number for the interconnect with TCPL is 010902.  Deal 
+ 241639 is (term purchase from AEC) is at this meter.  And deal 511043 (ENA-Im 
+ Market East sale to ENA-Im Ontario) is also at this meter for December.  It 
+ doesn't matter to me which facility we use provided NFUL meter 010902 is set 
+ up in Sitara.
+ 
+ Richard, issues to consider before Faye makes any changes,
+  *  NFUL is an EDI pipeline, how will the changes impact Angie's EDI file?
+  *  Will we need to rebook our term purchase - (this should be fairly simple)?
+  *   Will Unify need to be repathed since the beginning of time?
+  *  Can this change take effect 1/1/2001?
+  *  If Martin reads this without Darren tipping him off before 1:00 PM today, 
+ I'll buy him a "pop".
+  .
+ 
+   
+ 
+ 
+ 
+ 
+ Faye Ellis
+ 12/27/2000 10:28 AM
+
+
+
+
+  
+ Kevin, I have included Chris Germany and Richard Pinion because they 
+ requested updates to facility #820006.  There is a note on this facility from 
+ Chris requesting this facility to be reactivated (10/28/99).  He would have 
+ to approve inactivation.  Richard requested a name change (4/25/00).
+ 
+ Chris is this still a valid point?
+ 
+ See Screen 3 - Facility #513423 appears to have been created in error.  The 
+ Norm and Trade flags are set to 'no'.
+ 
+ Please let me know.
+ 
+ Thanks,
+ Faye
+ 
+ Screen 1 - Note requesting reactivation.
+ 
+ Screen 2 - Shows interconnect with different pipes.
+ 
+ Screen 3 - This facility appears to be created in error, both the Norm and 
+ Trade flags are set to 'No'.
+ 
+ 
+ 
+
+
+
+  
+ 820006 is set up in Global as an interconnect between NFUL and TCPL at 
+ Niagara Falls.  That is incorrect and this facility should  be changed or 
+ inactivated ASAP  before any more deals get booked against it.  I believe 
+ there is an interconnect between NFUL and TGP at Niagara.
+ Didn't we have this same problem in the spring regarding Facility#513423.
+ 
+ Kevin
+ 
+ 
+ 
+ 

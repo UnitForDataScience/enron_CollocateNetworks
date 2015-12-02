@@ -1,0 +1,67 @@
+
+ 
+ Karl Jackson is at EOTT.  They have access to SAP in order to retrieve data for Co 1195.  Can you let him know when he can extract data?  We need to see it they want us to continue to send them a bill for Co 1195 (bill for all CASH spent).  We also need to discuss you guys sending an invoice for interest.
+ 
+ Thanks
+ 
+ 
+
+ 
+
+
+ 
+  
+ I'd like to have the information as soon as it is available each month.  I don't know what the regular close schedule is so I don't know when it would be safe to extract the data and be sure that you have the entire month's activity.  Our expense close is on the fifth workday so I'd like to aim for  a date as close to there as is possible.
+ 
+ Karl
+ 
+ 
+ 
+
+ 
+ 
+ Karl,
+ 
+ I'll take care of it for you.  I have to follow up on your ID and the job scheduling anyway.  Is there a certain day this will run each month? 5th workday perhaps?
+ 
+ Shawn
+ 
+ 
+ 
+
+ 
+
+
+ 
+  
+ Who will be the contact for getting the January 2001 file?  Assuming successful testing of the December data, I would like to have the January data next week.  We are scheduled to close expenses for the month of January on Wednesday Feb. 7 and would like to be able to interface the SAP file on that date.  (Not sure who's question this is, but when all else fails, I usually call Shelia.)  Thanks
+ Karl
+ 
+ 
+ 
+
+ 
+ 
+ Karl,
+ 
+ Here is a file with December's data from our QA environment.  The program that produces this data will be in production later today, so I'll get you a file from PR1 then.  I had to zip it up because it was too big to deliver.  I'll set you up with an userid and password so you can pick these up off our interface server once it is scheduled in production.
+ 
+ I'm now settled in London.  If you need to reach me, I'm at 783-4269 (trunk+34269).
+ 
+ Thanks,
+ Shawn
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <Embedded StdOleLink>
+ <Embedded StdOleLink>
+ <Embedded StdOleLink>

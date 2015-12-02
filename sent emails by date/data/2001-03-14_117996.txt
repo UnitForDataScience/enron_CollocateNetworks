@@ -1,0 +1,73 @@
+
+ 
+ OK
+ 
+ 
+ 
+ 	Lisa Lees
+ 	03/13/2001 03:39 PM
+ 		 
+
+
+
+ 		  Oil 3% Fin Spd
+ 
+ The product long descriptions below will fall under the new product types US 
+ Residual Fuel Oil 1% Fin Spd and US Residual Fuel Oil 3% Fin Spd.  Credit 
+ (Tom Moran) has approved copying the profiles for the new product types from 
+ the following:
+ 
+  US Oil LSFO Fin Swap
+ 
+ Please respond by 10 a.m. on Wednesday, March 14.
+ 
+ Thank you.  Lisa
+ 
+ 
+ 
+ Chris Walker
+ 03/13/2001 10:46 AM
+ 
+
+
+
+
+
+
+  Fin Spd / US Residual Fuel Oil 3% Fin Spd)
+ 
+ Your review and approval of the following 2 product types in the EOL 
+ Datamanager is needed (for directions on approval , please see steps for 
+ approval at the bottom of this e-mail)
+ 
+ Trader:  Sarah Mulholland
+ 
+ US Residual Fuel Oil 1% Fin Spd
+ US Residual Fuel Oil 3% Fin Spd
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ STEPS FOR APPROVAL:
+ 
+ click the  START button 
+ select  PROGRAMS
+ select  TEST APPLICATIONS
+ select ENRONONLINE CLUSTER(PROD)
+  PROCEED WITH USUAL LOGIN/PASSWORD 
+ click the Enron Online Production Cluster "START" button  
+ select EnronOnLine (this is the EOL Datamanager)
+  PROCEED WITH EOL LOGIN/PASSWORD
+ click on the "+" for EnronOnLine
+ click on the "+" for Product Types
+ click on the "+" for "Awaiting Approval" (OR  "Partially Approved")
+ select the product requiring review as stated in e-mail above
+ Right "mouse" click on "properties" to view product set-up 
+ TO APPROVE:  Right mouse click on "Approved"
+ 
+ 
+ 

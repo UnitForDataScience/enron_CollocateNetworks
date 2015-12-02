@@ -1,0 +1,9 @@
+
+ 
+ The market for this Transaction is less liquid than other OTC derivatives 
+ markets and, accordingly, this Transaction may be subject to greater risk 
+ than other derivatives transactions.
+ 
+ This should be added to the confirm as:
+  (i)  numbered paragraph 2 for the ISDA confirm
+  (ii)  the second sentence (opening paragraph) of the omnibus

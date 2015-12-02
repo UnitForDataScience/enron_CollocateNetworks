@@ -1,0 +1,40 @@
+
+ 
+ Zimin,
+ 
+ It did not work (start/programs/infobase/fea 2.0.).
+  It looks for a file on my C: drive.
+ 
+ Vince
+ 
+ 
+ 
+ 
+ 
+ Zimin Lu
+ 03/06/2001 01:47 PM
+
+ 
+ 
+ 
+ 
+ Vince and Stinson,
+ 
+
+ You should see  an icon in start/programs/infobase/fea 2.0.
+ Launch that icon, fea will be loaded to your Excel.
+ 
+ Under FEA menu bar you can choose the Excel templates. 
+ We have license for the following products:
+
+
+ 3)SPAV
+ 
+ I also found the e-docementation attached below. Enjoy.
+ 
+ 
+ Zimin
+ 
+ 
+ 
+ 

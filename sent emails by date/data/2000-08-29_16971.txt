@@ -1,0 +1,83 @@
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+ 
+ Folks,
+ 
+ Late Friday afternoon Ziad called me.  The ISO Governing Board earlier
+ the same day turned down the ISO management's request to force SCs to
+ place 95% of their scheduled load in the DA market.  That leaves the ISO
+ little choice but to venture into the energy markets to procure power to
+ cover their peak hours on hot days.
+ 
+ Terry gave Ziad the OK to proceed with placing both the APX and
+ California PX screens for this new product/matching-service.  I am
+ working with the two vendors and the ISO to make this happen quickly.
+ We anticipate that the market will open on Tuesday, September 5, or
+ earlier.
+ 
+ Key people who you may need to contact:
+ ISO - Ziad Alaywan  916-351-2140 (Nancy Traweek and Jim McIntosh are
+ also in the loop)
+ PX - Ken Czarnecki 626-537-3123
+ PX - John Yurkanin 626-537-3124
+ APX - Denice Cazalet 408-517-2123
+ APX - Michael Heinrich 408-517-2159
+ 
+ Please feel free to contact me with your questions.  Several of you have
+ not had the opportunity to attend the pre-design meetings we had at the
+ California PX and APX a few weeks ago, nor were you aware of the joint
+ WPTF/ISO meeting held last week.  But in essence, what this
+ product/matching-service will allow you to do is post bids to sell, or
+ buy a 6-hour block of capacity at a firm energy price across the hours
+ of HE13 to HE18.  You can bid at COB, Mead, PV, SP15 or NP15.  You can
+ utilize either the CalPX or APX to post your bids, because the ISO will
+ be watching both screens.  The block sizes are (supposed to be) 25MW.
+ The seller is responsible for arranging transmission to the delivery
+ point, and the buyer (e.g., ISO) is responsible for arranging
+ transmission service from the delivery point.  The ISO will make its
+ purchase decisions for the day-of at or before 8:00 a.m.  The ISO will
+ send out a general notice when it needs offers to sell on the super-peak
+ market.  I expect that bids for either buy or sell will be able to be
+ posted at any time, 24 hours.  The screens should allow parties to post
+ buy or sell bids at least 60 days forward of the trade day.
+ 
+ You are not limited to a price cap in these markets, but the ISO as a
+ buyer has the right to not purchase at prices above it's price cap.
+ 
+ I think WPTF members should be very proud that we were able to quickly
+ work together, and with the ISO to create this market. I have no doubt
+ the ISO will be offering bids to purchase starting Sept 5, and going
+ forward 60 days.  However, who among you will be willing and able to
+ post bids to sell?
+ 
+ gba
+ 

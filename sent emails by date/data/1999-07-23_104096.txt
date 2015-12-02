@@ -1,0 +1,37 @@
+
+ 
+ FYI
+ 
+ 
+ 
+ 
+ Julian Poole
+ 23/07/99 00:16
+ 
+
+
+
+  
+ Sara,
+ 
+ I think we must mention the following as the source of the index price for 
+ energy: "Documento de Transacciones Economicas" (DTE). This is an electronic 
+ document published by Cammesa, and is available to all participants of the 
+ Wholesale Electric Market in Argentina. It's a summary of all the economic 
+ transactions between the participants of the Wholesale Electric Market 
+ (Generators, Transmission Co, Distributors, Marketers and End Users).
+ 
+ This DTE is published around the 5th or 6th day of each month and reports all 
+ transactions for the previous month. It is accessed by calling into Cammesa's 
+ server and replicating the corresponding database.
+ 
+ The attached word file shows you different screens of this electronic 
+ document. The second zipped file is the DTE for June.
+ 
+ (See attached file: IndexView.doc)(See attached file: dte9906.zip)
+ 
+ Have a look at it and give me a call if you have any questions.
+ 
+ Regards, Julian
+ 
+  - PublishedIndex.doc - IndexView.doc - dte9906.zip

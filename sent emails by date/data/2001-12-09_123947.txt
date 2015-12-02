@@ -1,0 +1,13 @@
+
+ 
+ I have consolidated the changes in the following file:
+ 
+  
+ 
+ Please change the trade date on all the newly created Bankruptcy Deals to the trade date of the original deal.  Also, please cross-reference in both transactions the associated deals numbers and document that the deal numbers are due to termination.
+ 
+ Also, check with Will Smith to make sure he has completed the Allegheny transfers (they were missed in the initial batch run) and then re-calc the 'Termination Test' portcalcs to ensure that the designated counterparties are not included in the old portfolios.  Also, check with Norman or Zhiyun to ensure that they have attached the port-calc code to the Bankruptcy portfolios and then we need to make test runs on them as well.
+ 
+ 
+ Thanks,
+ Stacey

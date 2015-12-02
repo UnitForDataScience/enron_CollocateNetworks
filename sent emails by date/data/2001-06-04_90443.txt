@@ -1,0 +1,12 @@
+
+ 
+ All fixed price locations (ERCOT, Ent, Cin, TVA, SOCO, Com-Ed, PJM, NEPOOL, etc.).   The biggest Cal positions are Cin, Ent, PJM, and NEPOOL.
+ 
+  
+    Cc:	Tamarchenko, Tanya; Andrews, Naveen; Davenport, Lacrecia; Khanna, Bharat; Lew, Jaesoo
+  
+ Please let me know the most common gas to power spreads in your books, as well as the most common power to power spreads.  We are digging deeper into correlations and this information will more surgically direct our efforts.
+ 
+ 
+ Thanks,
+ Frank

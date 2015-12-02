@@ -1,0 +1,40 @@
+
+ 
+ Two of these should have fees; two should not.
+ 
+ Add .0075 broker fee to:
+ 477212
+ 
+ Add .005 broker fee to:
+ 474434
+ 
+ No broker fee on:
+ 468440
+ 468444
+ 
+ This is per Matt Motley's trade book. I'll change the fees in the deals; and 
+ if you have questions about the deals with no fee, let me know and I'll call 
+ Matt to verify.
+ 
+ Thanks,
+ Kate
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 12/15/2000 12:55 PM
+
+  
+  
+ kate, can you pls check on these fees when you get a chance.
+ 
+ 477212 .0075
+ 468440 .0075
+ 468444 .0075
+ 474434 .005
+ 
+ thanks
+ 

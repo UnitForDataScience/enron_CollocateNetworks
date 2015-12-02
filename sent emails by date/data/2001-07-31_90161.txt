@@ -1,0 +1,15 @@
+
+ 
+ Yes we need PRB 8400 and PRB 8800 curves.   My agreement with EGM was coal curves in exchange for power curves.
+ 
+ Heather - If I don't get the PRB coal curves by the end of this week, I will have to remove access to our power curves.
+ 
+  
+     
+ Matt,
+ 
+ Do you have a Coal Curve for Today?  Also, do you know the Curve Code for the curve that you send me.  They need that in order to automate this process, so that you don't have to e-mail me any more.
+ 
+ Thanks
+ 
+ Jason

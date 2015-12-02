@@ -1,0 +1,37 @@
+
+ 
+ 
+ 
+ 
+
+ 01/19/2001 03:19 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+ Leon Lasdon from UT Austin has been involved in the development of non-linear 
+ optimization algorithms for many years.  He is the author of the non linear 
+ solver embedded in Excel.  Leon will be visiting on Friday 19th and will give 
+ a talk at 11:30 in 19c2.  See the attached abstract for in-depth details.
+ 
+ Tom Halliburton
+ 

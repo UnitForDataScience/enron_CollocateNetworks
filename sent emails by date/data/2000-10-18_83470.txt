@@ -1,0 +1,26 @@
+
+ 
+ transport model
+ 
+    
+ 	
+ 	
+ 	 	
+ 
+
+
+  
+ 
+ Scott,
+ 
+ Attached below is the transport model I have been using for new deals.  It is 
+ set up right now for the Cranberry deal, but Kyle can show you how to modify 
+ it for any new deal.  Obviously, I have not been relying heavily on the 
+ extrinsic values this model produces.
+ 
+ Kate
+ 
+ 
+ 
+ 
+ 

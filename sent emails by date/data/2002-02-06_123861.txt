@@ -1,0 +1,21 @@
+
+ 
+
+
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - White, Stacey W.\Sent Items
+ X-Origin: WHITE-S
+ X-FileName: stacy white 7-15-02.PST
+ 
+ 
+ In order to point to the UBS environment in EnPower you need to change your PortCalc Host to the following.  This screen is reached through Tools - Option Environment.  Also, copy the PortCalc Host into your FTP Host:
+ 
+  
+ 
+ Let me know if you have any questions.
+ 
+ Stacey
+ 
+ <Embedded Picture (Device Independent Bitmap)>

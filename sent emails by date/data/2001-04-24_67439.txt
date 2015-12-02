@@ -1,0 +1,35 @@
+
+ 
+ Please read below, it looks as though we have about 4 curves on this list.  
+ If you set this curve, please fill out the form attached below.  Shout with 
+ any questions - due date is Thursday a.m.
+ PL
+ 
+ 
+
+
+
+
+
+  
+ Jeff, attached is a file containing gas curves that have been identified as 
+ being not in the RisktRAC system.  Curves were found to be missing from  the 
+ Benchmark mapping table and/or the Primary/Secondary curve table.  Curves 
+
+ Please let us know by Thursday, April 26th, if these curves should be added 
+ to the RisktRAC system.   For those curves that need to be added to RisktRAC, 
+ a blank curve request form is also attached. Thank you.
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ SIncerely,
+ 
+ BM
+ 
+ 

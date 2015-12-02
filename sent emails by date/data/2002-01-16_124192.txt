@@ -1,0 +1,33 @@
+
+ 
+
+
+
+ 
+ Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+
+ X- X- X- X-b X-Folder: \ExMerge - White, Stacey W.\Sent Items
+ X-Origin: WHITE-S
+ X-FileName: stacy white 7-15-02.PST
+ 
+ Can you all verify that you do or do not use the applications listed below as soon as possible.  We are in the process of moving or discarding applications to move to the NETCO environment and are unaware of who uses the following applications.
+ 
+ Thanks,
+ Stacey
+ 
+  
+    Cc:	Lee, Norman; Balasundaram, Arun
+  
+ Brian,
+ 
+ Could you provide me the userids that have access to these apps.  We do not recognize them and need to find out if anybody is still running them.
+ 
+ Thanks, d.n.
+ 
+ Start\Programs\Business Applications\Power Curves		
+ Curve Comparison		
+ Curve Scalar		
+ Power-Curve East		
+ Power-Curve PJM		
+ Power-Curve West		

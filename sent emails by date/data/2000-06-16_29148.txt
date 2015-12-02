@@ -1,0 +1,55 @@
+
+ 
+ pls print with attachments.  thanks. df
+ 
+ 
+ 
+
+ 06/15/2000 06:53 PM
+
+
+
+
+ 
+  
+ Bill,
+ 
+ Yesterday, we decided to look at two options for Pueblo; a 60 MW case and a 
+ 140 MW case.  In order to match these outputs as closely as possible with 
+ available equipment, I made the following selections:
+ 
+ Case 1
+ Equipment     3 X GE LM 2500 Gas Turbine Generators with Heat Recovery and 1 
+ X 22 MW Steam Turbine Generator
+ Output at 95 deg F & 5000 ft   67 MW
+ Output at avg. conditions (60 deg F)  73.4 MW
+ Heat Rate at avg. conditions  8170 Btu/kWh (HHV)
+ 
+   
+ Case 2
+ Equipment     3 X GE LM 6000 Gas Turbine Generators with Heat Recovery and 1 
+ X 44 MW Steam Turbine Generator
+ Output at 95 deg F & 5000 ft   130 MW
+ Output at avg. conditions (60 deg F)  143.7 MW
+ Heat Rate at avg. conditions  7900 Btu/kWh (HHV)
+ 
+ There is a wide fluctuation in ambient temperature in Albuquerque and I sized 
+ the blocks based on 95 deg F but used the annual average output at 60 deg F 
+ for estimating power sales.  I have attached files that show the build-up of 
+ the estimated EPC price for the plants. 
+ 
+ The required power prices are projected in a simple-minded economics file 
+ attached.  The projections are based on:
+ 
+ 70% debt financing at 10% rate.
+ 10-year project and debt life.
+ 8500 hours per year at average output (97% capacity factor).
+ Gas at $4.40/MMBtu.
+ 
+ The results turn out pretty much as anticipated.  Even with the larger plant, 
+ we'd have to sell the power for over 6c/kWh.
+ 
+ 
+ 
+ 
+ 

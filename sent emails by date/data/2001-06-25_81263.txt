@@ -1,0 +1,26 @@
+
+ 
+ Could you please do me a favor.
+ 
+ Deloitte is auditing our NGX feed process and they need to be able to check the integrity of our data.  Grahan Larson at Deloitte wanted us to run the query that is outline in the word doc attached with a few alterations.  He was wondering if we could include the counter party ID, counterpart flag, and the counterpart name in the query we send to him?  Could you please coordinate getting him the information he needs.   His phone number is 630-7618.
+ 
+ Thanks,
+ 
+ Jon
+ 
+  
+    Cc:	Parsons, Andrew
+  
+ Jay,
+ 
+ Attached are the Enron Code of Ethics, which includes Enron's IT Security Policies for employees, and the Enron IT Control Standards, which are the standards against which IT controls are audited by Arthur Andersen, our internal auditors. As you are aware, every employee must sign an acknowledgement that they have read and agree to abide by the Code of Ethics once a year.
+ 
+ In addition to these documented policies, Enron also has a group, IT Compliance - the group I work in, that is responsible for managing Enron's IT risks and ensuring compliance with policies.
+ 
+ I hope this is what you were looking for. Please call if there is anything else we can help with.
+ 
+ Mark Thibodeaux
+ Director - IT Compliance
+ Enron Corp.
+ 
+   

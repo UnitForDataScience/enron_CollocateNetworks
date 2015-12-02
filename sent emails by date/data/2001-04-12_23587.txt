@@ -1,0 +1,22 @@
+
+ 
+ FYI
+ 
+  
+
+ 
+  
+ The Payment status has changed on the following report:
+ 
+ Status last changed by: Kerry Harrington
+ Expense Report Name: London
+ Report Total: $9,779.95
+ Amount Due Employee: $9,779.95
+ Amount Approved: $9,779.92
+ Amount Paid: $0.00
+ Approval Status: Pre-Approved
+ Payment Status: Authorized
+ 
+ 
+ To review this expense report, click on the following link for Concur Expense.
+ http://xms.enron.com

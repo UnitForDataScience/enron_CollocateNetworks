@@ -1,0 +1,20 @@
+
+ 
+ Yes, I had already approved them for trading without any restrictions.  When 
+ I got the signed master in, it just meant that the confirmations now took a 
+ different path.
+ 
+ Something that yall will find helpful... I've been working with the Lotus 
+ Notes people in upgrading our current Master Swap Agreement database, and 
+ once its finalized we will be opening view access to anyone who wants it.  I 
+ am adding drop downs for "approved for online trading", so you will be able 
+ to confirm our approval, als, contract information which is currently 
+ provided on a monthly basis will now be available at all times.  I think 
+ other groups that rely on our contract information, Credit, Settlements, 
+ Global Contracts, EOL, dealmakers, or anyone else (at ECT or ECT Canada for 
+ confidentiality purposes) will now be able to be seeing what we're seeing in 
+ terms of the financial contacts.
+ 
+ I was told my prototype would be done by the end of the week, and then we'll 
+ have to test it, but hopefully this information will be available soon.  I 
+ hope this is helpful!

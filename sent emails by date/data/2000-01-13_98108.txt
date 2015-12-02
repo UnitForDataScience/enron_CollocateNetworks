@@ -1,0 +1,5 @@
+
+ 
+ Your observations on how to fix the problem are right on the money. The other 
+ thing we should have done is confirm that the broker confirm links the two 
+ transactions as well.

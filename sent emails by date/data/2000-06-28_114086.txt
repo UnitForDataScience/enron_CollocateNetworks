@@ -1,0 +1,20 @@
+
+ 
+ Melba,
+ 
+ The description you sent to me yesterday seems a little confusing...How about 
+ the following:
+ 
+  Floating price A: Gas Daily midpoint for Henry Hub
+  
+  Floating price B: Gas Daily midpoint for
+ 
+  Buyer pays Floating price A plus applicable basis, seller pays Floating 
+ price B
+ 
+ 
+ We should substitute your long description for "Gas Daily midpoint" above.  
+ Run this by everyone ASAP so we can activate these products.
+ 
+ Fletch Sturm
+ x3-6219

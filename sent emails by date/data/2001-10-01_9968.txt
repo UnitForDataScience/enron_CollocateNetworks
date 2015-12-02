@@ -1,0 +1,21 @@
+
+ 
+ 	FYI.  Thought you would like to see this. Thanks. Lynn
+ 
+  
+    Cc:	Bisbee, Joanne; Holmes, Bradley; Sawyer, Lisa; McGregor, Donna; Dietz, Rick; Blair, Lynn; Berger, Larry
+  
+ UAT was completed today, 09/28/01.   
+ 
+ All accounting reports are now ready for migration to the Business Objects Production environment effective 10/01/01.
+ Note: 	Per discussions.....Please implement fix to resolve issue with the GISB Code hyperlink before 10/01/01 production date.
+ 
+ Beta testing also concluded on 09/28/01.   Feedback from all participating beta testers was received.  Also, there were four beta testers (shippers) who were willing to participate in the NNG Beta test.  (Utilicorp, U.S. Energy, Nebraska Public Gas, and Virginia Power)
+   
+ In summary, the overall comments were positive and the general reaction of beta testers is that they were "rather impressed with the progress that had been accomplished by NNG."  Detailed customer comments by report type including any "suggestions" will be forthcoming.
+ 
+ Thanks.
+ 
+ Legale and Larry.
+ 
+   

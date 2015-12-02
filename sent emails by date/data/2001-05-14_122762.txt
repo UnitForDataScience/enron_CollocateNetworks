@@ -1,0 +1,23 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X-
+ X- X-b X-Folder: \ExMerge - Weldon, V. Charles\'Sent Mail
+ X-Origin: WELDON-V
+ X-FileName: v charles weldon 7-2-02.PST
+ 
+ 
+ 
+     
+ Could you please run regression analysis on some data in this worksheet.  The two data arrays are on the "Daily" tab in column C and on the "Temperature" tab in column F.
+ 
+ Thank you,
+ 
+ Jay Reitmeyer
+ 33536
+ 
+  << File: daily usage values2.xls >> 
+ 
+ 

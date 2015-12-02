@@ -1,0 +1,5 @@
+
+ 
+ I said that Contract Administration couldn't determine by looking at the 
+ database whether there was one and you said you would look at the database, 
+ that you might be able to tell.

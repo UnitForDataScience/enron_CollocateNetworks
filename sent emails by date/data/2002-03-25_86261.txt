@@ -1,0 +1,18 @@
+
+ 
+ Louis has brought up a good point. Are we able to see positions non-PV? also can we get a seperate nymex equivalent basis position
+ 
+  
+    Cc:	Ratliff, David; Draper, David
+  
+ Attached is the information that we discussed last evening.
+ 
+ Please note the following -there are separate tabs for price, basis and index.
+ 	The tabs that indicate "OXY II Only" are exactly that -the deals associated with the potential second bid from OXY for additional activity.
+ 	The tabs that DO NOT indicate OXY II consolidate both the base keeper list + the OXY II activity.
+ 
+ If there is any doubt as to what you are looking at, check the first four lines or the worksheet.  There will be a designation of what is and is not included.
+ 
+ SRM
+ 
+  

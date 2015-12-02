@@ -1,0 +1,15 @@
+
+ 
+ error '80004005' 
+ Unspecified error 
+ /infopostings/tw/asp/et_unsub_capacity_form.asp, line 2 
+ 
+ 
+  
+    Cc:	Stacy, Don
+  
+ Please go to http://twdev.ets.enron.com our testing site to view the modified TW Unsubscribed Capacity web page and see if this is what you guys want. I removed the borders because the table header and  records page are in the different frames, it is very hard to adjust them exactly straight into the same columns.
+ 
+ Thanks!
+ 
+ Jeff

@@ -1,0 +1,25 @@
+
+ 
+ Yes
+ 
+ DG
+ 
+ 
+ 
+ 
+
+ 02/16/2001 01:53 PM
+
+   
+ I am working on OA for phase II Dec prod.  It looks like there are 
+ liquidations on the buy side that equal the variance on the sales side for 
+ the above ref counterparty.  Look at NW9561.2 and NX4842.2.  Is it okay to 
+ assume that these liquidations belong on the  purchase side.  This is for the 
+ west region.
+ 
+ 
+ Call if you have questions.
+ 
+ Thanks!
+ 
+ 

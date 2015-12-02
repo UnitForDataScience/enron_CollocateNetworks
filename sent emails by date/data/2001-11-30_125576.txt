@@ -1,0 +1,5 @@
+
+ 
+ 	
+ 
+ Enron does not place NYMEX position limits on its desks instead using overall VAR limits. If a desk is authorized to trade a particular instrument, such as a NYMEX contract or swap, the size of that position is governed by the VAR it generates.

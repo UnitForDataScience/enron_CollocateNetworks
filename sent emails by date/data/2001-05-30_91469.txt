@@ -1,0 +1,26 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X-
+ X- X-b X-Folder: \ExMerge - Richey, Cooper\'Sent Mail
+ X-Origin: RICHEY-C
+ X-FileName: cooper richey 6-26-02.PST
+ 
+ sp_WX_GetForecast
+ 
+ 
+ 
+ 
+ Colin Poon Tip
+ 05/30/2001 06:26 PM
+
+   
+ Hey Cooper,
+ Do you have any sprocs for the Weather data you were requesting for ChartFX??
+ 
+ Let me know, so I can do that for you.
+ ciao
+ 
+ 

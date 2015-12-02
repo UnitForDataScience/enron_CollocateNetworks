@@ -1,0 +1,12 @@
+
+ 
+ Firstly,  I never pick up voicemail so I just got your message from the week-end.  Sorry.
+ 
+ Anyway EnronOnline:  There are two versions today - we keep one in NewCo and the Estate keeps one.  Two teams can be allocated for each.
+ It works - we have enough people to do it.
+ 
+ In terms of the Estate:
+ The Estate will keep a copy of the source code and the Estate will also maintain a staff on both the development side and the support side in order to ensure the service can be maintained.  The source code and build process are sufficient to allow for running almost immediately.  We actually have two EnronOnline environments today - the 'staging environment' and the real 'production environment'.  Essentially we would leave the staging environment for Enron - it is simply a question of staffing which I believe is totally possible now we have allocated the staff to NewCo and the Enron estate.
+ 
+ In terms of NewCo:
+ EnronOnline will be maintained for NewCo using the production environment.  With its own staff.

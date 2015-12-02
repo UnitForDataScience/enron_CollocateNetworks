@@ -1,0 +1,15 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Keiser, Kam\Sent Items
+ X-Origin: KEISER-K
+ X-FileName: kam keiser 7-11-02.PST
+ 
+ Question:
+ 
+ Once the new database for ERMS is split for Netco. we will have to make some changes to the gas daily curve mapping tables.  Is there another way to create these mappings other than adding them one at a time.  We are getting rid of a large percentage of curves and will be making many changes to the current mappings.  Doing it one by one will be very time consuming and I want to see if you are able to load them another way.
+ 
+ Kam
+  

@@ -1,0 +1,37 @@
+
+ 
+ 
+    
+ 	
+ 	
+
+ 	
+ 
+
+   
+ Phillip,
+ 
+ This is just a guess for what Hunter is looking for.  I would start with the 
+ following pages in the
+ p/l found in this directory...
+ 
+ O: Erms/1Intra/Central/Midwest P&L/2001/0101/EMW0117.xls
+ 
+ Exec Summary
+ DPR
+ P&L Without Sharing
+ P&L Summary
+ 
+ In addition,  I think he wants more detail on the positions.
+ 
+ In my hedge strip file (same directory as everyone else - name is HS_IM-EMW) 
+ I would think he would
+ like to see the Financial Book Position, NSS1, FT-Enovate, and TP tabs.  
+ These are the only tabs with 
+ positions.  (Will be changing shortly).
+ 
+ Thanks for the help,
+ 
+ Kevin 
+ 
+ 312-541-1198

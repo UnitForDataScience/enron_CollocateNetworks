@@ -1,0 +1,63 @@
+
+ 
+ I know that there are a number of things that do not work as we had 
+ anticipated in SAP.  I also know that there are several things where we have 
+ to change our processes to accomodate differences or gaps in SAP.  We also 
+ have significant issues with the timing of certain runs within SAP and a 
+ mismatch of that timing with our business processes.  There was a concerted 
+ effort kicked off by the SAP team last week to try and identify and resolve 
+ issues.  They met with my direct reports.  However, we have to reconvene as 
+ we ran out of time to cover all issues!  I have asked Leslie Reeves and Bryce 
+ to get back to me on even more detail on this example so that we can fully 
+ understand how much of this issue was attributable to human versus system.  I 
+ will get back with you as I know more details and as I can share with you our 
+ list of first "hits" for SAP fixes or enhancements.  Thanks for sharing this 
+ with me.  
+    
+ 	
+ 	
+ 	 	
+ 
+
+   
+ Russell - as I remember, Willie finaled the Supply Verification and it was 
+ interfaced to SAP.  This is fine, and then Willie was going to net the A/P 
+ and A/R.  SAP went down after the statement was interfaced, but before Willie 
+ was able to block or net the payment.  When SAP came back up the next day, 
+ the payment had already gone out and we were unable to recall the wire.  If 
+ you have any further questions about this, call me.  Thanks.
+ 
+ 
+    
+ 
+ 
+       09/22/2000 01:46 PM	
+ 	
+ 	
+ 	                           
+ 	
+ 
+
+
+  
+ Willie,
+ 
+ Per our earlier conversation, can you or Audrey or Bryce, please give further 
+ explain to me as to why the funds were wired to Perry Gas for purchases from 
+ the counterparty instead on netting the amounts between purchases and sales.  
+ You mentioned to me the process of overriding the counterparty's that net on 
+ SAP, although because of timing, the override did not take place.
+ 
+ Thank you,
+ 
+ Russell
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

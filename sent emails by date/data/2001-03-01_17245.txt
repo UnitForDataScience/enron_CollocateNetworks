@@ -1,0 +1,140 @@
+
+ 
+ Thanks, Steve. That helps clear things up enormously (at least in my little 
+ mind).
+ 
+ Best,
+ Jeff
+ 
+ 
+ 
+
+ 	02/28/2001 09:27 PM
+ 		
+
+
+
+
+ 		  
+ Jeff,
+  In order for California to "shut its doors" it must open its 
+ interconnections with the rest of the west and become a Texas-like electrical 
+ island.  This they cannot do.  California has a substantial investment in 
+ units located in Nevada, Arizona, New Mexico and Utah.  The lights would go 
+ out in California if they opened the ties.  In the 1970's there was a hue and 
+ cry over loop flow, with California claiming that it was being injured by 
+ others, particularly by the interior systems trading practices, however they 
+ never considered opening the ties, because the benefits of interconnection 
+ were so large that the "cost" of loop flow was far exceeded by the value of 
+ regional trade, i.e., they are economically interdependent.
+ 
+  If such a foolish thing were done and California full "closed its doors" by 
+ opening its ties, cost would go up in the Northwest, in California and all 
+ the rest of the Western System.  There are "gains for trade" which accrue to 
+ all parties from interconnection.  The trade is more complicated than just 
+ summer/winter peaks (seasonal load diversity) there is also seasonal resource 
+ diversity (Spring run off effects) and finally there opportunity to 
+ capitalize on storage vs base load thermal operations.  I will address the 
+ last point first to illustrate the complexity of the trading patterns.
+ 
+  The interior west (Montana, Wyoming, Utah, Arizona and New Mexico) has large 
+ amount of base load coal plants.  As load drops off in those areas, the 
+ energy flows to the coast to back off peaking plants and to back off hydro.  
+ The reduction of hydro production allows night time reservoir refill which 
+ can be used to meet peak load in the Northwest and California.  This can be 
+ seen in the attached file, which contains a set of plots for hourly flow on 
+ the Pacific DC Intertie Jun97, Dec 97, Jun 98, Dec 98, Jun 99, Dec 99, 
+ Jun00.  In these plots the clear day/night exchange of energy can be seen, 
+ especially in the Jun00 plot when sales are being made to California in the 
+ day and to the Northwest at night.  This day to night storage exchange 
+ benefits lowers costs for everyone.
+ 
+  On top of this daily/weekly cycle, there is the seasonal shift in load 
+ diversity you noted.  For the Northwest, its peak load occurs when energy 
+ production is the lowest how can California closing it doors not increase the PNW's cost of 
+ power?
+ 
+ Best,
+ Jeff
+ 
+ 
+ 
+ 	James D Steffes
+ 	02/28/2001 08:05 AM
+ 		
+
+
+
+ 		  
+ It seems to me that this information leads one to conclude that the value of 
+ an open transmission network is that California does not have to build 5,000 
+ MW of power plant (4,500 MW max input + 10%) in state.  In other words, if 
+ California were to disconnect from the grid, someone would have to build 
+ additional power plants in-state.
+ 
+ The cost to California consumers is therefore the annual carrying cost of 10 
+ 500 MW plants (made even more expensive after California expropriates the 
+ current fleet of merchant generation).
+ 
+ From the perspective of the remainder of the West, the question still remains 
+ - if California does go it alone, what is the economic impact?  Other than 
+ legal arguments about Interstate Commerce, why should the Federal Government 
+ want to continue to pursue open acess?  This is the hard question that we 
+ need to answer.  
+ 
+ Jim
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 	02/27/2001 09:40 PM
+ 		 
+
+
+
+ 		  
+ Jim, Jeff:
+ 
+ Jim asked me in a voice mail what would be the cost to California of moving 
+ from the current (evolving) system of open access to a "protectionist" 
+ environment where access to the grid would be determined by a political body 
+ responding to populist pressures.
+ 
+ Here are some things to consider.  We can talk more and I welcome Sue Mara or 
+ Steve Walton's input:
+ 
+ California is a net importer so any restraint of trade would risk the state 
+ being able to meet its own demand.  See attached slides that show PNW-CA 
+ trade.  Even in the winter, power on a net basis flows south.
+ 
+ Limiting open access would primarily act to hold in-state generators hostage.
+  this will kill incentives for new investment
+ 
+ If the ISO's proposal for market power mitigation are any guide of where a 
+ protectionist ISO would go:
+  in-state generators would be required to sell forward or lose their market 
+ based rate certificates
+  load serving entities would be required to contract forward for load and a 
+ reserve margin.  
+   This is costly: it will lead to centralized planning solutions to 
+ reliability rather than more efficient market     outcomes
+  Artifical notions of "just and reasonable" rates (on top of unreasonable 
+ reserve requirements) would lead to severe   reliability problems.  (In other 
+ words, if Steve Peace has his way, the imports into the state will drop 
+ off     signficanly)
+ 
+ There is no reason the state would be more effective at expanding the grid 
+ (e.g., Path 15) than the current system.  (Although, admittedly the current 
+ system has flaws.  The CAISO was set up with little thought to transmission 
+ expansion planning.  Other RTOs are not repeating this mistake.).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,48 @@
+
+ 
+ BLOOMBERG
+ 585337 - changed to APS
+ I can't remember - did we decide to use APS as CTPY name with Bloomberg only 
+ until they change it to Pinnacle in their system? This won't mess up confirms 
+ later?
+ 
+ AMEREX
+ 585230 - del. point is palo, says Driscoll - he's calling his broker to clear 
+ this up
+ 
+ Thanks,
+ Kate
+ 
+ 
+ 
+ 
+
+ 04/18/2001 02:35 PM
+
+  
+  
+ 
+ 
+ PREBON WEST
+ All o.k.
+ 
+ 
+ BLOOMBERG
+ 
+ Mike Swerzbin
+ deal 585337
+ Bloomberg shows cp as Arizona Public 
+ 
+ 
+ 
+ AMEREX
+ 
+ Mike Driscoll
+ 
+ deal 585230
+ I confirmed Palo Verde as the del. point and Amerex Webcheckout has SP-15...
+ Can you double check location with MIke on this deal.
+ 
+ 
+ 
+ 

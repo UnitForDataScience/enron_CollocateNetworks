@@ -1,0 +1,38 @@
+
+ 
+ There is a problem with this process.  When Sally goes to website & enters 
+ her ID & password, steve.beck comes up - not sally.beck.  Until this is 
+ fixed, she will be unable to process these requests.  Please either fix this 
+ or find another way for her to approve.
+ 
+ Thanks,
+ Patti x39106
+ (Sally Beck's Assistant)
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ This request has been pending your approval for 4 days. Please click 
+ http://itcApps.corp.enron.com/srrs/Approve/Detail.asp?ID=000000000001126&Email
+
+ if you have any issues.
+ 
+ 
+ 
+ 
+ Request ID          : 000000000001126
+ Request Create Date : 8/3/00 9:14:22 AM
+
+ Resource Name       : EOL US Backoffice  Stack Manager
+ Resource Type       : Applications
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,20 @@
+
+ 
+ 
+ 
+ 
+
+ 09/21/2000 09:13 AM
+
+   
+ Vince,
+              Herewith is a write-up I gave at the Research Meeting yesterday 
+ on the worst-case-loss efforts I have been working on for the Equities 
+ portfolio.  It is based on Wilmott's CrashMetrics and delta-gamma portfolio 
+ optimization.  The goal is to ascertain how much possible loss a portfolio 
+ can have, based on historical data.  Comments are welcome.
+ 
+ Regards
+ Naveen
+ 
+ 

@@ -1,0 +1,23 @@
+
+ 
+ 
+ 
+ 
+
+
+  
+  
+ The following expense report is ready for approval:
+ 
+ Employee Name: Mark A. Palmer
+ Status last changed by:  Automated Administrator
+ Expense Report Name: April-01 AMEX
+ Report Total: $8,337.18
+ Amount Due Employee: $8,337.15
+ 
+ 
+ To approve this expense report, click on the following link for Concur 
+ Expense.
+ http://xms.enron.com
+ 
+ 

@@ -1,0 +1,27 @@
+
+ 
+ Tana:  I think the agreement is listed in Section 1 (all agreements) which is 
+ not just Master Swap Agreements.  It is also listed in the approprate Section 
+ 13 entry.
+ Hope you're enjoying Canada!
+ 
+ Sara Shackleton
+ Enron North America Corp.
+ 1400 Smith Street, EB 3801a
+ Houston, Texas  77002
+ 713-853-5620 (phone)
+ 713-646-3490 (fax)
+
+ 
+ 
+ 
+ 	Tana Jones
+ 	03/14/2001 04:26 PM
+ 		 
+
+ 		  		  
+ The above counterparty has been created in the Financial Trading Agreements 
+ Database and is listed as a master swap agreement, and it's not.  It is an 
+ Electronic Trading Agreement and needs to be moved down to "Other 
+ Agreements".  Please let me know when that is done and I will delete the 
+ entry in  the master swap agreement database.  Thanks!

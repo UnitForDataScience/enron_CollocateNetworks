@@ -1,0 +1,25 @@
+
+ 
+ Kevin,
+ 
+ Please change the Descriptor from
+ 
+ US Gas Fin Spd   Nymex NL1 vs PEN      Sep01  USD/MM-L
+ 
+ to
+ 
+ US Gas Fin Spd   Nymex LD vs PEN      Sep01  USD/MM-L
+ 
+ all else looks fine.
+ 
+ Dutch
+ 
+ 
+  
+     
+ Please review the proposed description of the Nymex NL1 vs PEN spread in the attached document.  I will schedule a meeting with Mark Taylor (Legal) to discuss this new index as soon as I hear back from you.
+ 
+ Kevin
+ (713) 853-9555
+ 
+  << File: Gas spd NL1 vs PEN.doc >> 

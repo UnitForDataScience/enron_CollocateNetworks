@@ -1,0 +1,40 @@
+
+ 
+
+
+
+
+
+ 
+
+ Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+
+
+ X-
+ X- X-b X-Folder: \ExMerge - Williams III, Bill\Sent Items
+ X-Origin: WILLIAMS-W3
+ X-FileName: 
+ 
+ Group,
+ 
+ We are long on Sunday.  15 mws for HE 12-20 at NP15 in PGE3 at $25.  I made the deals as DA schedules in CAPS.  I have made the purchase from the APX and the sale to imbalance (#685979, #685978).
+ 
+ We are long on Monday.  Shaped schedule.  Price of $35.
+ 
+ 	HE 10:	35
+ 	HE 11:	30
+ 	HE 12:	25
+ 	HE 13-17: 15
+ 	HE 18: 10
+ 	HE 19-21: 15
+ 
+ I have made the purchase from APX and the sale to the imbalance in Enpower (#685980,685981).
+ Schedules are in CAPS under ST-WBOM.  Templates have been submitted Day ahead.
+ 
+ Please make real-time purchases from the Calimbalance and corresponding sales under ST-WBOM in Enpower during real time.
+ 
+ Please call me with questions. 503-887-3449
+ 
+ Thanks,
+ Bill

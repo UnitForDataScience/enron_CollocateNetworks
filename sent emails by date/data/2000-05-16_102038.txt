@@ -1,0 +1,24 @@
+
+ 
+ 
+ 
+ Name           : Susan Scott
+
+ Title          : Analyst
+ Phone          : 3-1455
+ Location       : EB3276c
+ Last 4 of SSN  : 1734
+ Nationality    : UNKNOWN
+ Business Unit  : Risk Management, Gas Trading, Financial Books
+ Company        : ENA
+ CO or GL       : 413
+ RC or CC       : 1839
+ Rotation Start : 3/28/00
+ Rotation End   : ? - 3/28/01
+ Supervisor     : Dutch Quigley
+ Languages      : 
+ 
+ 
+ 
+ 
+ 

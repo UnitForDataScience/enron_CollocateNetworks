@@ -1,0 +1,17 @@
+
+ 
+ 475170 has been changed to .0075 broker fee.
+ 
+ 
+ 
+ 
+
+ 02/09/2001 12:30 PM
+
+  
+  
+ 
+ broker has .0075, we have 0
+ 
+ thanks!
+ 

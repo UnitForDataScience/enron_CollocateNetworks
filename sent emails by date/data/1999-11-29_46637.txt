@@ -1,0 +1,10 @@
+
+ 
+ Peter,
+ 
+ I looked at the Banque Paribas Agreement.  It is an ISDA Master Agreement 
+ (Multicurrency-Cross Border) dated as of June 28, 1995.  The Agreement was 
+ executed between ECT and Banque Paribas.  Banque Paribas changed its name to 
+ "Paribas" on May 11, 1998, so I think you need to change the agreement  and 
+ signature line to read "Paribas, formerly known as Banque Paribas". or 
+ something to that effect.  The agreement is governed by New York law.

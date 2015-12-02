@@ -1,0 +1,29 @@
+
+ 
+ I would like for Colin and David to create security that gives access to the 
+ site for certain users only.  There are too many people logging in that we do 
+ not know.  We need to begin creating this list.  
+ 
+ All Central, Texas, East, West, NYMEX desk and Chicago office traders 
+ (Richard Tomaski will provide the Chicago office names)
+ Power traders
+ Fundamentals Gas, Power, EIM
+ Fred's group
+ Lavo, Whalley, Kitchen, Frevert,
+ 
+ If you can think of any more let me know.  Can we implement the security this 
+ week?
+ 
+ 
+ 
+  
+  
+ Is it possible to deny certain users access to a site even if Everyone is the 
+ blanket access for that site?
+ 
+ Thanks,
+ 
+ David Dronet
+ 
+ 
+ 

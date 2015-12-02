@@ -1,0 +1,26 @@
+
+ 
+
+
+
+
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X-
+ X- X-b X-Folder: \ExMerge - Williams III, Bill\Sent Items
+ X-Origin: WILLIAMS-W3
+ X-FileName: 
+ 
+ Group,
+ A quick note regarding Pace transmission reservations on their oasis sites.  We have recently paid PACE $57,000 for transmission in May that we reserved but did not flow.  PACE says that their transmission is on a take or pay basis.  My contention is that we may have reserved the transmission, but then attempted to remove it immediately (wrong hour, wrong mw value on the submission etc.) and were unable to, or were told by the dispatcher that the dispatcher would take care of it.   Then nothing happens.  There are two things we need to do to prevent this.
+ 
+ 	One: Submit our transactions correctly the first time.  Then withdraw them immediately through the Pacificorp Oasis system if there is a problem.
+ 
+ 	Two: Send me an email each time the dispatchers remove requests on our behalf, or if We/PAC are/is unable to take the request out of their computer system.
+ 
+ Hopefully, this will prevent the extra charges, or give us a means to pull tapes and contest the charges.
+ 
+ Thanks for your help in limiting these egregious expenses
+ 
+ Bill

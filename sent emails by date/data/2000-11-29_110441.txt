@@ -1,0 +1,20 @@
+
+ 
+ Pablo, 
+ 
+ Have we made any progress on finding out why the Northwest website is not 
+ accessible before 7 am?  For your reference the error message is below.  
+ 
+ The address is http://www.1line.williams.com/webbi/ebb/main.
+ 
+  
+ 
+ Error 500 HTTP/1.1:
+ 10.5.1 500 Internal Server Error
+ The server encountered an unexpected condition which prevented it from 
+ fulfilling the request.
+ 
+ 
+ Thanks.
+ 
+ Mat 

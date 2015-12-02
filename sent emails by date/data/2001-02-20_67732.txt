@@ -1,0 +1,8 @@
+
+ 
+ Looks good to me. - I noticed a note on an ECC purchase - Q29840 - sitara 
+ killed, the wrong sitara number is on that tagg - the correct number is 
+ 430538.  I made the change in tagg.  The transcanada liquidation that are not 
+ highlighted are the exchange deals that are not showing up in the GL.  This 
+ is the huge problem that seems to not ever get resolved.
+ PL

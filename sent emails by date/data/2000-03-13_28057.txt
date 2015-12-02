@@ -1,0 +1,46 @@
+
+ 
+ I found the reference I was remembering over the weekend.  Check out the 
+ order issued to TriState Pipeline at Docket CP99-61.  FERC got all over CMS 
+ on the problems posed by "dual jurisdictional facilities" whatever that 
+ means.  CMS tried to do something that sounds a lot like what PNM would be 
+ doing under the idea you guys had.
+ 
+  in other words, the total path used by 
+ shippers would be a combination of PNM's system and TW's system.  Shippers 
+ wouldn't necessarily know whether PNM capacity was being used to provide 
+ service on their contract, only that their gas is being shipped from A to B.  
+ 
+ In re-reading the Texas Eastern line of cases, I believe we can distinguish 
+ TW's proposal from that in Northern's Docket No. 97-388 because it is more 
+ specific (we are asking for authority to acquire capacity on a specific 
+ pipeline) and because it is more in the nature of an expansion of TW's 
+ constrained San Juan lateral rather than a proposal to broker other 
+ pipelines' capacity.  I may be overly optimistic, but I also believe we meet 
+ all the Texas Eastern criteria.
+ 
+ I realize that I have not discussed this very extensively (or at all) with 
+ any of you, but I have gone ahead and drafted the proposal in the form of a 
+ letter to FERC.  It seemed the most efficient way to provide a starting point 
+ for discussion, especially since I was able to borrow heavily from our 
+ successful Market Center Services filing.  I'm not yet sure where we will 
+ include it in the tariff, but I propose tariff language along the lines of   
+ "Transporter may contract for firm transportation service on Public Service 
+ Company of New Mexico for use in providing transportation service from the 
+ Blanco receipt point on Transporter's system.  The cost incurred for 
+ acquisition of any such services shall be separately recorded in Account No. 
+ ___.  Transporter is at risk for recovery of costs associated with such 
+ services."
+ 
+ After you've reviewed the attached, please let me know your overall 
+ substantive comments and let's talk about the best way to proceed.  Thanks.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

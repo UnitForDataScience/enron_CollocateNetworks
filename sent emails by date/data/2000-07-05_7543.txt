@@ -1,0 +1,39 @@
+
+ 
+ What do these changes do to you?  
+ 
+ 
+ Regan M Smith
+ 07/05/2000 08:53 AM
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ 
+ On Friday June 30th, Unify's production performance was impacted by a large 
+ volume (30k) of replication/ configuration transactions from SAP.
+ The mass update from SAP to Global/ Unify effected Enron's business 
+ throughout the afternoon, causing contract replication to be delayed, and 
+ missed nominations.
+ 
+ Corrective actions taken to ensure this does not occur again:
+ Global Replication - Move the SAP to Global/ Unify replication for 
+ Intercompany from hourly to a nightly (1:00 am) process.  As we could miss 
+ new data setup dependencies, the volume is expected to be reduced.
+ SAP Support - SAP IT support will notify Global systems of any scheduled 
+ 'rebuilds'/ mass updates to monitor/ move the schedule during an off-peak 
+ time.
+ 
+ 
+ Regan Smith, x39291
+ Manager, Unify Accounting
+ Unify/ SAP Interface

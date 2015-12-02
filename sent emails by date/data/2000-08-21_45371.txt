@@ -1,0 +1,24 @@
+
+ 
+ Do you know what to do here?
+ 
+ 
+ 	Larry Joe Hunter
+ 	08/21/2000 03:54 PM
+ 		 
+
+
+ 		  
+ Susan/Tana,
+ 
+ We have recently traded a deal on Enron Online in which the entity offering 
+ the trade was ENA and the entity entering the trade was EPMI Long Term Hedge 
+ (Power group hedging with ENA).  This is currently booked as RMT vs. EPMI 
+ Long Term Hedge.  Can we send out a confirmation based on ISDA terms since 
+ this is an Enron subsidiary per Global Counterparty?  I'm assuming this is 
+ just like doing a deal with Enron Global Exploration and Production, EES or 
+ ECT International, but let me know if I'm incorrect.
+ 
+ Thanks,
+ Joe
+ 

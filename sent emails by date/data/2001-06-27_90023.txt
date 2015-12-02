@@ -1,0 +1,9 @@
+
+ 
+ Wow - imcompetence at its best.
+ 
+  
+     
+ I have been trying to run some P&L with regards to hub changes and changes in ancillary assumptions.  I came across the fact that our Gulf Power deal with Enron Compression Services goes through 2022 but the off peak curves only go out until 2019.  Therefore the P&L has not been taking into account curve shift with the unerlying for these years.  We basically have a position marked against a zero price.  I am working with Ress and Jeff Jackson to resolve this issue.  Just wanted to keep you aware of the situation.  Since this is an off peak price out beyond the normal curves, I was going to have the curve generator pull the 2019 price and increase it based on the percentage increase in on peak prices for the respective years 2020-2022.  I will also calculate the P&L associated with this change to see when we want to recognize it.  Let me know what you have any comments and or suggestions.  Thanks.  
+ 
+ -Joe

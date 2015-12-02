@@ -1,0 +1,8 @@
+
+ 
+ I'm using March pricing for TCO and Sonat.  For TCO, I'm using the financial basis offer for March provided by Dan Junek at AES at 9:45 AM, $.125.  Sonat basis is not as liquid so I'm using the Inside Ferc differential for Feb 2002.  For Feb 2002, Henry Hub is $2.03 and Sonat is $1.99, ($.04).  At 10:00 AM, NYMX for March 2002 is $2.36
+ 
+ TCO Value	$2.485 = $2.36 + $.125
+ 
+ Sonat Value	$2.32 = $2.36 + ($.04)
+ 

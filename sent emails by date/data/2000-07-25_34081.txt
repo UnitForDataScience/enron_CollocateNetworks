@@ -1,0 +1,9 @@
+
+ 
+ You may already know this - the CNG commodity rates on FT and FTNN changed 
+ effective 7/1/2000.
+ 
+ 
+  New  Old Rates
+ Comm .0434  .0395
+ ACA .0022  .0022

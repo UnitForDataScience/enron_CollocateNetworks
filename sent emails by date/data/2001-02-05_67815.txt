@@ -1,0 +1,36 @@
+
+ 
+ FYI, you may see some January/February OA variances on Sithe due to these 
+ tagg numbers.  The sitara deal number involved is 543246.  Shout with any 
+ questions.
+ PL
+ 
+ 
+ 
+ There was a typo for the gas volume that was used in Stacey's worksheet
+ to calculate the gas price.  The original spreadsheet had 11,240 Dth/day
+ and a gas price of $11.126/ Dth.  When you use the correct volume of
+ 22,263 Dth/day, the gas price drops to $5.6172 for Day 1 in the attached
+ file.  This corrects the double-counting I told you about this morning. 
+ 
+ The spreadheets you sent to me calculate the power keep whole expense
+ on the "Gas Price" sheet.  On the sheet, it is the sum of $3,880,560 ( i.e. 
+ the correct
+ number if Day 31 is actualized rather than estimated by the power curves).
+ 
+ Unfortunately, Stacey's calculation does not include the transport commodity
+ savings, the tax expense and the amount of sharing due Sithe.  Those numbers
+ were provided in my memo on Friday.  If we do one of these deals again, we 
+ can provide Stacey with the additional expenses and revenues so that it can
+ be perfect calculation.  
+ 
+ Call me if there are any questions,
+ 
+ Ruth
+ 
+ 
+ 
+ 
+ 
+ 
+ 

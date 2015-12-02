@@ -1,0 +1,46 @@
+
+ 
+ 
+ 
+ 
+ Full Name:       =20
+ 
+ Login ID: =20
+ 
+ Extension: =20
+ 
+ Office Location: =20
+ 
+ What type of computer do you have?  (Desktop,  Laptop,  Both) =20
+ 
+ Do you have a PDA?  If yes, what type do you have:   (None, IPAQ, Palm Pilo=
+ t, Jornada) =20
+ 
+ Do you have permission to access anyone's Email/Calendar? =20
+     If yes, who? =20
+ 
+ Does anyone have permission to access your Email/Calendar? =20
+     If yes, who? =20
+ 
+ Are you responsible for updating anyone else's address book? =20
+     If yes, who? =20
+ 
+ Is anyone else responsible for updating your address book? =20
+     If yes, who? =20
+ 
+ Do you have access to a shared calendar? =20
+     If yes, which shared calendar? =20
+ 
+ Do you have any Distribution Groups that Messaging maintains for you (for m=
+ ass mailings)? =20
+     If yes, please list here: =20
+ 
+ Please list all Notes databases applications that you currently use: =20
+ 
+ In our efforts to plan the exact date/time of your migration, we also will =
+ need to know:
+ 
+ What are your normal work hours?   Will you be out of the office in the near future for vacation, leave, etc?
+        If so, when?        From (MM/DD/YY):      To (MM/DD/YY):     =20
+ 
+ 

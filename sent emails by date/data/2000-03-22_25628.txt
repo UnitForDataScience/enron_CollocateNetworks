@@ -1,0 +1,54 @@
+
+ 
+ We do not have deal to enter for this.  You need to look at the entire Midtex 
+ line for each of the days that are out of balance.  If we are short at Katy, 
+ I would think that we would be long at Dewville.  (Many times, our receipts 
+ from the Midtex line at Katy are offset by our deliveries to Tufco at the 
+ Tap.)  This should help you fix the January problem.  Also, for December, you 
+ may need to ask PG&E where they show the delivery for Western.  Is it at HPL 
+ Katy, as our records show, or is it at PGE's another point on the Midtex 
+ line?  In any case, we don't have deliveries to make.  The only other remedy 
+ is to book the variance on the partnership imbalance.
+ 
+ D
+ 
+ 
+    Aimee Lannou                03/22/2000 01:24 PM
+ 
+
+
+
+
+  
+ Daren - can you set up a delivery deal for meter 8740 for Jan 00 and Dec. 
+ 99?   I checked OSS and there is an 089 operational contract that took the 
+ swing in case the meter flows more or less than the nom.   Third party 
+ contracts are supposed to stay whole.  Days 12-14 did not flow enough to 
+ cover the noms for Western.  We have the same problem on Jan. 25.  Please let 
+ me know, Brenda Herod would like this resolved today, as would I.
+ 
+ - Aimee
+ 
+    
+ 	
+ 	
+ 	 	
+ 
+
+
+  
+ Aimee,
+ 
+  We are still having problem with this meter.  From what I understand of our 
+ conversation a week or two ago, HPL needs to take the swing to keep the other 
+ contracts whole.  In the case where we have excess flow the HPL (R) contract 
+ takes the swing.  So in the case where we are short, shouldn't we have a HPL 
+ (D) contract to take the swing?  Please let me know if this will work.  I 
+ need to get back with Settlement today.  Thanks
+ 
+ Thu
+ 
+ 
+ 
+ 
+ 

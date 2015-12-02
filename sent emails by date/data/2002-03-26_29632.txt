@@ -1,0 +1,25 @@
+
+ 
+ 
+ 
+ 
+
+ 
+  
+ 
+ Paul,
+ 
+ We need to make a small change in Edwards, AFB schedule for March 2002
+ for the Excess hourly schedule (accounting line # 4783).  Since we will
+ not be having any excess energy to schedule in the month of April 2002
+ the HE 24  for March 31st will need to be changed from 2 MWs to 0 MWs. 
+ I would suggest that HE 5 and HE 6 be increased by 1 MW each hour to new
+ total of  2 MWs each hour.  The reason for doing this is for control
+ area check out between WAPA in Mountain Standard Time and SCE in Pacific
+ Standard Time.  We cannot have any excess energy accounted for in April
+ by SCE in its control area.  
+ 
+ I've attached a revised schedule with the March 31 adjustment described
+ above.  We need to make this change and provide to SCE no later than COB
+ Thursday, March 28th.  Let me know if you want to implement the change
+ in the manner that I've done.  Thanks for your help. 

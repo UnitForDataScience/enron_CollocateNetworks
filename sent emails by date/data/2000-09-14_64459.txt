@@ -1,0 +1,11 @@
+
+ 
+ _=_NextPart_000_01C01CF3.5008315E"
+ 
+ 
+ >  <<GOLD.MPG>>  <<SILVER.MPG>>  <<BRONZE.MPG>>  <<JAVELIN.MPG>>
+ 
+  - GOLD.MPG
+  - SILVER.MPG
+  - BRONZE.MPG
+  - JAVELIN.MPG

@@ -1,0 +1,7 @@
+
+ 
+ Tara,
+ 
+ It appears that from December 1999 back (although I haven't checked everything), Kern historicals were loaded improperly (wrong column from the website).  So, another major action item will be to reload those actuals.
+ 
+ Mat

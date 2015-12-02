@@ -1,0 +1,29 @@
+
+ 
+ get rid of this please
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ This request has been pending your approval for  6 days.  Please click 
+ http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000010104&Page=
+ Approval to review and act upon this request.
+ 
+ 
+ 
+ 
+ 
+ Request ID          : 000000000010104
+ Request Create Date : 12/12/00 3:45:40 PM
+
+ Resource Name       : VPN
+ Resource Type       : Applications
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,34 @@
+
+ 
+ 
+ 
+  
+ 
+  
+ Louise Kitchen
+ 03/23/2001 05:27 PM
+
+  
+  
+ Janet,
+ 
+ Tried to get through to you but no success so far this afternoon.  I have removed the split from East to West.
+ 
+ Load
+ 
+ Power
+ ENA > 10 MW Hourly Peak Demand
+ EES < 10 MW Hourly Peak Demand
+ 
+ Gas 
+ ENA > 1,000 MMBTUs/day
+ EES < 1,000 MMBTUs/day
+ 
+ I am still working on the codes but the issue is that things like Fertilizer companies are not included in the lists so they may cause more confusion tha add value.
+ 
+ Louise
+ 
+ 
+ 
+ 
+ <Embedded Picture (Device Independent Bitmap)>

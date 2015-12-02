@@ -1,0 +1,20 @@
+
+ 
+ can we get a calendar for factor changes?
+ 
+  
+    Cc:	Port, David; Gorny, Vladimir; Khanna, Bharat
+  Importance:	High
+ 
+ Please note that new factors will be put into production this evening.  Value-at-risk will most likely increase by the percentage outlined below.  Shorts are driving price risk, while long basis drives the forward physical risk.   
+ 
+ 
+  
+ 
+ Let me know if you need access to component VAR analysis, so that you can effectively manage VAR.  
+ 
+ 
+ Frank
+ 
+ 
+ <Embedded Picture (Metafile)>

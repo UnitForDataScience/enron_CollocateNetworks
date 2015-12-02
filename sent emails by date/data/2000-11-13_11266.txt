@@ -1,0 +1,46 @@
+
+ 
+ fyi, rick
+ 
+ 
+ 
+ 
+
+ 11/10/2000 04:44 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+ To all,
+ 
+ The New Retail Power System (RPS) has been implemented, and there are several 
+ features of RPS that I would like to share. 
+ 
+ 1.)  Our Net Open Position is more accurate as a result of booking deals more 
+ reflective of batch models rather than Wholesale equivalent positions.
+ 
+ 2.)  Our P&L is more accurate as a result of the position change and the 
+ ability to import retail energy curves into RPS rather than only wholesale 
+ curves.  
+ 
+ 3.)  T&D positions can now be captured for Deals in RPS.
+ 
+ 4.)  Regulatory Switching Options are being captured in RPS, which captures 
+ value of EES' option to serve customers during the CTC period.
+ 
+ 5.)  Reporting capabilities are more timely and effective.
+ 
+ 
+ The Power Team is confident that RPS will better serve our business.

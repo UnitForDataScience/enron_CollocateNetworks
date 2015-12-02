@@ -1,0 +1,28 @@
+
+ 
+ 
+    Aimee Lannou                05/24/2000 04:08 PM
+ 
+
+
+   
+ After comparing HPL's numbers with PG&E's numbers I have found a few 
+ discrepancies with the Tufco volumes.  
+  
+    HPL   PG&E
+ 
+ 5/8   137.500   139.583
+ 
+ 5/11   103.750   100.833
+ 
+ 5/19   108.333   8.333
+ 
+ Days 8 and 11 have small discrepancies.  I got with Carlos on the 5/19 
+ discrepancy.  He checked the numbers sent to him by Tufco.  He verified that 
+ it should be 8.333.  I also checked with Steve in Gas Control regarding what 
+ flowed for Tufco.  Steve told me 8.300.  I have gone back into MOPS and 
+ corrected these volumes.   This should impact the UA4 number.  Also, this 
+ decreases the MidTexas cumulative imbalance.  As of 5/23 PG&E owes HPL 
+ 4.649.  If you have any questions, please let me know.
+ 
+ -Aimee

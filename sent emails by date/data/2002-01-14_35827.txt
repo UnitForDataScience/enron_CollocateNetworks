@@ -1,0 +1,16 @@
+
+ 
+ #67401 and #70457 are the correct contracts.  #67401 was intended to come out in Dec and #70457 was intended to come out in Jan.
+ 
+  
+    Cc:	Little, Kelli
+  
+ Hey there...
+ 
+ Can you please verify the following. Our files indicate that the two pal contracts for TCO are 39607 and 38079.
+ TCO is invoicing us on contracts 67401 and 70457. All these contracts show 310,000 MDQ.
+ 
+ Which ones are correct and current. I am assuming only 2 are or should be current. Please advise.
+ 
+ Thanks,
+ Maria

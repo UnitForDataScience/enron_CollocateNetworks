@@ -1,0 +1,21 @@
+
+ 
+ The only issue I have is everytime I login I have some Windows Installer program I have to kill and it takes me an extra 2-3 minutes to keep closing files before I can get into my desktop.
+ 
+ I don't know what caused this, but I am assuming some file you installed is still trying to run.   In addition, the dial-up through Citrix is very very slow.   Is this normal?
+ 
+ Any thoughts?
+ 
+ Thanks for all your work - the printer works just fine
+ 
+  
+     
+ Kevin,
+ 
+ I will not be able to go to your home until after 3 today.  My director told me we are too overloaded.  I will go by after I get done working today.  I will let you know before I go.
+ 
+ Thanks,
+ 
+ Daniel A. Muschar 
+ Trader Support Group 
+ CCNA, MCSE, CNA, A+ 

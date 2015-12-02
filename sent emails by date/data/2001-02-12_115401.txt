@@ -1,0 +1,37 @@
+
+ 
+ I'm not quite sure how this exchange began, but it sounds like Kroum is 
+ referring to several different issues here. First of all, our forward 
+ obligation report does not reflect cross-portfolio deals, an application 
+ issue that Will Smith, and it looks like Kroum as well, has been working on 
+ for the past few weeks. 
+ 
+ Also, deal 498488 is a forward deal done on EOL between STSW and their own 
+ desk. I haven't seen a trade WITHIN a desk before, but I'm sure anything is 
+ possible. At any rate, this doesn't look like a cross-portfolio deal at all. 
+ Am I missing something?
+ 
+ As for the zeroed out deals, I'm pretty sure everyone here knows how to 
+ properly kill deals in Enpower; however, it takes so long that sometimes we 
+ simply zero out the volume in the interest of time. I've often wondered if 
+ this litters the system and makes it more confusing for other people to do 
+ their jobs - do you know anything about that?
+ 
+ I just thought I'd ask these questions while the subject was being raised. 
+ Please let me know if I can help facilitate these changes or improvements in 
+ any way.
+ 
+ Thanks,
+ Kate
+ 
+
+ [mailto:IMCEANOTES-Project+20Manager+3CUnknown+2EMan+40enron+2Ecom+3E+40ENRON@
+ ENRON.com] 
+    
+ 
+ Forward Obs should show two sides of a Cross-Portfolio deal.  Find out what 
+ needs to be done.  Contact Monica
+ Lande or Kate Symes in Portland for more details
+ 
+ 
+ 

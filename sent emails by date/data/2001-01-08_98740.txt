@@ -1,0 +1,30 @@
+
+ 
+ Any idea who this is?
+ 
+ 
+
+ 	01/08/2001 08:12 AM
+ 		 
+
+ 		 
+ 
+ 
+ You have received this email because you are listed as an alternate data 
+ approver. Please click 
+ http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000012515&Page=
+ Approval to review and act upon this request.
+ 
+ 
+ 
+ 
+ Request ID          : 000000000012515
+
+ Request Create Date : 1/8/01 8:12:00 AM
+
+ Resource Name       : Litigation Tracking Database Write
+ Resource Type       : Applications
+ 
+ 
+ 
+ 

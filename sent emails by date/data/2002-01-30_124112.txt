@@ -1,0 +1,25 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - White, Stacey W.\Sent Items
+ X-Origin: WHITE-S
+ X-FileName: stacy white 7-15-02.PST
+ 
+ When you get around to setting up these fields for the West, please use the portfolio code 'W' for West and then use the same methodology for Book Code that Andrea did.  I'll let you know the answer she gets from Andrew re: 'US Power East' because you should be using 'US Power West'.
+ 
+ Stacey
+ 
+  
+    Cc:	White, Stacey W.; Evans, Casey
+  
+ Andrew-
+ 
+ I have created a draft of our RisktRAC book setup spreadsheet for East Power.  Can you take a look at it and see if everything is accurate.  One issue I have relates to the 'Trading Location' field.  We had previously used 'US Power East', but this is not part of the dropdown menu in the field.  Has this location been changed to something else?
+ 
+ Thanks!
+ 
+ Andrea
+ 
+  

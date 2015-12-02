@@ -1,0 +1,3 @@
+
+ 
+ Please change the counterparty on deal 806589 from TP2 to TP3 (sorry about that).

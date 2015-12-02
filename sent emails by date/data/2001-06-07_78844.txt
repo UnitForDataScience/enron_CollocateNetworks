@@ -1,0 +1,30 @@
+
+ 
+ 
+ You got the wrong guy.
+ 
+ Thomas Martin
+  
+    Cc:	Thomas, Martin
+  Importance:	High
+ 
+ Hi,
+ 	Please find enclosed the details of the new Exchange server in Europe based at ETOL (Teeside), in the UK.
+ 
+ 
+ Location	Server		Storage Group	Database		Enabled
+ Teeside	EUTEE-MSMBX01V	MBX01SG01A		PrivMBX01SG01A01	true
+ Teeside	EUTEE-MSMBX01V	MBX01SG01A		PrivMBX01SG01A02	true
+ Teeside	EUTEE-MSMBX01V	MBX01SG01A		PrivMBX01SG01A03	true
+ Teeside	EUTEE-MSMBX01V	MBX01SG01A		PrivMBX01SG01A04	true
+ Teeside	EUTEE-MSMBX01V	MBX01SG02A		PrivMBX01SG02A01	true
+ Teeside	EUTEE-MSMBX01V	MBX01SG02A		PrivMBX01SG02A02	true
+ Teeside	EUTEE-MSMBX01V	MBX01SG02A		PrivMBX01SG02A03	true
+ Teeside	EUTEE-MSMBX01V	MBX01SG02A		PrivMBX01SG02A04	true
+ Teeside	EUTEE-MSMBX01V	MBX01SG02A		PrivMBX01SG02A05	true
+ 
+ 						Please add these to Netops for account creation purposes. Thanks
+ 
+ 
+ Thanks,
+             Sean

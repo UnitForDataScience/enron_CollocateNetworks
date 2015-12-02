@@ -1,0 +1,22 @@
+
+ 
+ 
+ Can you help me figure out how to get access to this.  I get this message everyday and don't  know what to do.
+  
+
+  
+ 
+ This request has been pending your approval for  14 days.  Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000037746&Page=Approval to review and act upon this request.
+ 
+ 
+ 
+ 
+ 
+ Request ID          : 000000000037746
+ Request Create Date : 5/30/01 11:37:32 AM
+
+ Resource Name       : VPN/IPASS
+ Resource Type       : Applications
+ 
+ 
+ 

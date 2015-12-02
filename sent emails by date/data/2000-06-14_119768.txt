@@ -1,0 +1,92 @@
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ 
+ As promised during today's meeting, attached is a file containing some data
+ on the quantity of gas physically flowing out of each of the receipt basins
+ for the period 1998 through June 8, 2000.  The data was taken from the VISA
+ system (note the index numbers on the spreadsheet) and is presented
+ graphically and as tabular values.
+ 
+ The flow west on the southern system is shown as the sum of west flow
+ through Pecos River and Waha stations less the east flow from Cornudas.
+ This represents the net volume flowing west from Cornudas Station into the
+ combined low and high pressure southern systems.  It eliminates the volumes
+ moved east to Waha for delivery into the Texas intrastate pipelines at Waha.
+ 
+ 
+  <<Basin Receipts.xls>>
+ 
+ 
+ 
+ > Bill Healy
+ > (915) 496-2144
+
+ 
+ 
+ 
+ 
+  - Basin Receipts.xls

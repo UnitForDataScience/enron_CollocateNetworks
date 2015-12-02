@@ -1,0 +1,17 @@
+
+ 
+ I sold 4,035 dt to the Ontario Desk on NFUL for Sep at +.12 (deal 1016673).
+ 
+ The following deals should be transferred from Brads book to the CNG and East TP3 books at a mid value of NX1 + .1675 for Sep.
+ 
+ Deal		Volume	Book	Comment
+ 241639		15189	CNG	Purchase from AEC
+ 219618		6000	CNG	Sale to AEC
+ 1016655	4037	CNG	CNG sale to TP3
+ 943082		5152	CNG	Cng sale to TP3
+ 1016673	4035	TP3	Sale to Ontario
+ 
+ 
+ Let me know if you have questions.
+ 
+ thanks

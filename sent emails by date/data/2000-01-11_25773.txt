@@ -1,0 +1,62 @@
+
+ 
+ Should the entire volume be moved over to ICC now?  Currently on deal 131478 
+ (ICC), 10,000 is being sold at 2.84.  The sale on the TXU ticket has been 
+ zeroed out on the deal line, but needs to be reallocated in Vol Mgmt.  If I 
+ need to move the additional 25,000 to ICC, I will.  But, I want to make sure 
+ that is what we need to do.
+ 
+ D
+ 
+ 
+ 
+ 
+ Julie Meyers
+ 01/11/2000 10:23 AM
+
+
+  
+ 
+ Could you please setup a spot deal for October under ICC Energy Corp.  I 
+ would just copy the TXU deal below.  I believe the pricing is the same.
+ 
+ Julie
+ 
+ 
+ 
+ 
+ 
+ Joanie H Ngo
+ 11/22/99 01:07 PM
+
+
+  
+ Howard,
+ 
+ Please forward to the appropriate v.m. person in your group.  Thanks.
+ 
+ 10,000 mmbtu scheduled on October 14th should be moved from Sitara deal 
+ #120941 (TXU Fuel Company) to Sitara deal #131478 (ICC Energy Corporation) on 
+ OPLC Meter 1527.
+ 
+ Please let me know if you have any questions.
+ 
+ Thanks for your help.
+ 
+ Joanie
+ x36574
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

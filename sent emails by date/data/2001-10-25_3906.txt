@@ -1,0 +1,51 @@
+
+ 
+ Iris
+ 
+ what is the difference between this spark spread function call and the one =
+ being used in the spreadsheets we use ?
+ 
+ 
+ Harry
+ 
+ 
+  
+     
+ Slava:
+ Here are the files related to the models I mentioned in our phone coversati=
+ on.
+ 
+ FwdFwd Vols:
+ 
+ Here is a spreadshet implementing a technique for calculating fwd fwd volat=
+ ilities for seasonal vol curves. The approach avoids the issue of geting ne=
+ gative fwd fwd variances when using the traditional approach. It makes nece=
+ ssary, however, to develop a specific fwd fwd vol curve for each contract m=
+ onth.=20
+ 
+ Here is how it works:
+ =091) Create a variance curve: Var =3D vol*vol*(Ti-t)
+ =092) Fit a desoasonalized curve with functional form: y =3D a*(tb)?=093) c=
+ alculate fwd-fwd variances for the desoasonal curve:?=094) Calculate fwd-fw=
+ d vols for each month by multiplying the ?=09    fwd-fwd variance curve by =
+ a factor equal to:?=09=09=09SQRT(Var(Contract Month)/Var(fit))??? << File: =
+ FwdFwd.xls >> ?I implemented a C code for calculating that. This, with the =
+ omicron vols may be used to model the gas curve evolution in a HJM framewor=
+ k.?? << File: fwdfwd.c >>  << File: FwdFwdw.c >> ??Swing Options:?Here is t=
+ he code and documentation for the swing option:?? << File: XLCALL32.LIB >> =
+  << File: bico.c >>  << File: factln.c >>  << File: FRAMEWRK.C >>  << File:=
+  FRAMEWRK.H >>  << File: FSSwing.c >>  << File: FSSwingOpt.c >>  << File: F=
+ XSwing.c >>  << File: FXSwingOpt.c >>  << File: gammln.c >>  << File: Inter=
+ polate.c >>  << File: nrutil.c >>  << File: nrutil.h >>  << File: SwingOpt.=
+ def >>  << File: SwingOptW.c >>  << File: SwingW.c >>  << File: XLCALL.H >>=
+   << File: Bdt.c >>  << File: Swing Model.doc >> ?Here are the spreadshets =
+ examples:?? << File: FSSwingOpt.xls >>  << File: FXSwingOpt.xls >> ?LookBac=
+ k:?Here is my implementation for the lookback option with fixed strike. It =
+ uses an analytical solution in which prices are sampled continiously over t=
+ ime. It still provides a good approximation for a discrete daily sampling:?=
+ ? << File: XLCALL32.LIB >>  << File: Cumnorm.c >>  << File: framewrk.c >>  =
+ << File: framewrk.h >>  << File: FxLKBK.c >>  << File: FxLKBK.def >>  << Fi=
+ le: Integration.c >>  << File: lkbkTEST.xls >>  << File: nrutil.c >>  << Fi=
+ le: nrutil.h >>  << File: put.c >>  << File: xFxLKBK.c >>  << File: XLCALL.=
+ H >>  << File: call.c >> ?Let me know if you got them all.?Give me a call w=
+ ith your questions/concerns.?Thanks.?Paulo Issler?

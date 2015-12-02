@@ -1,0 +1,12 @@
+
+ 
+ Just double checking my numbers, this is what I now show on COH storage.  Let 
+ me know if I need to tweak it and where.
+ 
+ 
+ 
+ Month  Monthly Inj Ending Balance
+ Jul  1,089,097 4,053,906
+ Aug  1,089,123 5,143,029
+ Sep  786,579  5,929,608
+ Oct  120,999  6,050,607  <=== Max storage 

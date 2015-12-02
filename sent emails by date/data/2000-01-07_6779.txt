@@ -1,0 +1,35 @@
+
+ 
+ Can you map this the same as HPL Zone#9 - Freeport? 
+ 
+ Thanks,
+ 
+ Eric 3-0977
+ 
+ 
+ 
+ 
+ Imelda Frayre
+ 01/07/2000 10:59 AM
+
+
+  
+ Eric, Ami just booked two deals (#148251, #148253) on the BDOL pipe and since 
+ that pipe had never been used before we do not have that location mapped to 
+ any curves.  As a result those two deals have not bridged to CPR and will 
+ remain like this until you provide the necessary curve information listed 
+ below.  If you will need to create new curves and that will take a while, let 
+ me know if you want me to map this location to some existing curves in the 
+ meantime, so it will at least bridge to CPR.  Then, when you create your 
+ curves I can just re-map the location to the new curves.
+ 
+ There is currently only one zone on this pipe.
+ 
+          
+ Pipe Code Zone Code   Notional  Mid Market  Gas Daily
+ BDOL  BDOL        ???          ???         ???
+ 
+ Please call me if you have any questions (x35423).
+ 
+ Imelda Frayre
+ 

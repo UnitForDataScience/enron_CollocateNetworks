@@ -1,0 +1,201 @@
+
+ 
+ Go to the first website shown below (http://www.enerfax.com).  Scroll down once you get to this website and you will see an article about fuel cells.
+ 
+ 
+ 
+ 
+ 
+
+
+   
+ 
+ 
+ Enerfax Daily
+ NORTH AMERICA'S FREE POWER AND GAS INFORMATION SOURCE
+ Wednesday, May 9, 2001 No. 736
+ Visit our website at: http://www.enerfax.com,
+ if you would like to receive our daily free email write
+
+ 
+
+ or go to http://www.enerfaxgold.com
+ 
+ Please view in a fixed-width font such as Courier.
+ 
+ GAS FUTURES
+ Henry Hub
+ 12 Month Strip  4.5322  +0.0236
+ 18 Month Strip  4.4734  +0.0115
+ | Month | High  |  Low  | Close | Change |
+ | JUN   | 4.320 | 4.200 | 4.279 | +0.040 |
+ | JUL   | 4.380 | 4.270 | 4.353 | +0.039 |
+ | AUG   | 4.457 | 4.360 | 4.425 | +0.035 |
+ | SEP   | 4.487 | 4.390 | 4.455 | +0.030 |
+ | OCT   | 4.527 | 4.440 | 4.493 | +0.028 |
+ | NOV   | 4.710 | 4.625 | 4.673 | +0.023 |
+ | DEC   | 4.885 | 4.800 | 4.853 | +0.018 |
+ | JAN   | 4.960 | 4.860 | 4.923 | +0.018 |
+ | FEB   | 4.820 | 4.820 | 4.803 | +0.018 |
+ | MAR   | 4.640 | 4.570 | 4.613 | +0.018 |
+ | APR   | 4.320 | 4.250 | 4.293 | +0.013 |
+ | MAY   | 4.260 | 4.190 | 4.223 | +0.003 |
+ 
+ 
+ PHYSICAL GAS PRICES
+ | Gulf/Eastern Region              |        |
+ | Agua Dulce                       |  4.13  |
+ | ANR SE                           |  4.13  |
+ | Carthage TG                      |  4.16  |
+ | Chicago Citygate                 |  4.36  |
+ | Columbia Gulf Onshore            |  4.17  |
+ | Dominion TTT South(CNG S. Point) |  4.45  |
+ | Henry Hub                        |  4.21  |
+ | Houston Ship Channel             |  4.26  |
+ | Katy Hub                         |  4.22  |
+ | NGPL - Midcontinent              |  4.16  |
+ | NGPL STX                         |  4.11  |
+ | NGPL TX/OK                       |  4.17  |
+ | Niagara                          |  4.48  |
+ | Sonat Tier 1                     |  4.17  |
+ | TCO IPP Pool                     |  4.44  |
+ | Tetco ELa                        |  4.16  |
+ | Tetco M-3                        |  4.57  |
+ | Tetco STX                        |  4.10  |
+ | TGP Zone 0                       |  4.11  |
+ | TGP Zone 1                       |  4.19  |
+ | TGT Zone SL                      |  4.18  |
+ | New York Citygate                |  4.58  |
+ | Transco Station 65               |  4.23  |
+ | Transco Zone 6 (NY)              |  4.58  |
+ | Trunk ELa                        |  4.05  |
+ | Western Region                   |        |
+ | California Border                | 12.60  |
+ | El Paso Permian                  |  4.12  |
+ | El Paso San Juan                 |  3.76  |
+ | Waha Hub                         |  4.16  |
+ | Canadian/Rockies Region          |        |
+ | Nova/Aeco (in C$/GJ)             |  5.76  |
+ | Dawn Hub/Union                   |  4.48  |
+ | Northwest Stanfield              |  4.28  |
+ | Wyoming Pool                     |  3.76  |
+ | Opal                             |  3.76  |
+ | PGT-Malin                        |  5.01  |
+ | Sumas                            |  4.22  |
+ 
+ 
+ POWER FUTURES
+ | Month |   COB   |  Change  |    PV    | Change  |
+ | JUN   | 350.00  |  +0.00   |  365.00  | +10.00  |
+ | JUL   | 420.00  |  +45.00  |  430.00  | +10.00  |
+ | AUG   | 515.00  |  -10.00  |  535.00  |  -5.00  |
+ | SEP   | 305.00  | -120.00  |  295.00  | +10.00  |
+ | OCT   | 325.00  |  +0.00   |  190.00  |  +0.00  |
+ | NOV   | 285.00  |  +0.00   |  135.00  |  +0.00  |
+ | DEC   | 315.00  |  +0.00   |  140.00  |  +0.00  |
+ | JAN   | 255.00  |  +0.00   |  130.00  |  +0.00  |
+ | FEB   | 250.00  |  +0.00   |  120.00  |  +0.00  |
+ | MAR   | 190.00  |  +0.00   |  110.00  |  +0.00  |
+ | APR   | 117.00  |  +0.00   |  114.00  |  +0.00  |
+ | MAY   | 117.00  |  +0.00   |  114.00  |  +0.00  |
+ | Month | Entergy |  Change  | Cinergy  | Change  |
+ | JUN   |  71.25  |  +4.25   |  62.75   |  -3.50  |
+ | JUL   | 110.00  |  +6.00   |  97.50   |  -5.00  |
+ | AUG   | 110.00  |  +6.00   |  97.50   |  -5.00  |
+ | SEP   |  45.50  |  +1.50   |  38.75   |  -1.75  |
+ | OCT   |  40.25  |  +0.75   |  38.25   |  -1.25  |
+ | NOV   |  40.25  |  +0.75   |  38.25   |  -1.25  |
+ | DEC   |  40.25  |  +0.75   |  38.25   |  -1.25  |
+ | JAN   |  43.75  |  +0.75   |  42.50   |  -1.00  |
+ | FEB   |  43.75  |  +0.75   |  42.50   |  -1.00  |
+ | MAR   |  38.00  |  +0.25   |  36.00   |  -1.00  |
+ | APR   |  38.00  |  +0.25   |  36.00   |  -1.00  |
+ | MAY   |  45.00  |  +0.50   |  41.75   |  -0.25  |
+ 
+ 
+ POWER FUTURES
+ | Month |   PJM   | Change |
+ | JUN   |  65.50  | +3.50  |
+ | JUL   | 101.50  | +4.50  |
+ | AUG   | 101.50  | +4.50  |
+ | SEP   |  40.25  | -2.50  |
+ | OCT   |  39.00  | +0.25  |
+ | NOV   |  39.00  | +0.25  |
+ | DEC   |  39.00  | +0.25  |
+ | JAN   |  43.00  | -1.50  |
+ | FEB   |  43.00  | -1.50  |
+ | MAR   |  37.00  | -0.75  |
+ | APR   |  37.00  | -0.75  |
+ | MAY   |  42.25  | +1.50  |
+ 
+ 
+ NATURAL GAS OPTIONS
+ |       | Closing | Days | Implied ATM |
+ | Month |  Price  | Left | Volatility  |
+ | JUN   |  4.279  |  18  |   53.83%    |
+ | JUL   |  4.353  |  50  |   54.67%    |
+ | AUG   |  4.425  |  80  |   54.45%    |
+ | SEP   |  4.455  | 113  |   54.21%    |
+ | OCT   |  4.493  | 141  |   55.41%    |
+ | NOV   |  4.673  | 172  |   55.52%    |
+ | DEC   |  4.853  | 204  |   55.01%    |
+ 
+ 
+ PHYSICAL POWER PRICES
+ |            |  High   |   Low   | Average |
+ |            |  $/MWh  |  $/MWh  |  $/MWh  |
+ | Cinergy    |  30.00  |  25.75  |  27.50  |
+ | ECAR       |  32.15  |  26.50  |  28.25  |
+ | ERCOT      |  43.50  |  42.50  |  43.00  |
+ | Entergy    |  39.00  |  34.00  |  36.35  |
+ | TVA        |  27.25  |  27.00  |  27.15  |
+ | ComEd      |  28.50  |  27.00  |  27.40  |
+ | PJM West   |  36.00  |  32.75  |  33.55  |
+ | Main       |  28.00  |  27.25  |  27.65  |
+ | MAPP       |  34.00  |  28.50  |  32.00  |
+ | Palo Verde | 370.00  | 265.00  | 299.95  |
+ | Mid C      | 360.00  | 285.00  | 327.95  |
+ | COB        | 360.00  | 360.00  | 360.00  |
+ | 4 Corners  | 330.00  | 300.00  | 315.00  |
+ | Mead       | 330.00  | 315.00  | 322.50  |
+ | NP 15      | 312.00  | 310.00  | 311.00  |
+ | SP 15      | 270.00  | 270.00  | 270.00  |
+
+ 
+ Please welcome our advertisers by visiting these websites.
+ http://www.kwi.com
+ http://www.fea.com
+ http://www.caminus.com
+ http://www.progas.net/wip
+ http://www.fame-energy.com
+ http://www.cisconference.org
+ http://www.energyseminars.com
+ http://risk.sungard.com/energy
+ http://www.energy2001.eee.doe.gov
+ http://www.ziffenergyconferences.com
+ 
+ Enerfax Daily is North America's gas and power information source. it is
+ sent to you free of charge. Enerfax Daily may be copied and redistributed in
+ its entirety to all interested energy professionals. Please e-mail us at
+
+ e-mail addresses of other energy professionals that would like to be added
+ to Enerfax Daily's growing distribution list of thousands of energy
+ professionals in the US and Canada, or to be removed. The information
+ contained herein was obtained from sources which Enerfax Daily believes to
+ be reliable, but does not guarantee its accuracy. Your support of our
+ advertisers is greatly appreciated and will keep Enerfax Daily free. Thank
+ you. Your comments are welcome.
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

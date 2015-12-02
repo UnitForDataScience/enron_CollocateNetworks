@@ -1,0 +1,47 @@
+
+ 
+ RE: 468302
+ 
+ Sean Crandall just changed this deal to reflect only a December term. Prebon 
+ was right on this.
+ 
+ Thanks,
+ Kate
+ 
+ 
+ 
+ 
+
+ 11/28/2000 02:11 PM
+
+  
+  
+ 
+ Matt Motley
+ deal 468359
+ error:  Amerex shows Enron as seller not buyer
+ 
+ Bob Badeer
+ deal 468404
+ error:  Amerex shows price as $134.50 not $134.45
+ 
+ Bob Badeer
+ deal 468405
+ error:  Amerex shows price as $134.55 not $135.00
+ 
+ Mike Swerzbin
+ deal 468302
+ error:   Prebon shows December only
+ 
+ 
+ Jeff Richter
+ deal 468427
+ Prebon shows price as $177 not $197
+ 
+ Jeff Richter
+ I am missing the following deals per Prebon:
+ Enron sells to Tractebal Q3 PV at $175
+ Enron buys from Tractebal Q3 SP-15 at $145
+ 
+ Thanks!!
+ 

@@ -1,0 +1,54 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - White, Stacey W.\Sent Items
+ X-Origin: WHITE-S
+ X-FileName: stacy white 7-15-02.PST
+ 
+ It looks good for me.  There are a couple of applications I do not have access to.  Let me know what method you would like me to take in requesting access.
+ 
+ Stacey
+ 
+  
+    Cc:	Poston, David; Nat, Steve; Will, Lloyd; Bailey, Debra
+  
+ All,
+ 
+ Please feel free to test enpower NETCO production and we will truncate deal data later.
+ If you found problems or comments, please let us know asap.
+ 
+ 
+ Windows 2000 Shortcut for enpower NETCO production
+  << OLE Object: PBrush >> 
+ 
+ EnPower Launchpad for NETCO production
+  << OLE Object: Picture (Device Independent Bitmap) >> 
+ 
+ EnPower Report Launcher for Contract Settlements Group
+  << OLE Object: Picture (Device Independent Bitmap) >> 
+ 
+ EnPower Report Launcher for Credit Group
+  << OLE Object: Picture (Device Independent Bitmap) >> 
+ 
+ EnPower Report Launcher for Deal Clearing Group
+  << OLE Object: Picture (Device Independent Bitmap) >> 
+ 
+ EnPower Report Launcher for Risk Group
+  << OLE Object: Picture (Device Independent Bitmap) >> 
+ 
+ EnPower Report Launcher for Scheduling Group
+  << OLE Object: Picture (Device Independent Bitmap) >> 
+ 
+ EnPower Launchpad File Menu
+  << OLE Object: PBrush >> 
+ 
+ EnPower Launchpad Tools Menu
+  << OLE Object: PBrush >> 
+ 
+ EnPower Launchpad Downloads Menu
+  << OLE Object: PBrush >> 
+ 
+ Regards,
+ dluu

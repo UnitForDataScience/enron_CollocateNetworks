@@ -1,0 +1,18 @@
+
+ 
+ Access approved.
+ 
+  
+
+
+  
+  
+ Here is the model we were reviewing this afternoon, minus the curve fetch function.
+ 
+ - Jim
+ 
+  << File: EES-Simple Cycle.xls >> 
+ 
+ 
+ 
+ 

@@ -1,0 +1,16 @@
+
+ 
+ May cash $4.00
+ 
+ June Numbers
+ Nymx   $3.78
+ CNG Basis Bid  $.215
+ CNG Index Prem (.0075)
+ 
+ Net   $3.9875
+ 
+ actually losing $.01 or so before we figure the fuel of 1.95%
+ 
+ Fuel Cost at $4.00 = $4.00/(1-.0195) - $4.00 = $.08
+ 
+ Now its $.09 in the hole (.01+.08)

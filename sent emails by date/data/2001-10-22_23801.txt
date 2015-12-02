@@ -1,0 +1,14 @@
+
+ 
+ I believe what Lisa (Sawyer?) was referring to is the termination of TW's shared cost surcharge effective October 31, 2001.  I don't think there would be any system changes required.  Typically, TW's rates are entered with a start and end date and (if this is correct) the surcharge should have an end date of 10/31/2001 and there wouldn't be anything else to do.  If it's not entered that way, an end date could be entered now (whether at the surcharge level or at the contract level - the surcharge applies to just 14 firm contracts) and that should take care of it.
+ 
+ Elizabeth,  Is this correct?  I know you're on a project, please let me know if you can check this or who can.
+ 
+ Thank you!
+ Lindy
+ 
+  
+     
+ Lisa brought up a TW change effective Nov 1.  It involves eliminating a turnback surcharge.  I have no other information, but you might check with the business folks for any system changes required.
+ 
+ Wendy

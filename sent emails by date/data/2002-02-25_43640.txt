@@ -1,0 +1,12 @@
+
+ 
+ Jean,
+ 	I'm trying to rebuild my PC at home.  The hard drive cratered on me.  I've installed a new one, but the only windows operating system I have is on a restore disk from Compaq (win95) and for some reason, it's giving me an "image builder" error when I try the restore.  This may be due to the fact that I trying to restore on a bigger hard drive than the original.
+ 
+ Anyway, I also have win98 upgrade 2nd edition.  When I try to load this, is looks for verification of ownership of a previous win system (which I don't have except on the restore disk which won't work).
+ 
+ So my question is this, do we have an old Win98 operating system lying around I can borrow so I can load my win98 upgrade?
+ 
+ thanks,
+ Kevin
+ x35559

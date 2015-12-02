@@ -1,0 +1,7 @@
+
+ 
+ these charges are not valid  - we will not pay penalties on a swing deal at a 
+ constrained point.  several people on the desk discussed this potential 
+ problem, and the trader at agave has already been notified that will do not 
+ intend on paying any penalty charges.  this deal was done on a gtc - spot 
+ contract, not on their firm agreement.

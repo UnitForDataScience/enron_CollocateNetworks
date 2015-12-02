@@ -1,0 +1,35 @@
+
+ 
+ I would like the following pipelines and the following points on the map we 
+ discussed the other day.  If possible, I would also like to see the zone 
+ boundaries for Transco, Tennessee, and Iroq.  
+ 
+ Thanks
+ Chris G.
+ 3-4743
+ 
+ 
+ Pipeline
+ Iroquois
+ Nattional Fuel
+ CNG
+ Transco
+ Tenn
+ Algonquin
+ 
+ Interconnect   Point
+ TCPL/IROQ   Waddington
+ Iroq/Algo -    Brookfield
+ Iroq/CNG   Canajoharie
+ Iroq/Tenn   Wright
+ CNG/Trco   Leidy
+ CNG/Tetc   Leidy
+ CNG/Tenn   Morrisville
+ CNG/Tenn   Sabinsville
+ Tenn    St 219
+ Tenn/Trco   Rivervale
+ Tenn/TCPL   Niagara
+ Tenn    White Plains
+ Troc/Algo   Centerville
+ Trco/Nat Fuel   Leidy
+ Nat Fuel/TCPL   Niagara

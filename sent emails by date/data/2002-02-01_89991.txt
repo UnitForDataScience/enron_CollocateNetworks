@@ -1,0 +1,18 @@
+
+ 
+ My guys are telling me that all of the broker sheets we collected are now in your hands.   The validation for East Power should be very easy because we collected broker quotes almost every day and marked curves nearly every day.   If there are gaps, please let me know.
+  
+ With respect to vol curves, I am having Wang and Stalford go back and validate.
+ 
+  
+    Cc: Presto, Kevin M.; Dorland, Chris; Gilbert-smith, Doug; Davis, Mark Dana; Sturm, Fletcher J. 
+  
+ 
+ 
+ FYI - I spoke with Kevin today and he volunteered the following individuals to help you curve validation. 
+ Chris Dorland - West 
+ Doug Gilbert-Smith - ERCOT 
+ Dana Davis - NE 
+ Fletch Sturm - MW/SE 
+ 
+ Ed 

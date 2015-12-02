@@ -1,0 +1,10 @@
+
+ 
+ Cooper-
+ 
+ Can you let me know how to connect to the power database where we pull CAISO 
+ scheduled gen & load.  I want to pull the actual loads along with the 
+ scheduled.  Get back to me when you get a chance.  
+ 
+ Matt Lenhart
+ 853-7176

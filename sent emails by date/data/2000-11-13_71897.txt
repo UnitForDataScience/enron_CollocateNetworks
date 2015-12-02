@@ -1,0 +1,11 @@
+
+ 
+ 
+ >  >  >  > Cc: Thompson, Peter J.
+ >  >
+ > Here is your compared document.  I think that both versions of this
+ > document were corrupt.  We can talk later about fixing them.
+ > <<TEST_RED.DOC>> 
+  - TEST_RED.DOC
+ 
+ 

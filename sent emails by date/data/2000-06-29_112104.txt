@@ -1,0 +1,48 @@
+
+ 
+ Leslie:
+ Just 2 comments to this:
+ 
+ 1. Should we mention their ability to exercise subrogation rights and the 
+ effect it may have on our counterparties?  This is really not a risk as much 
+ as it is a relationship issue.
+ 
+ 2. With respect to Section 6.1(a), based on last night's conversation, I 
+ doubt very much that they will remove the reference to counterparties.  They 
+ really feel that this is a risk taht we should bear given our relationship to 
+ the counterparties.  Bill is speaking with them about this issue this morning.
+ 
+ 
+ Carol St. Clair
+ EB 3892
+ 713-853-3989 (Phone)
+ 713-646-3393 (Fax)
+
+ 
+ 
+ 
+ 	Leslie Hansen
+ 	06/28/2000 02:53 PM
+ 		 
+
+ 		  		  
+ Carol:
+ 
+ Gaurav asked me to summarize all relevant risks associated with the Reliable 
+ Power Product for the Dash.  Please let me know if you think I should add or 
+ revise anything:
+ 
+ 1.  Section 8.3 indemnity obligation  If the price we use to pay a counterparty 
+ under the swap is subsequently corrected by the floating price source, we may 
+ be require to make a payment to our counterparty under the swap before the 
+ insurer makes a payment to us for the loss adjustment.  However, if the price 
+ adjustment results in a refund being owed to us by our counterparty, we may 
+ have to pay the insurer the amount of the refund before we actually get a 
+ refund from our counterparty.
+ 
+ 5.  Under Section 6.1(b), the insurer can deny coverage based upon any breach 
+ of our duties under the policy.  For instance, if we fail to comply with the 
+ notice requirements for presenting a claim, we forego our right to coverage.  
+ However, we will still be required to pay out on the underlying swap.  
+ 
+ Leslie

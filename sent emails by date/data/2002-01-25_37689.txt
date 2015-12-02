@@ -1,0 +1,17 @@
+
+ 
+
+ 
+ Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+
+ X- X- X- X-b X-Folder: \ExMerge - Giron, Darron C.\Sent Items
+ X-Origin: GIRON-D
+ X-FileName: darron giron 6-26-02.PST
+ 
+ Here is the file.  It contains only financial trades in the active NG-PRICE book.  Also these are only Price, Basis, Index, and Gas Daily values.  They don't contain any Options.  I will get another book set up so we can move only positive net value deals with counterparties.  Let me know if you have any questions.  
+ 
+ DG
+ 
+ 
+  

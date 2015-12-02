@@ -1,0 +1,17 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X-
+ X- X-b X-Folder: \ExMerge - Richey, Cooper\'Sent Mail
+ X-Origin: RICHEY-C
+ X-FileName: cooper richey 6-26-02.PST
+ 
+ SELECT MAX(ABDAteTime), DATEADD(hour,-24,MAX(ABDAteTime)) FROM AB_PoolGeneration_REalTime WHERE DataType = 'A'
+ 
+ EXEC sp_AB_GetGenerationData 
+
+
+
+

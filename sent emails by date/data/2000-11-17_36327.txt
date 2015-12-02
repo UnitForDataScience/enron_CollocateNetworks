@@ -1,0 +1,49 @@
+
+ 
+ In addition:  expert clauses - which ones need to be changed, when and why - 
+ what are reversals and why we use them - how to check physical prompt month 
+ value for potential errors - how to calculate physical prompt month value - 
+ checking the OA Flash tab.  I am sure there are some others.
+ 
+ DG
+ 
+    
+ 	Enron Capital Management
+ 	
+ 	 	
+ 
+
+
+
+   
+ Topics should include:  NX3 roll-off, the curveshift associate with basis NX3 
+ roll-off and where it will show up on the p&l, what days we will roll in 
+ index - the percentages, how to adjust percentages for fixed priced prompt 
+ month positions, when to bring in prompt month value, how to put liquidations 
+ in the physical P&L, how to roll the physical and financial p&l's, etc.
+ 
+ Any suggestions?
+ 
+ Dave
+ 
+ 
+    
+ 	
+ 	
+ 	 	
+ 
+
+
+
+  
+ Our next class will combine EOM bench/NGP&L and P&L procedures.  We will hold 
+
+ would like to go over the bench and NGP&L process for 45 minutes or so, and 
+ the rest of the class will be handled by Dave and Kam.  I will leave it to 
+ you 2 to decide who will talk about what.  Lets get together on Monday to 
+ brainstorm.
+ 
+ WK
+ 
+ 
+ 

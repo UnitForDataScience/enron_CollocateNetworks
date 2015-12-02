@@ -1,0 +1,40 @@
+
+ 
+ Pipe  Zone   Intramonth  Mid   Gas Daily
+ 
+ TGT  Zone 1 Markets        IF-TGT/Z1  IF-TGT/Z1  GDP-TGT/Z1
+ 
+ 
+ 
+ 
+ 
+ 
+ Regina Perkins
+ 07/28/2000 01:01 PM
+
+   
+ I would like to know what curve would you like setup for Zone 1 Market.  
+ Although you told me on the phone, I need documentation.
+ 
+  
+  Pipe  Zone   Intramonth  Mid   Gas Daily
+ 
+  TGT  Zone 1 Markets         ???   ???       ???
+  
+ Currently available:
+  
+  TGT  - Zone 0 FT Pool   IF - TGT/ZSL  IF - TGT/ZSL  GDP - TGT/ZSL
+   Zone 0 FT Pool    
+   Zone 0 IT Pool  
+   Zone 0 Points  
+   Zone 1 FT Pool
+   Zone 1 IT Pool
+   Zone 1 Points
+ 
+ 
+ These zones have the same mapping on TGT.  Would you like Zone 1 Markets 
+ mapped the same way?  Please respond soon because I am leaving at 2:00 PM 
+ today and I will be out of the office next week (39222).
+ 
+ Chao!
+ 

@@ -1,0 +1,4 @@
+
+ 
+ Will the LME transactions go under a relevant financial master, if any, or 
+ will they always be standalone under the GTC?

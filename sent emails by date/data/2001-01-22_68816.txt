@@ -1,0 +1,16 @@
+
+ 
+ I have a few concerns about this.  We are suppossed to be the only point of 
+ contact for changes in tagg.  This is an internal control issue that leaves 
+ all responsibility for errors in tagg with risk.  If other people are 
+ touching deals in tagg, any errors will then have to be investigated further 
+ and thus take longer to resolve.
+ 
+ I guess my main question for you is, does a problem exist in the current 
+ system?  Is risk not addressing your issues and needs on a timely basis?  If 
+ so, we need to readdress that issue and resolve it in a more timely manner.
+ 
+ Please let me know if the others disagree with me.
+ 
+ Thanks.
+ PL

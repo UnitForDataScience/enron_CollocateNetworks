@@ -1,0 +1,6 @@
+
+ 
+ I need the following changes to Outlook:
+ 
+  I need my file folders to be "active" so that I can get stuff out of them and put stuff into them when I am working offline.
+ I need my "inbox" to show all my messages, including the large messages -- I don't want to have to check in two places (or more) to review all my new messages.  I also need to be able to access those large messages when I am working offline.

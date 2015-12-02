@@ -1,0 +1,23 @@
+
+ 
+ 
+    
+                         	
+ 	Enron Technology
+ 	
+ 	 	
+ 
+
+   
+ Phillip,
+ 
+ It looks as though we have most of the interim hardware upgrades in the 
+ building now, although we are still expecting a couple of components to 
+ arrive on Monday.
+ 
+ The Unix Team / DBA Team and Applications team expect to have a working test 
+ server environment on Tuesday. If anything changes, I'll let you know.
+ 
+ best regards
+ 
+ Steve Stock

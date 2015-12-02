@@ -1,0 +1,45 @@
+
+ 
+  Could you fax to Heather and Ozzie at the same fax as last night?
+ 
+ Thanks,
+ 
+ Kay
+ 
+ 
+ 
+ 
+
+
+  
+  
+ 
+ Not clear if you all received this directly.
+  bracepatt.com; Tue, 25 Jul 2000 15:59:37 -0500
+  Jul 25 16:04:43 2000
+ X-Proxy: keymaster.bracepatt.com protected
+  via smtpd (for mail.bracepatt.com [205.138.132.1]) with SMTP; 25 Jul 2000 
+ 20:56:03 UT
+  sendmail01.vapower.com (8.9.3+Sun/8.9.3) with SMTP id QAA05905 for 
+
+  id 85256927.00725F5C ; Tue, 25 Jul 2000 16:49:15 -0400
+ X-Lotus-FromDomain: VANCPOWER
+
+
+
+   Mime-Version: 1.0
+ Content-type: multipart/mixed;  
+ Boundary="0__=JUGoDwbyivDkOaJDcvs4VUaxc6HxtoxUjvY5VyUFFjLTCbMRf1XDKbiW"
+ Content-Disposition: inline
+ 
+ 
+ 
+ Nancy,
+ 
+ Attached is a document in draft form addressing some of the issues discuss in
+ our recent meeting.
+ 
+ (See attached file: Draft contract changes july24.doc)
+ 
+  - Draft contract changes july24.doc
+ 

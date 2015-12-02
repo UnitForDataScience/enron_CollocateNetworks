@@ -1,0 +1,7 @@
+
+ 
+ Type  Comm Fuel  Total at $8.70
+ FT  .044 1.90%  .2125
+ IT  .1907 1.90%  .3592
+ 
+ Diff  .1467

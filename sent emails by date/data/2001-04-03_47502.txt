@@ -1,0 +1,17 @@
+
+ 
+ We have received an executed Master Agreement:
+ 
+ Type of Contract:  ISDA Master Agreement (Multicurrency-Cross Border)
+ 
+ Effective  
+ Executed  
+ Enron Entity:   Enron Canada Corp.
+ 
+ Counterparty:   IMC Canada Ltd.
+ 
+ Transactions Covered:  Approved for all products, except fx 
+           
+ Confirming Entity:  Enron Canada Corp.
+ 
+ Governing Law:   New York 

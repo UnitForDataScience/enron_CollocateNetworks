@@ -1,0 +1,5 @@
+
+ 
+ This should do it except that I would add a heading "DRAFT - FOR DISCUSSION 
+ PURPOSES ONLY" at the top and fix the Fallback Reference Price format and put 
+ the phrase "as published in ... caliso.com" at the end of the sentence.

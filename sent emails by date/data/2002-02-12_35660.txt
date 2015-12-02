@@ -1,0 +1,18 @@
+
+ 
+ Steve Stonestreet at CGAS did verify that metered production on CGAS is "attached" to the AS (aggregation service) contracts, and from there you would schedule it to a transport contract or into the IPP contract.  CGAS and Dominion work very similar when talking about metered production.
+ 
+  
+     
+ Chris,
+ 
+ I am working on a project and I need a little help.  Do you know if the following contracts on TCO are pooling or transport?
+ 
+ 37147
+ 39149	
+ 66917
+ 
+ Thanks,
+ 
+ Vicki
+ x30903

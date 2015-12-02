@@ -1,0 +1,7 @@
+
+ 
+ Liquidity feeds on itself.  PJM Cinergy and Entergy were not liquid until we made them liquid.
+ 
+  
+     
+ No to be overly defensive, but in very liquid markets (ie PJM, Cinergy and Entergy) the EOL bid/offer is 2.5-3.5%.  In the west MidC, NP,SP, the bid offer is 3-4.5%.  In a market it which I am 95% of the trades with no liquidity without me, my EOL bid offer is 4-5%.  I think the is very reasonable, if I felt that being tighter would allow more trades without me either being the repository of unwanted MW or being the only supplier of MW, then I would be tighter.

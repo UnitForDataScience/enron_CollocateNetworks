@@ -1,0 +1,7 @@
+
+ 
+ Here are some of the California power sheets I have put together using your 
+ database.  I have filled in the historical data using the CEMS database, but 
+ that only runs through March-00.  Let me know what you think b/c there seems 
+ to be holes in the data.
+ 

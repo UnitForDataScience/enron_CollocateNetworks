@@ -1,0 +1,19 @@
+
+ 
+ You have probably done this already, but remove any reference to SCADA in the 
+ Alstom agreement.
+ 
+ 
+ 
+    
+ 	Enron North America Corp.
+ 	
+ 	 	
+ 
+
+
+  
+ The Alstom load is small.  It just peaks real fast and hard.  We don't need 
+ SCADA here.  With the loss of the Wyman Gordon load, we will be left with 
+ only the Cypress Fairbanks city gate and Alstom on the 12" (4007) line, so 
+ line pack will handle whatever instantaneous pull Alstom should develop.

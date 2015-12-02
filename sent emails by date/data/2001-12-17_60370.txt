@@ -1,0 +1,40 @@
+
+ 
+ CITY	GISID	EMPLOYEE_NAME						
+ Calgary	52	Employees	Office					
+ 								
+ Chicago	5	Employees	Enovate Joint Venture - discussion pending on fate					
+ 								
+ Denver	3	Employees	To be discussed					
+ 								
+ Dublin	1	Employee	At home					
+ 								
+ Houston	699	Employees	Office					
+ 								
+ 								
+ 								
+ Monterrey	3	Employees	To be discussed					
+ 								
+ New York City	2	Employees	To be discussed					
+ 								
+ Norcross	1	Employee	At home					
+ 								
+ Portland	78	Employees	Office					
+ 								
+ San Francisco	2	Employees	At home					
+ 								
+ 								
+ 								
+ Toronto	9	Employees	Office					
+ 								
+ Washington	1	Employee	At home					
+ 								
+ 								
+ 	856	Employees						
+ 
+ 
+ Louise Kitchen
+ Chief Operating Officer
+ Enron Americas
+ Tel:  713 853 3488
+ Fax: 713 646 2308

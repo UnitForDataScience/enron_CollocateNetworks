@@ -1,0 +1,8 @@
+
+ 
+ 0009 Lone Liquidations:
+ NU2698.2 is an EMW liquidation and goes with Sitara #359527, tsf this to the 
+ EMW line should clear both variances.
+ We need to take the Phillip's liquidation just like 0010 - deal killed
+ Desk will also take the remaining $1,500 variance
+ PL

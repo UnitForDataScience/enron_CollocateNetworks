@@ -1,0 +1,17 @@
+
+ 
+ Avinash,
+ 
+ Please, contact Zimin Lu.
+ 
+ Vince
+ 
+  
+    Cc:	Ballard, Phillip
+  
+ 
+ Mr. Kaminski,
+ 
+ We (Energy Capital Resources) are trying to put together a model in Excel that will calculate a LIBOR swap rate given cashflows from our Volumetric Production Payments. The trading desk says your group might have some models that were used to approved their trading system. Do you have anything that can help with this?
+ 
+ Avinash Jain

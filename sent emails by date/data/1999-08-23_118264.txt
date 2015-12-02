@@ -1,0 +1,42 @@
+
+ 
+ Any objection to having David Gilberg fill in for me on this?
+ 
+    
+ 	Enron Capital & Trade Resources Corp.
+ 	
+
+ 20/08/99 10:31
+ 	
+ 
+
+
+
+  
+ 
+ 
+ Hi Awais,
+ 
+ Per our discussion yesterday, following is the schedule for testing:
+ 
+ Commercial
+ Final review on Friday, 27 August
+ Final comments to Agency Monday, 30 August COB
+ Delivery to  Enron Thursday, 2 September
+ 
+ Help Guide
+ Rough screen shot review Monday Monday, 23 August
+ Beta site to Enron to test Thursday, 2 September
+ Beta site to Dallas for integration Thursday, 2 September
+ Comments to Agency Monday 6 September 9 a.m.
+ Delivery to Dallas for final integration Thursday, 9 September
+ 
+ Please let me know if you foresee any scheduling conflicts. Will
+ follow-up next week with instructions and url for bug tracker.
+ 
+ Cheers,
+ Lisa
+ 
+ 
+ 
+ 

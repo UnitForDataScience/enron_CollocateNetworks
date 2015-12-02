@@ -1,0 +1,29 @@
+
+ 
+ Frank - I think Harry Collins is tracking this down.  If it isn't settled to 
+ your satisfaction by Thursday, please let me know.
+ 
+ Mark
+ 
+ 
+ 
+ 
+ Frank L Davis
+ 09/20/99 04:23 PM
+
+
+  
+ Mark,
+ 
+ I notice that we have GTC's for EGLI Liquids(without collateral) and ELFI 
+ Crude-Products-Petchems (without collateral), but we do not have GTC's for 
+ EGLI Liquids (with collateral) or ELFI Crude-Products-Petchems (with 
+ collateral).   Is this correct? 
+ 
+ Please let me know your thoughts.
+ 
+ Thanks!
+ 
+ Frank
+ x37235
+ 

@@ -1,0 +1,33 @@
+
+ 
+ Tanya:  Do we need to differentiate between the MAC as used in the CSA and in 
+ the Schedule (as an "Additional Event of Default") with respect to the 
+ disappearance of a credit rating from either S&P or Moody's (or both) based 
+ on your usage in power masters?  
+ 
+ I believe that we agreed that for purposes of the CSA (when S&P and Moody's 
+ are indicated on the credit worksheet), both ratings must disappear to 
+ trigger the MAC.
+ 
+ For purposes of an Additional Event of Default, should we just pose the 
+ question to credit?
+ 
+ Sara Shackleton
+ Enron North America Corp.
+ 1400 Smith Street, EB 3801a
+ Houston, Texas  77002
+ 713-853-5620 (phone)
+ 713-646-3490 (fax)
+
+ 
+     
+ Ed:  For the Additional Event of Default (ratings trigger), do you intend the 
+ MAC to apply when only one or both credit ratings disappear?
+ 
+ 
+ Sara Shackleton
+ Enron North America Corp.
+ 1400 Smith Street, EB 3801a
+ Houston, Texas  77002
+ 713-853-5620 (phone)
+ 713-646-3490 (fax)

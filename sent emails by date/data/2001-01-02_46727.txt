@@ -1,0 +1,54 @@
+
+ 
+ Why do I keep getting these new products for approval?
+ 
+    
+ 
+ 
+    12/12/2000 04:21 PM	
+ 	
+ 	
+ 	                           
+ 	
+ 
+
+
+
+
+
+  
+ Your review and approval of the following product type in the EOL Datamanager 
+ is needed (for directions on approval , please see steps for approval at the 
+ bottom of this e-mail).    
+ 
+ 
+ Examples:
+ 
+ 
+ 
+ 
+ 
+ STEPS FOR APPROVAL:
+ 
+ click the  START button 
+ select  PROGRAMS
+ select  TEST APPLICATIONS
+ select ENRONONLINE CLUSTER(PROD)
+  PROCEED WITH USUAL LOGIN/PASSWORD 
+ click the Enron Online Production Cluster "START" button  
+ select EnronOnLine (this is the EOL Datamanager)
+  PROCEED WITH EOL LOGIN/PASSWORD
+ click on the "+" for EnronOnLine
+ click on the "+" for Product Types
+ click on the "+" for "Awaiting Approval" (OR  "Partially Approved")
+ select the product requiring review as stated in e-mail above
+ Right "mouse" click on "properties" to view product set-up 
+ TO APPROVE:  Right mouse click on "Approved"
+   
+ Thanks - Rob Cass  -  Melba Lozano
+ x35491   x58986
+ 
+ 
+ 
+ 
+ 

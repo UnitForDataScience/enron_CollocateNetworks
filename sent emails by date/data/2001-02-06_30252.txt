@@ -1,0 +1,86 @@
+
+ 
+ In the future, please work with Jennifer Lev's group.  She handles the accounting for this entity for Enron.
+ 
+ Thanks
+ 
+ 
+ 
+ 
+  	Sheila Howard 02/05/2001 12:45 PM 	
+ 
+
+
+ 
+  
+ FI close is the 8th workday after the Tax file comes back in.  I am assuming that you would not want to pick up any topside adjusting entries until they have hit FI which would be in the following month if the process is followed correctly.  Is the 8th workday sufficiant?
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+ 
+  
+ I'd like to have the information as soon as it is available each month.  I don't know what the regular close schedule is so I don't know when it would be safe to extract the data and be sure that you have the entire month's activity.  Our expense close is on the fifth workday so I'd like to aim for  a date as close to there as is possible.
+ 
+ Karl
+ 
+ 
+ 
+
+ 
+ 
+ Karl,
+ 
+ I'll take care of it for you.  I have to follow up on your ID and the job scheduling anyway.  Is there a certain day this will run each month? 5th workday perhaps?
+ 
+ Shawn
+ 
+ 
+ 
+
+ 
+
+
+ 
+  
+ Who will be the contact for getting the January 2001 file?  Assuming successful testing of the December data, I would like to have the January data next week.  We are scheduled to close expenses for the month of January on Wednesday Feb. 7 and would like to be able to interface the SAP file on that date.  (Not sure who's question this is, but when all else fails, I usually call Shelia.)  Thanks
+ Karl
+ 
+ 
+ 
+
+ 
+ 
+ Karl,
+ 
+ Here is a file with December's data from our QA environment.  The program that produces this data will be in production later today, so I'll get you a file from PR1 then.  I had to zip it up because it was too big to deliver.  I'll set you up with an userid and password so you can pick these up off our interface server once it is scheduled in production.
+ 
+ I'm now settled in London.  If you need to reach me, I'm at 783-4269 (trunk+34269).
+ 
+ Thanks,
+ Shawn
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <Embedded StdOleLink>
+ <Embedded StdOleLink>
+ <Embedded StdOleLink>
+ <Embedded StdOleLink>

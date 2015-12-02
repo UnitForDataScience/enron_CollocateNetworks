@@ -1,0 +1,18 @@
+
+ 
+ The book code is ALWAYS - XZ.  As for trade dates, that is not one of the 
+ fields I fill in for the exotics spreadsheet and I don't think that's 
+ something we'd really want to add as the file already takes up an extremely 
+ large amout of memory.
+ 
+ 
+ 
+ 
+ 
+
+ 12/08/2000 04:45 PM
+
+   
+ Could you in the future please put trade dates and book codes on the 
+ spreadsheet? Thanks!!!
+ 

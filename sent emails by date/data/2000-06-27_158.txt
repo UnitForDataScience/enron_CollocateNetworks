@@ -1,0 +1,36 @@
+
+ 
+ 
+ 
+ 
+ Zimin Lu
+ 06/14/2000 07:09 AM
+
+
+
+
+
+  
+ 
+ Mark,
+ 
+ We are currently back-testing the storage model. 
+ The enclosed version contains deltas and decision 
+ variable. 
+ 
+ You mentioned that you have resources to run the model. Please do so.
+ This will help us to gain experience with the market vs the
+ model.
+ 
+ I am going to distribute an article by Caminus, an software vendor.
+ The article illustrates the optionality associated with storage operation
+ very well.  The Enron Research storage model  is a lot like that, although 
+ implementation may be
+ different.  
+ 
+ Let me know if you have any questions.
+ 
+ Zimin
+ 
+ 
+ 

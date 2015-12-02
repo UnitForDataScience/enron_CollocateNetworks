@@ -1,0 +1,37 @@
+
+ 
+ 
+ 
+ 
+ Russ Severson
+ 01/25/2001 02:55 PM
+
+
+
+
+  
+ In order for the physical desks to roll out positions into TDS,  a mapping is 
+ required between the Org region code used in Portcalc
+ for the physical calc and the related Tagg book code that is used for that 
+ region.
+ 
+ An example would be similar to:
+ 
+ Org Region Code                             Tagg Book Code
+ CENTRAGULF                                  
+ FT-INTRA-GULF                        This is just an example and might not be 
+ a valid grouping
+ 
+ 
+  TDS knows the Tagg books to pick up, it just does not know which physical 
+ region codes that are related to it.
+ 
+ Can you provide for your desk all Org Region Codes used on your desk, and 
+ what Tagg Book it would relate to.
+ If you could send me the list, I will forward them to the TDS developers.
+ 
+ Any questions or concerns, please call me.
+ 
+ Thanks
+ Russ
+ x37386

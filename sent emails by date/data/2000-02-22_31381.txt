@@ -1,0 +1,6 @@
+
+ 
+ I just created "2000bug03.xls" and "2000tran03.xls".  
+ 
+ Joe, we will continue to use the CES Wholesale tab in the 2000tran03 
+ worksheet.

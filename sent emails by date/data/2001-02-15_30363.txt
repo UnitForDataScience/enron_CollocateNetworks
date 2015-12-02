@@ -1,0 +1,65 @@
+
+ 
+ 
+ 
+    Cc:	Millan, Allison; Concklin, Elaine; Cisneros, Maria; Baker, Lee
+  
+ David,
+ 
+ I can set these up but I just need direction on how to do it.  I've never set anything up in the Planning module.  Plus, I guess I need assurance that no one else is setting these up so we don't have a duplication of efforts.
+ 
+ Who can walk me through one?
+ 
+ Je
+ 
+ 
+ 
+  
+ David Griffiths
+ 02/13/2001 04:42 PM
+
+
+ 
+  
+ If you want me to setup the plan cycles for the NNG and TW benefits, payroll taxes and incidental distributions I will.  Maybe I was supposed to without me realizing it.  If so let me know what Actual cycles are in use for these allocations.
+ 	
+ 
+ 
+    
+  	   		
+ 
+ 
+ 
+
+
+ 
+  
+ David,
+ 
+ No one has told me to set up any cycles for plan.  From the meetings, I was under the impression that planning was supposed to copy all cycles and I was just running them.  Is Planning only setting up the fixed distribution cycles and expecting me to set up benefits, taxes, incidentals, and residuals?  Because no one has told me to do anything with those.  If I am expected to do just that, then someone will have to show me what to do as I haven't worked with plan as of yet.  Plus, I think this will have to be made clear to others because I don't know if the other accountants know about this also.
+ 
+ Je
+ 
+ 
+  
+ David Griffiths
+ 02/13/2001 03:25 PM
+
+  
+  
+ I have assumed you will be creating the plan distribution cycle for incidental expenses for NNG and TW cost centers.  Is this correct?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <Embedded Picture (Device Independent Bitmap)>
+ <Embedded Picture (Device Independent Bitmap)>
+ <Embedded Picture (Device Independent Bitmap)>

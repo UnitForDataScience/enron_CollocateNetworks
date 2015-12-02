@@ -1,0 +1,22 @@
+
+ 
+ 
+ 
+
+ 	01/02/2001 01:28 PM
+ 		 
+
+ 		  		  
+ The following expense report is ready for approval:
+ 
+ Employee Name: John Hardy Jr Jr.
+ Status last changed by:  Automated Administrator
+ Expense Report Name: General Expenses
+ Report Total: $5,239.11
+ Amount Due Employee: $346.02
+ 
+ 
+ To approve this expense report, click on the following link for Concur 
+ Expense.
+ http://nahou-wwxms01p
+ 

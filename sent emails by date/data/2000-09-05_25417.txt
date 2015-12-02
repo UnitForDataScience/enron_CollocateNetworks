@@ -1,0 +1,44 @@
+
+ 
+ I corrected the deal.  The price should be Waha Index +.01.
+ 
+ D
+ 
+ 
+ 
+ 
+ Elizabeth L Hernandez
+ 09/01/2000 07:49 AM
+
+   
+ You probably haven't had time to look at the Duke Energy price.  When you get 
+ a chance could you please let me know what the correct price is for May 2000 
+ production.
+ 
+ 
+    
+ 	
+ 	
+ 	 	
+ 
+
+   
+ Elizabeth,
+ I have a pricing discrepancy and I was not sure if I send this to you or 
+ Oneil.  
+ It's for Duke Energy, 5/00 production, deal # 250237.  Duke believes our 
+ price is too high.  The system downloaded a price of  $3.95 
+ The price should be WAHA.WTX.IF.M.I. , which is $2.95 for that month.  ( 
+ WAHA.WTX.IF.M.I. + 1 ) Duke believes we should have paid them $2.96.
+ I think the system pulled in the wrong price.  Could you please let me know 
+ if you handle this pricing issue or someone else?
+ 
+ Thanks, Stephanie ( 3-6004 )
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

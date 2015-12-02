@@ -1,0 +1,33 @@
+
+ 
+ I guess it looks OK to me.  I'm surprised that they will have the ability to 
+ identify their own company as a counterparty.  Don't we limit the companies 
+ they can designate to those already signed up to trade on EnronOnline?  
+ 
+ 
+ 
+
+ 	03/15/2001 08:19 AM
+ 		 
+
+ 		  		  
+ Mark,
+ 
+ There is a new message to add to the set you previously reviewed, covering 
+ the case where a broker tries to transact when identifying their own company 
+ as the counterparty:
+ 
+ Failure Reason: Cannot Complete Transaction to Broker Company
+ Text Body: The requested Transaction has not completed as the Counterparty 
+ identified for the transaction attempt is your own company.  For further 
+ information or to request a change in status, please contact us.
+ 
+ I have passed this text along for incorporation (we have very tight timelines 
+ as we are hoping to go live tomorrow night).
+ 
+ If you have any significant concerns about the above, let me know so we can 
+ change it.
+ 
+ Thanks,
+ 
+ Dave

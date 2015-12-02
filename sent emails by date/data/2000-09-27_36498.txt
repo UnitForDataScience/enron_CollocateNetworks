@@ -1,0 +1,34 @@
+
+ 
+ 
+    
+ 	Enron North America Corp.
+ 	
+ 	 	
+ 
+
+
+   
+ Again this month, you are going to have to calculate your basis positions 
+ (officialize) twice.  Once for the TDS download, and once for the Benchmark 
+
+
+ tonight,  and 50% tommorrow.  I would recommend that you use two different 
+ post ID's to do this.  That way you can use your 100% calc for your curve 
+ shift report and it will reflect any change in prompt month index as curve 
+ shift and not a change deal.  We will need two calcs until indexes are set.  
+ Just to be clear,  calc your 100% basis calc first.  Officialize.  Load your 
+ positions into TDS. Unofficialize. Calc your 50% basis calc.  Officialize.  
+ Run all reports off of the 100% basis calc. 
+ 
+ Also,  we will roll-off 50% of all index positions (Gas Daily and Physical) 
+ tonight and roll-in 50% of physical and gas daily index.  And the other 50% 
+ tommorrow.  
+ 
+ Let me know if you have any questions.
+ 
+ Thanks,
+ 
+ Jeff
+ 
+ 

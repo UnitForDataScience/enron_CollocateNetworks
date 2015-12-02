@@ -1,0 +1,32 @@
+
+ 
+ FYI.  Just to keep ya'll in the loop.  This fix should be ready for test on Monday
+ and migrated Monday night for Tuesday's use.  This fix will be very beneficial
+ in minimizing Shipper imbalances on NNG.  Terry and Gerry will work with the teams
+ to be sure everyone is up to speed on the change.  If you have any questions while I
+ am out next week, please check with Terry Kowalke or Mike Bodnar.   Thanks. Lynn
+ 
+    Cc:	Matheson, Maggie; Medeles, Gerry
+  
+ Jill,
+ Lynn and Steve January want to change the storage allocation from after confirmation to after regular allocations during all cycles except timely (for the timely cycle it storage allocations will be after confirmations).
+ 
+ I looked at the code and it seemed to be pretty self contained module.  But a few things to look out for:
+ 
+ 1) Process for saving to the database
+ 	- after allocations
+ 	- after storage allocations
+ 	- after confirmations
+ 2) rollback of allocations to include storage
+ 3) SBS - currently it turned off for the storage allocation process.  How does it get turned back on?  Business group has to make a decision on how whether SBS needs to turned on or off for the confirmation process
+ 
+ Please let maggie or gerry know the time estimate.
+ 
+ Thanx
+ 
+ 
+ 
+ 
+ 
+ 
+ <Embedded StdOleLink>

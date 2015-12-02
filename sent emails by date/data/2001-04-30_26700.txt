@@ -1,0 +1,35 @@
+
+ 
+ Julie, 
+ 
+ I don't have all the deal numbers.  You will need to run a report out of CPR, or find the deals in MOPS and review the prices in Sitara.
+ 
+ d
+ 
+  
+     
+ 
+ Darren - Just got this (sorry its late but had to wait for Equistar to give this to me)
+ Can you give me deal numbers so I can confirm it. Thanks - Julie
+  
+ 
+ Equistar
+ 
+ D	1373	Channel			10 	greater of 4.07 or 1- .20
+ D	1373	Channel			  5	greater of 3.30 or 1- .20
+ D	1373	Channel			  2	greater of 2.20 or 1- .05	
+ 
+ D	8024	Bayport Polymers	3	greater of 2.20 or 1- .05
+ 
+ 
+ D	1399	Matagorda Polymars	4	greater of 2.20 or 1- .05
+ 
+
+
+ 
+ 
+ D	1062	Port Arthur		1 	greater of 2.20 or 1- .05
+ 
+ D	1384	Chocolate Bayou	10	greater of 2.23 or 1- .05
+
+ Grand total				78

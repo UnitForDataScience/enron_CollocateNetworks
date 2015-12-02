@@ -1,0 +1,22 @@
+
+ 
+ 
+ Transwestern's average deliveries to California were 1122 MMBtu/d (103%), with San Juan lateral throughput at 844 MMBtu/d.  Total East deliveries averaged 270 MMBtu/d.  
+ 
+ El Paso's average deliveries to California were 2198 MMBtu/d (75%):
+ - PG&ETop, capacity of 1140 MMBtu/d, deliveries of 696 MMBtu/d (61%)
+ - SoCalEhr, capacity 1250 MMBtu/d, deliveries of 1022 MMBtu/d (82%)
+ - SoCalTop, capacity 540 MMBtu/d, deliveries of 480 MMBtu/d (89%)
+ 
+ Thursday's posted Gas Daily prices:
+ 	SoCal gas, large pkgs	  2.715 (+.35)
+ 	PG&E, large pkgs	  2.61 (+.37)
+ 	TW San Juan		  2.35 (+.55)    
+ 	TW Permian		  2.48 (+.615)
+ 
+ Enron basis:
+ 			Jan		
+ Perm-CA		.135	   	
+ SJ- CA			.255      	
+ SJ-Waha		.15
+ Perm-Waha		.03

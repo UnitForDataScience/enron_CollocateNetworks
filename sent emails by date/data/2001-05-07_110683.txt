@@ -1,0 +1,7 @@
+
+ 
+ Amanda,
+ 
+ Under the Power table in the Plant Outages folder on the fundy website, we have a link for California ISO outages.  Please change the link to point to the file called "pge_ISO_Outages.htm" in the testing folder instead of the existing file.  Thanks.
+ 
+ Mat

@@ -1,0 +1,19 @@
+
+ 
+ 	Brad, do we need to bump this concern up a level?  or have you already?  Seems like 
+ 	there has been a LOT of down time.  Thanks. Lynn
+ 
+  
+    Cc:	Matheson, Maggie; Medeles, Gerry; Jaquet, Tammy; Draemer, Mary ; Studebaker, James ; Kuehl, Toby; Betancourt, Ramona ; Berger, Larry
+  Importance:	High
+ 
+ Larry and I met with Joanne Bisbee and Bobby Oubre on wrapping up testing on Flowing Gas.  We agreed that on Friday, July 20, we  will complete testing.
+ 
+ Next week (July 16-20), we will be in the testing room as much as possible to finalize all issues we have.  We have also asked that all testers be available and have their teams work with them as much as possible, so that testers can help finalize this testing.
+ 
+ We expect to move into production by the 25th.  Internal User review should occur the 26th - 30th.   Pilot Program for select customers targeted to commence for July 30th and should last about two weeks....  With expectation to provide full production access to all customers for July's production month commodity close.
+ 
+ Issues remaining:   Security concern with a couple of reports ; i.e. Imbalance Invoice; etc.
+ CSV Download :  Retest changes.  (Expect to finalize retesting by Monday 7/16
+ 
+ Legale

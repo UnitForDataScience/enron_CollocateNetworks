@@ -1,0 +1,19 @@
+
+ 
+ This needs to be changed after the calc.
+ 
+ Kate
+ 
+ 
+ 
+ 
+
+ 01/11/2001 03:05 PM
+
+  
+  
+ 
+ Jeff Richter
+ deal 495177
+ Prebon shows location as SP-15 we show NP-15
+ 

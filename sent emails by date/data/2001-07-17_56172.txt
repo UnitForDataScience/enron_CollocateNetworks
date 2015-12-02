@@ -1,0 +1,18 @@
+
+ 
+ 
+ 
+  
+     
+ 
+ Vince,
+ 
+ Here is your presentation on the exotic energy options with slightly modifications.
+ I added a few slides about Asian options and spread options. I used the Asian strip options as an
+ transition technique for the forward curve modeling.  For the weather presentation
+ I did a summary at the end. From the audience responses, it seemed the presentations
+ went well.
+ 
+ Zimin
+ 
+  

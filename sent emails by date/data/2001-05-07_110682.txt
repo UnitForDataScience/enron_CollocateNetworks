@@ -1,0 +1,37 @@
+
+ 
+ David,
+ 
+ I spot checked about 15-20 points and the data looks good.  As I indicated before, can we run the query for 2001 as well...preferably using the quick method.  Thanks.
+ 
+ Mat
+ 
+ 
+ 
+  
+     
+  << File: Outage Summary.xls >> 
+ 
+ SELECT DISTINCT Calendar.DateValue As OutageDate,
+ 
+  SUM(CASE PlantChar.WSCCRegion WHEN 'DSW' THEN
+        CASE UnitChar.Fuel_designation WHEN 'Alt' THEN
+          CASE PlantOutage.OutageReason WHEN 'forced' THEN
+           PlantOutage.CapacityOut
+          ELSE 0 END
+       ELSE 0 END
+     ELSE 0 END)/24 AS 'DSW|Alt|forced'
+ 
+ FROM LinkServer.Fundamentals.dbo.LkpCalendar_Definitions2 AS Calendar INNER JOIN LinkServer.Fundamentals.dbo.LkpOUT_PlantOutage AS PlantOutage
+  ON Calendar.DateValue BETWEEN PlantOutage.BeginOutageDate AND PlantOutage.EndOutageDate
+  INNER JOIN LinkServer.Fundamentals.dbo.LkpOUT_PlantCharacteristics AS PlantChar
+  ON PlantOutage.PlantID = PlantChar.PlantID
+  INNER JOIN LinkServer.Fundamentals.dbo.LkpOUT_UnitCharacteristics AS UnitChar
+  ON PlantOutage.PlantUnitID = UnitChar.PlantUnitID
+ 
+
+  AND PlantOutage.Approved = 'Y'
+ 
+ Group By Calendar.DateValue 
+ 
+ ORDER BY Calendar.DateValue

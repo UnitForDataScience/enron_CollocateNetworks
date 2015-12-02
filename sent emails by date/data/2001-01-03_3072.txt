@@ -1,0 +1,26 @@
+
+ 
+ what's this about?
+ 
+ 
+ 
+
+ 01/03/2001 03:39 PM
+
+  
+  
+ If you are currently accessing the EOL database via Excel, Access or any 
+ other means, please contact Colin Tonks (x58885).
+ 
+ EOL intends to stop access to the data within the next month. This means that 
+ any spreadsheets or Access databases will not function subsequent to this 
+ change.
+ 
+ We are currently working with EOL to attain a solution, and need your help to 
+ build an inventory of all potential problems.
+ 
+ Colin Tonks
+ 
+ 
+ 
+ 

@@ -1,0 +1,52 @@
+
+ 
+ Dawne,
+ 
+ The options should go to NG-PR-OPT, but the underlying swap should continue 
+ be between NG-Price and NG-Exotic.
+ 
+ Thanks,
+ 
+ Errol
+ 
+ 
+ 
+ 
+
+ 02/26/2001 11:50 AM
+
+
+
+ 
+  
+ With this new book, you want the option to go to NG-PR-OPT (it is going to 
+ NG-PRICE now) and the underlying swap to be between NG-PRICE and NG-PR-OPT?
+ 
+ Please confirm!
+ 
+ Dawn
+ 
+ 
+ 
+ 
+ 
+ Errol McLaughlin
+ 02/26/2001 09:19 AM
+
+  
+  
+ Dawne,
+ 
+ Starting tommorrow, Mike's options need to be booked to NG-PR-OPT.  The deals 
+ that are done online today will be manually switched to the new book by us.
+ 
+ Thanks,
+ 
+ Errol McLaughlin
+ 
+ 
+ 
+ 
+ 
+ 
+ 

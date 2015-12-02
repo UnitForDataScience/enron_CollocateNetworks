@@ -1,0 +1,118 @@
+
+ 
+ Mary Hain has resigned her position with Enron.  Please remove her from all=
+ =20
+ your mail lists.
+ 
+ Thank you.
+ 
+ Lysa Akin
+ Gov't Affairs - Sr. Admin. Ass't.
+ 
+ 
+ 
+   =20
+ =09Enron Capital & Trade Resources Corp.
+ =09
+
+ 03/26/2001 11:16 AM
+ =09
+ 
+
+
+
+
+
+ ,=20
+
+ ,=20
+
+
+
+
+
+ =20
+
+
+
+ =20
+
+
+
+ =20
+
+
+
+
+
+
+
+
+ m,=20
+
+
+
+
+
+
+
+ =20
+
+
+
+   
+ 
+ request_number:  BPA-JCG:012
+ firstname:  Pamela
+ lastname:  Jacklin
+
+ exhibit_wp-02-e-:  JCG-02
+ page_numbers:  page 11, line 13 - page 18, line 10
+ request_text:  The JCG proposes to eliminate WP-02-E-BPA-65 and=20
+ WP-02-E-BPA-74, except for page 1, lines 1-22 and page 8, line 4 to page 9,=
+ =20
+ line 17.  The JCG, however, has filed testimony on the same central issue f=
+ or=20
+ which it finds BPA=01,s testimony objectionable.  Why is it necessary to=20
+ eliminate either BPA=01,s or the JCG=01,s testimony when Section C.1. of th=
+ e=20
+ Partial Stipulation and Settlement Agreement provides that =01&no Party sha=
+ ll be=20
+ deemed to have approved, admitted or consented to the facts, principles,=20
+ methods or theories employed in arriving at the terms of this Partial=20
+ Settlement Agreement or the Parties=01, Proposal, nor shall any party be de=
+ emed=20
+ to have agreed that any provision of this Partial Settlement or Parties=01,=
+ =20
+ Proposal is appropriate for resolving issues in any other proceeding=20
+ regardless of whether the Parties=01, Proposal or Partial Settlement is ado=
+ pted=20
+ by the Administrator, except as expressly provided in this Partial=20
+ Settlement=018?  Please provide a complete explan!
+ at!
+ ion why it is absolutely necessary to eliminate any currently filed testimo=
+ ny=20
+ and please provide any alternatives to eliminating such testimony considere=
+ d=20
+ by the JCG.
+ response_text:  OBJECTION
+ 
+ Data Request BPA-JCG:012 was not properly served and is otherwise=20
+ objectionable.  The Joint Customer Group objects to the above Data Request,=
+ =20
+ as it seeks information about why the Joint Customers contend that the=20
+ testimony is inconsistent with the Partial Settlement.  Whether BPA's=20
+ testimony is consistent or not with the Partial Settlement is not the prope=
+ r=20
+ subject of a data request.
+ 
+ The following information is from the web server:
+ 1.  Logon: IUSR_GRANITE
+ 2.  Remote Host:  198.36.178.141
+ 3.  Remote IP Address:  198.36.178.141
+ 4.  Form URL: =20
+ https://secure.bpa.gov/power/secure/psp/ratecase/discovery/wp_02_response.h=
+ tml
+ 5.  Browser Client:  Mozilla/4.0 (compatible; MSIE 5.01; Windows NT)
+ 
+ 

@@ -1,0 +1,52 @@
+
+ 
+ Looks good.  I'm a little confused as to how many users can be on.  The 
+ system needs to be able to handle 50+ users at one time, each being able to 
+ post messages any time.  
+ 
+ 
+ 
+ 
+
+ 09/28/2000 02:31 PM
+
+
+  
+ Fangming,
+ 
+ Looks good.  That's exactly what we're looking for.  John, please comment if 
+ there are any additional features you'd like to add.
+ 
+ Brian
+ 
+ 
+ Brian T. Hoskins
+ Enron Broadband Services
+ 713-853-0380 (office)
+ 713-412-3667 (mobile)
+ 713-646-5745 (fax)
+
+ 
+ 
+ 
+ 
+ 
+
+ 	09/28/00 02:23 PM
+ 		 
+
+
+ 		  
+ Hi, Brian:
+ 
+ Please review attached requirement document and reply this message with any 
+ comments. Once you approve it, I am going to build the application. 
+ 
+ 
+ 
+ Thanks,
+ 
+ Fangming
+ 
+ 
+ 

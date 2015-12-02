@@ -1,0 +1,71 @@
+
+ 
+ Angie, would you go into July 31st and path 10,000 dt from deal 264613 
+ (purchase from Power Gas Marketing) to deal 348393 (sale to EES) at meter 
+ #20100.
+ 
+ thanks
+ 
+ 
+    
+ 	
+ 	
+
+ 	
+ 
+
+   
+ Chris,
+ 
+  I am not seeing this deal coming through Unify for ENA (EES shows a 
+ purchase, but we are not showing a sale).  Could you please check to make 
+ sure that we agree and that it is in the system?  Please let me know if you 
+ have any questions.  Thanks...
+ 
+ 
+ 	Enron Energy Services
+ 	
+ 	 	Phone No: 713-853-9473 Phone
+   713-345-7374 Fax
+   888-620-2354 Pager
+
+ 	
+ 
+ 
+ 
+
+   
+ If this is for a volume of about 10,000 Dth it is a pool-to-pool transfer 
+ from ENA (we are transferring this gas from Power Gas Marketing's pool).  
+ When ENA purchased CES's book of business they acquired local production 
+ behind the citygate.  This is one of those deals.  I did this deal with Chris 
+ Germany of ENA.  If you need more information please let me know.  Thanks!  md
+ 
+ 
+ 
+ Anate Kor
+ 08/17/2000 05:23 PM
+
+   
+ Hey Marde!
+ 
+ Our system shows we purchased this gas from ENA.  However, ENA does not have 
+ this in their system.  Could you please give me a little more information on 
+ the following:
+ 
+ July Business:
+ Pipeline -  EOGS
+ Point ID -  P-ECT-1186-001
+ Rec Meter -  IMBPURCH
+ Deal Meter -  11264
+ 
+ Thank you so much,
+ Anate
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

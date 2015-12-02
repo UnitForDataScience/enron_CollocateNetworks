@@ -1,0 +1,40 @@
+
+ 
+ Let me know if we have any problems with this.  Thanks.
+ 
+    
+ 	
+ 	
+ 	 	
+ 
+
+
+
+
+
+
+  
+ Based on feedback from multi-scheduler pipes, the refreshing of paths can 
+ tend to slow down the other scheduer on the same pipe.  This is especially 
+ noticeable when many paths are changed at once.  Even if it takes 1 - 2 
+ seconds to refresh a path, changing 20 - 30 paths could cause the other 
+ scheduler on that pipe to wait for 30 - 45 seconds.
+ 
+ We are developing a revised Auto Refresh option to let the scheduler pick 
+ whether they want Deal changes or Path changes (or both or neither).  To the 
+ scheduler, it will simply be a change on the Path Manager filter to replace 
+ the "Auto Refresh" checkbox with two checkboxes:
+  - Auto Refresh Deals
+  - Auto Refresh Paths
+ Once selected, this will be the default selection for the duration of that 
+ Path Manager session just as the current selection works.
+ 
+ This will have no impact on how or when the data is stored in Unify, only 
+ whether another PC should have its numbers updated.  Nominations will process 
+ all paths regardless of this new selection.
+ 
+ If our testing goes well, we may actually migrate this change to Unify 
+ Production tonight.  Please let me know if you know of any reason we should 
+ not go forward with this plan or have any questions or concerns.
+ 
+ Thanks, d.n.

@@ -1,0 +1,44 @@
+
+ 
+ Jeff
+ 
+ Sorry it took so long to respond.  I talked to our EOL guys and they keep this stuff very close to their vest.  People are talking to us about buying the code but this would cost tens of millions of dollars.
+ 
+ So I don't think I can help.
+ 
+ Sorry
+ 
+ John
+ 
+  
+
+ 
+ Cc:	Poladian, Grant [IT]
+  
+ 
+ 
+ 
+ 
+ > John,
+ >
+ > Jeff Feig showed me the Enron online site and recommended I contact you
+ > with specific questions.
+ > Basically I was hoping to speak with one of your technical people about
+ > the tools or architecture
+ > you used in implementing the site.
+ >
+ > Some aspects of the site that I would like to know about are:
+ >
+ > What you used for the personalization features? Was it BEA, Apache's
+ > Jetspeed/Turbine, or something "home-grown"
+ > What tools you used for the Flash components?
+ > Why you decided on Flash over Java applets?
+ > How stable and straight forward has the flash client implementation been?
+ >
+ > I understand if you deem the answers as trade secrets, but any insight
+ > into your experiences would be appreciated.
+ > Thanks for any help you can provide. You can contact me at 212-723-1366.
+ >
+ > Regards,
+ > Grant Poladian
+ > 

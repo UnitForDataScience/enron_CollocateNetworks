@@ -1,0 +1,42 @@
+
+ 
+ 1.  The Enron company is "ENA"
+    2.  How many Calculation Periods will there be?  December is a short month 
+ if the Transaction begins on 12/25/99.  Will the first payment be due  in 
+ early January?  If you intend three (3) payments to be made, then the Calc. 
+ Periods are from 12/25-12/31, January, 2/1-2/22.
+    3.  Is this a 24-hour index or is it limited to peak hours as defined by 
+ CAMMESA? 
+ 
+ I left a message for Joe Hunter (confirmation desk - Ext. 33316) to be 
+ prepared for this Transaction.
+ 
+ Brent:  would you please verify the Floating Price?
+ 
+ Thanks.
+ 
+ 
+ 
+ 
+
+ 12/21/99 04:20 PM
+
+
+
+
+  
+ Scott,
+ The attached file includes the general terms of an indicative swap price for 
+ CMS.
+ As soon as you are available tomorrow morning, Dec 22nd, let me know and we 
+ will call CMS here in BA.
+ 
+ Sara: pls. take a look at the following file and add any comments you think 
+ necessary.
+ 
+ 
+ 
+ Thank you very much
+ 
+ Julian
+ 

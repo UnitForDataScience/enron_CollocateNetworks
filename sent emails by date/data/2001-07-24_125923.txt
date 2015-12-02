@@ -1,0 +1,12 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Zufferli, John\Sent Items
+ X-Origin: ZUFFERLI-J
+ X-FileName: john zufferli 6-26-02.PST
+ 
+ Can you change John MacKay's name in the Natural Gas Fixed Price Positions by Trader, Natural Gas Basis Positions by Trader, Natural Gas P&L to Chris Lambie.
+ John is being relocated to Houston and Chris Lambie is now in charge of the Alberta Gas Term Desk.  Additionally, can you merge the P&L under  MacKay and
+ Add. Trading into one line item and call it Lambie. Therefore Lambie should be (41,480) as of yesterday's report.

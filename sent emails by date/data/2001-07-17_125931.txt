@@ -1,0 +1,17 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Zufferli, John\Sent Items
+ X-Origin: ZUFFERLI-J
+ X-FileName: john zufferli 6-26-02.PST
+ 
+ Karim, I don't want to wait till month end, let's adjust the numbers now and for the June 29 2nd order, lets take that value into June since it relates to July puts.
+ 
+  
+    Cc:	Gupta, Sanjay; Punja, Karim
+  
+ The post id I am looking at for Calgary is 11608. I am looking at the option liquidation report and all of the $65 puts are in the money and the $75 call is also in the money. Shouldn't all the liquidation values from the beginning of the month be a negative (representing positive liquidation) for the puts? The liq value for the call is CORRECT.
+ 
+ John

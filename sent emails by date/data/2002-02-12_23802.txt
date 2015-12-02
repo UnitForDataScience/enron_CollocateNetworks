@@ -1,0 +1,7 @@
+
+ 
+ The note "need to verify" appears on this slide, after the bullet "110,000 MMcfd annual average increase".
+ 
+ I calculated this average annual amount from the first bullet "CA's natural gas use will increase from 6,400 MMcfd in 2000 to 7,500 MMcfd in 2010".  The first bullet and the third bullet are from the same source as the graph, The California Energy Commission.  Specifically, it's from their "California Natural Gas Analysis and Issues" Staff Report, dated November 2000.  The CEC's more current report from October, 2001, did not include specific long-term demand projections (it is focused on infrastructure issues).
+ 
+ That's the source of the numbers on this slide.

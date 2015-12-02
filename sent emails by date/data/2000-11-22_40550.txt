@@ -1,0 +1,84 @@
+
+ 
+ FYI
+ 
+ 
+ 
+ Tod A Lindholm
+ 11/22/2000 11:12 AM
+
+  
+  
+ Since ETS has third party debt on it's books, the debt and cost of carry will 
+ be excluded from the calculation so as not to double count.  
+ 
+ Rick wants it to actualy be booked.  I lean towards just calculating it and 
+ not actually make entries (I know that entries will cause all sorts of 
+ additional issues).   Nothing has been formalized yet.
+ 
+ 
+ 
+ 
+ 
+ Rod Hayslett
+ 
+ 11/22/2000 11:01 AM
+
+  
+  
+ What do we do with debt on the books of the entities?  Ignore it?   And my 
+ understanding is that this will not be used for actual booking of anything  
+ in the books,
+ 
+ 
+ 
+ 
+ Tod A Lindholm
+ 11/22/2000 10:31 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+ Over the last few months, we have been working on a new methodology to 
+ measure and report business unit's retrurns on invested capital.   Several 
+ different variations were considered, and I am glad to report that Skilling, 
+ Causey and Fastow have approved the process outlined here.
+ 
+ Simply stated (with an example shown below):  Return on equity will be 
+ calculated based on a pre-determined debt/equity structure.  Business unit 
+ capital will include both on-balance sheet and off-balance sheet uses of 
+ capital and business unit's will be charged for the cost of their debt at 
+ Enron's cost of funds.  Business unit's should focus on improving their 
+ return on equity over time.
+ 
+
+ 
+ 
+ This metric will not replace other targets (i.e., IBIT and Funds Flow).  
+ 
+ We are currently working to overlay this approach to the submitted 2001 
+ Plans.  If you have questions, please contact myself or Mike Deville.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

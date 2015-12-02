@@ -1,0 +1,50 @@
+
+ 
+ 
+ 
+ 
+ Paulo Issler
+ 12/07/2000 01:49 PM
+
+
+  
+ 
+ I am working on that now.
+ 
+ 
+ 
+ 
+ Zimin Lu
+ 12/07/2000 11:26 AM
+
+
+  
+ 
+ 
+ I re-compiled Exotica.xll, so that the xcol function is a put on collar.
+ 
+ De-add in your Exotica. Add this special one. And use xcol for put.
+ 
+ Then delete the Exotica_xcol_putoncollar.xll
+ 
+ We will build in this functionality in near future.
+ 
+ 
+ Zimin
+ 
+ 
+ 
+ Paulo,
+ 
+ Can you add a flag to xcol function so that we can choose a put or call from 
+ the
+ spreadsheet ?
+ 
+ Thanks.
+ 
+ Zimin
+ 
+ 
+ 
+ 
+ 

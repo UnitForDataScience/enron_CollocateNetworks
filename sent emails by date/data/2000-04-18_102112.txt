@@ -1,0 +1,55 @@
+
+ 
+ 
+ 
+ 
+ Ron Nolte
+ 04/06/2000 01:15 PM
+
+   
+ Bob,
+ 
+ Ricky is in the process of changing TAGG Deal Clearing to be able to combine 
+ the deal leg
+ containing the Nymex ( fixed )  price and the deal leg containing the Gas 
+ Daily( float )  price onto one
+ confirm.
+ 
+ In order for this as well as the changes to the Settlement process  to work, 
+ the following rules
+ must be adhered to when the deal is captured.
+ 
+ 1) The fixed price must be entered as leg 1.
+ 2) The float price must be entered as leg 2.
+ 
+ 3) Leg 1 and leg 2 must be "linked" by clicking the "Link" button on the deal 
+ capture
+  window and by inserting a row as follows:
+ 
+  
+ 
+  The "Purpose" above will be listed as "Deal Link" when the picklist 
+ displays.  The "Link" can be
+  done from either leg 1 or leg 2.
+ 
+  4) The  confirm can only be created/revised/viewed/printed/faxed  from leg 1.
+ 
+  5) The clearing status of the deal can only be changed from leg 1.
+ 
+  Please note that  any change to the status of either leg will be reflected 
+ on the other
+  leg automatically; e.g., assume a confirm is created on leg 1,  the deal 
+ status of both 
+  legs will display "Generated".  Then assume someone changes leg 2 in Deal 
+ Capture,
+  the status of both legs in TAGG deal clearing will be automatically set to 
+ "Pending -
+  Revised after Generated".
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 

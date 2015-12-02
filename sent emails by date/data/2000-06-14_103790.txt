@@ -1,0 +1,82 @@
+
+ 
+ 
+
+ > 
+ >  >
+ >
+ > Hi Suanne,
+ >
+ > I am pleased to attach the revised ISDA Schedule and CSA which contains
+ > most of the revisions DLJ requested. I would also like to let you know
+ > about the following:
+ >
+ > 1. Payee Tax Representation: I sent DLJ's suggested clause to my Tax Dep't
+ > and they said that feel such language is insufficient to permit us to not
+ > have to withhold with respect to interest and dividend payments, each of
+ > which could arise during the course of our trading relationship.  My
+ > colleague in the Tax Dep't said he would prefer that DLJ certify that it
+ > is
+ > a foreign taxpayer entitled to receive payments under the document without
+ > reduction for withholding or other taxes.  He said that DLJ would not be
+ > able to certify to this if the form of the document is the usual very
+ > broad
+ > form whereby it permits transactions of every type (both on and off market
+ > swaps - off market swaps being swaps involving a lending aspect) and thus
+ > the underlying document might have to be curtailed.
+ >
+ > 2. Documents to be Delivered: For the time being, I have made a reference
+ > in Part 3 to "Corporate Documents" to be given by DLJ. Please let me know
+ > what these will be.
+ >
+ > 3. Calculation Agent: I still need to get the language from you that makes
+ > the both parties the CA.
+ >
+ > 4. Set-Off: As you requested, I had a look at amending our clause to more
+ > closely reflect the ISDA Set-Off Clause but with the inclusion of the
+ > Non-Defaulting Party's Affiliates. Upon review - the clause in the
+ > document
+ > is very similar to the ISDA clause except for the 1st two sentences which
+ > bring in the Non-Defaulting Party's Affiliates (which we have agreed to
+ > have). The only other sentence in the clause that differs from the ISDA is
+ > the one which talks about conversion of the Early Termination Amounts. Our
+ > language goes ahead and makes it clear that all amounts need to to be
+ > converted to the Termination Currency.  I think that is helpful.
+ >
+ > Thus I would propose to leave the Set-Off clause unamended.
+ >
+ > 5. Securities Rep's: We have been able to incorporate these with just a
+ > very few minor changes.
+ >
+ > 6. Resolution Time (CSA): I have discussed this with my Credit Officer and
+ > he thinks we really do need to have at least 2 Business Days to resolve a
+ > dispute.
+ >
+ > 7. Transfer of Collateral (all or just undisputed amount): Unfortunately
+ > my
+ > Credit Officer was unable to agree to transferring the whole amount
+ > requested, if part of the amount is in dispute.
+ >
+ > 8.Holding & Using Posted Collateral: I have reviewed this and the language
+ > we have proposed goes a lot further than what is in the printed CSA. For
+ > instance there is objective criteria contained in our language which is
+ > helpful to the Pledgor since it sets out that a party must have a certain
+ > credit rating to hold collateral. Also it sets out where collateral may be
+ > held. I would be happy to go through our suggested clause (g) and explain
+ > our reasons for asking to leave our proposed language in the CSA Schedule.
+ >
+ > The only other documents left to resolve are the Guarantees. I look
+ > forward
+ > to receiving your comments on ours (I believe we agreed to agree on a
+ > format and use it for both Guarantees).
+ >
+ > Kind regards,
+ >
+ > Shari
+ >
+ > (See attached file: 342a-ctr.doc) << File: 342a-ctr.doc >>
+ 
+  - Enron Gty to DLJ.doc
+  - Enron Multiple.DOC
+ 
+ 

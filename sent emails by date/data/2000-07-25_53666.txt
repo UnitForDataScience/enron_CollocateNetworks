@@ -1,0 +1,21 @@
+
+ 
+ 
+    
+ 	Enron North America Corp.
+ 	
+ 	 	
+ 
+
+   
+ FYI
+ 
+ http://lib.stat.cmu.edu/R/CRAN/
+ 
+ My first impressions are that R/S can be quite powerful but is not as 
+ intuitive as it might be (e.g. it has taken me quite some time to understand 
+ how to manipulate and collate data sets.)
+ For this reason, I have ordered a "Basics of S" book from Amazon.  If it 
+ turns out to be useful, I will pass on the title to you.
+ 
+ Grant.

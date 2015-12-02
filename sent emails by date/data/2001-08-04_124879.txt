@@ -1,0 +1,42 @@
+
+ 
+
+
+
+
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X-
+ X- X-b X-Folder: \ExMerge - Williams III, Bill\Sent Items
+ X-Origin: WILLIAMS-W3
+ X-FileName: 
+ 
+ Group,
+ We will be performing a new service for EES. On Monday, August 6th the ST-CALI desk will have submitted ancillary service bids to the CAISO for EES load.  LADWP will be providing the capacity (SPIN), we will be dispatched over the ADS system, and then need to call the amount into LADWP.  We need to keep track of the amount exercised.  We should do this in the Service Sheet and then record the amount dispatched on the sheet to EES on Tuesday morning as well.  The tags are in the front of the services book for Monday.  The shape is as follows.
+ 
+ Time			Volume			Tie Point     		Type
+ HE 7			6 MW			LA4-VictorvilleLugo	Spin
+ HE 8			6 MW			LA4-VictorvilleLugo	Spin
+ HE 9			6 MW			LA4-VictorvilleLugo	Spin
+ HE 10			6 MW			LA4-VictorvilleLugo	Spin
+ HE 11			6 MW			LA4-VictorvilleLugo	Spin
+ HE 12			6 MW			LA4-VictorvilleLugo	Spin
+ HE 13			6 MW			LA4-VictorvilleLugo	Spin
+ HE 14			6 MW			LA4-VictorvilleLugo	Spin
+ HE 15			6 MW			LA4-VictorvilleLugo	Spin
+ HE 16			6 MW			LA4-VictorvilleLugo	Spin
+ HE 17			6 MW			LA4-VictorvilleLugo	Spin
+ HE 18			6 MW			LA4-VictorvilleLugo	Spin
+ HE 19			6 MW			LA4-VictorvilleLugo	Spin
+ HE 20			6 MW			LA4-VictorvilleLugo	Spin
+ HE 21			6 MW			LA4-VictorvilleLugo	Spin
+ HE 22			6 MW			LA4-VictorvilleLugo	Spin
+ 
+ Please call me with any questions.
+ 
+ 503-887-3449-cell
+ 503-274-0502-home
+ 
+ Thanks,
+ Bill

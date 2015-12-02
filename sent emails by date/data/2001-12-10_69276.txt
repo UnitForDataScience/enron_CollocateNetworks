@@ -1,0 +1,10 @@
+
+ 
+ I have inactivated the following books on the website(all risk types) please verify they are inactive:
+ FT-VNG
+ FT-VNG-Storage
+ FT-VNG-Trans
+ Intra-VNG-Phy
+ 
+ There should only be one active book under VNG is FT-VNG-PMT-PRC(we will inactivate after value liquidates this month).  Please let me know if you have any questions.  Thanks.
+ PL

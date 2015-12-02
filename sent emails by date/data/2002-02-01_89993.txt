@@ -1,0 +1,18 @@
+
+ 
+ I agree with the delegation except for Chris Dorland.   Tim Belden needs to determine who validates the West Power curves.   With respect to vol curves, Steve Wang and Rob Stalford need to validate.
+  
+ What time period are we validating?
+ 
+  
+    Cc: Presto, Kevin M.; Dorland, Chris; Gilbert-smith, Doug; Davis, Mark Dana; Sturm, Fletcher J. 
+  
+ 
+ 
+ FYI - I spoke with Kevin today and he volunteered the following individuals to help you curve validation. 
+ Chris Dorland - West 
+ Doug Gilbert-Smith - ERCOT 
+ Dana Davis - NE 
+ Fletch Sturm - MW/SE 
+ 
+ Ed 

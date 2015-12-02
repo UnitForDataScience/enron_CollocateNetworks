@@ -1,0 +1,66 @@
+
+ 
+ No problem.
+ 
+ 
+ 
+
+ 	05/29/2001 01:20 PM
+ 		 
+
+
+
+ 		  
+ 
+ Tana/Kelly/Karen:
+ 
+ The product long descriptions below will fall under the new product type:  
+  CAN Newsprint Phy
+  
+ Credit (Tom Moran) has approved copying the profiles for the new product type 
+ from the following:
+ 
+  US Newsprint Phy
+ 
+ Please respond no later than 10 a.m. on Wednesday, May 30.
+ 
+ Thank you.
+ 
+ 
+ 
+  
+    Harry; Moran, Tom; Mao, Shari; Hoang, Charlie
+ Cc: Lees, Lisa; Sever, Stephanie; Jones, Tana; Lambert, Karen; Lombardi, 
+ Kelly; Sweitzer, Tara; Kenne, Dawn C.; Moorer, Torrey; Cass, Robert B.; 
+ Meredith, Kevin; Lozano, Melba; Alatorre, Carlos
+  
+ Please approve the following product type in Data Manager after 11:00 A.M.  
+ Attached are the GTC and long description.
+ 
+ CAN Newsprint Phy
+ 
+ CAN Newsprnt Phy 48.8 gm East Canada     Jul01           CAD/Mt
+ 
+ 
+ 
+ STEPS FOR APPROVAL:
+ 
+ click the  START button 
+ select  PROGRAMS
+ select  TEST APPLICATIONS
+ select ENRONONLINE CLUSTER(PROD)
+  PROCEED WITH USUAL LOGIN/PASSWORD 
+ click the Enron Online Production Cluster "START" button  
+ select EnronOnLine (this is the EOL Datamanager)
+  PROCEED WITH EOL LOGIN/PASSWORD
+ click on the "+" for EnronOnLine
+ click on the "+" for Product Types
+ click on the "+" for "Awaiting Approval" (OR  "Partially Approved")
+ select the product requiring review as stated in e-mail above
+ Right "mouse" click on "properties" to view product set-up 
+ TO APPROVE:  Right mouse click on "Approved"
+ 
+ 
+ 
+ 
+ 

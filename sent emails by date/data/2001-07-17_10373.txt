@@ -1,0 +1,15 @@
+
+ 
+ 	Dale, what is the timing for adding this information.  Also are you
+ 	or John setting up the meeting to discuss the accounting imbalance
+ 	info?  Thanks. Lynn
+ 
+  
+    Cc:	Blair, Lynn; Ratliff, Dale; Trevino, Linda
+  
+ Don,
+ Last week we talked about the Net IDD number displayed on the referenced report and the benefits of displaying the Net PNR activity separately from Net Packet activity. As a follow-up to that conversation I was able to confirm that the Service Sub Type in CMS was used to differentiate PNR contracts from Packets agreements in TMS.
+ PNR has No Contract "Service Sub Type"
+ Packets have a Service Sub Type of "A" (Seasonal), "B" (Backdraft) or "U" (Other). The Packet activity can be combined and reported as one number. 
+ In addition, I have asked Contracts to establish Service Sub Types of Traditional, Non Traditional, and Storage for Service Type: SBA Pack/Draft so that Pack & Draft activity can be reported separately from the other activity. It is my  recommendation that the SBA line on the subject report be changed to report Peak activity (Service Type: SBA Winter Peaking) separately from Traditional Pack/Draft. The Non Traditional and Storage Pack/Draft should be used in calculating the Unanticipated Swing but should not be displayed on the report.
+ If you have any questions or would like to discuss further, please call me     

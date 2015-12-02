@@ -1,0 +1,10 @@
+
+ 
+ The basis curves corresponding to deals listed are saved in O:\ Dropbox 
+ \Errol\natsourcebasiscurves.  I.T. is still working on a fix for the Gas 
+ Daily curves.  I will let you know when we have something from them.  I let 
+ them know this was a time sensitive issue.
+ 
+ Thanks,
+ 
+ Errol

@@ -1,0 +1,8 @@
+
+ 
+ 
+ FT Demand from SL to Z4	$.3522
+ FT Commodity from SL to Z4	$.0296
+ 
+ Fuel from SL to Z4		3.03% Winter     3.35% Summer
+ 

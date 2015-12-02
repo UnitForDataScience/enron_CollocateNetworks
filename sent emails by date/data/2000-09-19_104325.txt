@@ -1,0 +1,5 @@
+
+ 
+ For purposes of Paragraph 13 to the ISDA Credit Support Annex, the term 
+ "Valuation Date" shall mean any Friday during the Term of this Transaction or 
+ the following Business Day if such day is not a Business Day.

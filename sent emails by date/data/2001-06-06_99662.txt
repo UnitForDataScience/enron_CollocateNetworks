@@ -1,0 +1,26 @@
+
+ 
+ This is a new interconnect into the suction side of WT-1.  I think the capacity is going to be approximately
+ 50,000 mmbtu.  This may be able to flow sometime this or next. 
+ 
+ DS
+ 
+ 
+  	Karen Brostad 06/06/2001 08:46 AM 	
+ 
+
+  
+  
+ The following new point has been added to Transwestern POI system effective 6/1/01.
+ 
+ POI Name	TW/Duke Energy WT-1 Rec
+ POI TYpe	PDC
+ DRN #		296410
+ Station #	10186
+ Location	Sec 31, T20S, R32E, Lea County, NM
+ 
+ The transport contract that will use this point initially is CR# 27639
+ 
+ 
+ 
+  

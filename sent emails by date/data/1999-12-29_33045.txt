@@ -1,0 +1,29 @@
+
+ 
+ Could you see if the retail people could use this worksheet format? We may 
+ not be able to do this for everything but I believe we could use this format 
+ for Tennessee, CNG, Tennessee, Tetco and Texas Gas (excluding AGL).  What do 
+ you think?
+ 
+ 
+ 
+
+
+
+  
+ 
+ 
+ Here is a more updated volume breakdown.   We swing down on weekends (and
+ sometimes during the week if the customers shut down).   These volumes are 
+ good
+ except for Boston Gas and S. Ct.   We are waiting for the ldc demand curves 
+ and
+ Algorithms.   Those two ldc volumes represent our estimates.
+ 
+ 
+ Please let me know when you have a contract number.   Thanks.
+ 
+ 
+  - agt012000.xls
+ 
+ 

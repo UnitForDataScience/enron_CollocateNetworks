@@ -1,0 +1,12 @@
+
+ 
+ 
+ The FERC is presently deliberating on more restrictive rules, but I'll answer in the context of the current rules.
+ 
+ There are three main principles behind the current rules:
+ 1. Pipeline can't share shipper information with affiliate
+ 2. Pipeline can't share transportation info with affiliate 
+     
+ Shelley, dumb question, but I'm thinking in terms of general synergies for reorgco.  I am familiar with restrictions that prohibit operating info and preferential treatment to marketing affiliates of pipeline co's, but do the regulated pipeline co's have unrestricted access to the info from marketing affiliates?  My guess would be that the rule is asymmetric, but Enron always seemed to treat it as a two-way street.
+ Thx-
+ Davis

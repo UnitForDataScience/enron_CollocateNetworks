@@ -1,0 +1,49 @@
+
+ 
+ 
+ 
+ 
+ Zimin Lu
+ 12/01/2000 02:44 PM
+
+
+  
+ 
+ 
+ John,
+ 
+ We finished the Version 2 of the simulation model which deals with the
+ open-close trading versus the continuous trading in the previous version.
+ 
+ I added the cummulative P/L as an output.   There are a few apparent trading
+ strategies from this model:
+ 
+ 1) Higher bid/offer spread, more profit
+ 2) More Daily # of trades, more profit
+ 3) Smaller net open positions allowed, more profit
+ 
+ 1) and 2) are obvious, but 3) is more interesting.  It means that we are 
+ better off
+ if we do not allowed net open positions at end of the day.  In a trending 
+ market,
+ this makes an intuitive sense, for example, in the case of bull market we are 
+ short as a market maker and we can avoid the loss at the higher openning price
+ by keeping zero or small net short positions.
+ 
+ I have attached the model with this mail, and I'll  be happy to discuss the 
+ model
+ in more details with you.
+ 
+ 
+ Zimin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

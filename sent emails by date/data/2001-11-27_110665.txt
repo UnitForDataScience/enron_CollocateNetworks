@@ -1,0 +1,18 @@
+
+ 
+ I think this is all for now...of course, he should have access to all of the items within the West directories below.  Thanks.
+ 
+ Mat
+ 
+  
+     
+ Besides the following, what else does Zac need access to?
+ 
+ O: ECT/West/Fundamentals/Demand/gas_power0725
+ O:ECT/West/Fumndamentals/Demand/Regressions
+ R: Webcontent/gastrade/west_desk/power database
+ 
+ Let me know.
+ 
+ Thanks
+ Ina

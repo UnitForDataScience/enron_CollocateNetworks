@@ -1,0 +1,11 @@
+
+ 
+ Please unvalidate deal 229101 so I can change the buyer from ENA - Im Bug to 
+ ENA - Im Market East.
+ 
+ This transport contract is set up under ENA - Im Bug twice (deal 229101 and 
+ 77563)
+ 
+ Thanks.
+ 
+ I also need to make sure the end term date on both deals is 3/31/2000.

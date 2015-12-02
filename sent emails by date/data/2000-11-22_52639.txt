@@ -1,0 +1,36 @@
+
+ 
+ Stinson,
+ 
+ Should we do it?
+ 
+ Vince
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ This request has been pending approval for  2 days and you are the 
+ alternate.  Please click 
+ http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000007876&Page=
+ Approval to review and act upon this request.
+ 
+ 
+ 
+ 
+ 
+ Request ID          : 000000000007876
+
+ Request Create Date : 11/20/00 2:36:29 PM
+
+ Resource Name       : \\enehou\houston\common\Research - [Read/Write]
+ Resource Type       : Directory
+ 
+ 
+ 
+ 
+ 

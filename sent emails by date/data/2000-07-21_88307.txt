@@ -1,0 +1,29 @@
+
+ 
+ Debra Perlingiere
+ Enron North America Corp.
+ 1400 Smith Street, EB 3885
+ Houston, Texas 77002
+
+ Phone 713-853-7658
+ Fax  713-646-3490
+ 
+ 
+ 
+ 
+ 	Office: Save As... responds very slowly when naming the file
+ Mike Hernandez on 06/12 at 10:04 AM
+ Category: Applications 
+ 
+ 
+ Problem: When a document is created or renamed using the Save As option under 
+ the File menu, the system responds very slowly when typing in a file name.
+ 
+ Cause: Office keeps a directory full of shortcuts to recently opened files.  
+ As this directory gets larger, the problem starts to occur.
+ 
+ Resolution: Delete the h:\application data\microsoft\office\recent 
+ directory.  It will be re-created when the next file is saved.  Note: This is 
+ a workaround, as this directory will re-populate itself over time and the 
+ problem will resurface.  A long-term solution is being researched.
+ 

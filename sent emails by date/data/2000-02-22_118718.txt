@@ -1,0 +1,8 @@
+
+ 
+ I have read the Lucent CA and it is OK to go ahead and keep them on the list 
+ - the CA seems to cover a relatively small transaction and expires on March 
+ 25 anyway.
+ 
+ We are in the process of pulling the CA's for Dow, DuPont, GE, IMC, 3M, 
+ Pitney Bowes, Praxair and Sprint.

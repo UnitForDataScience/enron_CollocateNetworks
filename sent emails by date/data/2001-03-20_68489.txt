@@ -1,0 +1,31 @@
+
+ 
+ FYI
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ The broker Amerex is no longer under the short name of AMERX in deal 
+ capture.  From this point on, the short name is AMERG, which stands for 
+ Amerex Natural Gas, Ltd.  AMERX will now default to Amerex Petroleum, which 
+ is incorrect.  Also, the broker Spectron is no longer SPECT.  The new short 
+ name is SPECI, which stands for Spectron Energy, Inc. 
+ 
+ If you have any questions, please let me know.
+ 
+ Thanks,
+ 
+ Patrick Mulvany

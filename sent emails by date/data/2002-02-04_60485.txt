@@ -1,0 +1,13 @@
+
+ 
+ I think this is one for you Anne - can you help?
+  
+    Cc: 
+  
+ 
+ 
+ How would you describe (in terms that a regulator would understand) what is transfered to UBS?  I am asking because I want to make sure that I have a good grasp of what is going to UBS before our FERC pre-meeting.
+ 
+ My understanding is that we are providing software code to is used (a) for all backoffice applications and (b) for a trading platform.  Anything else?
+ 
+ Jim 

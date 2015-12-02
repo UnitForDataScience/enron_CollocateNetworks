@@ -1,0 +1,50 @@
+
+ 
+ This message was returned to me - it looks like your name is misspelled in 
+ the Performance Management program.
+ 
+  (Lotus SMTP MTA v4.6.1  (569.2 2-6-1998)) with SMTP id 862566BB.00732E41; 
+ Fri, 13 Nov 1998 14:57:54 -0600
+   by dserv1.ect.enron.com (8.8.8/8.8.8) with SMTP id OAA21564
+
+
+ X-Authentication-Warning: dserv1.ect.enron.com: [172.16.161.191] didn't use 
+ HELO protocol
+
+
+  Mime-Version: 1.0
+   
+ Nov 20, 1998 -  DEADLINE TO REMEMBER!
+ 
+ NOTE:  YOU WILL RECEIVE THIS MESSAGE EACH TIME YOU ARE SELECTED AS A REVIEWER.
+ 
+ You have been selected to participate in the 1998 Year-End Performance 
+ Feedback process by providing meaningful feedback for specific employee(s) 
+ that have been identified for you.  Your feedback plays an important role
+ in the performance evaluation process, and your participation is very 
+ critical to the success of ECT's Performance Management goals.
+ 
+ Please provide feedback on the employee(s) listed below by accessing the 
+ Performance Management System and completing an online feedback form as was 
+ described in the "ECT Performance Management Quick Reference Guide".  You may
+ begin your feedback input immediately.  Please have all feedback forms 
+ completed no later than Friday, November 20th.
+ 
+ If you have any questions regarding the Performance Management System or your 
+ responsibility in the process, please call the Performance Management User 
+ Support Hotline at the following numbers:
+ 
+ For U.S. Payroll Employees  -  713-853-4777, Option 4
+ For Canada Payroll Employees  -  403-974-6724
+ For UK and other international employees  -  44-171-316-5314 or 5419
+ 
+ Thank you for your participation in this important process.
+ 
+ The following list of employees is a CUMULATIVE list of all feedback requests 
+ that have an "OPEN" feedback status.  An employee's name will no longer 
+ appear once you have completed the feedback form and submitted as "COMPLETE"
+ in the Performance Management System.
+ 
+ 
+    GROTH, MAGNUS
+    SHACKLETON, SARA

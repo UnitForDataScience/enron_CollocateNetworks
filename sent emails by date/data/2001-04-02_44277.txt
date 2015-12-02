@@ -1,0 +1,34 @@
+
+ 
+ Deirdre,
+  A red line provided by Kim Decell is attached at the end of this email.  
+ Without getting into the language specifics which need to be addressed, the 
+ areas of concern relate to Transaction formation procedure (verbal versus 
+ signed agreement), Nominated Quantity and Maximum Daily Quantity is used 
+ interchangeably when the term most likely should be Daily Contract Quantity 
+ or Minimum Daily Quantity.  Term Purchase Quantity is used which means that a 
+ default cannot occur until the end of the term when there is no longer any 
+ time left for the buyer to be able to request the necessary quantities 
+ (default to be determined by using the last day(s) of term prices eventhough 
+ default may have occurred on the front end of transaction), Provides for 
+ fixed prices without obligation of any fixed volumes, Point of Sale and Point 
+ of Receipt needs to be made the same, Limitation of Liability and 
+ Responsibility for Taxes need to be changed to Enron language, Triggering 
+ Events needs to be expanded to fit Enron concepts, No free walks for 
+ regulatory risks, force majeure needs to address Enron concepts, corporate 
+ guaranty needs to be payment not performance, collateral threshold needs to 
+ be reinserted and updated by Credit for Master verses one-off language.
+ 
+
+  
+  
+ 
+ Kim,
+      I am again in receipt of the proposed Wisconsin Public Service form of
+ Master Contract.  My comments remain the same as they were last year.  If
+ we need to get to a contract quickly, I would suggest we start with the
+ version that was signed last year, or simply amend last years contract for
+ this years volume and price.  What is your preference?
+ 
+ 
+  - Enron WPS Master 2.28.01 vs 2000.doc

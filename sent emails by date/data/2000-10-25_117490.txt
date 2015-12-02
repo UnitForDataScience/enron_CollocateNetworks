@@ -1,0 +1,35 @@
+
+ 
+ The confirm form is one of the many current templates used by the confirm 
+ desk depending on the specific transaction type and the counterparty.  For 
+ instance, this template is not the used for a swap (e.g. not a cap, floor, 
+ collar or swaption) and would not be used even for a plain vanilla swap if 
+ the customer had not signed an ISDA Master Agreement.  The index language can 
+ be used in a variety of contexts but again depends on exactly which type of 
+ trade you are doing.  But I thought you guys had decided to use the first 
+ price published in the following month rather than the average of the entire 
+ month language attached so this may not be the final version.
+ 
+ 
+ 
+
+ 	10/25/2000 04:02 PM
+ 		 
+
+ 		  		  
+ These are the documents to which I referred.
+ thanks,
+ kim
+ 
+
+
+  
+  
+ Here is the confirm template (used when an ISDA Master is in place)
+ 
+ 
+ This is the index language for EnronOnline.  We would use something similar 
+ for the offline confirms.
+ 
+ 
+ 

@@ -1,0 +1,7 @@
+
+ 
+ Attached is TVA language, to which I made a few changes.  Concept is fine, 
+ but before we start using and drop in confirm I will need to see the rest of 
+ a draft confirm that we use with TVA.
+ 
+ 

@@ -1,0 +1,5 @@
+
+ 
+ As a follow-up to our conversation, the referenced counterparty is not an 
+ eligible swap participant, therefore we need to shut them down for all 
+ financial.

@@ -1,0 +1,53 @@
+
+ 
+ I have read this series of e:mails but I am not sure that I fully understand 
+ the issue.  Did Willie not do his job?  Are there problems with how SAP 
+ works?  Are both of these an issue?  Please let me know if we have a far 
+ reaching problem with SAP and netting.  Thanks.  
+    
+ 	
+ 	
+ 	 	
+ 
+
+   
+ Russell - as I remember, Willie finaled the Supply Verification and it was 
+ interfaced to SAP.  This is fine, and then Willie was going to net the A/P 
+ and A/R.  SAP went down after the statement was interfaced, but before Willie 
+ was able to block or net the payment.  When SAP came back up the next day, 
+ the payment had already gone out and we were unable to recall the wire.  If 
+ you have any further questions about this, call me.  Thanks.
+ 
+ 
+    
+ 
+ 
+       09/22/2000 01:46 PM	
+ 	
+ 	
+ 	                           
+ 	
+ 
+
+
+  
+ Willie,
+ 
+ Per our earlier conversation, can you or Audrey or Bryce, please give further 
+ explain to me as to why the funds were wired to Perry Gas for purchases from 
+ the counterparty instead on netting the amounts between purchases and sales.  
+ You mentioned to me the process of overriding the counterparty's that net on 
+ SAP, although because of timing, the override did not take place.
+ 
+ Thank you,
+ 
+ Russell
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

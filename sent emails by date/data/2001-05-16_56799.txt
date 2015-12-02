@@ -1,0 +1,3 @@
+
+ 
+ http://clients.mapquest.com/netscape/mqtripplus?OPC=null&ADDR_ORIGIN=&CITY_ORIGIN=Newark&STATE_ORIGIN=NJ&ZO=&OCC=US&DPC=null&ADDR_DESTINATION=buskhill+Falls+road&CITY_DESTINATION=Tamiment&STATE_DESTINATION=PA&ZD=18371&DCC=US&results_display_mode=overview&DetailedNarr=1&x=28&y=22

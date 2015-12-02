@@ -1,0 +1,4 @@
+
+ 
+ http://www.thomsonfn.com/stockquote/private/fcgi-bin/tipsheet_ts?group=ts&stq_
+ tmpl_name=stock_quote.html&ticker=mksi

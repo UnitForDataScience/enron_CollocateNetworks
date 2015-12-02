@@ -1,0 +1,14 @@
+
+ 
+ 
+ Primary Receipt Point			Volume
+ 012181  Wright SMA			35,000
+ 
+ Primary Delivery Point			Volume
+ 020110  Clinton Massachusetts		1,000
+ 020111  Leominster Massachusetts	1,000
+ 020116	Revere Massachusetts		11,200
+ 020191	Spencer Massachusetts		1,800
+ 020285	Mendon Mass TIe Over		20,000
+ 
+ Total					35,000

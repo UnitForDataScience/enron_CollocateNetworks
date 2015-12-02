@@ -1,0 +1,28 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Zufferli, John\Sent Items
+ X-Origin: ZUFFERLI-J
+ X-FileName: john zufferli 6-26-02.PST
+ 
+ I tried to answer you but my response was returned undelivered.  Basically, the pool is agnostic, it pays power producers for the pyhsical energy delivered to the grid and it charges power consumers for energy taken from the grid.  Any financial arrangements between the buyers and sellers are not known to the pool.  The only mechanism the pool uses for physical power transactions is the direct sale mechanism.  The terms and volume of these direct sales are entered in the pool's trading system.  The pool then subracts the volume of the direct sale from the consumers and producers meter and pays/charges the producer/consumer on the net volume (i.e actual production-direct sales or actual consumption-direct sales)
+ 
+  
+
+   Cc:	Conwell, Wendy
+  
+ 
+ Derek/John,
+  
+ Quick question... from what I have read, it  appears as though the way the Power Pool works, the Pool settles with the buyers  and sellers each month.  However,what happens when we contract with a  counterparty directly?  Does the pool collect payment due for energy  delivered under a bilateral contract and then forward payment onto the  supplying party?  Or does the financial settlement occur directly between  Enron and the counterparty?  Please advise,
+  
+ Thanks,
+  
+ Wendy
+  
+  
+
+  
+ PSS-  Hey John...The Rimrock was beautiful and  dinner was incredible!  Thanks for the  recommendation.

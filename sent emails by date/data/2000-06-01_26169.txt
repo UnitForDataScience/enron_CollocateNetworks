@@ -1,0 +1,18 @@
+
+ 
+ This is a estimate for UA4, fuel, loss, and various other operational 
+ usages.  This deal should be handled like the other operational tickets in 
+ the system.
+ 
+ D
+ 
+ 
+    Aimee Lannou                06/01/2000 11:19 AM
+ 
+
+   
+ Daren - Is there a reason there is a nom of 20.000/day at meter 385?  This is 
+ a non-allocatable meter.
+ 
+ AL
+ 

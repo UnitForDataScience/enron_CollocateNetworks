@@ -1,0 +1,37 @@
+
+ 
+ FYI
+ 
+    
+                         	
+ 	Enron Technology
+ 	
+ 	 	
+ 
+
+
+
+
+
+
+
+
+
+
+  
+ The following summarizes the decisions made during our  user & IT joint 
+ meeting today regarding the handling of CES historical data.
+ 
+ A.  Bryce Baxter will coordinate with all user groups to identify CES reports 
+ that need to be actually printed as hard copy or transfered to files that 
+ will be accessed               via the Electronic Document Management system.
+ B.  Jeff Peoples will be working with Bryce Baxter to produce reports using 
+ CES system via ISDN line at Enron building - this will continue to be part of 
+ his duty until  the job is done (Jeff joined ENA as a member of Sitara group).
+ C.  Larry Daze will be working with Jeff Peoples and Bryce Baxter to ensure 
+ all reports are loaded on our EDMS with proper indexing.
+ D.  No need for manupulating CES history data is necessary  (i.e. downloading 
+ on spreadsheets).  Therefore, no data will be kept on the disk other than 
+ EDMS.
+ 
+ 

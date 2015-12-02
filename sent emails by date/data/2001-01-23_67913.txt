@@ -1,0 +1,9 @@
+
+ 
+ Thanks for your help.  This sounds like a good fit for us.  The only issues I 
+ have or need addressed is for this file to have the same name and have the 
+ curves in the same cells so that we can just link to the file in our curve 
+ file.  The other concern is that the data be there by 2:30 p.m. 
+ everyday(prices for the next gas day).  Thanks so much for your help.
+ PL
+  

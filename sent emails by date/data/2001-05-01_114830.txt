@@ -1,0 +1,44 @@
+
+ 
+ 598166 - changed to 50 mw
+ 
+ 598640 - changed to no broker
+ 
+ 598521 - powerex sale changed to prebon for broker
+ 
+ 
+ 
+ 
+ 
+
+ 05/01/2001 01:52 PM
+
+  
+  
+ 
+ 
+ BLOOMBERG
+ 
+ Chris Mallory
+ deal 598166
+ mw should be 50 not 25 per Bloomberg
+ 
+ 
+ 
+ 
+ 
+ AMEREX WEST
+ Chris Mallory
+ dela 598640
+ Amerex does not recognize
+ 
+ 
+ 
+ 
+ 
+ PREBON WEST
+ 
+ Dianna 
+ Missing this deal:
+ Enron sells to Powerex 50 mw MidC light at $150 for 5/2
+ 

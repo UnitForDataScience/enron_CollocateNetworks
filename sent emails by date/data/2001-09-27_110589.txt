@@ -1,0 +1,18 @@
+
+ 
+ NG	PRC	
+ IF-ELPO/SJ	INDEX	
+ CIG/RKYMTN	INDEX	
+ NWPL_ROCKY_M	INDEX	
+ NW STANF/1ST	INDEX	
+ KERN/RIVER	INDEX	
+ PGE/TOPOCK	INDEX	
+ NGI-SOCAL	INDEX	
+ PGE/CG	INDEX	
+ IF-ELPO/PERMIAN	INDEX	
+ 
+ Maria,
+ 
+ I don't remember exactly which locations you need the index curves for, but these should give you a start.  Let me know which ones, I've left out from your list.
+ 
+ Mat

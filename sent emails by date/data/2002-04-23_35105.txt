@@ -1,0 +1,23 @@
+
+ 
+ 
+ 
+ Tenn Net 284 Contract
+ 
+ Commodity		$.0000
+ ACA			$.0021
+ GRI			$.0055
+ 
+ Total			$.0087
+ 
+ Fuel			1.31%
+ 
+ 
+ Iroq
+ Commodity		$.0036	  = .003 -.0001 + .0007  ( RTS Commodity - TCRA + Deferred Asset Surcharge)
+ ACA			$.0021
+ GRI			$.0000	Note: GRI does not apply on this path because Iroq delivers gas to Tenn at wright (non GRI point)
+ 
+ Total			$.0057
+ 
+ Fuel			.5%   Note:  The Iroq Tariff allows them to charge up to 1% fuel, but I believe the max is 1% for Zone 1 to Zone 2 and .5% for Zone 1 to Zone 1 but I didn't read that in the tariff.  I think Iroq might have told me that back in normal times.

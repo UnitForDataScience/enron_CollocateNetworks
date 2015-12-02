@@ -1,0 +1,15 @@
+
+ 
+ Peoples - expires October 2004
+ Index risk: Chicago
+ Basis risk: Chicago, NGPL Mid-continent, Trunkline, Ventura
+ 
+ Sithe - expires December 2014
+ Index risk
+ Basis risk: ANR-Southeast, ANR - Southwest, PEPL
+ 
+ Northern Border Transport  Monchy & Ventura to Chicago - expires December 2008
+ Basis spread risk between Ventura and Chicago
+ 
+ Hunter
+ x34772

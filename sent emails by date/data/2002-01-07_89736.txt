@@ -1,0 +1,22 @@
+
+ 
+ Yes.
+ 
+  
+
+  
+ 
+ This request has been pending your approval for  3 days.  Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000080120&Page=Approval to review and act upon this request.
+ 
+ 
+ 
+ 
+ 
+ Request ID          : 000000000080120
+ Request Create Date : 1/2/02 8:03:08 AM
+
+ Resource Name       : eConnect - VPN  Tier 2 - Full Access
+ Resource Type       : Applications
+ 
+ 
+ 

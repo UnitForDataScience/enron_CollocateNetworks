@@ -1,0 +1,29 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X-
+ X- X-b X-Folder: \ExMerge - Richey, Cooper\Sent Items
+ X-Origin: RICHEY-C
+ X-FileName: cooper richey 6-26-02.PST
+ 
+ that motherboard does look sweet!  why the scsi drives though?  personally, i want to find a RAID card that can handle RAID5 (everything i've seen is 0,1,or 0+1) and then link up a bunch of smallish IDE drives - if the controller is good, you don't need super fast and expensive drives, so you get speed and redundancy.  as i look at hardware, i can't believe how much enron was paying compaq for hardware - it's amazing.  as for parts, what do you think about ordering from the cheapest U.S. source and paying duty?   
+ 
+ coffee or lunch would be great.  supposed to be big news about the enron auction today, but things are very slow and i'm more or less available any time - whenever you're next in town, give me a buzz, or if you're looking for a reason to come into town, how about tuesday or wednesday 
+ 
+ On Wed, 9 Jan 2002 13:31:20
+  Richey, Cooper wrote:
+ >hey greg,
+ >
+ >happy new year.  i can't remember when you were taking your trip to france, but i hope things are going well.  i'm back in town now after a long and peaceful break - mainly just waiting to see what happens to the enron trading operations.
+ >
+ >where did you buy the hardware when you built your servers?  i'm thinking of building a database server and am not sure if its best to mail order or buy in person somewhere in town.
+ >
+ >hope you're well and talk to you soon,
+ >cooper
+ >
+ >
+ >
+ >
+ >

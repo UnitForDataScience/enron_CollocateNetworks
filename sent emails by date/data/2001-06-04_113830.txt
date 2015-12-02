@@ -1,0 +1,29 @@
+
+ 
+     Its a bridge to Sun/Oracle, so i can run ERMS portcalc, curveview, ect from my PC
+         
+  
+   
+
+   Cc: 
+
+ 
+ 
+ 
+ You have received this email because the requester specified you as their Manager. Please click <http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000038172&Page=Approval> to review and act upon this request.
+ 
+ 
+ 
+ 
+ Request ID          : 000000000038172
+ 
+ Request Create Date : 6/1/01 9:47:25 AM
+ 
+
+ 
+ Resource Name       : Exceed
+ 
+ Resource Type       : Applications
+ 
+ 
+ 

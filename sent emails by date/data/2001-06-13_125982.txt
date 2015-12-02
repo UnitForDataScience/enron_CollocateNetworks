@@ -1,0 +1,58 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Zufferli, John\Sent Items
+ X-Origin: ZUFFERLI-J
+ X-FileName: john zufferli 6-26-02.PST
+ 
+ Does this information reflect the additions of the IBOC or not? Otherwise the info seems to be what is going on right now.
+ 
+  
+ >  > 
+
+
+
+
+
+ > (E-mail); Byron Dudley (E-mail); Dale Mitchell (E-mail); Don Adair
+ > (E-mail); Doug Hincks (E-mail); Doug Little (E-mail); Doug Smeall
+ > (E-mail); Geoff Wagner (E-mail); Glen Sutton (E-mail); Jim Balshaw
+ > (E-mail); Jim Capp (E-mail); Ken Willis (E-mail); Kevin Berg (E-mail);
+ > Kevin Billinton (E-mail); Kim Logan (E-mail); Ligong Gan (E-mail); Mike
+ > Asgar-Deen (E-mail); Mike MacDougall (E-mail); Mike Windsor (E-mail);
+ > Nigel T. J. Pimblett (E-mail); Otto Lenz (E-mail); Peter Schubert
+ > (E-mail); Randy Rowland (E-mail); Taras J. Konowalec (E-mail); Tony
+ > Rutkunas (E-mail); Vipin Prasad (E-mail)
+ > Cc:	Ritter, Fred; Baker, Rob; Johnson, Katie
+ >  >
+ >
+ > Review of EAL Policy OP-333
+ >
+ > ESBI Alberta Ltd (EAL) and the Power Pool of Alberta (PPoA) have, upon
+ > request, reviewed the Alberta to BC Hydro export transfer levels.  The
+ > levels, shown on the curve in TA-OP 333 on page 13, and tabulated by the
+ > PPoA in POB - 12, have been reviewed to more accurately reflect transfer
+ > levels and show a smoother transition especially at the lower end of the
+ > export curve at 150 MW.  The review does not show transfer levels which
+ > deviate from the curve published in OP-333 and does not reflect any new
+ > information regarding the interconnection to BC Hydro.
+ >
+ > Confirmation is required from stakeholders, and we request a response by
+
+ > should be directed to either Robert Baker or Fred Ritter.
+ >
+ >  << File: OP-333_Final.doc >>
+ >
+ > Jennifer M. Churchill-Browne
+ > Engineering Clerk
+ > ESBI Alberta Ltd.
+ > Phone: 403-705-5264
+ > Fax: 403-266-2128
+
+ > For the latest information from Alberta's Transmission Administrator,
+ > visit our web site at www.eal.ab.ca
+ >
+ 
+  - op-333-update.xls << File: op-333-update.xls >> 

@@ -1,0 +1,14 @@
+
+ 
+ has anyone notified EOL of our flip-out choice.  I think the product would 
+ work like this:
+ 
+ Chic - Peoples      June one day withdrawal / July ratable 
+ injection                      .015 bid     .025 offer
+ Chic - Peoples      June balance of month withdrawal / July ratable 
+ injection    .015 bid     .025 offer
+ 
+ I think the rest of month would be more popular but we should give both a 
+ try.  Also we need to work on an auto hedge feature for the Chicago office.
+ 
+ call me

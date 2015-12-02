@@ -1,0 +1,67 @@
+
+ 
+ Ok for me.
+ 
+ 
+ 
+
+ 	04/24/2001 04:17 PM
+ 		 
+
+
+
+ 		  
+ 
+ Tana/Kelly/Karen:
+ 
+ The product long descriptions below will fall under four new product types:  
+   US Propane Fin Opt Call
+   US Propane Fin Opt Put
+   US PurityEthane Fin Opt Call
+   US PurityEthane Fin Opt Put  
+  
+ Credit (Tom Moran) has approved copying the profiles for the new product type 
+ from the following:
+ 
+   US Propane Fin Swap
+ 
+ Please respond no later than 10 a.m. on Wednesday, April 25.
+ 
+ Thank you.
+ 
+ 
+  
+    Tom; Swinney, John
+ Cc: Hunter, Larry Joe; Lees, Lisa; Sever, Stephanie; Jones, Tana; Lambert, 
+ Karen; Lombardi, Kelly; Sweitzer, Tara; Kenne, Dawn C.; Moorer, Torrey; Cass, 
+ Robert B.; Meredith, Kevin; Walker, Chris; Jackson, Lee; Gockerman, Matthew F.
+  
+ Your review and approval of the following product types in the EOL 
+ Datamanager is needed (for directions on approval , please see steps for 
+ approval at the bottom of this e-mail). If you have any questions please call 
+ me at ext. 58986.   
+ 
+ 
+ Trader: Lee Jackson
+ 
+ 
+ 
+ 
+ 
+ 
+ STEPS FOR APPROVAL:
+ 
+ click the  START button 
+ select  PROGRAMS
+ select  TEST APPLICATIONS
+ select ENRONONLINE CLUSTER(PROD)
+  PROCEED WITH USUAL LOGIN/PASSWORD 
+ click the Enron Online Production Cluster "START" button  
+ select EnronOnLine (this is the EOL Datamanager)
+  PROCEED WITH EOL LOGIN/PASSWORD
+ click on the "+" for EnronOnLine
+ click on the "+" for Product Types
+ click on the "+" for "Partially Approved"
+ select the product requiring review as stated in e-mail above
+ Right "mouse" click on "properties" to view product set-up 
+ 

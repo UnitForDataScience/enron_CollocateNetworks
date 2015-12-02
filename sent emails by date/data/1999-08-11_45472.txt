@@ -1,0 +1,8 @@
+
+ 
+ The ISDA Multicurrency Agreement Schedule has been approved and moved into 
+ the attorney forms bank.  It is located at o:legal\atty.fms\swaps\current 
+ forms\isda-multicurrency.doc.
+ 
+ The old ISDA Multicurrency Agreement Schedule is located at 
+ o:legal\atty.fms\swaps\old forms\old2101a#4.doc.

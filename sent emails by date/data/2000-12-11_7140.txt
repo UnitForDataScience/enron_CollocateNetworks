@@ -1,0 +1,44 @@
+
+ 
+ Did Debbie talk with the two of you before putting together her memo?  Is she 
+ raising this to me because she wasn't comfortable with the outcome of her 
+ conversations with you two, or did she skip that step?  Just curious, before 
+ I send any type of response.  I would need details from you around the 
+ process for updates to Entelligence and Global Counterparty.  Surely one 
+ feeds the other?  
+    
+ 
+ 
+         12/11/2000 11:42 AM	
+ 	
+ 	
+ 	                           
+ 	
+ 
+
+
+
+
+  
+ Sally,
+ 
+ I have been made aware of a disconnect between the data held in Global 
+ Counterparty and in Global Companies ( Entelligence). Much effort has been 
+ put forth in  "cleansing" the parent/subsidiary information presented in 
+ Entelligence, yet the same information is not being replicated in GCP except 
+ for on an ad hoc, manual basis. 
+ 
+ What is the standard for data population in GCP vs Entelligence? Should 
+ changes and corrections in Entelligence not flow to GCP since our risk and 
+ trading systems are based on the information housed therein? What process and 
+ or systems enhancements are necessary to accomplish this end result?
+ 
+ It appears we have a major GCP cleanup in the works while much of the work 
+ has been already been done for Entelligence. As we struggle to report trading 
+ positions properly,  let's take advantage of our in house knowledge and share 
+ counterparty data validation results in order to minimize research and data 
+ population efforts.
+ 
+  Your comments and ideas are welcome. 
+ 
+ Debbie

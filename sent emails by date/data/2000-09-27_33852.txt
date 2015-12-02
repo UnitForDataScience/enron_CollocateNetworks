@@ -1,0 +1,4 @@
+
+ 
+ I need the WSS meter number.  I would like to get that from VNG.  I'm sure we 
+ don't have that set up in our system.

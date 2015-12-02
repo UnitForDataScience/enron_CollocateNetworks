@@ -1,0 +1,7 @@
+
+ 
+ I printed out the referenced list that you sent me, but it has some 
+ information on it that I don't think we necessarily want to show the NYMEX.  
+ Specifically, your last two columns that show "cmbTaxType" and "tg/Active".  
+ Is there any way you can reprint the list only showing the name of the 
+ corporation and the place of incorporation?  Thanks.

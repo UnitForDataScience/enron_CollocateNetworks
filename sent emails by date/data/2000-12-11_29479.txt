@@ -1,0 +1,33 @@
+
+ 
+ pls print.  thanks df
+ 
+ 
+ 
+ Debbie Moseley
+ 12/08/2000 04:16 PM
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+ Please Note:
+ 
+ We have changed the correlation of the Transwestern's hedges to the same 
+ index(El Paso Permian) that the derivatives were transacted.  We feel it is 
+ appropriate to make this correlation change due to management's anticipation 
+ to make the 2001 sales at an El Paso Permian index.  Due to this change TW 
+ has a perfect correlation, therefore the associated Value at Risk  will be 
+ zero.
+ 
+ 
+ 
+ 

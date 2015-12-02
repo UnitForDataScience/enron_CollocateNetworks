@@ -1,0 +1,7 @@
+
+ 
+ Can you set up mids for the following locations please:
+ APLP - Intramonth curve - Alliance, GD curve GDP-Alliance
+ NIPS - intramonth curve- NGI/CHI./NIPSCO, GD Curve GDC-CHI./NIPSCO
+ Thanks.
+ PL

@@ -1,0 +1,13 @@
+
+ 
+ Please set up the following CES contract with ENA as agent
+ 
+ Pipeline CGAS
+ Firmness IT
+ Rate Sched IT
+ Type  Transportation
+ Term  1/1/2000 - 1/31/2000 evergreen
+ k#  38295
+ 
+ Thanks
+ 

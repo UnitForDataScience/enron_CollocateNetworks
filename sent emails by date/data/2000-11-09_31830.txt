@@ -1,0 +1,62 @@
+
+ 
+ My Tetco schedulers have not gotten back to me on whether we have shipped gas 
+ on these contracts.  I'll try to check that myself today.
+ 
+ 
+ 
+ 
+ Alfonso Trabulsi
+ 11/08/2000 05:00 PM
+
+   
+ Have you changed these yet?
+ 
+ 
+ 
+ Chris Germany
+ 11/07/2000 03:51 PM
+
+
+  
+ Have we scheduled any gas on the following contracts?
+ 
+ 
+ Deal  contract
+ 456640  894232
+ 456762  894233
+ 459025  894199 
+ 459064  894244  
+ 459070  894245
+ 459216  894199
+ 
+ 
+ 
+ 
+ 
+ 
+ Alfonso Trabulsi
+ 11/07/2000 03:14 PM
+
+   
+ 
+ 	
+ 
+ Deal numbers 
+ All these deal have Texas Eastern Gas Pipeline as the counter party ... They 
+ should be Texas Eastern Gas Transmission Company.
+ 456640
+ 456762
+ 459025
+ 459064
+ 459070
+ 459216
+ 
+ Thanks
+ AT
+ 
+ 
+ 
+ 
+ 
+ 

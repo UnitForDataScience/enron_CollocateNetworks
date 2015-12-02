@@ -1,0 +1,3 @@
+
+ 
+ intc- breaks 31.38 projects to 26, lower gaps 28.95-26.77, 23.35-23.20

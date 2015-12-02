@@ -1,0 +1,85 @@
+
+ 
+ FYI
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  > 
+ > > > > > > << Virus Alert
+ > > > > >>>> > > > >>>>A new virus has just been
+ > discovered that has been classified
+ > by
+ > > > > >>>>Microsoft (www.microsoft.com) and by McAfee
+ > (www.mcafee.com)
+ > as
+ > > > > >>>>the most destructive ever! This virus was
+ > discovered
+ > yesterday
+ > > > > >>>>afternoon by McAfee and no vaccine has yet
+ > been developed.
+ > This
+ > > > > >>>>virus simply destroys Sector Zero from the
+ > hard disk, where
+ > vital
+ > > > > >>>>information for its functioning are stored.
+ > This virus acts
+ > in the
+ > > > > >>>>following manner: It sends itself
+ > automatically to all
+ > contacts
+ > > > > >>>>on your list with the title "A Virtual Card
+ > for You". As soon
+ > as
+ > > > > >>>>the supposed virtual card is opened, the
+ > computer freezes so
+ > that
+ > > > > >>>>the user has to reboot. When the
+ > ctrl+alt+del keys or the
+ > reset
+ > > > > >>>>button are pressed, the virus destroys
+ > Sector Zero, thus
+ > > > > >>>>permanently destroying the hard disk.
+ > > > > >>>>Yesterday in just a few hours this virus
+ > caused panic in New
+ > York,
+ > > > > >>>>according to news broadcast by CNN
+ > (www.cnn.com). This alert
+ > was
+ > > > > >>>>received by an employee of Microsoft itself.
+ > So don't open
+ > any
+ > > > > >>>>mails with subject "A Virtual Card for You".
+ > As soon as you
+ > get
+ > > > > >>>>the mail, delete it. Please pass on this
+ > mail to all your
+ > friends.
+ > > > > >>>>Forward this to everyone in your address
+ > book. I would rather
+ > > > > >>>>receive this 25 times than not at all.
+ > > > > >>>>Also: Intel announced that a new and very
+ > destructive virus
+ > was
+ > > > > >>>>discovered recently. If you receive an email
+ > called "An
+ > Internet
+ > > > > >>>>Flower For You", do not open it. Delete it
+ > right away! This
+ > virus
+ > > > > >>>>removes all dynamic link libraries(.dll
+ > files) from your
+ > computer.
+ > > > > >>>>Your computer will not be able to boot up.
+ 

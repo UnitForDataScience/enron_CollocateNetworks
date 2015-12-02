@@ -1,0 +1,32 @@
+
+ 
+ The numbers look good!
+ 
+ 
+ 
+ 
+ Meiling Chen
+ 11/29/2000 04:45 PM
+
+
+ 
+  
+ 
+ 
+ Michelle,
+ 
+ Our dba has loaded TW base differential to test database from revenue 
+ management data base
+ after Vernon added TW to his regular update.
+ The spreadsheet is the latest NYMEX and base differential for 4 areas of TW 
+ as of 11/28/00.
+ Please take a look.  If no problem, I'll apply the same logic that I used to 
+ create this spreadsheet
+ to TW deal analysis program.  I'll dynamically get the latest price from the 
+ table based on 
+ receipt point location.
+ Please let me know.
+ Thanks,
+ 
+ Mei-Ling 
+ 

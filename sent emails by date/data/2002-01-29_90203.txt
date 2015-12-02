@@ -1,0 +1,17 @@
+
+ 
+ One group needs to mark curves.   I personally think it is easier for us to mark curves because we have traders in every region.   I simply need to make it a priority again.   I can go either way, though.   We definitely don't want two sets of curves.
+ 
+ Let me know.
+ 
+  
+    Cc:	Racicot, Paul; Albrecht, Kristin; Arora, Harry
+  
+ Kevin -
+ 
+ We are developing a process to mark estate curves.  We will be fully marking by Thursday (including vol curves) except possibly the West (still working on).  Is your group currently marking estate curves (I think someone dropped the PJM cash curves today)?  I think we should probably let the estate group begin this process so that they can be ready to go when UBS takes over - your thoughts?
+ 
+ Kristen/Kevin - can we differentiate effective now between estate/netco curve manager so that we can start a parallel process?
+ 
+ Thanks,
+ RH

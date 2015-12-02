@@ -1,0 +1,9 @@
+
+ 
+ Pd = change in price
+ V = volume per transaction
+ S = bid/offer spread
+ T = number of transactions
+ 
+ 
+ Profit =  T*V*S/4  -  V*(P2)/S??

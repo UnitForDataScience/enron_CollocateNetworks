@@ -1,0 +1,87 @@
+
+ 
+ II have tried to approve this through the Data Manager - not sure if it 
+ worked.
+ 
+ I know we must have been through this any number of times before but each 
+ time I read one of these I wonder how we are supposed to figure out the 
+ Notional Quantity.  It says "calculated from the volume submitted by 
+ Counterparty on the website" but how do we know how to calculate it?  Where 
+ does it say whether that number is a daily or monthly number?  Gallons or 
+ Barrels?  I remain confused.
+ 
+ 
+ 
+ 
+ Dale Neuner on 01/25/2000 09:21:44 AM
+
+
+
+  
+ Thanks, Bjorn,
+ 
+ Please go into the DataManager and indicate your approval.
+ 
+ Kevin and Jeff;
+ 
+ please review and make the same indication.
+ 
+ To all: we are working on getting the e-mail notification repaired.
+ 
+ Dale
+ 
+ 
+ 
+ Bjorn Hagelmann
+ 01/25/2000 01:49 AM
+
+
+
+  
+ Looks fine to me! It seems consistant with all the other things we trade in 
+ the OTC postion of our book.
+ 
+ Regards
+ 
+ Bjorn H.
+ 
+ 
+ 
+ Dale Neuner on 01/24/2000 04:59:42 PM
+
+
+  
+ Mark and Bjorn-
+ 
+ I've created a new Product Type - Jet Kero Financial Swap. The automatic 
+ e-mail notification isn't working so I won't know if you go in and approve 
+ the product. Please review the attached, as well as the below Long 
+ Description, and offer you approval/comments. (You will find it in the 
+ Partially Approved section - as credit has offered their sign-off). As you 
+ could imagine trading is eager to get this out on the web.
+ 
+ Mark - Once the Product Type is approved we will build the complete product 
+ and I'll send that to you for review.
+ 
+ "A US Jet Kerosene financial Swap Transaction with Enron North America Corp. 
+ under which the Seller pays a 
+ Floating Price and the Buyer pays the price submitted by Counterparty on the 
+ website (the Fixed Price) in respect 
+ of the Notional Quantity per Determination Period. The Notional Quantity per 
+ Determination Period shall be 
+ calculated from the volume submitted by Counterparty on the website. Each 
+ calendar month during the term 
+ of the Transaction will be a Determination Period. The Payment Date(s) will 
+ be 5 business days after the 
+ Floating Price is determinable.  The Floating Price shall be the Index for 
+ the relevant Determination Period."
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

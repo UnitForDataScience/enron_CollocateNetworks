@@ -1,0 +1,13 @@
+
+ 
+ 
+ FYI
+  
+     
+ I spoke with Sally regarding the cessation of sending confirms for EnronOnline transactions, and she mentioned that the question was raised as to how long we store transaction details on EnronOnline.
+ 
+ We store all transactions on the database since inception, in order to facilitate customer transaction searches. This data is the basic buy/sell, commodity, location, volume, price, customer, userid, and time info. In addition for a rolling 45 day period we store the web server info which is much more detailed and has product ID's, session ID's and so forth. At the end of 45 days it is archived and retrievable. when you put these two together you have a very complete picture of what happened to a transaction attempt.
+ 
+ I hope this answers any questions you may have. If not let me know.
+ 
+ Andy Zipper

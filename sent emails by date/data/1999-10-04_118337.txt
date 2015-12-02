@@ -1,0 +1,26 @@
+
+ 
+ My only concern is knowing which way the Inside FERC price adjustment that is 
+ submitted will go - will it always be plus or always minus?  If so, let's say 
+ so.  If not, how will it be clear on the web site which direction the 
+ adjustment is going?
+ 
+ 
+ 
+ 
+ Jennifer deBoisblanc Denny
+ 10/01/99 04:17 PM
+
+
+  
+ Mark,
+ David Forster has requested I pass the example index defintion below to you 
+ for approval. Please give us your feedback. 
+ 
+ This woud be for a IFERC ANR-LA & Gas Daily Henry Hub SWAP   
+ 
+ 
+ 
+ Thank you for your help.
+ Jennifer
+ 

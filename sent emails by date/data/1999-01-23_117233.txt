@@ -1,0 +1,106 @@
+
+ 
+ 
+ 
+ Hardware:
+ 1/21 SUNW  Sun Microsystems, Inc.         0.66       10.6
+ 1/21 IOM   Iomega Corp.                   0.05        8.3
+ 1/20 QNTM  Quantum Corp.                  0.24        6.2
+ 1/19 WDC   Western Digital Corp.         -1.01        5.4
+ 
+ Software:
+ 1/19 CTXS  Citrix Systems Inc             0.49       15.1
+ 1/20 CHKPE Check Point Software           0.47       13.0
+ 1/19 CPWR  Compuware Corp.                0.45       11.6
+ 
+ Semiconductor:
+ 1/19 XLNX  Xilinx                         0.40       13.2
+ 1/20 CRUS  Cirrus Logic                   0.04        6.6
+ 1/20 TXN   Texas Instruments              0.54        6.5
+ 1/21 LSCC  Lattice Semiconductor Corp     0.43        9.9
+ 
+ Networking:
+ 1/19 FORE  FORE Systems                   0.10        9.5
+ 1/19 QCOM  Qualcom Inc.                   0.59        8.7
+ 1/19 ASND  Ascend Communications          0.31        5.3
+ 1/21 LU    Lucent Technologies            1.00        4.5
+ 1/19 NVLS  Novellus Systems               0.23        3.0
+ 1/19 NETA  Network Associates             0.46        1.3
+ 
+ Internet:
+ 1/19 ONSL  Onsale Inc                    -0.16        7.0
+ 1/20 SPYG  SpyGlass Inc.                 -0.15        5.2
+ 1/21 XCIT  Excite Inc.                    0.04        5.0
+ 1/20 ATHM  At Home Corporation           -0.06        4.4
+ 
+ 
+ 
+ 
+ 
+ RESULTS THIS WEEK
+ Please view this in COURIER 10 font for alignment
+ 
+ Index  Last    Tue   Wed   Thu    Week
+ Dow   9264.08 14.67-19.31 -71.83-76.47
+ Nasdq 2344.72 59.97  7.32 -70.72 -3.43
+ $OEX   617.08  6.86  2.69  -8.93  0.62
+ $SPX  1235.16  8.74  4.62 -21.46  -8.1
+ $RUT   424.05  3.84 -0.27  -6.57    -3
+ $TRAN 3094.81 29.32-66.43 -16.61-53.72
+ $VIX    31.95  0.05 -0.37   2.52
+ 
+ Stock  Price   Tue   Wed   Thu    Week
+ 
+ VOD    190.31  8.50 10.50  -4.31 14.31  Replacing ATI & Split candidate
+ ATI     94.13  9.25  5.25  -3.75 10.75  Dropped to play VOD
+ MSFT   158.31  5.88  7.00  -4.31  8.57  New target $200
+ NOK/A  145.00  5.38  6.00  -5.00  6.38  Split candidate for Jan. 29th.
+ DELL    84.19  3.13  3.19  -1.13  5.19  Showed lots of strength
+ UTX    113.94 -0.69  3.00   1.94  4.25  Beat earnings by a nickel
+ T       88.13  7.13  0.13  -3.38  3.88  New target $105
+ QWST    59.38  2.88  1.06  -0.88  3.07  New Play
+ LXK     99.88  4.31  1.31  -3.81  1.81  Split candidate for Monday
+ PRIA    36.25  1.00  1.44  -0.69  1.75  Held up very well
+ FTL     17.81  1.31  0.13  -0.31  1.13  Hanging on to support
+ XIRC    40.75  2.13 -1.38   0.13  0.88  Beat earnings and the Nasdaq
+ COF    131.00  1.06  3.50  -4.00  0.56  Profit taking
+ ETH     48.75  0.63 -0.88   0.06 -0.19  Showing strength
+ CSCO   101.31  4.69 -0.25  -4.81 -0.37  Gave into Nasdaq weakness
+ CCU     60.00  2.69  1.13  -4.25 -0.43  Has it's own Internet play now
+ MYG     63.75  0.44 -0.75  -0.19 -0.50  Wearing thin?
+ JBL     73.13 -0.13 -0.56  -0.06 -0.75  Showing strength
+ WCOM    73.88  2.19  0.25  -3.63 -1.19  Still beating the Bells
+ DIS     34.56  0.50 -0.50  -1.44 -1.44  Dropped
+ MU      69.81  1.69  0.00  -3.19 -1.50  Market weakness
+ TLAB    84.25 -1.31 -0.88   0.50 -1.69  Bucking the trend
+ SUNW    98.25  4.88  0.06  -6.75 -1.81  Announced 2:1 split
+ LU     106.63  3.81  1.44  -8.88 -3.63  Dropped
+ EMC     96.00  2.06 -2.13  -4.00 -4.07  Profit taking, no split
+ QCOM    59.50  2.63 -4.50  -2.50 -4.37  Dropped
+ AOL    141.00  4.00 -2.00  -7.50 -5.50  Best of the Internets
+ CHKPF   40.25  4.25-10.50  -4.75-11.00  Dropped
+ YHOO   265.00  6.00-35.81 -22.19-52.00  Dropped
+ 
+ PUTS
+ 
+ MCHP    31.19 -1.75 -0.63  -1.56 -3.94
+ EK      65.25 -0.25 -0.63  -2.88 -3.76
+ HSY     58.00 -0.38 -1.13  -1.75 -3.26
+ LLY     78.06 -1.75  2.75  -4.19 -3.19
+ DD      54.00 -1.06 -1.44  -0.50 -3.00
+ BDX     36.81 -1.38 -3.13   1.56 -2.95
+ RMBS    86.75 -2.25  2.69  -3.19 -2.75
+ WLA     67.19 -3.38 -1.38   2.13 -2.63
+ PKN     94.19 -1.38  0.25  -0.06 -1.19
+ CPB     44.06 -0.88 -0.63   0.44 -1.07
+ MRK    146.31  0.63  1.13  -2.56 -0.80
+ AVT     45.50 -0.25  0.31  -0.81 -0.75
+ CBE     44.13 -0.19 -0.50   0.00 -0.69
+ ERTS    46.50  0.50 -1.44   0.44 -0.50
+ BAC     65.50 -0.56  2.00  -0.50  0.94
+ 
+ 
+ PICKS WE DROPPED
+ 
+ 
+ 

@@ -1,0 +1,6 @@
+
+ 
+ To me, this looks to be a sign problem in the FRED model.  The variance in 
+ all cases is exactly double the flashed amount.  Jim please verify if this is 
+ correct.  Thanks.
+ PL

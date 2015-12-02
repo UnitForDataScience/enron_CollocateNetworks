@@ -1,0 +1,12 @@
+
+ 
+ Rob:
+ We can accept your comment regarding resolving conflicts between executed 
+ confirms and Transaction Tapes.  Would you consider extending this to those 
+ confirms that are "deemed" executed as a result of a failure to respond 
+ within the period set forth in that section?
+ 
+ Carol St. Clair
+ EB 3892
+ 713-853-3989 (Phone)
+ 713-646-3393 (Fax)

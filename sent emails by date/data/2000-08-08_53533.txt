@@ -1,0 +1,29 @@
+
+ 
+ Vasant,
+ 
+ Good enough. The last edition includes the discussion of price processes.
+ 
+ Vince
+ 
+ 
+ 
+ 
+ 
+ Vasant Shanbhogue
+ 08/01/2000 01:56 PM
+
+
+   
+ One guy, John Neslage, from Corporate/Regulatory Affairs is putting together 
+ a talk for state regulators and wants to talk about fundamental modeling of 
+ energy prices.  He was wondering if our group could shed some light on major 
+ fundamental variables, possibly even for new commodity markets.  I am not 
+ sure if we have done much fundamental analysis, since we focus mostly on 
+ option valuation.  Also, since market power is an important variable, 
+ marginal cost analysis is not sufficient, but if anybody has any info, please 
+ let me know.  I have referred him to the "Managing Energy Price Risk" book.
+ 
+ Thanks,
+  Vasant
+ 

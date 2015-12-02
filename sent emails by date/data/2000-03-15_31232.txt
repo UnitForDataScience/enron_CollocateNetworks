@@ -1,0 +1,5 @@
+
+ 
+ I took the Egan Storage demand charge to 0 in the CES Wholesale worksheet 
+ until David can determine it we have accounted for the charge someplace 
+ else.  The monthly demand charge is $125,000.00.

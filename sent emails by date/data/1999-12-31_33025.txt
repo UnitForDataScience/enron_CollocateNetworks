@@ -1,0 +1,62 @@
+
+ 
+ 
+ 
+
+
+  
+ I think we can change the ranks pretty easily.  As far as the business party 
+ Ids go, I think we need to have you, Diane and the Transco rep (Bharati?) 
+ discuss what needs to come across in the proprietary file.  Transco was 
+ making some changes on their side for the BUG stuff that we may not be taking 
+ advantage of.  We will see how the CES stuff fits in there as well.
+ 
+ Thanks, d.n.
+ 
+ 
+    
+ 	
+ 	
+ 	 	
+ 
+
+
+
+  
+ Dave,
+ 
+ As we discussed over the telephone, we will have a problem with the CES 
+ contracts as well
+ as the one we have with Brooklyn Union.  Our proprietary file contacts the 
+ business party id, rather
+ than the DUNS number.  Currently, all of our activities default to Enron's 
+ business party id.  These
+ are the valid business parties we use:
+ 
+ ENA    5304
+ Brooklyn Union   21995 
+ Columbia Energy Services 5092
+ Columbia Energy Marketing 7772
+ 
+ As we become agents for other parties, which CES is agent for various 
+ producers, we will
+ need to include their business parties as well.  For now, this is all we 
+ need.  In the meantime,
+ should I code the activities CES has already nominated that I will insert 
+ into Unify as do not
+ send??
+ 
+ Also, another continuing problem is the 899 default ranking.  We spend a 
+ great deal of time 
+ overriding this rank to 850 as a default and use 899 as the swing activity to 
+ be cut as we need
+ it.  Is there a way to default to 850 so we only have to change the one swing 
+ activity to 899??
+ 
+ Thanks for you help.
+ 
+ Beverly
+ 3-6357
+ 
+ 
+ 

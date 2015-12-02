@@ -1,0 +1,45 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - May, Larry\Sent Items
+ X-Origin: MAY-L
+ X-FileName: larry may 6-26-02.PST
+ 
+ Yes, thanks
+ 
+  
+     
+ Brad, 
+ 
+ I did two post-ids. I used the current production port_calc (3.15) to calculate 1389454 and I used the old version(3.14) to calculate 1389464. I do see a P& L change on 1389454.
+ 
+ I debugged it and found a bunch of deals with changes in P& L value. Enclosed is a partial list of those deals. The reasons are: 
+ 
+ In old version(3.14), we calculate volatility of basis options like this
+ 
+ 1) we calculate the NG volatility
+ 2) If it's a basis option, we fetch the IF- volatility curve. If IF- volatility curve exists, we use IF-volatility curve.
+ 3) If IF- volatility curve does not exist, we still use NG volatility.
+ 
+ In the current production version(3.15), we calculate volatility of basis options like this
+ 
+ 1) we calculate the NG volatility + NG vol skew. (The NG vol skew is based on NG price - fixed price)
+ 2) If it's a basis option, we fetch the IF-volatility curve. If IF-volatility curve exists, we use IF- volatility curve.
+ 3) If IF-volatility curve does not exist, we still use NG volatility + NG vol skew which was calculated in step 1).
+ 
+ The bug in the currenct production portcalc is that in step 2), we didn't apply vol skew upon IF vol. In our new fix, this bug will be fixed.
+ 
+ However, the IF volatility curves of those enclosed deals do not exist. So the current production version (3.15) used the NG vol + NG vol skew for those deals. The old version (3.14) used the NG vol for those deals. Thus you see P&L change in these two versions.
+ 
+ Also we'd like to confirm with you that in the new fix, if the IF vol curve does not exist, you still want us to use NG vol + NG vol skew instead of erroring out. If the IF vol curve exists, we will use IF vol + NG vol skew.
+ 
+ Thanks,
+ Jennifer
+ 
+ Jinwen (Jennifer) Song
+ 713-853-5248
+
+ 
+  << File: basis.xls >> 

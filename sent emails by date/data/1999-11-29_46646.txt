@@ -1,0 +1,6 @@
+
+ 
+ We have resolved the authority issue with referenced counterparty, and have 
+ approved all financial trading, including online financial trading, under the 
+ executed ISDA Master Agreement between ECT and this counterparty dated June 
+ 23, 1999.

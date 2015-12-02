@@ -1,0 +1,45 @@
+
+ 
+ What I am really looking for is a way to save monthly production data by 
+ county for the entire state for all of the data.  Unfortunately, saving the 
+ data like you mentioned wouldn't save me that much time. 
+ 
+ Thanks for your help.
+ 
+ Eric Bass
+ 
+ 
+ 
+ 
+
+
+   
+ 
+ 
+ When you call up the production save the file as a txt file then open it in 
+ excel as a delimited file.
+ If you need any help please feel free to give me a call or email me your 
+ phone number and I will be happy to walk through the steps with you.
+ 
+ Thanks,
+ 
+ 
+ 
+ Kathy Way
+ Statewide Statistics
+ (512) 463-6729
+ (512) 463-6955 FAX
+ 
+
+ I was wondering if there was a downloadable format(excel format) to the
+ gas production data.  Could you advise as to how to receive this info
+ without having to type it out manually?
+ 
+ 
+ Thanks,
+ 
+ Eric Bass
+ 
+ 
+  - Kathy Way.vcf
+ 

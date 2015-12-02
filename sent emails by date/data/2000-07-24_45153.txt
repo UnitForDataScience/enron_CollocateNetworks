@@ -1,0 +1,25 @@
+
+ 
+ 
+ 
+ 
+ Information Risk Management on 07/24/2000 01:07:17 PM
+
+ 
+  
+ 
+ The following resource request has been closed. A summary of the request 
+ appears below. To see your original request, please click on the Request Link 
+ icon.
+ 
+ Request Number:	MNES-4MJM6C
+ Requested For:	Tana Jones/HOU/ECT
+ Request Link:	
+ 
+ 
+ 	Requested Resource(s)			
+ 	Name	Cost	Status	Implementation Comments
+ 	Application/Database			
+ 	Unlisted Lotus Notes Applicti...		Completed	added to the notes group.
+ 				
+ 				

@@ -1,0 +1,6 @@
+
+ 
+ Here's a stab at tthe procedures which provides for hte ability to revise or 
+ revoke bids during the auction period.
+ 
+ Comments?

@@ -1,0 +1,11 @@
+
+ 
+  
+  corrected  two equations to make the calculated Hermite coefficients and the expression for the binnormal density function consistent with the definition of the Hermite polynomials used in this work, which have variances equal to n! for the nth order polynomial.  
+ Also I changed many symbols in Appendix I to harmonize and especially to avoid using alpha and beta which have special meanings in FORM/SORM literature
+ I will post the version in the O drive tomorrow.
+  
+ Regards,
+ Rabi De
+  
+ .

@@ -1,0 +1,32 @@
+
+ 
+ 
+ 
+ 
+
+
+
+  
+ 
+ 
+ 
+ 
+ John,
+ Doug asked me to send you the amended model for the proposed collar structure.
+ You will see that is is essentially a larger version of the previous model, as
+ it covers the full calender year of 2000.  There are therefore 48 options 
+ which
+ results in daily volume being reduced to 42K GJ/Day.  There is an amortization
+ schedule to the far right which calculates the implied interest rate on the
+ deal.  Call me if you have any questions about the model or changes you would
+ like to see.
+ 
+ Todd Hargarten
+ 416-982-2286
+ 
+ 
+ (See attached file: Client.xls)
+ 
+ 
+ 
+  - Client.xls

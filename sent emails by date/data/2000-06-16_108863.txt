@@ -1,0 +1,5 @@
+
+ 
+ The page is missing the gas flow date and the numbers require only three 
+ decimal points.  We need to add Canada numbers.  Also is it possible to make 
+ the basis column more straight? 

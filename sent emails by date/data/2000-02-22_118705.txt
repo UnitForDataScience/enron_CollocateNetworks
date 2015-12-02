@@ -1,0 +1,31 @@
+
+ 
+ I just looked at the first couple of documents attached and wanted to make 
+ sure the second item listed in them works.  Is everyone comfortable that the 
+ volume should be submitted in megawatts and then divided in half to produce 
+ megawatt hours?  I think it works but I had to work through it to get there - 
+ it wasn't immediately obvious to me.
+ 
+ 
+ 
+
+ 02/21/2000 06:30 PM
+
+
+
+
+  
+ 
+ Dave,
+ 
+ Here are the final Long Form Descriptions for the remaining regions (NSW, 
+ QLD, SA).
+ 
+ The term of the Swaps that will initially be offered via EOL has yet to be 
+ decided, but I assume we can set those in the Product Manager when we create 
+ Australian Power Products.
+ 
+ Rgds
+ Paul
+ 
+ 

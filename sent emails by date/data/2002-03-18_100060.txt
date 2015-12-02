@@ -1,0 +1,20 @@
+
+ 
+ 
+ 
+  
+    Cc:	Schoolcraft, Darrell
+  
+ ID2:		The streak of non-variances ended tonight.  One variance was intentional, but the other was not.  In any case I had to
+ 		manually schedule volumes at Transcolorado and Northwest for Sempra's CR 27848 and 27342, respectively due to 
+ 		downstream confirmation cuts.
+ 	
+ EVE:		All the points looked okay with the minor exception of Transcolorado.
+ 
+ OTHER:	The Force Majeure at Bisti looks like it will continue for 5 to 6 weeks.  Since San Juan will likely be cut every cycle,
+ 		we need to allocate the NGPL points, Gray, Eddy, and Winkler even if San Juan does not appear on the original 			allocation list.  By allocating these points, the bogus volume at Northwest delivery will disappear, and then San Juan 		should come up for allocation.  I learned this the hard way by ignoring those points on the ID2 cycle for 3/15.  I knew 		the Enserco volumes were not going to be confirmed, but the delivery at Northwest over-inflated the deliveries at San 			Juan and should have been allocated.  The net effect was San Juan scheduled over 842,000 even though Darrell had 			the capacity at 800,000.
+ 
+ 		For the good news, Joe Hoang recached our batch printer options so now the "J" printer at 3920 is usable.
+ 
+ 
+ See you later,  Bert

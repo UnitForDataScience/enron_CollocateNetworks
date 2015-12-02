@@ -1,0 +1,24 @@
+
+ 
+ 
+ 
+ 
+ Tanya Tamarchenko
+ 03/29/2001 01:49 PM
+ 
+
+  
+ Frank,
+ our VAR team has been looking at different ways to implement clustering and 
+ jumps for power prices simulation
+ in VAR.
+ I attached the suggestion we came up with and the results of clustering and 
+ jump parameters estimation.
+ Would you like to discuss this methodology? We need your input.
+ 
+ Please, let me know,
+ 
+ Thank you,
+ 
+ Tanya.
+ 

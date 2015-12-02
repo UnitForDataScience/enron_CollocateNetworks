@@ -1,0 +1,46 @@
+
+ 
+ Same as below with the following exceptions
+ 
+ Pipeline CGAS
+ Contract 64031
+ Firmness IT
+ Service Type Park & Loan
+ Rate  PAL
+ Term Type Term
+ Eff Date  1/1/2000 - 1/31/2000  Evergreen
+ 
+ Pipeline CGAS
+ Contract 64041
+ Firmness IT
+ Service Type Park & Loan
+ Rate  PAL
+ Term Type Term
+ Eff Date  1/1/2000 - 1/31/2000  Evergreen
+ 
+ 
+ 
+ 
+ 
+ 
+ Chris Germany
+ 01/18/2000 07:08 PM
+
+   
+ Please set up the following CGAS contracts.  Please note; ENA is agent for CES
+ 
+ Pipeline CGAS
+ Contract 64031
+ Firmness IT
+ Service Type Storage Service
+ Rate  ISS
+ Term Type Term
+ Eff Date  1/1/2000 - 1/31/2000  Evergreen
+ 
+ Pipeline CGAS
+ Contract 64041
+ Firmness IT
+ Service Type Storage Service
+ Rate  ISS
+ Term Type Term
+ Eff Date  1/1/2000 - 1/31/2000  Evergreen

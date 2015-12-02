@@ -1,0 +1,26 @@
+
+ 
+ Yes, this looks better to me.
+ 
+ 
+ 
+ 
+ David Forster
+ 02/16/2000 10:21 AM
+
+   
+ Mark,
+ 
+ Further to our conversation the other day, are you happy for us to change the 
+ following in the GTC screen in EnronOnline:
+ 
+ Old:  "(Guest Users will view Generic GTCs which are shown for information 
+ purposes only)"
+ 
+ New: "(Guest Users will view sample GTC's which may differ in some respects 
+ from execution versions)"
+ 
+ Dave
+ 
+ 
+ 

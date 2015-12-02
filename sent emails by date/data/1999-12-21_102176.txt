@@ -1,0 +1,56 @@
+
+ 
+ Thanks.  Lindy and I are going to look at whether any changes will need to be 
+ made to the pro forma sheets we've filed, and will get back to you.
+ 
+ 
+ 
+ 
+    
+ 	
+ 	
+ 	 	
+ 
+
+
+ 
+  
+ I talked to Lindy last Friday,  let us know when or if we need to discuss 
+ furtherI think
+ MK
+ 
+ 
+    
+ 	
+ 	
+ 	 	
+ 
+
+
+ 
+  
+ In discussing the finer points of EFBH Service with our market services 
+ people, an issue has arisen with respect to allocation of FTS-1 and FTS-3 
+ capacity.  We are going to have to be able to put FTS-3 and FTS-1 capacity 
+ into separate buckets for purposes of allocation (that is, allocation due to 
+ circumstances such as, say, windowing by SoCal, &c.).  Here's why.  If 
+ capacity became constrained on a given day and we allocated FTS-3 and FTS-1 
+ together, FTS-1 service would essentially be enjoying the use of capacity 
+ created by EFBH.  This is all well and good until EFBH cancels at the last 
+ minute. Then you know what would happen:  FTS-1 would get cut because EFBH 
+ cancelled.  I am told that this would necessarily happen because once FTS 
+ schedules, it gets flowing gas rights.  To keep this scenario from happening, 
+ we feel that FTS-3 will have to be put in its own bucket and not get cut 
+ unless EFBH doesn't show up.
+ 
+ Obviously, there is more to it than this, and Lindy and I would like to 
+ discuss it with you.  The systems people can't continue their work until we 
+ get this resolved.  Can we discuss this on Monday or some other time next 
+ week?  
+ 
+ Thanks, 
+ SS
+ 
+ 
+ 
+ 

@@ -1,0 +1,10 @@
+
+ 
+ Troy 
+    Cc:	Stubblefield, Wade
+  
+ Jim - Here is the outstanding payables file.  See the tab called pivot.  The first column is labeled core markets.  The utilities listed under gas and power are the ones you provided.  The utilities under "blank" core markets are all the other utilities we have outstanding payables for (in case you want to make sure we didn't miss anything...would be a good idea).  We have sorted the payables into pre petition, post petition, both (crossing pre and post dates), and unknown (we need to research the unknown b/c they are manually paid but most s/b pre).  We have columns for the Avista amounts and non Avista amounts.  Please note that the split between gas and power for PG&e, SCE, and SDGE is not completely accurate b/c we didn't have the data.  Call with questions.  Thanks.
+  << File: SAP_PAYABLES_12-18-01copy.XLS >> 
+ 
+ 
+  

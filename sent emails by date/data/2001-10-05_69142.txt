@@ -1,0 +1,20 @@
+
+ 
+ I think that the correlations for the points in the Aruba book must be different.  Her position is 5 contracts long in the book and her VaR is $500K.  Is there any way you can tell me the correlations that are being used for the points that she has positions at in that book?  The pub codes are : IF-NNG/VENT, NGI/CHI. GATE, CHI./N/BORDER, NGPL-IOWA0ILLIN,UF-NGPL/OK-NW, NGI/CHI./PEOPLE,NGI/CHI./NIPSCO,ML7/CG.  Any help you can provide would be much appreciated.  Thanks.
+ PL
+ 
+ 
+  
+     
+ Hey Phillip,
+ I'm a little busy right now but, will be by later.  Hope the graphs below get you started?
+ Bharat
+ 
+  << OLE Object: Picture (Device Independent Bitmap) >> 
+ 
+ 
+ 
+ 
+ 
+ 
+  << OLE Object: Picture (Device Independent Bitmap) >> 

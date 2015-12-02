@@ -1,0 +1,22 @@
+
+ 
+ 
+    
+ 	
+ 	
+
+ 	
+ 
+   
+  
+ Here is Greg Wolfe's information.
+ 
+ 
+ 
+ In addition, he has received the following LT equity:
+ Date  Type   Term  Number  Strike
+ 12/31/97 KEYSOP Opt  10  1500   20.78
+ 2/7/99  ECT LTCP Opt  10  6508   31.46
+ 2/7/99  ECT LTCP RS  10  2468   31.46
+ 
+ What would you recommend for a contract structure?

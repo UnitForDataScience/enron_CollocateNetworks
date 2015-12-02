@@ -1,0 +1,16 @@
+
+ 
+ Per our conversation yesterday, I'd like to test the send key process for obtaining the Socal hourly storage postings.  Once I get the scheduling system opened and set, the following is the keystrokes required:
+ 
+ 
+ Enter
+ Alt-F
+ P
+ Enter
+ Enter
+ 
+ Of course, a slight pause between the keystokes might be needed.  And if we need to maintain activity to keep the system from kicking us out, we can simply use two Enter keystrokes.  Please let me know when you'll be able to give this a shot.
+ 
+ Thanks.
+ 
+ Mat

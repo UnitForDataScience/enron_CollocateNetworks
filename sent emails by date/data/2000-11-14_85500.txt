@@ -1,0 +1,34 @@
+
+ 
+ FYI,  This is how the capacity release product will look on EOL.
+ 
+ 
+ 
+ 
+
+ 	11/13/2000 06:29 PM
+ 		 
+
+
+
+
+
+ 		  
+ The following US Pipeline Capacity Release products have been 
+ created/approved and internal user profiles have been updated. Please make 
+ sure that traders & internal users can activate Products and manage stacks 
+ according to their preferences, please let us know if you have any 
+ changes/additions so we can start trading on Wednesday Nov. 15th.
+ US PLCap Rel  CGAS Leach-MA7 Dec00 USD/MM
+ US PLCap Rel  CGAS Leach-MA28 Dec00 USD/MM
+ US PLCap Rel  CGAS Leach-MA34 Dec00 USD/MM
+ US PLCap Rel  CGLF Rayne-Leach Dec00 USD/MM
+ US PLCap Rel  CNG   S-SPL1 FT Dec00 USD/MM
+ US PLCap Rel  CNG   S-SPL1 FTNN Dec00 USD/MM
+ 
+ Below is an example of how the final Product Long Description for CGAS 
+ Leach-MA28 appears on the Website, please take a look and let me know if you 
+ have any comments,
+ Thanks
+ Carlos
+ 

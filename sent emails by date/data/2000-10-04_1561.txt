@@ -1,0 +1,66 @@
+
+ 
+ Can you handle this.  Please forward all names on the daily P&L sheet.  I get 
+ a copy every day if you need.
+ 
+ 
+
+ 	10/03/00 11:14 AM
+ 		
+
+ 		  		  
+ Brian, 
+ Please provide the list of user's NT loginID and their full name  whoever 
+ will use this application. I am going to set up the security for them while I 
+ am buiding the application. 
+ Thanks,
+ Fangming 
+ 
+ 
+ 
+
+ 	09/28/2000 02:31 PM
+ 		
+
+
+ 		  
+ Fangming,
+ 
+ Looks good.  That's exactly what we're looking for.  John, please comment if 
+ there are any additional features you'd like to add.
+ 
+ Brian
+ 
+ 
+ Brian T. Hoskins
+ Enron Broadband Services
+ 713-853-0380 (office)
+ 713-412-3667 (mobile)
+ 713-646-5745 (fax)
+
+ 
+ 
+ 
+ 
+ 
+
+ 	09/28/00 02:23 PM
+ 		 
+
+
+ 		  
+ Hi, Brian:
+ 
+ Please review attached requirement document and reply this message with any 
+ comments. Once you approve it, I am going to build the application. 
+ 
+ 
+ 
+ Thanks,
+ 
+ Fangming
+ 
+ 
+ 
+ 
+ 

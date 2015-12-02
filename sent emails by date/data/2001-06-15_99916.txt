@@ -1,0 +1,23 @@
+
+ 
+ 
+ 
+ Thanks DS
+  
+     
+ 
+ Dale,
+ 
+ I do not have the list of "softpoints" with me that are available to Gas Control from the Citizen's Fisher ROC, but generally remember it as follows:  (we can go over it point by point Friday when I return to Roswell if you would like)
+ 
+ TW & ElPaso's rotary meters: flow rate, current accum, prev accum, press and temp.
+ TW & ElPaso's turbine meters: no data
+ TW & ElPaso's ultrasonic meters: no data
+ 
+ TW & ElPaso's station results: totalized flow rate (it would be nice to have volume and energy accums)
+ 
+ All the station control registers look to be adequate.  All of the two state points that we normally would treat as Digital Inputs  are treated as Analog Input variables.
+ 
+ If these points are sufficient, it will be straight forward to map these to modbus registers.  If more points are required, we will need permission from Citizens to modify their FSTs.  As I stated on the conference call, this work is not difficult, but may be considered to be intrusive were we will be programming lines of code in the same area that their complex station control code resides.
+ 
+ Ben Tanner

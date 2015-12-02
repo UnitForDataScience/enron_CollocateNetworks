@@ -1,0 +1,22 @@
+
+ 
+ 
+ FYI
+  
+
+ 
+  
+ The Payment status has changed on the following report:
+ 
+ Status last changed by:  System
+ Expense Report Name: Philadelphia
+ Report Total: $2,197.18
+ Amount Due Employee: $2,197.18
+ Amount Approved: $2,197.18
+ Amount Paid: $0.00
+ Approval Status: Approved
+ Payment Status: In Progress
+ 
+ 
+ To review this expense report, click on the following link for Concur Expense.
+ http://xms.enron.com

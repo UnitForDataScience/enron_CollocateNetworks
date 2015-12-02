@@ -1,0 +1,38 @@
+
+ 
+ 
+ 
+ 
+
+
+
+
+   
+ 
+  2000 13:48:17 -0400
+  NT)
+
+
+ (EDT)
+ 
+ May 2000 13:48:35 -0400 (EDT)
+  sp27.notesnet.bgsu.edu (Lotus Domino Release 5.0.2b)          with ESMTP id 
+ 2000050113493906:89084 ;          Mon, 1 May 2000 13:49:39 -0400
+
+
+ 
+
+
+
+
+
+
+
+
+ X-MIMETrack: Itemize by SMTP Server on MAILGW01/SERVER/BGSU(Release 5.0.2b 
+ |December 16, 1999) at 05/01/2000 01:49:39 PM, Serialize by Router on 
+ MAILGW01/SERVER/BGSU(Release 5.0.2b |December 16, 1999) at 05/01/2000 
+ 01:49:41 PM, Serialize complete at 05/01/2000 01:49:41 PM
+ Mime-Version: 1.0
+   - Work.jpg
+  - Part.001

@@ -1,0 +1,179 @@
+
+ 
+ Brian 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ MBM.COM, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  Capacity
+ 
+ 
+ Attached is an e-mail containing revisions and additions El Paso recommends be
+ made to SoCalGas' draft Exhibit 28 which was distributed for further comment 
+ to
+ parties on June 16, 2000.  This e-mail has two attachments.  The first 
+ attachment
+ is a revised copy of SoCalGas' table titled "Firm Pipeline Capacity into 
+ Southern
+ California" with changes to:  (a) correct the amount of firm interstate 
+ capacity on
+ El Paso at Topock, shown in the col. "Incoming Interstate Capacity," by 
+ replacing
+ the incorrect figure, 2230 MMcfd (which includes capacity for delivery to SW 
+ Gas
+ which is not available to California on a firm basis) with the correct 
+ figure,  2080
+ MMcfd; (b) delete the reference to El Paso delivery capacity to SW Gas from 
+ the
+ col. "Total Take-away Capacity" since this capacity is not firm capacity 
+ available
+ to California; (c) adjust the totals at the bottom of both cols. affected by 
+ these
+ changes; (d) add a new footnote to reference to the fact that shippers on El 
+ Paso
+ have existing firm contract rights for delivery from El Paso at Topock to 
+ SoCalGas
+ totaling 1466 MMcfd which exceeds SoCalGas' take-away capacity at Topock
+ and clearly creates a "mismatch"; and (c) add reference in footnote (2) to the
+ physical capacity of Kern/Mojave at the interconnection with SoCalGas at
+ Wheeler Ridge South, which is in excess of 680 MMcfd even though the metering
+ is currently set to 500 MMcfd.   The second attachment contains two schematics
+ intended to supplement SoCalGas' draft map of receipt points and
+ interconnections.  These schematics more accurately reflect the actual 
+ physical
+ interconnections at Topock and Hector Ridge and correct both the inaccurate
+ impression that the interconnect with  El Paso at Topock consists of several
+ separate pipelines with no cross over, and that inaccurate impression that 
+ several
+ interconnections may exist between pipelines at Hector Road .   El Paso
+ understands and acknowledges that there are a number of possible responses to
+ Administrative Law Judge Biren's request for a late filed exhibit concerning
+ "mismatches" and pipeline capacity upstream and downstream from SoCalGas
+ receipt points.  In the spirit of compromise, El Paso  will not oppose 
+ SoCalGas
+ filing an exhibit as proposed 6/16/00 provided it is revised to reflect the 
+ changes
+ and additions El Paso has proposed in this e-mail.   Very truly yours, Edward 
+ W.
+ O'Neill, Jeffer, Mangels, Butler & Marmaro LLP,  One Sansome Street, San
+ Francisco, CA 94104, (415) 398-8080, fax: (415) 398-5584, e-mail
+
+  (GroupWise SMTP/MIME daemon 4.1 v3) ; Mon, 19 Jun 00 17:21:00 PDT
+  (Content Technologies SMTPRS 4.1.5) with ESMTP id 
+
+
+  <NGKSQ0T4>; Mon, 19 Jun 2000 19:32:16 -0500
+
+
+  
+
+
+  downstream capacity-Forwarded
+ Mime-Version: 1.0
+  
+ Here is a copy of SoCal's table describing firm capacity to California with
+ the changes we discussed:
+  <<GIR-exhibitpipe999.xls>>
+ 
+ In addition, here are the two sketches that help to describe Topock and
+ Hector Road:
+  <<Interconnect Sketch.xls>>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  - GIR-exhibitpipe999.xls
+  - Interconnect Sketch.xls

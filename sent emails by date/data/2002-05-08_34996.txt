@@ -1,0 +1,20 @@
+
+ 
+ Let's see if this works.
+ 
+  
+  
+  
+ Hey team, just wanted to let everyone know who to call.
+ 
+ Name			Number		Company	Comment
+ Jackie Adams		713-393-6889	Cinergy		Handles all the Apache supply nominations.
+ Lisa Hughes		713-393-6884	Cinergy		Jackie's backup
+ 
+ Chris Germany		713-853-4743	Enron		Trader
+ Robin Barbe		713-853-7177	Enron		Backup for Chris 
+ Kevin Brady		713-853-7750	Enron		Enron's Super "North American" Scheduler
+ 
+ 
+ 
+ Thanks.

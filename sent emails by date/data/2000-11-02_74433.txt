@@ -1,0 +1,49 @@
+
+ 
+ This looks like it belongs in the specs.  What do you think?
+ 
+ Kay
+ 
+ 
+    
+ 	
+ 	
+
+ 	
+ 
+
+  
+  
+ 
+ 
+    
+ 	Enron Engineering & Construction Company
+ 	 	
+ 
+ Sent by: Dom Liu
+
+
+  
+ 
+ Mike:
+ 
+ This is the recommended verbiage to address area classification issues:
+ 
+ The electrical system design and installation shall be in compliance with the 
+ requirement of NFPA 70 (NEC), in particular, Article 500 with respect to 
+ Hazardous Locations.  The classification of locations shall be as recommended 
+ by API RP 500 (Recommended Practice for Classification of Locations for 
+ Electrical Installations at Petroleum Facilities.)  The design compliance 
+ with the NFPA requirements shall be demonstated in a design review or HAZOP 
+ review meeting which includes representatives of Enron North America in the 
+ review process.
+ 
+ Regards,
+ 
+ Dom
+ 
+ 
+ 
+ 
+ 
+ 

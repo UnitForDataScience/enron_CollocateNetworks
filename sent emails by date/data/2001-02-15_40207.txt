@@ -1,0 +1,9 @@
+
+ 
+ Here's what I hear about who's scheduling what:
+ 
+ The UDCs are scheduling their own g & t
+ CDWR is scheduling for all UDCs (including SDG&E) in the bilateral market for 
+ day ahead and day of 
+ CDWR is scheduling for all the UDCs (including SDG&E) in the ISO real time 
+ market

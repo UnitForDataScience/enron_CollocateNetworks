@@ -1,0 +1,27 @@
+
+ 
+ We should cast a little broader net on this internally
+ 
+
+ 	02/23/2001 05:45 PM
+ 		 
+
+
+
+ 		  
+ Michael,
+ 
+ With the dissolution of the PX we are exploring various markets in an attempt 
+ to shape our load and minimise our credit exposure to counterparts such as 
+ the ISO.  We are continuing to work with EPMI to manage the risk associated 
+ with selling any volume into the Cal ISO. Currently we are purchasing power 
+ on a daily basis from the market to meet the highest common on and off peak 
+ hour.  This strategy leaves us long for all the other hours but reduces our 
+ exposure to ISO penalties for under scheduling . Our most promising options 
+ are to sell the excess shoulder power into the PX imbalance market or OTC 
+ hour ahead. We are concerned about any receivable from the ISO and would like 
+ to know what you think the probability is of non-payment. If we do receive 
+ payment over what time period can we expect to receive it.
+ 
+ NFB 
+ 

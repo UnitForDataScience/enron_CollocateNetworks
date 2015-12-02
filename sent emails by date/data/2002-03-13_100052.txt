@@ -1,0 +1,20 @@
+
+ 
+ 
+ 
+  
+    Cc:	Watson, Kimberly
+  
+ TK
+ 
+ I added a tab "monthly" which accumlates the monthly imbalances per operator.  The accumulated monthly total balance would be the monthly oba imbalance net.
+ 
+ Would this be useful information until we develop the automated version.
+ 
+ richard
+ 
+  
+ 
+ give me a call if you have questions
+ 
+ 

@@ -1,0 +1,35 @@
+
+ 
+
+ 
+ Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+
+ X- X- X- X-b X-Folder: \ExMerge - Keiser, Kam\Sent Items
+ X-Origin: KEISER-K
+ X-FileName: kam keiser 7-11-02.PST
+ 
+ We are working on this now.  We have a book with all physical active trades we will be performing on, we are now working on getting the in-the-money financial trades separated into a new book.  Once that book is ready and deals are moved, we will be able to report it to you.  
+ 
+ Thanks,
+ 
+ Kam
+ 
+ 
+  
+     
+ Hey guys,
+ 
+ Each book should have been split into 3 books - 
+ 
+ - terminated by the counterparty
+ - ongoing transactions (active) and
+ - transactions that have not yet been terminated by a counterparty but that we are not going to fullfil.
+ 
+ The DPR should only have the active transactions in it. Hope that clarifies!
+ 
+ Regards
+ 
+ Shona Wilson
+ Director, Global Risk Operations
+ X39123

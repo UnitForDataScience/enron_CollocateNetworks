@@ -1,0 +1,43 @@
+
+ 
+ Paul:  I have several online trading agreements to be negotiated.  Are you 
+ still reviewing credit issues?  Sara
+ 
+ 
+ 
+ Mike Fowler
+ 09/11/2000 02:41 PM
+
+
+ 
+  
+ My only suggestion regarding your comments on the WPG agreement would be not 
+ to change the 2nd line of 5a from "your Prime Broker" to "the exchange".   
+ 
+ Mike Minnich emailed you and me the following language to incorporate WPG's 
+ obligation as our nominal counterparty: 
+ 
+ WPG is responsible for the clearance and settlement of all affirmed trades
+ executed on the BuySideDirect trading system.
+ 
+ This appears reasonable to me (unless you or Sara feel that this could be 
+ interpretted as excluding trades for which the other counterparty fails).
+ 
+ Rather than waiting until my issues regarding fees (#9) and margin (#14) are 
+ resolved, I suggest that you forward your comments to Mike Minnich (who will 
+ provide to WPG's attorneys) and note that we have requested an opportunity to 
+ discuss fees (#9) and margin (#14) with Mike Minnich and WPG.  We suggest 
+ deleting #9 as our understanding is that we would not incur charges from 
+ WPG.  Regarding #14, we would incorporate our Buy Side Direct trading 
+ activity into our margin account with our prime broker.    Jason, I'll 
+ provide additional feedback after I discuss these issues with WPG. 
+ 
+ Please call me (713-853-9990) if you would like to discuss.  
+ 
+ Thanks.
+ 
+ Mike
+ 
+ 
+ 
+ 

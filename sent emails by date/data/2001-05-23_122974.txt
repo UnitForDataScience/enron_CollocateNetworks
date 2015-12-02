@@ -1,0 +1,23 @@
+
+ 
+ Thanks Mike.  Would you mind providing the MW and heat rate assumptions that correspond to these flows just for information purposes.
+ 
+ 
+ Thanks,
+ 
+ Charlie
+ 
+  
+    Cc:	Breese, Mark; Concannon, Ruth; Gimble, Mathew; Stovall, Darrell; Keenan, Jeffrey; Ottens, Douglas; Bagwell, Jennifer
+  
+ Charlie,
+ 
+ The new plant max consumption for planning purposes should be set at 2,490 mmBtu/hr HHV.  In addition to this it is estimated that the existing Frame 5 may require 335 mmBtur/hr HHV, or a total of 2,825 mmBtu/hr HHV.
+ 
+ The plant consumption is based on the maximum combustion turbine requirement, plus a 5% margin, plus duct burning requirement.  This should be adequate as a conservative maximum case.
+ 
+ Please let me know if you have any questions.
+ 
+ Thanks!
+ 
+ Mike Coleman

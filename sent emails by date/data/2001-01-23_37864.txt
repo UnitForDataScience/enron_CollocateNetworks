@@ -1,0 +1,8 @@
+
+ 
+ Sorry.  The topock curve should be marked as Socal flat.  Remember that we 
+ show the differentials in index spreads.  Please make certain that the pg&e 
+ topock curves are flat to socal in the future.  Can we run a report showing 
+ the curveshift spread between the two points since Jan 1, 2001?  Thanks.
+ 
+ Mike

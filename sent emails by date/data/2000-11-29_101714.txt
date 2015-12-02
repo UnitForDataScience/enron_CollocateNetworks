@@ -1,0 +1,25 @@
+
+ 
+ The deals included below are strictly index flat gas daily options.  I'm 
+ going to send Shouan an Index +/- deal as well so that he can verify that the 
+ basis offset is valuing correctly in both situations.
+ 
+ 
+ 
+ 
+ Shouan Tang
+ 11/28/2000 06:00 PM
+
+
+  
+ Hi Susan,
+ 
+ I changed the code so that it feeds the Ostrip model as Larry requested by 
+ using the formula to derive BasisOffset. In the attached file is the 
+ comparison between the old valuation and the one after the modification. 
+ Please note the changes on the premiums. Please let me know if you or Larry 
+ have any questions/comments on this. 
+ 
+ Shouan
+ 
+ 

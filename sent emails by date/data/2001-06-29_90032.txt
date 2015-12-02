@@ -1,0 +1,26 @@
+
+ 
+ My recommendation is that Berney's retail structuring group value the generation deals that are intended to serve retail load.
+ 
+  
+    Cc: 
+  
+ 
+ 
+ 2 issues: 
+ 
+ 1) Bernstein has asked us to comment on the strategic value of their York proposition. Apparently, he has revisited the Fixed O&M assumptions with Virgo and the new numbers have him close to where our mid would be (approx. $22 million). Once again, we are representing our valuations based on limited information and NOT full pro-forma economics. I've suggested to Bernstein to talk to Don Miller's group for an exit strategy in case the buy this thing. (i.e., Alamac structure) Anyway, it leads to my next question.
+ 
+ 2) If I'm asking this for the hundredth time, I apologize BUT: Do I need to staff up to accommodate "generation-based" pricing in our shop? Bernstein has asks me to facilitate getting access to structuring models to do their own notional pricing on deals. We need to address two possible scenarios:
+ 
+ They have access to structuring models but need access to curves in order to price their deals. In theory, they can use the precedent within EES that Orig/Product Development does their own notional pricing before going to Deal Mgmt./Structuring for Executable pricing. 
+ They come to us for notional pricing. If this is the answer, I need to add to my staffing needs to accommodate this service. 
+ 
+ 
+ Rogers, I'm indifferent as to which scenario is the "right thing to do" because I'm operating on the notion that we will not be managing the commodity risk associated with their deals. If this has changed, maybe both scenarios above are necessary to accommodate these value propositions.
+ 
+ I do realize the fact that our current retail systems can't accommodate spread options or even report the simple Greeks off of a straight forward Fixed Strike Euro, but we can handle this later if we are to warehouse this risk. I think you and I need to have clarity on this issue as we are getting more request to support that business.
+ 
+ Thx 
+ 
+ Bern 

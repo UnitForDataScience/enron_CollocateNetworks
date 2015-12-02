@@ -1,0 +1,5 @@
+
+ 
+ Jim Simpson has moved from the Chicago office to the Houston office.  He will be taking over the Mich-CG book.  We need to have the books transferred from Hunter Shively to Jim Simpson. The books are FT-INT-CEN-MKT2-BAS,GDI,GDL,IDX,PRC and INTRA_CNT-MKT2-PHY.  Jim should not need to be set up in the system, because he was in Chicago, he should just need books added.  Thanks for all of your help.
+ PL
+    

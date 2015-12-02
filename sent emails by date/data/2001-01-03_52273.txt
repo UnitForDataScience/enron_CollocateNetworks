@@ -1,0 +1,29 @@
+
+ 
+ 
+ 
+ 
+
+ 01/02/2001 10:21 AM
+
+
+
+  
+ Bill,
+ Attached are the spreadsheet for the Credit Exposure model and the XLL file.  
+ We have
+ performed some tests and the numbers looked reasonable. However, more 
+ extensive
+ testing using realistic data is needed. We would like to pass the model to 
+ you so you can
+ have someone check it more extensively and compare the model  with what you 
+ are using.
+ Also, please kindly inform me of any suggestions to improve the model as well 
+ as
+ any problems you may find. 
+ 
+ I can be reached at 31631. 
+ Best,
+ Alex
+ 
+ 

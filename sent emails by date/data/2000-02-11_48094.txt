@@ -1,0 +1,4 @@
+
+ 
+ The master agreement for this counterparty appears to not cover the Trade 
+ Option Exemption.  Are we adding that into confirms?

@@ -1,0 +1,9 @@
+
+ 
+ Gary/Susan,
+ 
+ The INTRA-CNT-TRANS problem was on my end.  It wasn't defined properly in the 
+ bench.  
+ 
+ Thanks,
+ Robin

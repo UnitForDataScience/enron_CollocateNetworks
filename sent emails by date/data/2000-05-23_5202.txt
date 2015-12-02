@@ -1,0 +1,49 @@
+
+ 
+ We are going to be rolling out a new product on EOL starting this bidweek.  
+ This product will be for physical delivery only on the weekdays (no weekend 
+ delivery).  Currently, the EOL/Sitara Bridge cannot handle this type of 
+ logic, so these deals will have to be input manually.
+ 
+ Let me know if you have further questions.
+ 
+ Eric
+ 
+ Dale Neuner   05/23/2000 10:26 AM
+ 
+
+
+
+
+  
+ We are rolling out the use of the 24 x 5 Nat Gas Product commencing tomorrow, 
+ May 24th. 
+ 
+ The Product is a month-long Physical Nat Gas Product traded off the Texas 
+ desk. It will be identified as follows:
+ 
+ US Gas Phy       Exxon Katy WkD          Jun00           USD/MM
+ 
+ This Product is different from the usual Products traded on the Texas Desk in 
+ that the Product  description has an 
+ indicator of  WkD, which designates that the Product only moves gas on a day 
+ that is a Monday, Tuesday, Wednesday, 
+ Thursday or Friday.
+ 
+ These Products WILL NOT bridge into Sitara. Risk personnel will need to be 
+ diligent to identify these Products based 
+ on the information in the Product Description to ensure that the Products are 
+ entered into Sitara correctly (presumably - 
+ strips of Monday-Friday trades and the corresponding month-starting days 
+ and/or month-ending days).
+ 
+ We understand the potential impact of having to manually input these 
+ transactions and have asked the appropriate
+ systems personnel to examine the links between EOL and Sitara and consider 
+ building bridge capability. In the
+ interim, we anticipate that the trading volume on these Products will be low, 
+ and will ask for higher prioritization of the
+ bridging in the event that volumes increase.
+ 
+ Dale
+ 3-9746

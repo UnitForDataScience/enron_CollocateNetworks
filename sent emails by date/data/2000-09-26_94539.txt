@@ -1,0 +1,27 @@
+
+ 
+ 
+    
+ 	Enron North America Corp.
+ 	
+ 	 	
+ 
+
+
+  
+ David Parquet asked me to forward these answers to you:
+ Question:
+ Is the major maintenance reserve estimate based on a negotiated Long Term
+ Services Agreement (LTSA)?  If so, will it be in place and transfer with
+ PEF?
+ Answer:  We have not negotiated an LTSA with anyone at this time, and we do 
+ not expect to have one in place to transfer with PEF.  The maintenance 
+ reserve is our estimate based on industry data and information from GE.
+ 
+ Question: Are spare parts for the first major overhaul included anywhere in 
+ the
+ capital cost estimate or are they assumed to be purchased through the
+ maintenance reserve estimate (i.e. the LTSA) charge?
+ 
+ Answer:  The maintenance reserve is intended to include parts and labor for 
+ the overhaul.

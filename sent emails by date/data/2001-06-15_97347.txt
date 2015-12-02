@@ -1,0 +1,13 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Salisbury, Holden\Sent Items
+ X-Origin: SALISBURY-H
+ X-FileName: holden salisbury 6-26-02.PST
+ 
+ I spoke with Bloomberg's Paul Callahan.  He confirmed that all daily trades are a $15 flat fee.  On the case of a spread trade like we executed yesterday the $15 flat fee still applys.  Although a spread trade implies two trades, only $15 is charged for the whole package.  Please let me know if you have any more questions.  Also, what do we need to do to change the default in Enpower to better reflect the fee structure.  I believe that term trades are still on the old rate basis.
+ 
+ Thank You,
+ Holden

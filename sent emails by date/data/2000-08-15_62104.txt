@@ -1,0 +1,4 @@
+
+ 
+ I talked to Whalley about it a little bit.  The one issue is that when we 
+ liquidate a bad position they get out first.  Think about it.

@@ -1,0 +1,6 @@
+
+ 
+ Contract 230104 (deal 231301) does not exist.  The correct contract is 560104 
+ (deal 254262).  I just killed deal 231301.
+ 
+ thanks

@@ -1,0 +1,14 @@
+
+ 
+ see this spreadsheet, you will see that previous months match.  This spreadsheet comes straight from our crude guys.  If the counterparty continues to disagree, get documentation from them and we can take it to the crude guys.  Thanks.
+ PL
+ 
+ 
+  
+     
+ Philip,
+ 
+ The attached file contains settle prices for crude.  The NXAVC code price is in cell "D48" which I have highlighted in yellow.  There is also historical data in the file where you can verify prior months.  If you have any other questions please ask.
+ 
+ 
+  

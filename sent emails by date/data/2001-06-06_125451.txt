@@ -1,0 +1,3 @@
+
+ 
+ Yes, but the other shoe is that we should shut down the rest of DealBench. If not, we will need to make large costly changes to the infrastructure to keep it going.

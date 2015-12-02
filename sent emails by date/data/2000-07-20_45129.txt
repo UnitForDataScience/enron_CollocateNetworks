@@ -1,0 +1,26 @@
+
+ 
+ 
+ Mail File Size Notice
+ 
+ Dear Tana Jones ,
+ 
+ We are currently experiencing a shortage of disk space on 
+ CN=ECTHOU_LN2/O=ECT, your home mail server.
+ 
+ Your mail file is currently 212.75 megabytes.  
+ 
+ We have allocated 75 megabytes per users on our mail servers.  This is the 
+ size
+ we would like for you to reduce it to.
+ 
+ We would appreciate if you could reduce the size of you mail file ASAP by:
+ 
+ Removing large attachments to your local hard drive or your H: drive.
+ Deleting any documents that are no longer needed.
+ 
+ If you need any assistance with these options please call the help desk at x 
+ 3-1411.
+ 
+ Thank You for your immediate attention to this matter.
+ Corp Notes Admin Team

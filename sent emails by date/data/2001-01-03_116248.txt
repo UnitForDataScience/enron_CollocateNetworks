@@ -1,0 +1,62 @@
+
+ 
+ This deal is part of a sleeve - we bought Powerex at 145.00 and sold EES at 
+ 145.05. This is standard procedure for these kinds of deals, said the guys at 
+ the Long Term Northwest desk. They're positive that the deal should include a 
+ 5-cent charge on the sale side; and Mike Driscoll said if EES still disputes 
+ this, they can call him to verify.
+ 
+ Please let me know if this deal continues to be a problem.
+ 
+ Thanks,
+ Kate
+ 
+ 
+ 
+ 
+
+ 01/03/2001 10:55 AM
+
+  
+  
+ Thanks!
+ The holidays for me were really nice.  All my brothers were home so they kept 
+ me pretty busy.  But it doesn't sound like it compares with yours!  Happy New 
+ Year!
+ On another, not so exciting, note, I have another question about the EESI 
+ deal #481619.  I just spoke with Judy and they say that the price is supposed 
+ to be $145.00 not $145.05.  Can you check on that one?  It's the only one 
+ still hanging out there from the mess before the holidays.
+ 
+ 
+
+ 
+
+  
+  
+ Oops - I guess the deal can't be killed because it contains liquidated 
+ strips. I've changed the confirm status to no confirm, and the energy to 
+ CAISO - so even though the deal has no volume or price, its other details are 
+ correct.
+ 
+ Kate
+ 
+ 
+ 
+
+ 01/03/2001 06:51 AM
+
+  
+  
+ Hi Kate,
+ This deal needs to be changed to no confirm (it's a West daily deal).  Also, 
+ it has an NP-15 delivery point with firm energy.
+ Thanks!
+ Kim
+ 
+ 
+ 
+ 
+ 
+ 
+ 

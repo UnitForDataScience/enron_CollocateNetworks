@@ -1,0 +1,29 @@
+
+ 
+ 
+ 
+ 
+
+ 01/12/2001 09:28 AM
+
+
+
+ Kaminski/HOU/ECT)
+  
+ Kim,  
+ 
+ After yestersday's meeting, I've come up with an idea which is applicable to 
+ the zone EF and
+ seems also to be applicable to the broader area. The model assumes that if 
+ there are positive spreads of energy
+ products between pairs of locations, we can always find the possibilities of 
+ swaptions. This assumption, as 
+ discussed with Jim and Sean, is a reasonable approximation. I suggest that 
+ the prototype be built up at this
+ model if you think that it is rational.  If you interested in the model, I 
+ will explain it to all of you. 
+ 
+ Best regards,
+ 
+ Youyi
+ 

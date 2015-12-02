@@ -1,0 +1,20 @@
+
+ 
+ 
+ ok to pay
+ 
+
+
+    
+ 
+ The following expense report is ready for approval:
+ 
+ Employee Name: Charlotte K. Chapman
+ Status last changed by:  Automated Administrator
+ Expense Report Name: Kay Chapman expenses 12/3/01
+ Report Total: $134.46
+ Amount Due Employee: $134.46
+ 
+ 
+ To approve this expense report, click on the following link for Concur Expense.
+ http://expensexms.enron.com

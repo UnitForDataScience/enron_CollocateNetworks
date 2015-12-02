@@ -1,0 +1,67 @@
+
+ 
+ FYI, make sure the tab on your P&L file has been changed to match this=20
+ email.  This is really important since we are moving books around tonight. =
+ =20
+ Thanks.
+ PL
+ 
+ 
+ 
+ =09Gregory A Mausser
+ =0901/31/2001 04:00 PM
+ =09
+
+
+
+  
+ In an effort to eliminate Interdesk variances and create efficiencies in bo=
+ th=20
+ OA and Economics we are asking each desk for their assistance updating the=
+ =20
+ =01+Physical=01, tab in the =01+Regions=01, file.  This will enable OA to a=
+ nalyze the=20
+ regional Interdesk picture before last day information is forwarded to Gas=
+ =20
+ Accounting.
+ 
+ Before saving the =01+REGION=01, file to =01+LAST DAY=01,, please ensure th=
+ e regional=20
+ descriptions for Interdesk Sales and Purchases in the =01+Physical=01, tab =
+ are=20
+ consistent with the list below.  New regions should follow a similar format=
+ .
+ 
+ DESCRIPTION
+ Central Desk
+ Denver Desk
+ Market East Desk
+ Northeast Desk
+ Ontario Desk
+ Peoples Desk
+ Sithe Desk
+ Texas Desk
+ West Desk
+ VNG Desk
+ Midwest Desk
+ Storage Desk
+ 
+ Also, please check the =01+Physical=01, tab for the following:
+ 
+ ? The region name in cell B1
+ ? The OA Code =01+3=01, to identify Interdesk Sales and OA Code =01+8=01, t=
+ o identify=20
+ Interdesk Purchases
+ ? The sheet name should be 'Physical'
+ 
+ Please take a look at the attached example and let me know if you have=20
+ questions or comments.=20
+ 
+ 
+ 
+ Thanks,
+ Greg (37299)
+ 
+ 
+ 
+ 

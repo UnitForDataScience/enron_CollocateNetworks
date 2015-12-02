@@ -1,0 +1,48 @@
+
+ 
+ Please put a note on Geoff's desk and my calendar
+ 
+ 
+    
+ 	
+ 	
+
+ 	
+ 
+
+
+
+
+  
+  
+ The Electronic Commerce team is working with Marketing Operations and 
+ Commercial in development of the GISB Capacity Release EDI datasets.  One 
+ critical step in this process is creation of a database.
+ 
+ I would like to schedule a quick 30 minute meeting to discuss creation of 
+ this database and ensure all potential interfacing groups are in the loop.
+ 
+  * Review Objectives
+  * Determine best database   -   Oracle or Sybase
+  * Set Priority for DA's
+ 
+ Currently, I have EB3013 scheduled for 2p.m. on Friday, July 14, 2000.  
+ Please let me know if you are not able to attend.
+ 
+ Thanks,
+ 
+ dg
+ x3-9517
+ 
+ 
+ 
+ 
+   -  This is not the file that will be given to DA's, but gives you a basic 
+ idea of what we will need.
+ 
+ 
+ 
+      -  This test plan is in a "rough" format, but will give you an idea of 
+ our scope.
+ 
+ 

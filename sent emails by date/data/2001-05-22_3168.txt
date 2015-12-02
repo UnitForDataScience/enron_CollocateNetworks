@@ -1,0 +1,10 @@
+
+ 
+ poolie: what's the value of the company to you????
+ 
+  
+
+ 
+  
+ if you are buying a company for $6.6 MM with only a 25% probability of the
+ target accepting your offer.  what is the expected value?

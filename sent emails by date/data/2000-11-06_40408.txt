@@ -1,0 +1,20 @@
+
+ 
+ On 10/27/00, FERC issued two orders that clarify procedures for requesting 
+ long term transmission.  (Morgan Stanley v. Ill. Powerand Tenaska Power v. 
+ SPP).  In both cases, the customer requested long term (year or greater) 
+ transmission service and in both cases, the ATC was insufficient to award the 
+ entire request.  Transmission Providers, Ill. Power and SPP treated partial 
+ service differently.  In these orders FERC holds:
+ 
+ A transmission provider (TP) is NOT required to offer short term service in 
+ response to a long term request.  Section 19.7 of the pro forma OATT only 
+ obligates the TP to tell the customer how much partial Long Term service 
+ could be provided.  Examples:
+   a new short 
+ term request must be submitted to obtain the summer transmission.
+ 
+ While the TP is not required to respond with short term availability in 
+ response to a long term request, FERC did footnote to Ill. Power that it 
+ thinks it is a helpful idea for the TP to alert the customer to what ATC is 
+ available so the customer can submit a short term request if it wishes.

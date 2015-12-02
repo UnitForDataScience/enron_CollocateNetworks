@@ -1,0 +1,4 @@
+
+ 
+ Please create a new CPR index report and have it sort 1st byPub Code, 2 nd by 
+ pipe, 3rd by zone.    Also, please subtotal by Pub Code.

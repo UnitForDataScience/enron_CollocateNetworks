@@ -1,0 +1,11 @@
+
+ 
+ Collin,
+ 
+ I saved a file in the _dropbox named cash feed for john
+ Can you add the eol listener so that john can listen to the eol bid and asks for different products
+ Just add a new worksheet
+ 
+ Let me know when this can be done
+ 
+ Dutch

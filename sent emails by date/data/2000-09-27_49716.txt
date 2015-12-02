@@ -1,0 +1,7 @@
+
+ 
+ This is another file (spread options). I have eliminated some very technical, 
+ detailed
+  pages about NYMEX spreads. This information is obsolete.
+ 
+ Vince

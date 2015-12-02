@@ -1,0 +1,4 @@
+
+ 
+ Commodity	$.0206
+ Fuel		2.398%

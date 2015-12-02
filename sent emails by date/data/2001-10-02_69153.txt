@@ -1,0 +1,18 @@
+
+ 
+ here is what I said.
+ PL
+ 
+ 
+  
+     
+ Please set up Souad Mahmassani in risktrac.  She is a new trader on the central desk.  She will be running the Aruba and central transport books.  The following books will be her responsibility:
+ ARUBA-SPLY-PRC
+ ARUBA-TP-PHY
+ FT-PEOPLES-BAS,PRC,IDX,GDL
+ FT-CENTRAL-OPT-BAS,GDL,IDX,PRC
+ 
+ Souad would need to roll up to the Central desk in natural gas, I would say she should be set up similar to Denver Plachy.
+ 
+ Please shout with any questions or additional information that you may need.  Thanks.
+ PL

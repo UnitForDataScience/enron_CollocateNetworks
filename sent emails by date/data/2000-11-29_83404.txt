@@ -1,0 +1,29 @@
+
+ 
+ Tammy,
+ 
+ Sean can help us with customized EOL reports.
+ 
+ Scott
+ 
+ 
+ 
+
+ 11/29/2000 12:03 PM
+
+
+
+
+
+
+
+   
+ I am working with the EOL system development group on improving the reporting 
+ capabilities of EOL so that Internal EOL traders can personalised and save 
+ report formats.  Currently the system only saves the last report format.  If 
+ you have any ideas, thoughts or requests please let me know.
+ I have attached a file with examples of reports that can be generated.  The 
+ goal would be to give you the ability to view the information when you need 
+ it and in the required format.
+ 
+ 

@@ -1,0 +1,22 @@
+
+ 
+ FYI
+ 
+  
+
+ 
+  
+ The Approval status has changed on the following report:
+ 
+ Status last changed by: Sherri Sera
+ Expense Report Name: Houston Bar Association
+ Report Total: $170.00
+ Amount Due Employee: $170.00
+ Amount Approved: $170.00
+ Amount Paid: $0.00
+ Approval Status: Accounting Review
+ Payment Status: Pending
+ 
+ 
+ To review this expense report, click on the following link for Concur Expense.
+ http://xms.enron.com

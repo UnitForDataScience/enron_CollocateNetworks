@@ -1,0 +1,18 @@
+
+ 
+ Type of Contract:  ISDA Master Agreement (Multicurrency-Cross Border)
+ 
+ Effective  
+ Executed  
+ Enron Entity:   Enron Canada Corp.
+ 
+ Counterparty:   Duke Energy Marketing Limited Partnership
+ 
+ Transactions Covered:  Approved for all products with the exception of: 
+ Weather
+           Foreign Exchange
+           
+ Confirming Entity:  ECC
+ 
+ PLEASE NOTE:  Party A and Party B are co-Calculation Agents under this 
+ Agreement

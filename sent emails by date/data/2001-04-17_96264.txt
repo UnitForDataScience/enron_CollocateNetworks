@@ -1,0 +1,26 @@
+
+ 
+ Thanks for the explanation.  Can you also get the actual interest rate used 
+ for each group on terminated transactions (eg the financial trades, the power 
+ trades, the US gas trades and the Canadian gas trades).  Thanks
+ 
+ 
+ 
+
+ 	04/16/2001 06:16 PM
+ 		 
+
+ 		  		  
+ Pushkar's methodology. Let me know if I can be of further help on this.
+ 
+  
+  
+ Cc: Su, Ellen
+  
+ 
+ The libor curves are calculated using market data at the close of the day for 
+ swap instruments namely the libor cash rates (published on Telerate page 
+ 3750), eurodollar curve (prices published on Telerate 910) and the swap curve 
+ (prices published on Telerate 19901). The interpolated spot curve is 
+ calculated using a boot-strapping methodology. Discount rates can be 
+ calculated from these published zero rates by using the formula d(t) = 1 

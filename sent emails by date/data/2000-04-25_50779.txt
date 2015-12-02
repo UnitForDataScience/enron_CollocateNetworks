@@ -1,0 +1,43 @@
+
+ 
+ 
+ As you may know, I was invited to visit with Enron (ENE) last week.  I met
+ with Vince Kaminski, the VP and head of research in the risk management
+ group of ENE.  Vince who used to be with Salomon Brothers and AT&T is the
+ "brain" of ENE w.r.t. their analytical tools for pricing of commodities,
+ hedging, optimization of financial and physical transactions, as well as the
+ value-at-risk systems.  In addition, Vince has received the 1999 James H.
+ McGraw Award for Energy Risk Management (Energy Risk Manager of the Year)
+ and is well published.  He is the key contributor to a best-selling
+ publication by Risk Books entitled: Managing Energy Price Risk.
+ 
+ Our meeting was mainly focused on gaining additional insights re
+ leading-edge practices within ENE.  My key findings are summarized below:
+ 
+ 1. ENE does not use corporate price premises.  They use market price info
+ only and adhere to mark-to-market accounting.
+ 2. ENE uses the "Heath, Jarrow, and Morton" methods for modeling price
+ dynamics (I've asked BIC for a copy of the associated paper).  They have
+ their own "home-grown" software, however, they periodically review selected
+ external developments for internal inclusion and advancement.
+ 3. Vince's group comprises of Mathematicians, Physicists, and Operations
+ Researchers who are responsible for the development and advancement of ENE's
+ risk management tools.  These models are religiously used by the traders,
+ risk managers, and BUs across ENE.
+ 4. Investment proposals are screened, risked, and "ROVed" by a separate
+ corporate group (similar to our Special Studies and with business and real
+ options skills) who work in conjunction with the BUs.  All evaluations and
+ transactions are marked-to-market.
+ 5. ENE does not use efficient-frontier portfolio concepts.  They "VC fund"
+ any opportunity that has a credible value proposition and can stand on its
+ own.  They believe that with the current plentiful liquidity in the market,
+ project-financing in not an issue for a "good" opportunity.  However, they
+ closely monitor the development of each opportunity, within their deep
+ portfolio, at the corporate level and know how to "fail fast".
+ 6. The employee reward system is based on P&Ls as well as the creation of
+ new business.
+ 7. Most employees have stock options.
+ 
+ I really enjoyed my visit and hope to meet with Vince again the next time
+ I'm in Houston.
+ 

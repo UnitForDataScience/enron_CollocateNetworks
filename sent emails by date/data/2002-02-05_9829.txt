@@ -1,0 +1,23 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Benson, Robert\Sent Items
+ X-Origin: BENSON-R
+ X-FileName: rob benson 6-25-02.PST
+ 
+  
+ 
+ 
+     
+ 
+ Vladimir,
+  
+ Which measure are we going to be using at UBS?  VaR on portfolio #2 dosn't make sense to me that adding gas short to same position as #1c. increases risk.  What's up with that?  Also, could you forward the results from Rob Benson's portfolio's to me?  Thanks,
+  
+ Fletch
+ [Benson, Robert] 
+  
+ Vladi, we need to talk about the PJM/Gas correlations. Could you also give us a correlation matrix, all power markets and gas markets. Thanks  
+ 						

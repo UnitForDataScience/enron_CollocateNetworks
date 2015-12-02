@@ -1,0 +1,16 @@
+
+ 
+ steelers = 6
+ bucs = 9
+ eagles = 5
+ rams = 15 (last man standing)
+ bills = 4
+ panthers = 13
+ jags = 14
+ chiefs = 10
+ raiders = 2
+ giants = 7
+ pats = 3
+ seahawks = 11
+ ravens = 8
+ skins = 12

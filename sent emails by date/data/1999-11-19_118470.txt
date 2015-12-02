@@ -1,0 +1,10 @@
+
+ 
+ My only concern is that the letter may not adequately tie the master 
+ agreement referred to and the products affected in a situation where we have 
+ more than one master (covering different commodities or transaction types) 
+ with the same counterparty.  I can imagine a situation where Credit doesn't 
+ want us to use a physical master but the financial master is ok or vice 
+ versa.  I mentioned this to Bob and he will watch for situations where Credit 
+ is only "turning off" one master in a multiple master setting.  We should 
+ also be listing each master affected if Credit wants to turn them all off.

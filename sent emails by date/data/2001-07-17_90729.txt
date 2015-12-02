@@ -1,0 +1,20 @@
+
+ 
+ Eric,
+ 
+ John is comfortable with sending out a 5 year curve to Egypt
+ also he does not want to adjust the length of the forward price curve in the system due to non liquidity in the market that far forward
+ 
+ Dutch
+ 
+  
+     
+ Dutch,
+ 
+ Per our conversation last week, can the gas price curve be extended out past 2024?  Also,  could you ask John about sending Egypt a historical forward curve.  They would like to see a couple of historical curves from the last 6 months out as far as we are willing to go.
+ 
+ I'll check back with you this afternoon. 
+ 
+ Thanks again.
+ 
+ Eric

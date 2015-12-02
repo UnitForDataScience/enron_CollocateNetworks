@@ -1,0 +1,19 @@
+
+ 
+ Spoke to Jay.  He's going to lunch with us.
+ 
+ 
+ 
+ Trans. Svc. Provider: 007933021 - TRANSCONTINENTAL GAS PIPE LINE CORPORATION
+    Notice Identifier: L0104041
+      Critical Notice: Yes
+       Type of Notice: 8-Capacity Constraint
+    Required Response: 5-No Response Required
+    Resp By Date/Time: N/A
+ Notice Eff Date/Time: 04/04/01 09:56:17
+ Notice End Date/Time: N/A
+               Status: 1-Initiate
+  Prior Notice Ident.: N/A
+
+ 
+  - C.DTF

@@ -1,0 +1,71 @@
+
+ 
+ Stuart:
+ 
+ Can we talk about the situation when you have about 15 minutes?  Sara
+ 
+ Sara Shackleton
+ Enron North America Corp.
+ 1400 Smith Street, EB 3801a
+ Houston, Texas  77002
+ 713-853-5620 (phone)
+ 713-646-3490 (fax)
+
+ 
+ 
+ 
+ 	William Stuart
+ 	01/23/2001 12:30 PM
+ 		
+
+
+
+ 		  
+ Since your plan is to assume the existing hedges, you need to determine from 
+ Sara Shakleton, our legal advisor, the issues related to assignability. Also, 
+ you should reduce the amount of CAD that you need to hedge by assigning the 
+ existing hedges. 
+ 
+ Sara: What should we do if there is a position with a bank in which we do not 
+ deal with or have agreements with?  
+ 
+ W. Stuart
+  
+ 
+ 
+
+
+  
+ Stuart:
+ 
+ Would it be possible for you to send us a tradeable forward curve (we need to 
+ use it for our base case and run sensitivities from there)?
+ 
+ Also here are some answers to  the questions you asked earlier this morning. 
+ 
+ 
+ 
+ 1) Will the asset be in a mark-to-market book? If so, will you need 
+ mark-to-market accounting for this hedge? 
+ Answer:  We will plan to review with Kent Castleman
+  
+ 2) Under what entity name will the hedge be executed?
+ Answer:  Not yet determined
+ 
+ 3) What will be done with the existing hedges that the entity currently has 
+ in place? Will they be assigned to Enron? Liquidated?
+ Answer:  Yes, we plan to assume the existing hedges on the date of purchase
+ 
+ 
+ 
+ Thanks a lot. 
+ 
+ Fati and Carlos
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

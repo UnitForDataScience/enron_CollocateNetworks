@@ -1,0 +1,12 @@
+
+ 
+ Stewart,
+ 
+ I base my opinion on 15 years trading and marketing risk management products to corporations. When I was at Bankers Trust, every corporation we dealt with would ask after completing a deal "can you tell us where we can get a cheap off-the-shelf system that we can use to manage these things ? "
+ 
+ The problem KioDex has is exactly what you describe: with companies that where trading of derivative products is core to their mission, the third party ASP model is an extremely difficult one to sell. There are all the obvious reasons: security, reliability, continuity etc... What Kiodex needs to focus on, in my opinion, is the intersection of customers who need the product but don't view the function as critical to their operation.
+ 
+ For what it is worth.
+ 
+ 
+ Andy 

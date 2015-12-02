@@ -1,0 +1,56 @@
+
+ 
+ Looks good.
+ 
+ Errol
+ 
+ 
+ 
+ 
+
+ 03/02/2001 04:08 PM
+
+  
+  
+ Try these....QS9294 and QS9295
+ 
+ 
+ 
+
+ 03/02/2001 04:01 PM
+
+  
+  
+ Sorry Dawn, QS7544 is not correct.  This deal is an option and is booked to 
+ NG-Exotic.  It should be booked to NG-PR-OPT.
+ 
+ Thanks,
+ 
+ Errol
+ 
+ 
+ 
+
+ 03/02/2001 11:09 AM
+
+
+
+ 
+  
+ Errol, can you look at these deals in tagg stage and let me know if this is 
+ how they are supposed to look?  These are the deals with the option having 
+ NG-PR-OPT, but the swap remaining the same as before.  If everything looks ok 
+ we will put into production this evening.  
+ 
+ Let me know...
+ 
+ QS7544 and QS7545
+ 
+ Dawn
+ 
+ 
+ 
+ 
+ 
+ 
+ 

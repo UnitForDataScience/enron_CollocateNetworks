@@ -1,0 +1,21 @@
+
+ 
+ FYI, it may be wise to run a few of your macros from Jeff's machine.  I would 
+ just see if it runs and close without saving.
+ PL
+ 
+ 
+ 
+ 
+ Jeffrey C Gossett
+ 03/26/2001 07:33 AM
+
+
+
+   
+ My PC has been moved to windows 2000.  Please have everyone come test 
+ applications on my PC this week to make sure they work in this environment.  
+ All PC's will be moved next week unless they have been notified of specific 
+ problems.
+ 
+ Thanks

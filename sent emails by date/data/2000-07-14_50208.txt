@@ -1,0 +1,123 @@
+
+ 
+ Lloyd,
+ 
+ No problem. I wanted to make sure that everybody realizes how 
+ detailed-oriented our tasks are
+ and that we have to be in direct communication with our counterparties.
+ 
+ Vince
+ 
+ 
+    
+ 	Enron Capital & Trade Resources Corp. - Europe
+ 	
+ 	 	
+ 
+
+
+
+
+  
+ Vince,
+ 
+ I certainly think Anjam & Tanya should visit NY, but I simply had a concern 
+ that some of the questions being asked had already been covered by Anjam / 
+ myself and Andreas but had somehow not been communicated.
+ 
+ My message was not intended to convey any another impression.  I've also now 
+ spoken with Anjam & Tanya and clarified this.
+ 
+ regards
+ 
+ Lloyd
+ 
+ 
+ 
+ 
+ Vince J Kaminski
+ 14/07/2000 15:04
+
+
+
+
+ 
+  
+ Lloyd,
+ 
+ Speaking from experience, I think that it's critical for Tanya and Anjam to 
+ visit MG in New York
+ and establish direct relationship with technical people. Merging two risk 
+ management systems
+ requires handling many very technical issues and face to face discussions 
+ between IT and quants
+  will be very helpful.  
+ 
+ Vince 
+ 
+ 
+ 
+    
+ 	
+ 	
+ 	 	
+ 
+
+
+
+
+  
+ Tanya,
+ 
+ I think most of your queries can be dealt with on the phone - I'll be at MG 
+ with Andreas today and we'll call you.   Most of these points have already 
+ been covered with Anjam in any case.  I'm also attaching a file downloaded 
+ from Mercur (MG's risk aggregation system) showing monthly total positions 
+ for each metal in each entity.  You can fairly easily create tables and graph 
+ what you want to see.  We can talk today about getting a full deal download.
+ 
+ Regards
+ 
+ 
+ 
+ 
+ 
+ 
+ Tanya Tamarchenko
+ 13/07/2000 22:45
+
+
+
+
+
+ 
+  
+ Hi Andreas,
+ 
+ Here are the issues we would like to discuss on our Thursday meeting in NY:
+ 
+ 1. Inputs for options valuation, in particular the origins of volatility 
+ curves;
+ 2. Information on exotic options structures (existing & potential);
+ 3. The data flow (are we going to get data from London or NY).
+ 4a. Storage of positions information at  MG. How to extract the positions 
+ info from
+ MG database into spreadsheets.
+ 4b. Existing positions structure for each metal.
+ 5. Introduction to concentrates trading business, key personnel.
+ 
+ Best Regards,
+ 
+ Tanya & Anjam
+ 
+ 713 853 3997
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

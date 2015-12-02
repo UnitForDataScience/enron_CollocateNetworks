@@ -1,0 +1,54 @@
+
+ 
+ 
+ 
+ 	David P Dupre
+ 	05/23/2000 09:35 AM
+ 		 
+
+ 		  		  
+ I received a call from Bob Klein indicating that this information would be 
+ utilized for your meeting.
+ 
+ We currently trade the following commodities on the Nymex, CME, and other 
+ International exchanges, such as the
+ LIFFE (Europe) and SFE (Australia):
+ 
+ Interest Rate 
+ 
+ 5, 10, 30 year bonds (CBOT)    Carr, Prudential
+ Bankers Acceptances (Toronto Stock Exchange-TSE) HSBC
+ Bund (Eurexchange)     Carr
+ Eurodollar (CME)     Carr, HSBC, Prudential
+ Euro (3 month Treas bill) (LIFFE)     Carr
+ Gilt (LIFFE)      Carr
+ S&P 500 (CME)      Carr, Prudential
+ Nasdaq (CME)      Carr, Prudential
+ SP60 (Canadian S&P Futures) (TSE)   HSBC
+ Australian stock index (SFE) (Sydney Futures Exchange) Prudential
+ 90 Day Sterling Libor (LIFFE)    Carr, HSBC
+ 
+ Emerging Products
+ 
+ Lumber (CME)      Carr, Saul Stone 
+ Weather (CME)      Man
+ Pulp (London Options and Futures exchange-OMLX) Man
+ 
+ Liquids
+ 
+ Brent Crude (International Petroleum Exchange-IPE) Paribas, Man    
+ Crude Oil (Nymex)     Paribas, Bear, Man, ADM, Smith Barney, Prudential, ABN 
+ AMRO
+ Heating Oil (Nymex)     Smith Barney, Prudential, ABN AMRO
+ Unleaded Gas (Nymex)     Smith Barney, Prudential, ABN AMRO
+ Natural Gas (Nymex)     Paribas, Bear, Man, Sakura, Carr, ADM
+ Propane (Nymex)     Paribas
+ 
+ Electricity (all Nymex)
+ 
+ PJM    Smith Barney
+ Palo Verde   Man
+ COB    Man
+ Cinergy    Smith Barney
+ 
+ 

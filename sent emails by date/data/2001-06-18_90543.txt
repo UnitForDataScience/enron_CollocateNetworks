@@ -1,0 +1,13 @@
+
+ 
+ Approved.
+ 
+  
+     
+ Kevin,
+ 
+ Sanjay needs a Vice President or above approval for his group to get a live telerate feed.  This will allow them to include the ability to automate the heat rate calculation, as well as set the stage for gas book curve shift in the next release.  If you could please give your approval we can begin testing.
+ 
+ 
+ Thank you 
+ Donnie Vinson

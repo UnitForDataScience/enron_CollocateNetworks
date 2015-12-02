@@ -1,0 +1,44 @@
+
+ 
+ 
+   December 2000
+ 
+ 
+ 
+ 
+
+ 	01/04/2001 03:07 PM
+ 		 
+
+
+
+ 		  		  December 2000
+ 
+ Attached is the file containing details for the Financial Liquidations 
+ relating to Physical Index trades.  Thanks to Troy and Jim, we have 
+ eliminated the duplication of the intra-month transport liquidations in the 
+ daily P/L.  The Liquidations for transport that are included below are 
+ positions that must be rolled out of my intra-month book and into the FT-West 
+ P/L.  The offsetting liquidations should be coming through Chris Walker's 
+ Financial Liquidations Process.   We are still unable to provide support out 
+ of ERMS for the liquidations relating to transport.  I have included the 
+ values for all of the intra-month December Liquidations below.
+ 
+ Index 
+ Positions                                                                     
+   $(2,534,426) Support attached
+ Intra-month Transport Options Spreads                            $(228,657) 
+ Transport Model - No Support - Offsetting value in FT-West
+ Intra-month Transport Demand Reimbursement                $73,582 Transport 
+ Model - No Support - Offsetting Value in FT-West
+ 
+ TOTAL Liquidations for December                                ($2,689,501)
+ 
+ 
+ Please let me know if you have any additional questions.  Thanks.
+ 
+ Anne Bike
+ x5-7735
+ 
+ 
+ 

@@ -1,0 +1,22 @@
+
+ 
+ I approve
+ 
+     
+ Thank you for submitting an order through iBuyit eProcurement.  
+ Unfortunately, the system was not able to determine who should approve your 
+ request.
+ 
+ Please route this document to the person who generally approves your 
+ expenditures and have them send an email to Enron IT Purchasing denoting the 
+ approval.
+ 
+ To facilitate the communication, attached you will see the list of items you 
+ ordered.
+ 
+ 
+ 
+ Thank you,
+ 
+ For future orders, we can update the workflow table to route directly to the 
+ approver if you provide the approvers' names.

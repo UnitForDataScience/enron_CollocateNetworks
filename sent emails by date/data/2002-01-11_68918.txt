@@ -1,0 +1,18 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Love, Phillip M.\Sent Items
+ X-Origin: LOVE-P
+ X-FileName: phillip love 6-25-02.PST
+ 
+ thanks for the file.  I am attaching the basis curves we have set up and the GDY curve file as well.  I am finishing the physical as we speak.  Please look at these three files and let me know if you would like any changes.  We are only putting the published curves in the files, at least to begin with.  West Basis is the rockies at southwest curves and CA basis is the california markets.  Thanks.
+ PL
+    
+ 
+  
+     
+ Attached is a file from EOL that has all the current products.  We are trying to do a mass mapping for the systems of all of these products.  As you mentioned, not all of these products will roll out initially, but we wanted to go ahead and map them in the system.  I have put in the old trader's names in a column(column F).  If you could check out the list when you get a chance and let me know if you want to change the traders on any of the products and who will be trading the products for the traders that are not moving over(names highlighted in green).  Also, there are no current products under Jason Wolfe, Matt Smith or Jane Tholt.  Please let me know if we need to create products for them or if we will be moving existing ones to them.  Please also let me know which traders need to also have a physical book.  The list I gave you this morning is the financial books we set up.  Thanks for your help and let me know if you have any questions or concerns.
+ PL
+  << File: Trader-Book template west.xls >> 

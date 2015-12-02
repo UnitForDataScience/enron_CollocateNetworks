@@ -1,0 +1,11 @@
+
+ 
+ Will,
+ 
+ If you could attempt the following report I would greatly appreciate it.  I have given a best efforts try in report writer, but because I am pulling MTM value it is pulling every strip.  I need all options by flowing from today forward for the East and West portfolios.  I need deal date, start date, end date, premium, strike price, Monthly/Daily Option indicator, MTM value from AdHoc, Buy/Sell, Counterparty, Enron Entity, Call/Put, Deal Type, Region.
+ 
+ Thanks so much,
+ Stacey
+ 
+ 
+ Call me tomorrow when I can start working - 281-894-0468.

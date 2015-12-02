@@ -1,0 +1,11 @@
+
+ 
+ Anne,
+ 
+ We need to delete the two trades listed under rockies that are priced 13.90 
+ and 14.00.  Please move these trades to Sumas and resend the data to the 
+ publications with an explanation.  The index for rox should be 5.9125 after 
+ you make the changes.
+ 
+ Thanks,
+ Mike

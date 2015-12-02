@@ -1,0 +1,22 @@
+
+ 
+ I found $357 not showing up on Texas Gas, K#T016336, AND the OLD total for 
+ Texas Gas is showing $18,423 when the actual total is only $1,442.
+ 
+ We are showing the Equitrans contract on both ENA and CES.  For now, I'm 
+ taking it out of the ENA sheet - its $7,000
+ 
+ That's all for now.
+ 
+ 
+ 
+ 
+ 
+ 
+ Chris Germany
+ 05/17/2000 07:37 AM
+
+   
+ I just found somehting that will probably stick out when you run the new 
+ demand charges.  The TETCO demand charges on the ECT Trans worksheet were not 
+ subtotaled.  The total demand for these charges was $18,424.

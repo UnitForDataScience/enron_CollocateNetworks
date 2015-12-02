@@ -1,0 +1,11 @@
+
+ 
+ Mary: Please send me prices for the following:
+ - quail lease
+ - quail guided hunt
+ - deer lease
+ - deer guided hunt
+ - duck lease
+ - duck guided hunt
+  
+ thanks brad mckay

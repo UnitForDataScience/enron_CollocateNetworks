@@ -1,0 +1,13 @@
+
+ 
+ Same thing for Trco k#.7537, deals 232576 and 271489
+ 
+    
+ 	
+ 	
+ 	 	
+ 
+
+   
+ I changed the end date to 12/31/2000 on Trco k#2.2390, deals 77157 and 
+ 320086.  I had it set up as evergreen.

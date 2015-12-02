@@ -1,0 +1,9 @@
+
+ 
+ Wes
+ 
+ With respect to the PPA reserve.
+ 
+ We need to adjust the USD reserved based on the currency.  We decided not to hedge the currency when we took the reserve.  Its hard to make an objective decision on whether this is correct or not.  However, the currency was 1.5 CAD to 1 USD when we did it and now 1.565 CAD to 1 USD so the reserve would be 287.5 USD not 300.  We should just adjust this weekly or monthly.
+ 
+ Lavo

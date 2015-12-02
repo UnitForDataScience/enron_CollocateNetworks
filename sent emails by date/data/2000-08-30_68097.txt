@@ -1,0 +1,15 @@
+
+ 
+ Please use the following two files as your detail support for finanical 
+ liquidations:
+ 
+ 
+ Previously, I believe you were given the capacity hedges file the 
+ pricebasisindex file and the pricebasisindex_revised file.  All three of 
+ these equalled the 3.7 million.  You should use the revised and the capacity 
+ hedge file.  When you use the two files listed above, you will come up with a 
+ variance going the other way of roughly $(817,385).  This amount should be a 
+ "desk adjustment".  We have accounted for the variance in our current month 
+ (0800) file and will simply reclass between the months.  Please shout with 
+ any questions.
+ PL

@@ -1,0 +1,16 @@
+
+ 
+ Lorraine and Paul,
+ 
+ Please coordinate with each other and provide Steve an update by noon tomorrow (Wednesday) as to where your conversations stand with your customers on flipping these deals from Index to fixed rates.  He has a meeting with Stan at 2:00pm and will be asked about these I'm sure.  
+ 
+ Also, Paul, would you please provide Steve any additional thoughts ( like we discussed yesterday) with respect to how and what things are included in our VaR.  
+ 
+ Many thanks, Kim. 
+ 
+  
+     Importance:	High
+ 
+ I think that the problem with the TW VaR is how the volatility is being calculated on the San Juan indices for the months of November 2002 through March 2003.  This is not a Caminus issue, but an issue of how the volatility is being calculated outside Caminus.  It sounded as though Jose will not work on any issue related to Caminus, but I think this issue is outside of Caminus
+ 
+ Comments?

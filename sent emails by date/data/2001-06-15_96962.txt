@@ -1,0 +1,22 @@
+
+ 
+ The system won't let me review these requests.  It says that I am not authorized to review the content.    Liz
+ 
+  
+
+  
+ 
+ This request has been pending your approval for  17 days.  Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000036752&Page=Approval to review and act upon this request.
+ 
+ 
+ 
+ 
+ 
+ Request ID          : 000000000036752
+ Request Create Date : 5/23/01 12:19:11 PM
+
+ Resource Name       : Westlaw
+ Resource Type       : Applications
+ 
+ 
+ 

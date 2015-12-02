@@ -1,0 +1,34 @@
+
+ 
+ I was able to get into the application this time.  I could see the request 
+ for Shona on the screen and I clicked "Approval".  The status did not change 
+ from pending and there was no pop up on the screen that indicated that the 
+ request was processed.  So I do not know if this worked.  
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ Please review and act upon this request. You have received this email because 
+ the requester specified you as their Manager. Please click 
+ http://itcApps.corp.enron.com/srrs/Approve/Detail.asp?ID=000000000002257&Email
+
+ 
+ 
+ 
+ 
+ Request ID          : 000000000002257
+ Request Create Date : 9/1/00 3:10:58 PM
+
+ Resource Name       : Visio Professional
+ Resource Type       : Applications
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,23 @@
+
+ 
+ have you handled already?
+ 
+ 
+
+ 	01/22/2001 03:46 PM
+ 		 
+
+ 		  		  
+ The following expense report is ready for approval:
+ 
+ Employee Name: Mark A. Palmer
+ Status last changed by:  Automated Administrator
+ Expense Report Name: Miscellaneous
+ Report Total: $524.47
+ Amount Due Employee: $524.47
+ 
+ 
+ To approve this expense report, click on the following link for Concur 
+ Expense.
+ http://nahou-wwxms01p
+ 

@@ -1,0 +1,16 @@
+
+ 
+ talk to Don on the EES stuff
+ 
+  
+    Cc: 
+  
+ 
+ 
+ John,
+ 
+ Does anyone report to you the EES-CAL positions? As of this morning, that book was screwed up, for example, it included the Nepool positions. Is P&L of $20.5 MM as of 1/30 correct? Also, no VaR is reported on these positions as of this morning.
+ 
+ I am going to try to clean this mess up today.
+ 
+ Vlady.

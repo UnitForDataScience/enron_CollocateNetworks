@@ -1,0 +1,44 @@
+
+ 
+
+
+
+
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X-
+ X- X-b X-Folder: \ExMerge - Williams III, Bill\Sent Items
+ X-Origin: WILLIAMS-W3
+ X-FileName: 
+ 
+ Group,
+ 
+ CAPS will be down from HE 20 through HE 1 on Saturday morning.  We will have to use workspace and run Enpower to CAPS after HE 1.  We may want to run Enpower to CAPs early (or at least create finals) so that we do not lose any data if the whole thing gets erased.  Please call with questions.
+ Good luck.
+ 
+ Thanks,
+ Bill
+ 
+  
+    Cc:	Larkin, Brian; Coles, Frank; Davis, Pete
+  
+ 
+ Bill,
+ 
+ Following up on our conversation outage announcement below included an application your group relies upon, known as CAPS, or Enpower CAPS.  The outage will make CAPS unavailable from 8:30 p.m. to 12:30 a.m. Portland Time this evening.  I understand that group will have access to a back up interface but may be without reporting which is available on your Terminal Service version of the power scheduling here in Houston.
+ 
+ I will find someone on the team performing the maintenance to call (800) 684-1336 and let your staff know that the system is back online.  Thanks.
+ 
+ Chris Jeska
+ (713) 345-7004
+ 
+ 
+ Equity trading systems (eqpm directory)
+ Adaytum
+ CQG
+ TMS
+ PowerMap Europe
+ PowerDat Europe
+ MapInfo Professional 
+ Secretariat

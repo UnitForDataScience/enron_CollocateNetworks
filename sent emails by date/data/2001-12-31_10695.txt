@@ -1,0 +1,17 @@
+
+ 
+ 	Please restore the below referenced file as requested.  If you have any questions, please
+ 	call me at ext. 3-7637.
+ 
+  
+    Cc:	ETS Information Risk Management; Bodnar, Michael; ETS Solution Center,; Wagner, Glenda
+  
+ Mike Bodnar needs a file restored.  It seems that the file got corrupted.  Mike Bodnar's director will send an email to ETS Sol Center requesting the restoration.  Path:  \\gthou-dv01\common\mkt\oma\sumdec01.xls.  Please restore it from 12/28/01 tape backup and restore it to the same location.  A high priority Remedy ticket # 37225 has been opened.
+ 
+ If you have any questions, please call me at x33876
+ 
+ Thanks!
+ Lupita Cantu
+ ETS Information Risk Management
+ 713-853-3876
+ 

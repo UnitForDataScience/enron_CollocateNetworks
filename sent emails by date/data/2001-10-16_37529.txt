@@ -1,0 +1,10 @@
+
+ 
+ 10/10/01	Shell	($18.10)	
+ 10/13/01	Walmart	($23.21)	
+ 10/12/01	ABC Beverages	($24.37)	
+ 10/12/01	J&M Bookstore	($62.62)	
+ 10/11/01	New York Pizza	($14.50)	
+ 10/12/01	Walmart	($14.19)	
+ 10/12/01	Niffer's Place	($24.87)	
+ 10/14/01	RaceTrac	($18.50)	

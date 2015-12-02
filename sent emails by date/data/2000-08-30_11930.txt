@@ -1,0 +1,29 @@
+
+ 
+ 
+ 
+ 
+
+
+
+
+ 
+  
+ 
+ Hi Larry,
+ 
+       We had to change your logon this morning. With the new release of
+ our software, the "&" does not translate well on your logon.
+ 
+       Effective 8/30/00 your new logon is:
+ 
+       PGEES-TE
+ 
+       The password has been changed to match.
+ 
+ thanks
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,50 @@
+
+ 
+ Hi Matt,
+ 
+ ENA is selling some of the LM6000's to ESA.  Will you be the ENA Tax Man on 
+ the deal?  
+ 
+ Thanks,
+ 
+ Kay
+ 
+ 
+
+
+ 
+  
+ Chris, attached is the total scope to S&S.  From this list you should be able 
+ to make your change order to S&S base on purchased quantities versus required 
+ quantities.  I have provided you the required quantities.  
+ I provided you a column for the delta cost to S&S.  When you are finished, 
+ please complete the spreadsheet for all of our records.  I do not know how we 
+ are to add cost for storage either.
+ Thanks,
+ John
+ 
+ 
+ 
+ 
+
+ 
+  
+ Here are the total cost for the S&S scope of supply for the Electrobolt 
+ Project.  I have not included any ENA burdens or storage cost.  These cost 
+ are from purchase order with ENA to S&S.
+                                                                               
+                                                                               
+      EIGHT MACHINES               EACH
+ The total cost of the LM 6000's, sprint package, water injection 
+ skid                = $112,855,600  or $14,106,950 each
+ The total cost of options (chillers stacks, cooling tower, mod. buildings, 
+ etc. =     13,309,400  or      1,663,675 each
+                                                                               
+                                                Totals                = $ 
+ 126,165,000 or   $15,770,625 each
+ 
+ The transformers from ABB in Brazil should cost $3,200,000. total in Brazil 
+ without shipping to the site.     
+ 
+ Hope this helps you with the WLB bucket.
+ John 

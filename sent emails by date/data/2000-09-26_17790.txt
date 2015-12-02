@@ -1,0 +1,7 @@
+
+ 
+ Can you define "off line?"  You mean they're going to "island' themselves, no 
+ longer taking power from the grid? To get the standby service, they'll need 
+ to sign an agreement under PG&E's standby tariffs (the tariff for cogens if 
+ the cogens getting the standby, or for the University, if UC's taking the 
+ standby).

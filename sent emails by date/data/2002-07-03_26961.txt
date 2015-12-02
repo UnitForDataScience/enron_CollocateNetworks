@@ -1,0 +1,13 @@
+
+ 
+ Tom,
+ 
+ Here are the new graphs with totals (bar charts) and distributions (boxplots) 
+ for all seven sites through May 2002. 
+ 
+ I believe that I have come up with a method of providing you with the 
+ ESTIMATED energy lost. Since it requires using two data sets (faults and 
+ 10-minute data) it will be take a bit longer to run. However I hope to have 
+ that result to you next week. 
+ 
+ Mark

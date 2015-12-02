@@ -1,0 +1,18 @@
+
+ 
+ Jessica, can you follow up on this request pls. 
+ 
+
+    
+ The following expense report is ready for approval:
+ 
+ Employee Name: Barry Tycholiz
+ Status last changed by:  Automated Administrator
+ Expense Report Name: March 21
+ Report Total: $4,677.57
+ Amount Due Employee: $4,677.57
+ 
+ 
+ To approve this expense report, click on the following link for Concur Expense.
+ http://xms.enron.com
+ 

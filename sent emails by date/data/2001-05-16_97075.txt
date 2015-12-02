@@ -1,0 +1,41 @@
+
+ 
+ 
+  Article 7 waives consequentials, etc. for bot=
+ h parties.  XOM insists that this provision must carve out damages resultin=
+ g from the "gross negligence and/or willful misconduct attributable to its =
+ managerial and senior supervisory personnel".  You can see the full details=
+  of the provisions they're looking for in the XOM language in sec 10.4 (sam=
+ e draft), the extensive indemnity language which they added in the last rou=
+ nd and which we generally don't mind giving them.  But this impacts Article=
+  7 because the Enron version of the waiver expressly states that the waiver=
+  applies to indemnities, and, of course, XOM will not tolerate any exceptio=
+ ns to the liability of each party (yes, it's mutual) for the gross negligen=
+ ce of its managers, etc.  There's a true story behind all this that dates b=
+ ack to the EPA emissions requirements on Reformulated Gasoline (RFG).  Mobi=
+ l hired a lab to do the testing, the managers of the lab company encouraged=
+  the testing staff to "fudge" the results, tons of RFG hit the market that =
+ was not in compliance, and a huge black mark on Mobil and zillions of dolla=
+ rs lost were the result.  And the contract provided that the lab's damages =
+ were limited to the testing fees, and apparently, that worked for the lab c=
+ ompany.  So, it's a deal breaker for XOM  b/c they say that if Enron's mana=
+ gers decide to turn off the lights at all the refineries for some specious =
+ reason, they need to have proper recourse against Enron.   I''ve argued wit=
+ h them about this, based on the nature of this contract, the power trading =
+ business, etc. but to no avail .....  It would seem that Enron's language i=
+ n Art. 7, w/ the following rather narrow change, might work for both partie=
+ s, but it's up to you, now.
+ =09UNLESS EXPRESSLY HEREIN PROVIDED, NEITHER PARTY SHALL BE LIABLE FOR CONS=
+ EQUENTIAL, INCIDENTAL, PUNITIVE, EXEMPLARY OR INDIRECT DAMAGES, LOST PROFIT=
+ S OR OTHER BUSINESS INTERRUPTION DAMAGES, BY STATUTE, IN TORT OR CONTRACT, =
+ UNDER ANY INDEMNITY PROVISION OR OTHERWISE provided, however, that nothing =
+ in this Article 7 shall be interpreted to limit either Party's liability un=
+ der Article 10.4(b). =20
+ 
+ Let me know if you have any questions about this. =20
+ Regards,
+ Janice
+ 
+ EB3811
+ Assistant General Counsel, Enron North America Corp.
+ 713-853-1794 (Fax:  713-646-3490)

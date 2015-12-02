@@ -1,0 +1,31 @@
+
+ 
+ Tony,  The following steps follow the contract amendment (assumes Bloomfield 
+ contract):
+ 
+ 1.  Calculate the number of hours that the driver was down for force majeure.
+ 2.  Subtract the hours in #1 from the total hours in the month.
+ 3.  Calculate the Monthly Contract Quantity as defined in the amendment 
+ (Bloomfield -- 7000 times # of hours developed in #2 above)
+ 4.  Calculate the Load Factor as defined in the agreement.
+ 
+ Since we don't have a load factor during those hours of the Force Majeure 
+ Event, we assume that the unit would have run at the load factor in #4 above 
+ if not for the Force Majeure event.
+ 
+ Thus, 
+ 
+ 5.  Multiply the Load Factor times 7000 (max HP-hrs) times # of hours of 
+ force majeure event.  This gives you the equivalent HP-hours that would have 
+ been used during the Force Majeure event or Supply Interruption.
+ 6.  In accordance with the amended Section 3.2(a), to calculate HP-hour 
+ charge do the following:
+ 
+  Multiply Conversion Factor (taken from Exhibit based on load factor) times 
+ (Shaft Energy delivered + Equivalent   HP-hours during Force Majeure [this is 
+ the number calculated in #5 above]) times 1.031.
+ 
+ Let me know if you have any questions.  We can work through an example if we 
+ need to.  Thanks.
+ 
+  

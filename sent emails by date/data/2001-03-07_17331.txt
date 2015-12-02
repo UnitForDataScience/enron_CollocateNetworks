@@ -1,0 +1,52 @@
+
+ 
+ Attached is a rough draft of some scenario development around the PX credit 
+ and rate issues.  Few points:
+ 
+ Apologies in advance for any errors and inaccuracies.
+ Given time crunch, the model developed is quite crude and will need 
+ refinement (to be sure).
+ The bankruptcy scenario is included (scenario 4), but (again, given the time 
+ crunch) has not been analyzed to the same extent as the other scenarios.  
+ Tribolet should be able to provide good insights there, however.
+ The exposure has not been calculated since GA does not have the numbers, but 
+ EES should be ableto run the numbers very quickly.
+ I've assigned my view of what the probabilities are.  These are key inputs 
+ and the team will need to scrub them thoroughly.
+ For ease of use by all, and given time considerations, I've done the 
+ conceptual model in word format, rather than excel.  It will be simple to 
+ translate this conceptual model to a spreadsheet model (in excel).
+ 
+ Best,
+ Jeff
+ 
+ 
+ 
+ 
+ 	Marcia A Linton
+ 	03/07/2001 08:22 AM
+ 		 
+
+
+
+
+
+ 		  
+ 
+ A conference call meeting has been set up for 11:30 am today, March 7 to 
+ discuss EES Negative CTC.  Conference room EB-4746 has been reserved for the 
+ Houston participants.  The call-in number for the call will be:
+ 
+ 
+     888-422-7137
+     Host Code (for Jim only) - 438907
+     Participant Code (for everyone else) - 865493
+ 
+ If you have any questions regarding this call, please give me a call at 
+ 713-853-3226.
+ 
+ Thanks,
+ Marcia
+ 
+ 
+ 

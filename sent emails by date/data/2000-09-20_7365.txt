@@ -1,0 +1,38 @@
+
+ 
+ This approval request is incomplete - it does not include the name of this 
+ employee's manager.  I do not know the employee, and without the name of the 
+ manager I can't possibly approve this.  Please get someone to complete this 
+ request.  
+ 
+ 
+  
+  
+ 	Security Resource Request System	
+ Application Approval		
+ Please review and act upon this request. You have received this eMail because 
+ you are listed as an approver on the original request.
+ 			Instructions	
+ For: 	Tracy Beardmore                   			
+ Request	Original: 			
+ Application Name:	EOL - Risk Management			
+ Request Type:	Grant			
+ Role(s):	Application Product Data Manager			
+ Comments:	Need read only access to EOL Bridge Monitor and Product Manager		Review the 
+ request in the Request section at left.
+ 			For more information regarding who the request is for, do the following:
+ 			Click on the name for PeopleFinder info
+ 			See the Further Information section below
+ 			In the Approval Section, select Approve or Reject, enter comments as 
+ necessary and click [Submit].	
+ 
+ 
+ 
+ 
+ 	Further Information		
+ 	         		
+ Requestor:			Tracy Beardmore/NA/Enron
+ Manager:			
+ Request  RC #:	1728	WO #:	
+ Company #:	413	Priority:	Normal
+ General Comments:			Access to EOL Back Office Applications

@@ -1,0 +1,20 @@
+
+ 
+ Since we are selling deliverd gas, the Receipt and Delivery volumes should be 
+ the same.  Also, we can fix it so the imbalance is 0 on the 22nd if that 
+ would be easier.
+ 
+ Let me know buddy. 
+ 
+ 
+    
+ 	
+ 	
+ 	 	
+ 
+
+   
+ 
+ 
+ 
+ 

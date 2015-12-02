@@ -1,0 +1,15 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X-
+ X- X-b X-Folder: \ExMerge - Mims, Patrice L.\'Sent Mail
+ X-Origin: MIMS-P
+ X-FileName: patrice mims 6-25-02.PST
+ 
+ Hey Lizzie
+ 
+ Nicor is correct, Sitara #664380 s/b changed to reflect a Chicago Gas Daily Price flat, while Sitara #664363 s/b reflect a Chicago Gas Daily Price plus $0.01.   I have revised both tickets.
+ 
+ Thanks for your help, and also thank Darla.

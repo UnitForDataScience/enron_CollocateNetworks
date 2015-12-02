@@ -1,0 +1,38 @@
+
+ 
+ 
+    
+ 	
+ 	
+ 	 	
+ 
+
+   
+ 
+ Phillip,
+ 
+ Here is the detail for the open item related to lone liquidations for May for 
+ Central region:
+ 
+ 
+ NGPL Sales
+ N50101.B  581,059.89 *
+ N50101.C  897,332.09
+ N50101.D    10,048.22 *
+ N50101.E    15,518.59
+ 
+ Union Gas Sales
+ N38268.L  1,443,518.67
+ 
+ NGPL Purchase
+ N50101.X    10,048.22 *
+ N50101.Y      4,082.40
+ N70658.7  581,059.89 *
+ N70687.7  659,978.83
+ 
+ *offsetting liquidations-but I left them on the list because they were lone 
+ liquidations.
+ 
+ Thanks for your help,
+ Cathy
+ 

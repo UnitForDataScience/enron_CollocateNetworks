@@ -1,0 +1,23 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - White, Stacey W.\Sent Items
+ X-Origin: WHITE-S
+ X-FileName: stacy white 7-15-02.PST
+ 
+ login:  swhite
+ pword: russ17duke
+ 
+  
+    Cc:	White, Stacey W.
+  
+ Dear All,
+ 
+ 	Due to the migration of the EnPower database this coming Friday, we will have to create new database connection settings on each of your PC, could you please send me a list of the Windows Network User ID and Password, so that Min and I will be able to work on those PCs over the weekend.
+ 
+ 	Thanks,
+ 
+ 
+ Norman.

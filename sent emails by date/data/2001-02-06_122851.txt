@@ -1,0 +1,12 @@
+
+ 
+ http://quote.yahoo.com/q?s=ene+cpn+aig+c+jpm+gs+txn+wmt+sunw+emc+slr+flex+amgn
+ +sgp+bmy&d=v1
+ 
+ http://www.intellicast.com/LocalWeather/World/UnitedStates/SouthCentral/Texas/
+ Houston/Radar/
+ 
+ http://www.intellicast.com/LocalWeather/World/UnitedStates/SouthCentral/Texas/
+ Houston/Precipitation/
+ 
+ http://www.weatherunderground.com/US/TX/Houston/KIAH.html

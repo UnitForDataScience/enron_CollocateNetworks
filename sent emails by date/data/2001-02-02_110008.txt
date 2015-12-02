@@ -1,0 +1,34 @@
+
+ 
+ Tom,
+ 
+ I believe that your right up correctly interprets the current model, but as 
+ we discussed, I think the more correct methodology is to use the next day's 
+ cash price since the Gas Daily print is for gas traded the previous day and 
+ delivered the same day as the print.  If I'm trading day gas on April 7th, 
+ the prices I'm basing my decisions on are those represented in the Gas Daily 
+ print for April 8th.  If we do not change the model, I think we need another 
+ sentence to clarify that the cash prices a day behind.  Of course, eventually 
+ we need to fix the model.
+ 
+ Mat
+ 
+   
+  
+ 
+ 
+ 
+ 
+ Tom Halliburton
+ 02/02/2001 08:25 AM
+
+  
+  
+ Matt,
+ Here's a one page document showing how I have interpreted the curves data.  
+ If you would like any changes, please mark up / edit and I'll make the 
+ changes today.
+ 
+ 
+ Tom
+ 

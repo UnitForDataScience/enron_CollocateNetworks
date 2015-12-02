@@ -1,0 +1,62 @@
+
+ 
+ OK w/me.
+ 
+ 
+ 
+
+ 	06/06/2001 01:30 PM
+ 		 
+
+
+
+ 		  
+ Legal (Tana Jones) would prefer to copy the profiles for the new product type 
+ from the following:
+ 
+  US Weather CDD Swap
+ 
+ Please respond as soon as possible today.
+ 
+ Thank you.
+ 
+ 
+ 
+  
+    Cc: Hunter, Larry Joe; Lees, Lisa; Sever, Stephanie; Jones, Tana; Lambert, 
+ Karen; Lombardi, Kelly; Sweitzer, Tara; Kenne, Dawn C.; Moorer, Torrey; Cass, 
+ Robert B.; Meredith, Kevin; Walker, Chris; Gockerman, Matthew F.; Alatorre, 
+ Carlos
+  Importance: High
+ 
+ 
+ Your review and approval of the following product type in the EOL Datamanager 
+ is needed (for directions on approval , please see steps for approval at the 
+ bottom of this e-mail). If you have any questions please call me at ext. 
+ 58986.   
+ 
+ 
+ Trader:   Joe King 
+ 
+ 
+  << File: ENA Financial GTC (credit).htm >>     << File: Tkr Freight Swap 
+ BITR 9 Jun01 WS.doc >>  
+ 
+ 
+ 
+ STEPS FOR APPROVAL:
+ 
+ click the  START button 
+ select  PROGRAMS
+ select  TEST APPLICATIONS
+ select ENRONONLINE CLUSTER(PROD)
+  PROCEED WITH USUAL LOGIN/PASSWORD 
+ click the Enron Online Production Cluster "START" button  
+ select EnronOnLine (this is the EOL Datamanager)
+  PROCEED WITH EOL LOGIN/PASSWORD
+ click on the "+" for EnronOnLine
+ click on the "+" for Product Types
+ click on the "+" for "Partially Approved"
+ select the product requiring review as stated in e-mail above
+ Right "mouse" click on "properties" to view product set-up 
+ 

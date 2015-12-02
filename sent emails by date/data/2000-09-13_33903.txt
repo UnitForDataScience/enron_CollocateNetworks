@@ -1,0 +1,17 @@
+
+ 
+ k#  Volume  Delivery Receipt
+ 3.6870  2186  Mgag  Telescoped
+ 3.6869  1622  Mgag  Telescoped
+ 3.6868  692  Mgag  Telescoped
+ 3.6857  15000  Z4  St 65
+ 
+ 
+ 3.6673  4492  Atlanta  Telescoped
+ 3.6752  116  Atlanta  Telescoped
+ 3.6675  270  Atlanta  Telescoped
+ 3.6750  1925  Atlanta  Telescoped
+ 
+ 
+ 3.6674  3575  Atlanta  St 85
+ 3.6751  1532  Atlanta  St 85

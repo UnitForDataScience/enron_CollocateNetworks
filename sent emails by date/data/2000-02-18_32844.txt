@@ -1,0 +1,10 @@
+
+ 
+ CES needs
+ 
+ CPA8-39 5000 day
+ CPA8-38 250 day
+ CPA8-36 2500 day
+ CMD4-25 3200 day
+ CMD8-27 250 day
+ meter 30AL - Allied 7000 day

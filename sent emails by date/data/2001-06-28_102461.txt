@@ -1,0 +1,21 @@
+
+ 
+ Well...when i was there you liquated the P&L post-id everyday, so unless that's changed you will continue to do that everyday.  For the last day of the month you will also want to liquidate the Official post-id as well.  Look at the file I've attached and it will explain how to handle the Gas Daily book this month since the last day of the month is not a week day.  The notes are in blue.  Let me know if you have any other questions.
+ 
+  
+ 
+ Susan
+ 
+  
+     
+ Hi, Susan:
+ 
+ You look quite different now after leaving Risk for four months because a trader's life is less stressful than that of a book administrator (kidding!). 
+ 
+ A question.  I forgot which liquidation number should we use for Gas Daily P&L: P&L post ID or Official Position Post ID.  Could you recall for me?
+ 
+ Wish you all the best!
+ 
+ 
+ George Huan
+ 5-3698 

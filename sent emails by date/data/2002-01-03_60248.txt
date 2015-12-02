@@ -1,0 +1,80 @@
+
+ 
+ Contracts cannot be assigned - its that simple.  They have to be offered ou=
+ t to market under an auction like structure just like everything else.
+ 
+ All agreements remain with the Estate and will be managed by the estate.
+ 
+ I will check with Canada on their status but I presume its the same.
+   physical and fina=
+ ncial on Jan 20.=20
+ 2) We need both a dev and a test environment for all systems that support A=
+ EP and Bridgeline in Estate. This means that we need a dev environment (and=
+  HW gap addressed) for Unify, Sitara, CPR, TAGG/ERMS. Conversion teams need=
+  to coordinate with infrastructure immediately on this issue to make sure w=
+ e're in synch.=20
+ 3) Unify servers probably can't be owned by New Co while running a single l=
+ icense of Unify.=20
+ 4) Some systems are using 'short name' instead of Duns ID as a key for coun=
+ terparties from Global. The Global, TAGG / ERMS, Unify and SAP reps must qu=
+ ickly define the best approach for making global data changes and minimizin=
+ g hard coded reference id risks.=20
+ 5) We must clearly define limits of conversion and test scope to hit these =
+ potential dates. We must focus on core systems with only core changes requi=
+ red to support day one trading.=20
+ 6) We can only convert Estate over the weekend due to AEP / Bridgeline cons=
+ iderations. The time window will be very small.=20
+ 
+ 
+ Core Conversion Team =20
+ 1) Steve Stock - Applications
+ 2) Bob McAuliffe - Infrastructure
+ 3) Ziyong Wei
+ 4) Steve Nat
+ 5) Dave Nommensen
+ 6) Ken Harmon
+ 7) John Warner
+ 8) Bob Ward
+ ....
+ 
+ Core Integration Test Team=20
+ 1) Jeff Johnson
+ 2) Iain Greig
+ 3) Aftab Saleem
+ 4) Terry Sanvido
+ 5) Regan Smith
+ 
+ Program Coordination=20
+ 1) Jane Henry
+ 2) Steve Simpson
+ 
+ Next Steps For Integration Test Team
+ 1) Due 12/20. Define integration test approach and id test script and expec=
+ ted results templates. Owner: Aftab Saleem / Regan Smith
+ 2) Due Jan 3. Application system flow diagram at appropriate granularity fo=
+ r communicating flow on integration test for core systems. Owner: Terry San=
+ vido / Steve Simpson
+ 3) Due 12/20. Identify list of core systems for test purposes. Identify key=
+  IT owner and key business owner and respresentative for integration test. =
+ Owner: Iain Greig.=20
+ 4) Due 12/21. Define integration test workplan for integration test plannin=
+ g and execution for both Estate and New Co. Owner: Jeff Johnson
+ 5) Ongoing. Participation in daily program management coordination meeting =
+ at 8:30. Owners: Jeff Johnson, Iain Greig, Aftab Saleem.=20
+ 6) Due 12/21. Organize meeting with key users and IT contacts to communciat=
+ e foundation assumptions, context, team and approach for integration test. =
+ Develop first cut at sample trade transaction set. Owner: Iain Greig / Afta=
+ b Saleem.=20
+ 7) Completed. Contact Bob Hall, Leslie Reeves, Bob Superty, Brice Baxter to=
+  communicate above and set up meeting to begin planning with them on the in=
+ tegration testing process. Owner: Jeff Johnson
+ 8) Due 12/21.  Refine core system list with IT owners and Business owners f=
+ or integration test purposes. Owner: Iain Greig.=20
+ 9) Due 12/20. Set up Integration Test folder on O drive under Infotech / De=
+ velopment Support.  Owner: Aftab Saleem.=20
+ 
+ Let me know if you have questions or changes. I am out tomorrow but I'm bac=
+ k on Friday.=20
+ 
+ Thanks.=20
+ 

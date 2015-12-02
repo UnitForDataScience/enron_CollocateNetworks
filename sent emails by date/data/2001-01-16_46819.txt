@@ -1,0 +1,165 @@
+
+ 
+ If Susan's not at the Company anymore, how can she ask to be taken off the 
+ list?
+ 
+ 
+ 
+
+ 	01/16/2001 01:40 PM
+ 		
+
+ 		  		  
+ Hi Tana,
+ 
+ You are already on the distribution.  I would only take your name off at your 
+ own request.  Susan would also need to send me something in order to be taken 
+ off the list. 
+ 
+ Cheryl x33103 
+ 
+ 
+
+
+  
+  
+ Cheryl,
+ 
+ Please keep me on this list.  I need to get it because on EnronOnline.  
+ Please take Susan Flynn off the list.  She is no longer in our group, and I'm 
+ not sure if she's still with Enron.
+ 
+ 
+ 
+
+ 	01/16/2001 12:05 PM
+ 		 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 		  		  
+ Please find attached the Name Change/Merger Notification Report for January.  
+ To launch the report, double click on the attachment and select Enable Macros 
+ and Read Only.
+ Please note that:
+  ERMS short names will be changed in GCP and ERMS each Friday at 10am Central 
+ Time, and 
+  Inactivations will be made on Feb 1
+ 
+ We have made a few changes to our Name Change/Merger Notification Report - it 
+ now has a new look and a couple of features we hope will assist you.  For 
+ more information, please click below:
+ 
+ 
+ Each month now has two sheets, a summary sheet (eg Jan 01 Changes) and a 
+ detailed sheet (eg Jan 01).
+ Click below for more information:
+ 
+ The summary sheet can be used to view all changes after a certain date.  If 
+ you're aware of all changes up to, say, January 15th enter 01/16/2001 in cell 
+ C6 of the Summary Sheet and click the Sort button in cell H6.  All changes 
+ made to the report on or after January 16th will be listed automatically.
+ The Summary sheet may also be sorted for certain criteria - use the drop down 
+ arrows alongside the column headers to make your selection.
+ 
+ This sheet contains all the information you are used to seeing, but slightly 
+ reformatted.  Key points are: 
+ In the case of an Inactivation, the cause of the Inactivation (eg Merger) is 
+ listed in the Comments section
+ As with the previous format, 
+ all months' reports will be sent cumulatively throughout the year
+ the report will be sent out twice each month, on the 15th and at the end of 
+ the month.
+ 
+ 
+ It is our aim to publish the report in Livelink and to send out only the 
+ summary sheet and a URL for the detailed report each month.  This will save a 
+ lot of space in Lotus Notes and we hope it will streamline your monitoring 
+ process.
+ 
+ We'd be very happy to receive any comments you may have.  
+ 
+ 
+ 
+ 
+ 
+ 

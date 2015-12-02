@@ -1,0 +1,44 @@
+
+ 
+ Suzanne:  thanks for your help and your prompt attention.
+ 
+ 
+ 
+ Dale Neuner on 01/11/2000 02:20:58 PM
+
+
+  
+ Frank would like to see the following 3 Locations approved from trading:
+ 
+ First:
+ 
+ Opal; which is already set up as a Location and is out in DRAFT. Dave, I've 
+ already asked Frank to have Jeff Shankman look at thh product and offer 
+ approval. Please review.
+ 
+ Then:
+ 
+ Location: PGT Malin
+ Abbreviation: PGT Malin
+ Sort Code: 2850
+ Description: The transaction is for delivery at Pacific Gas Transmission 
+ Company - Malin.
+ 
+ Location: PG&E Pool
+ Abbreviation: PG&E Pool
+ Sort Code: 2840
+ Description: The transaction is for delivery at Pacific Gas & Electric 
+ Company - City Gate Pool Gas.
+ 
+ Jennifer; can you check with the logistics guys and make sure these are good 
+ points and descriptions. Malin Lines 400 and 401 are no longer used, and PGE 
+ is City Gate Pool Gas.
+ 
+ 
+ Frank, if you could review the descriptions also and offer comments I'd 
+ appreciate it.
+ 
+ Dale
+ 3-9746
+ 
+ 

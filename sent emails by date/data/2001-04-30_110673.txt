@@ -1,0 +1,13 @@
+
+ 
+ Dave,
+ 
+ As discussed, I need to have daily power outages summarized by Natural Gas (NG) type plants and everything but NG for each WSCC region for the previous year and one year into the future.  The historical part of this task should be considered a higher priority.  Initially, I only need the results in Excel format so the West desk can work it into their forcasts.  We do not need any web interface at this time (maybe in the future).  Please let me know how long you think this would take and your availability as soon as possible.  If we can't get it done relatively quickly (say by wednesday), we might have to try a different route.  Thanks.
+ 
+ Mat
+ 
+ 
+ 
+  
+     
+ http://gasfundy.dev.corp.enron.com/Gas/framework/devRequests/devRequest.html

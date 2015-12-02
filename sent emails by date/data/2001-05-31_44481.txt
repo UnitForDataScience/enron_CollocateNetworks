@@ -1,0 +1,29 @@
+
+ 
+ Ellen,
+  This should be okay.  I would prefer that all GTCs in excess of 6 months be 
+ prepared for signature by both ENA and the counterparty.  Is this a problem?
+ 
+ 
+
+ 	05/21/2001 01:56 PM
+ 		 
+
+ 		  		  
+ Dan,
+ 
+ Please find below details of Phy Gas deals with GTC agreements:
+ 
+ Deal  Deal No: VA6791.1 / 798265
+ Buyer: ENA
+ Seller: Superior Natural Gas Corporation
+ Start  End  Physical Forward w/ Triggers
+ Volume: 10,000 / day
+ Price: NX1 Minus USD 0.01000
+ Delivery Point: Southern Natural Gas Company - Tier 1 Pool
+ 
+ Please let me know if you need any more details.
+ 
+ Thanks,
+ Richard
+ x54886

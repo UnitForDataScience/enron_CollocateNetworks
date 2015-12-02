@@ -1,0 +1,23 @@
+
+ 
+ Prebon is right - this has been changed to 205.50.
+ 
+ Kate
+ 
+ 
+ 
+ 
+
+ 02/27/2001 08:05 AM
+
+  
+  
+ 
+ Chris Mallory
+ deal 531607
+ Prebon has price as $205.50 and we show price as $205...
+ 
+ Can you check with Chris.
+ 
+ Thanks
+ 

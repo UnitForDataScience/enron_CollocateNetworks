@@ -1,0 +1,14 @@
+
+ 
+ Homer,
+ 
+ I just left you a voicemail regarding the natsource study.  We have been able 
+ to pull in the basis and price curves, but we are having trouble getting the 
+ gas daily curves for June to come in correctly.  I.T. is looking into this 
+ issue and will have us an answer soon.  Email me and let me know where I can 
+ save a file out to you with the curves we do have.  The file is too large to 
+ Email.
+ 
+ Thank you,
+ 
+ Errol McLaughlin, X5-8274

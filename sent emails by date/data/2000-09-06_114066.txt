@@ -1,0 +1,28 @@
+
+ 
+ The following is a list of daily basis product names that we would like to 
+ create, all of which are US GAS BASIS deal type:
+ 
+ GD/D Mich-HHub
+ GD/D Chic-HHub
+ GD/D Pepl-HHub
+ GD/D Demrc-HHub
+ GD/D HSC-HHub
+ GD/D Waha-HHub
+ GD/D Perm-HHub
+ GD/D SanJn-HHub
+ GD/D Opal-HHub
+ GD/D SOCAL-HHub
+ GD/D TZ6NY-HHub
+ GD/D TecoP-HHub   (short for Teco Pool)
+ GD/D CNGAp-HHub
+ GD/D TETM3-HHub
+ GD/D TenLa-HHub
+ GD/D TZ3-HHub
+ GD/D Nymex-HHub
+ GD/D CGulf-HHub
+ 
+ I have put a call in to Mark Taylor regarding new product descriptions, but 
+ have yet to hear back from him.
+ 
+ Fletch

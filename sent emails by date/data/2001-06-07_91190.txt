@@ -1,0 +1,13 @@
+
+ 
+ Purvi,
+ 
+ Glad to see you working on some good stuff : )
+ 
+ you need to pull out a black sholes calculation and input the varialbles that you were given
+ and then call a power options trader to ask for a marekt to check the resonableness of the model
+ models can be way off on options due to skew and market conditions
+ 
+ good luck
+ 
+   You'll still be my favorite manager!!!

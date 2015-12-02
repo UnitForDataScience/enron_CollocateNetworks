@@ -1,0 +1,5 @@
+
+ 
+ The price in deal manager is correct at minus $1.00
+ Sound like their is a problem with sitara if it is not calaculating the price 
+ correctly

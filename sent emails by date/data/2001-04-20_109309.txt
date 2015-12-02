@@ -1,0 +1,19 @@
+
+ 
+ Thanks for the update
+ 
+  
+    Cc:	Dronet, David
+  
+ Hunter/Chris .... fyi, progress has been made to the web based site stats reports. We will meet with the developer today to go over what been complete to date.
+ 
+ http://egmfundy.dev.corp.enron.com/sitetrack/
+ 
+ ... in addition, the changes to the Gas Message board (in dev) are nearly complete. The is currently owned by another group, we intend to take this over in due course.
+ 
+ http://gasmsgboard.dev.corp.enron.com/MsgBoard/Chat/msgframe.asp
+ 
+ (there may be an error posting to the above message board, should resolved today.)
+ 
+ Please forward comments and feedback
+ -Colin

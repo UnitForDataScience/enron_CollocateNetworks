@@ -1,0 +1,12 @@
+
+ 
+ What do you guys think about the following set ups for the Egan park and loan contracts?
+ 
+ 
+ 			Parking				Loaning
+ Pipe Code		EGHP				EGHP
+ Firmness		IT				IT
+ Service Type		Interruptible Parking Service	Interruptible Loaning Service
+ Rate Schedule		IPS				ILS
+ Term			Term				Term
+ Contract #		EGHP IT Parking - 001		EGHP IT Loaning - 001

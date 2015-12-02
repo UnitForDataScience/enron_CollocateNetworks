@@ -1,0 +1,45 @@
+
+ 
+ Janine:
+ 
+ With respect to the attached (internal) FX product for EOL, I just wanted to 
+ verify with you that internal counterparties should transact on EOL with:
+ 
+ (1)  RMT  (as principal for Houston FX desk)
+ 
+ (2)  EEFT as agent for RMT (as principal for London FX desk).  In this 
+ regard, was the services agreement between ENA and EEFT ever extended to 
+ include RMT for internal trades? 
+ 
+ (3)  Enron Japan Corp. (as principal for Tokyo FX desk)
+ 
+ There appears to be some confusion since our meeting of November 3.  Thanks.  
+ Sara
+ 
+    
+ 
+ 
+    11/30/2000 06:41 PM	
+ 	
+ 	
+ 	                           
+ 	
+ 
+
+
+  
+ 
+ Sara:  Please approve on the attached language for the FX Product.
+ 
+ 
+ 
+ William:  There is a gap between hour ending 3:00 and 4:00 .  Do you want to 
+ go ahead and set up Central time to trade until Hour Ending 4:00?  Please let 
+ me know.  
+ 
+ 
+ 
+ Thank you,
+ 
+ Melba
+ 

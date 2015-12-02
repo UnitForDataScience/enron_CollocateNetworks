@@ -1,0 +1,6 @@
+
+ 
+ Can we put something into our trading system where it would stop us from 
+ entering a counterparty in if we were full on credit.  This could help the 
+ communication problem that currently exists on companies like Perry Gas.  
+ Please advise.

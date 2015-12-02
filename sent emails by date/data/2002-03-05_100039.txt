@@ -1,0 +1,17 @@
+
+ 
+ I second Jerry's statement below. 
+ 
+ ds
+  
+    Cc:	Arnie Bailey (E-mail); David Roensch (E-mail); Rick Smith (E-mail)
+  
+ 
+ 
+ As you know, we have exceeded the MAOP a couple of times since I have been here.  According to the Advisors, our shutdowns for high discharge at the mainline stations are set at 1020.  This is 12 PSI over MAOP.  These shutdowns should prevent the pressure from ever getting high enough to actually blow a relief valve (at 10% over MAOP). 
+ 
+ Although we are allowed to set overpressure protection devices to prevent overpressuring by more than 10%,  I don't believe that this gives us permission to operate above MAOP.  My opinion is that we should set the high discharge shutdowns closer to MAOP so that rollbacks due to reduced demand, other conditions resulting in high line pack, or manipulation of pressure to excavate a line, don't result in us exceeding MAOP.   
+ 
+ I need to run this by Pat Vaughn, Gas Control, and probably a few others, but I thought I would start by running this by you.  Do you see any reason not to pursue this?
+ 
+ Jeff

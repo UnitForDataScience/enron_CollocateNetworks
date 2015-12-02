@@ -1,0 +1,31 @@
+
+ 
+ Pay  	: Bank of America, N.A.
+ 	
+ For the Account of	: Enron North America Corp.
+ 	
+ Account Number/
+ CHIPS UID	
+ 	: 3750494727
+ 	
+ Fed. ABA No.	: 111000012
+ 
+ 
+ 
+ 
+
+ 	10/18/2000 04:41 PM
+ 		 
+
+ 		  		  
+ 
+ Tana,
+ 
+ Can you provide me with the Bank name, ABA # and acct # for ENA where a 
+ counterparty should wire funds per an ISDA.  We have a counterparty that 
+ wants this info in case a confirm doesn't specifically provide it.
+ 
+ Thanks,
+ 
+ Jason
+ 

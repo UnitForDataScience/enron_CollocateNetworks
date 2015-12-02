@@ -1,0 +1,28 @@
+
+ 
+ 
+ 
+ Michael Etringer
+ 
+ 02/17/2000 04:01 PM
+ 
+
+
+  
+ Here are the details on the LV Cogen change so that you can get it into the 
+ system.
+ 
+ We are going to amend the Gas Swap confirm referencing the Inside FERC 
+ Natural Gas Week (Ref Deal No. N02595.1).
+ 
+ The change will be to delete the floating price reference to Inside FERC NW 
+ Pipeline and change it from Inside FERC NW Pipeline to the Natural Gas Week 
+ Opal( Ref Deal No. N02595.2).  This will make the two confirms for 2500 
+ MMbtu/d match each other.  The Fixed price component basis on the revised 
+ confirm will change from <$0.28> to <$0.27>.
+ 
+ We are currently working on a confirm.
+ 
+ Let me know ASAP if you have an issues with the change.
+ 
+ mike

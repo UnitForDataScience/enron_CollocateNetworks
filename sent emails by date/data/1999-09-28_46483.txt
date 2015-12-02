@@ -1,0 +1,5 @@
+
+ 
+ What do you want to do with masters where we have a note that we got the 
+ master in, but we have a bad certificate, and no trading should be done until 
+ we get a new certificate?

@@ -1,0 +1,23 @@
+
+ 
+ 
+ 
+ 
+
+
+  
+  
+ The following expense report is ready for approval:
+ 
+ Employee Name: John Brindle
+ Status last changed by:  Automated Administrator
+ Expense Report Name: JB  002
+ Report Total: $2,105.05
+ Amount Due Employee: $2,105.05
+ 
+ 
+ To approve this expense report, click on the following link for Concur 
+ Expense.
+ http://xms.enron.com
+ 
+ 

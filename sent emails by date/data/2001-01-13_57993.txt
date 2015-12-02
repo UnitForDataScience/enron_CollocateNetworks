@@ -1,0 +1,62 @@
+
+ 
+ 
+ 
+
+ 	01/12/2001 06:48 PM
+ 		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 		  
+ Attached is a new version of the power cost model incorporating Roger's 
+ updated info (retained generation costs and QF capacity payments).  It 
+ improves the outlook for PG&E by > $2.00/MWH, mainly as a result of lower 
+ cost estimates for their hydro.  SCE's numbers remains about the same.  FYI, 
+ the prices in the model are at mid.  The switch to change to offer is now on 
+ the Summary page.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 01/12/2001 04:01 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+ Attached is an update of utility delivery rates, native generation 
+ weighted-average costs, and QF capacity payments and generation.
+ 
+ Roger
+ 
+ 

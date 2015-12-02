@@ -1,0 +1,67 @@
+
+ 
+ FYI
+ 
+ Vince
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ January 26, 2001
+ 
+ Vince Kaminski
+ Enron North America Corp.
+ 1400 Smith Street
+ 30th Floor, Rm. 3036B
+ Houston, TX 77251-1188
+ 1 713-853-3848
+ 
+ 
+ Dear Vince Kaminski,
+ 
+
+ instructions are available immediately. The download instructions are
+ included at the end of this email. Your CD's and manuals will be shipped to
+ you within 2 weeks. Please see below for more information regarding this new
+ release.
+ 
+ Please confirm that you are the correct recipient for this shipment and your
+ address above is correct by clicking reply and send. If any changes need to
+ be made, please make the changes above and reply.
+ 
+ 
+
+ 
+ NOTE: Using EXPLORER leads to unpredictable results, so we suggest using
+       NETSCAPE or a DOS shell.
+ 
+ 
+ USING NETSCAPE:
+ 
+
+ Password: 2rbzxgv5
+ 
+ energy-2.0-win32.exe is for Windows 95/98/2000/NT. Download and run on
+ a local drive.
+ 
+ USING A DOS SHELL:
+ 
+ At a DOS prompt type: ftp ftp.fea.com
+ User: energy
+ Password:  2rbzxgv5
+ 
+ Type "binary" and hit 'return'.
+ Type "ls" for a list of available files.
+ Type "get" energy-2.0-win32.exe and and wait for the ftp> prompt.
+ Type "quit".
+ 
+ The file will be downloaded into the directory at which you entered the ftp
+ site.
+ Double click on the exe and follow the instructions on the screen.
+ 
+ 
+ 

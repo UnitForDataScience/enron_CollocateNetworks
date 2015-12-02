@@ -1,0 +1,34 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Love, Phillip M.\Sent Items
+ X-Origin: LOVE-P
+ X-FileName: phillip love 6-25-02.PST
+ 
+ that is correct.
+ PL
+ 
+ 
+  
+    Cc:	Gossett, Jeffrey C.
+  
+ The curve files for Netco will need to be modified before they are used in the new environment.
+ 
+ 
+     1)   On the Publish tab in the Curve File sheet.
+ Change the environment name on the 5th row to ermtp
+ Change the service name on the 5th row to 7525
+ Change the Network Address on the 5th row to ;239.44.16.1;     
+ 
+ 2) Then hit the  << OLE Object: Picture (Metafile) >>  button on the publish sheet and save the new file.
+ If the sheet does not have the button, just save the file, close it, and bring it back up.
+ 
+ 3)	Save your curves as normal
+ 
+ 4)	Any questions or problems, please give me a call 
+ 
+ 
+ 
+ 

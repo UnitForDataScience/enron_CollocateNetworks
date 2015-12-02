@@ -1,0 +1,79 @@
+
+ 
+ Chris:
+ 
+ We should chat.  Per the ISDA, ENA is the calc agent and we have already 
+ agreed to usual Market Disruption Events and fallbacks in the ISDA.  If you 
+ want to change the ISDA agreement, then we can consider the items which 
+ Merchant has included in the draft.
+ 
+ As calc agent, we should create a draft and send the form to you for review.  
+ However, I do need you to explain/verify Floating Price B.  And verify 
+ rounding convention which differs from our standard.
+ 
+ Please call to discuss. 
+ 
+ 
+ Sara Shackleton
+ Enron North America Corp.
+ 1400 Smith Street, EB 3801a
+ Houston, Texas  77002
+ 713-853-5620 (phone)
+ 713-646-3490 (fax)
+
+ 
+ 
+ 
+ 	Chris H Foster
+ 	04/23/2001 06:49 PM
+ 		 
+
+ 		  		  
+ Sara:
+ 
+ I am looking at a transaction with MErchant Energy Group.  We have an ISDA 
+ with them.  It is a financial tolling deal where we will be a fixed price 
+ payor for power and gas and we will pay them an option premium.  They 
+ forwarded the attached pro forma to illustrate how the deal would be 
+ papered.  Can you please review the attached and let me know if it looks OK 
+ or what changes are required?  They indicated an interest to transact late 
+ this week or early next.
+ 
+ C
+ 
+    
+ 	Enron Capital & Trade Resources Corp.
+ 	
+
+ 04/23/2001 02:30 PM
+ 	
+ 
+
+   
+ 
+ Attached is a sample confirmation template for 100 MW's Sep01-Nov01.  We can
+ use this as a starting point.
+ 
+  <<Swap Confirm Template.doc>>
+ 
+ 
+ 
+ 
+ Travis J. Brock
+ Merchant Energy Group of the Americas
+
+ Phone: (410) 295-1734
+ Fax: (410) 295-1705
+ 
+ 
+ CONFIDENTIALITY NOTICE: This e-mail may contain TRADE SECRET, PRIVILEGED
+ AND/OR CONFIDENTIAL INFORMATION intended only for the use of the addressee.
+ If you are not the addressee, or the person responsible for delivering it to
+ the person addressed, you may not copy or deliver this to anyone else.  If
+ you received this e-mail by mistake, please immediately notify us by
+ returning the original message to the sender.
+ 
+ 
+  - Swap Confirm Template.doc
+ 
+ 

@@ -1,0 +1,38 @@
+
+ 
+ Peggy, is the EOL bridge functionality working for you in Calgary?  Jeff 
+ Gossett was in a meeting with me on Monday this week discussing systems 
+ issues.  Beth Perlman mentioned that the EOL bridging had been completed, but 
+ Jeff spoke up and said that it was not working correctly.  You or someone on 
+ your team may want to call Jeff to understand the issues that he was having 
+ to be certain that you are happy with the functionality that you now have in 
+ Calgary.  Thanks. 
+ 
+ 
+ 
+ 
+ 	Peggy Hedstrom
+ 	09/28/2000 12:11 PM
+ 	
+
+
+  
+ Please update the following items for Project Doorstep:
+ 
+ Observation:  Term transactions executed via EOL do not automatically bridge 
+ into the capture systems thus increasing the amount of transactions manually 
+ captured.
+ 
+ Status: The bridge from EOL to Sitara for term transactions was placed into 
+ production on September 21st.  This item is now completed.
+ 
+ For your information, we are planning to complete our Enpower testing today 
+ and are working with Houston to go into production tomorrow.  I will let you 
+ know once this is done.
+ 
+ Let me know if you have any questions.
+ Peggy
+ 
+ 
+ 
+ 

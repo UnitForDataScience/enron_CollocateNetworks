@@ -1,0 +1,23 @@
+
+ 
+ This has been changed.
+ 
+ 
+ Stephanie Piwetz   11/16/2000 03:18 PM
+ 
+
+  
+  
+ Bloomberg/Motley
+ 
+ Please check days of week
+ Bloomberg shows 
+ Mon-Saturday, excluding Nerc Holidays x16    total mws 30400
+ 
+ 
+ We have in system 
+ SMTWTFS H  for a total mws 36,800
+ 
+ please let me know
+ Thanks
+ 

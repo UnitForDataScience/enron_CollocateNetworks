@@ -1,0 +1,14 @@
+
+ 
+ info per yor request			
+ 
+  
+     
+ John Hodge requested some information from Scott Neal.
+ 
+ He would like to see the # of counterparties we did physical trades with in the year 2000 and the volumes by month (sales) in New Jersey.
+ 
+ There are two Notional curves (locations) that are in New Jersey.  IF-TETCO/M3 and TRANSCO/Z6NONNY.
+ 
+ 
+ I cannot find any old files from Nagesh but I just need to see the volumes for the year and the number of counterparties.  I don't need to see the counterparty names just the number of counterparties for the year.

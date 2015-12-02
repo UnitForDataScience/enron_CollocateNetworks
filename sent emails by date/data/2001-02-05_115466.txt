@@ -1,0 +1,27 @@
+
+ 
+ 513386 - changed to APB.
+ 
+ 514157 - Mike is checking with broker on this.
+ 
+ 
+ 
+ 
+ 
+
+ 02/05/2001 01:53 PM
+
+  
+  
+ 
+ 
+ Jeff Richter
+ deal 513386
+ Prebon does not recognize this deal
+ 
+  Mike Swerzbin
+ deal 514157
+ Prebon shows cp as Merrill Lynch not Pacificorp.
+ 
+ 
+ 

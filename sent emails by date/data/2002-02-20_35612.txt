@@ -1,0 +1,9 @@
+
+ 
+ I would like to have access to the following directory.  It has the actual Gas Daily prices loaded into excel files.  I'm not sure who you have to ask but they may not let me have it.  The directory is o:TDS/TDS Curve/East/
+ 
+ 
+ 
+ Let me know.
+ 
+ Thanks

@@ -1,0 +1,16 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Semperger, Cara\Sent Items
+ X-Origin: SEMPERGER-C
+ X-FileName: cara semperger 6-26-02.PST
+ 
+ I was able to login to the main platform of Enpower under csemper, but not able to run psw or deal entry.  However, I was able to login as drobins and run things.
+ 
+ Please do what you can to get my login fixed today if possible. I will use Donald's login as a workaround.
+ 
+ Thanks,
+ 
+ Cara

@@ -1,0 +1,7 @@
+
+ 
+ Please provide me a list of deal numbers that need to be changed.  From you 
+ email I gather you are saying that all deals done by ENA with a Canadian 
+ Counterparty need to be ECC/3rd party and then flipped to ENA 
+ book/FT-US/Cand/ERMS.  Is this correct?
+ PL

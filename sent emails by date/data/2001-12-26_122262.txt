@@ -1,0 +1,17 @@
+
+ 
+ FYI. Kim.
+ 
+  
+    Cc:	Blair, Lynn; Watson, Kimberly; Kowalke, Terry; Schoolcraft, Darrell
+  
+ PNR thru December 26th:
+ 
+ Buyer		PO#	POI	 	Dekatherm 	 Rate/Dth 	 Daily/Total	 Invoice Amount 
+ PNM		27267	500617		15,000 	 	$0.0900 	 Total		 $1,350.00
+ PNM		27267	500617		10,000 	 	$0.1000 	 Daily		 $3,000.00
+ Virginia Power	27719	500623		14,514 	 	$0.0500 	 Daily	 	 $5,866.97 
+ Richardson	27249	500622		15,000 	 	$0.0300 	 Daily	 	 $4,500.00 
+ Cinergy 	27467	500621		17,600 	 	$0.1000 	 Daily	 	 $6,540.00 
+ 								
+ TOTALS				72,114 						 $21,256.97 

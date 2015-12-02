@@ -1,0 +1,39 @@
+
+ 
+ Do you know if anyone in my office is using this on a daily basis?
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+  
+ 
+ 
+ Chrisone labelled '9AM' and one labelled 'Intraday' which is an update of
+ the requirements reported in the 9AM column.   The two columns will be
+ identical in instances where no change has been made.   Where the two numbers
+ differ, the Intraday value is the latest requriement.  In some cases where
+ there is storage (i.e., COH Choice) , you will see negative values for the
+ 'PRIMARY' requirement.  This represents a situation where gas is being
+ withdrawn from storage and sold at the pool, along with the first-of-the-month
+ baseload daily 'PRIMARY' volume.
+ 
+ Please call if you have questions, etc.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Doug Kinney
+ Ph:  703-561-6339
+ Fax:  703-561-7317
+ 
+  - 03-07-00 Daily Vols.xls
+ 

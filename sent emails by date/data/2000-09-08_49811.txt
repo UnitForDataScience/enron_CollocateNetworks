@@ -1,0 +1,18 @@
+
+ 
+ 
+
+
+
+  
+ Stinson, I am attaching a slightly revised version of the technical note. I 
+ tried to make the content clearer, and wrote estimators that are both 
+ consistent and unbiased. Please feel free to change it.
+ 
+              Giuseppe
+ 
+ 
+ 
+ 
+ 
+ 

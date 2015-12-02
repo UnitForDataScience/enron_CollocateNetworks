@@ -1,0 +1,179 @@
+
+ 
+ June-August were incorrect in Sitara.  I have made the necessary 
+ adjustments.  Stephanie will have to reissue payments.  By my calculations, 
+ Cabot owes HPL $16,050.
+ See Below
+ 
+ Month  Volume/d Rate was Rate Should Be   Economics
+ 6/99    5000     $2.09      $2.20      $ (16,500)     This Should be Sharp's 
+ expense as this was pre-merger.
+ 7/99    5000     $2.14      $2.20      $ (9,300)        This Should be the 
+ desk's
+ 8/99           5000     $2.47      $2.20      $ 41,850         This Should be 
+ the desk's
+                                          $ 16,050
+ 
+ 
+ 
+    
+ 	Enron North America Corp.
+ 	
+ 	 	
+ 
+
+   
+ Eric, 
+ 
+ Why would this ticket only affect Sept. and not the other months?
+ 
+ Melissa
+ 
+ 
+    
+ 	
+ 	
+ 	 	
+ 
+
+   
+ I am only showing a price adjustment for 9/99.  No adjustments for June- 
+ August occurred.
+ 
+ 
+    
+ 	Enron North America Corp.
+ 	
+ 	 	
+ 
+
+
+  
+ Stephanie, 
+ 
+ The deal ticket that Eric mentions below that changed the tiered pricing is 
+ EW5406.1 (which fixes the price to $2.35 from 6/1/99-9/30/99).
+ 
+ I was wondering if you showed price adjustments to June-August, in addition 
+ to September (since this ticket affects all months). 
+ 
+ Let me know, and then I'll call Laurie Clarkson with Cabot Oil & Gas and ask 
+ her to run this past her trader (Kent Beard) and make sure we are all on the 
+ same page.
+ 
+ Thanks, 
+ Melissa  
+ 
+    
+ 	Enron North America Corp.
+ 	
+ 	 	
+ 
+
+
+  Contract dated 12/1/98
+ 
+ Shawna, 
+ 
+ Per my voice mail, please send the amendment to the above referenced 
+ contract, to allow for Flexible Pricing transactions.  (Jill Zivley has 
+ reviewed and approved the draft amendment.)  Please also attach confirmations 
+ with the following details regarding Flexible Pricing deals that have been 
+ done with Cabot Oil & Gas Marketing Corp.:
+ 
+  
+  Period of Delivery:  May 1999
+  Price:    $2.035
+  Flexible Pricing Volume:  10,000/d
+  Date Agreed:   3/7/99
+ 
+  Period of Delivery:  Jun 1999 - Aug 1999
+  Price:    $2.10
+  Flexible Pricing Volume:  5,000/d
+  Date Agreed:   4/8/99
+ 
+  Period of Delivery:  Jun 1999 - Aug 1999
+  Price:    $2.05
+  Flexible Pricing Volume:  5,000/d
+  Date Agreed:   4/7/99
+ 
+  Period of Delivery:  Jun 1999 - Sept 1999
+  Price:    $2.21
+  Flexible Pricing Volume:  10,000/d
+  Date Agreed:   5/12/99
+ 
+  Period of Delivery:  Sept 1999
+  Price:    $2.265
+  Flexible Pricing Volume:  10,000/d
+  Date Agreed:   4/22/99
+ 
+  Period of Delivery:  Oct 1999
+  Price:    $2.565
+  Flexible Pricing Volume:  15,000/d
+  Date Agreed:   7/26/99
+ 
+ The address for Cabot is: 
+ 
+ Cabot Oil & Gas Marketing Corporation
+ P. O. Box 4544
+ Houston, Texas  77210
+ 
+ 
+ Stephanie, 
+ 
+ Below, please find the revised pricing matrix.  Please adjust Sitara and pay 
+ Cabot accordingly:
+ 
+ MAY:
+ 0 - 10,000 HSC fixed at $2.035 $2.035-$0.11= $1.925  Have deal ticket
+ 10,001 - 20,000    $2.35 - $0.11= $2.24   Per original contract
+ 20,001  - 30,000    $2.35 - $0.15= $2.20  Per original contract   
+ 30,001+      $2.35 - $0.20= $2.15  Per original contract
+ 
+ JUNE AND JULY AND AUGUST (same for both months):
+ 0 - 5,000 HSC fixed at $2.05 $2.05-$0.11= $1.94  Have deal ticket
+ 5,001 - 10,000 HSC fixed at $2.10 $2.10-$0.11= $1.99  Have deal ticket
+ 10,001 - 20,000 HSC fixed at $2.21 $2.21-$0.11= $2.10  Have deal ticket
+ 20,001 - 30,000    $2.24-$0.15= $2.09 June Per original contract
+       $2.29-$0.15= $2.14 July Per original contract
+       $2.62-$0.15= $2.47 August Per original contract
+ 30,001+      $2.24-$0.20= $2.04 June Per original contract
+       $2.29-$0.20= $2.09 July Per original contract
+       $2.62-$0.20= $2.42 August Per original contract
+ SEPTEMBER:
+ 0 - 10,000 HSC fixed at $2.21 $2.21-$0.11= $2.10  Have deal ticket
+ 10,001 - 20,000 HSC fixed at $2.10 $2.265-$0.11= $2.155  Per deal ticket, 
+ requested copy
+ 20,001 - 30,000    $2.91-$0.15= $2.76  Per original contract
+ 30,001+      $2.91-$0.20= $2.71  Per original contract
+ 
+ OCTOBER:
+ 0 - 15,000 HSC fixed at $2.565 $2.565-$0.11= $2.455  Per deal ticket, 
+ requested copy
+ 15,001 - 20,000    $2.54-$0.11= $2.43  Per original contract
+ 20,001 - 30,000    $2.54-$0.15= $2.39  Per original contract
+ 30,001+      $2.54-$0.20= $2.34  Per original contract
+ 
+ 
+ Thank you, 
+ Melissa Graves
+ X39173
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

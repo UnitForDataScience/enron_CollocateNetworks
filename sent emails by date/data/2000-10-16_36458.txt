@@ -1,0 +1,38 @@
+
+ 
+ Mike,
+ 
+ The reason my mistake was not caught on the benchmark signoff procedure is 
+ that the postid in question did not have a net position.  The procedure 
+ Rahmann showed you is where we check GERMS positions to the position reports 
+ we run using Excel queries.  If a postid has a net position and is not 
+ officialized, it will be caught using this procedure.  It will not, however, 
+ if the postid does not have a position.  I understand the importance of 
+ officializing postid's, as does the entire West desk.  Thanks.
+ 
+ DG    3-9573
+ 
+    
+ 	Enron North America Corp.
+ 	
+ 	 	
+ 
+
+
+
+   
+ We have been tracking books that are not officialized on a daily basis.  This 
+ list goes to Sally Beck and is reviewed at the end of each week by Rick Buy.  
+ Rick has been vocal about taking corrective action if people forget to 
+ officialize.   It is imperative that we take extra care to ensure that all 
+ books are marked official each night before going home.  A control process 
+ should be implemented immediately to absolutely avoid being on the list.  
+ 
+ Please contact me if you have any questions (x-35242).
+ 
+ Thanks,
+ Mike 
+ 
+ 
+ 
+ 

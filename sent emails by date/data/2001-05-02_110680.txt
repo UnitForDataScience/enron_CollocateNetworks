@@ -1,0 +1,7 @@
+
+ 
+ David,
+ 
+ You may have fixed this already, but please make sure that we filter for the "Y" for "Approved"  in our current query that posts to the the GasFundy Site.  Thanks.
+ 
+ Mat

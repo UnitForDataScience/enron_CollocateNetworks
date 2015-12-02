@@ -1,0 +1,6 @@
+
+ 
+ We will take the MTM variance for 0010 - 441K - this is partially offset by 
+ Central's variance.  This is related due to the changing fo the transport 
+ book from GD-Central to Intra-Ontario.
+ PL

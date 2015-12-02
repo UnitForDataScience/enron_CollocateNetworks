@@ -1,0 +1,7 @@
+
+ 
+ I put in an offsetting trade for the phys/financial swap.  You will have to 
+ process three confirmations to get it done 2 offsetting phys and 1 
+ financial.  
+ 
+ Pete

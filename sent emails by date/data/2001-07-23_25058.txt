@@ -1,0 +1,24 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Dorland, Chris\Sent Items
+ X-Origin: DORLAND-C
+ X-FileName: chris dorland 6-26-02.PST
+ 
+ 
+ 
+   
+ >  >  >  > Colin Clements (CA - Calgary) (E-mail); Geoff Yaworski (E-mail); Jason 
+ > Rybchuck (E-mail); Jason Wessel (E-mail); Jerry Knoll (E-mail); Max 
+ > Zureski (E-mail); Mike Harmel (E-mail); Mark Schoenhals (E-mail); Rita 
+ > Milenkovic (E-mail); Scott. Parks (E-mail) 
+ >  > 
+ > Try this test out when you have some time.  You have to do it in excel to 
+ > find out if your answers are right.  You also have to make sure your 
+ > spelling is correct. 
+ [Schoenhals, Jeff CIC]  
+ >  <<thetestoftests.xls>> 
+   
+  - thetestoftests.xls 

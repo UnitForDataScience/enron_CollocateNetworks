@@ -1,0 +1,8 @@
+
+ 
+ 
+ 
+ 
+     
+ 
+ <center><LI><a Href="http://www.nwrfc.noaa.gov/cgi-bin/r_fcst_d?prod=rcc.hpg&desc=Long-Range_Daily_Columbia_Forecast"><font color="blue">Columbia River Basin and Lower Snake</font></A>.....Updated:   Mar  12, 2002 at 12:55</center>

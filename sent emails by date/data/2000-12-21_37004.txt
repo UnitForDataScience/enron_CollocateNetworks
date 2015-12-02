@@ -1,0 +1,19 @@
+
+ 
+ 
+    
+ 	Enron Capital Management
+ 	
+ 	 	
+ 
+
+
+
+   
+ We can now calc at home/on the laptops.  After you dial in,( connect to 
+ remoteservices.enron.com and log in), select start/programs/trading/xterm off 
+ of the menu.  Xterm will bring up a window ... type in runm.  After that it 
+ is calcing as normal.  From what I can tell it works okay.  Let me know if 
+ you have any problems.
+ 
+ Dave

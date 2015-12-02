@@ -1,0 +1,34 @@
+
+ 
+
+ 
+ Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+
+ X- X- X- X-b X-Folder: \ExMerge - Williams III, Bill\Sent Items
+ X-Origin: WILLIAMS-W3
+ X-FileName: 
+ 
+ Eric,
+ 
+ I have forwarded this to Bill Williams.  Please note that there is a subtle but important difference between the two email addresses.  Please make the change in your address book.
+ 
+ Thanks,
+ Bill
+ 
+ 
+
+  
+  
+ 
+ Eric:
+  
+     Could you please tell us what the maximum temperature of cooling water
+ at maximum ambient temperature will be?  Could you also tell us what the
+ minimum temperature of cooling water at minimum ambient temperature will be?
+ We'll need this fairly quickly to design the generator for this job.  Your
+ help is greatly appreciated!
+  
+     Thanks!
+  
+ Cheryl

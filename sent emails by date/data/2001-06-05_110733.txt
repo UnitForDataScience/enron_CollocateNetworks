@@ -1,0 +1,7 @@
+
+ 
+ Eddie,
+ 
+ We'll need a new pipeline for Northwest manual entry.  The point should have DRN JPINV, but no corresponding IHS DRN.  Please populate the database with a value of 16,460,301 with flow type S for 6/2/2001.  We will manually enter this point until we can automate it.
+ 
+ Mat

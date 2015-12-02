@@ -1,0 +1,16 @@
+
+ 
+ There has been a little confusion about how this Counterparty wishes to be set up on EnronOnline, and after talking to the Counterparty, Darren Vanek in Credit, and Mary Cook we have come to the following agreement:
+ 
+ The counterparty will be (and I think already may be?) set up in the GCP System as Vector Pipeline, LP
+ 
+ I told the Counterparty that special Confirmation Templates would be prepared for this Counterparty and the signature line should be prepared as follows:
+ 
+ Vector Pipeline, LP, by its Managing General Partner,
+   Vector Pipeline, LLC
+ 
+ By: 
+ 
+ This form of signature block should be used for all EnronOnline and any offline trades for counterparty as well.
+ 
+ The Password Application has been executed by the Counterparty correctly so there is no need to have him re-apply.

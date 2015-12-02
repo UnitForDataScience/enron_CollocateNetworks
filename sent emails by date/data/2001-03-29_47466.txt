@@ -1,0 +1,154 @@
+
+ 
+ No.
+ 
+ 
+ 
+ 	Carol St Clair
+ 	03/29/2001 12:00 PM
+ 		
+
+
+ 		  (Clickpaper to EOL migration)
+ 
+ Tana:
+ Mark said that he has already approved these.  Do I need to do anything?
+ 
+ Carol St. Clair
+ EB 3889
+ 713-853-3989 (Phone)
+ 713-646-3393 (Fax)
+
+ 
+ 
+ 
+ 	Tana Jones
+ 	03/23/2001 05:33 PM
+ 		 
+
+ 		  		  (Clickpaper to EOL migration)
+ 
+ 
+ 
+ 
+ 	Harry M Collins
+ 	03/23/2001 10:05 AM
+ 		
+
+
+
+
+
+
+
+
+
+ 		  (Clickpaper to EOL migration)
+ 
+ Carol St. Clair is the appropriate attorney to review these financial 
+ products.
+ 
+ 
+ 
+
+ 	03/23/2001 08:24 AM
+ 		 
+ 		 
+
+ Lee/NA/Enron
+
+
+
+
+
+ 		  to EOL migration)
+ 
+ Your review and approval of the following 5 product types in the EOL 
+ Datamanager is needed (for directions on approval , please see steps for 
+ approval at the bottom of this e-mail). If you have any questions please call 
+ me at ext. 39555.
+ 
+ US Newsprint Fin Swap      USD/MT/M
+ 
+ A US Newsprint Financial Swap Transaction with Enron North America Corp. 
+ under which the Seller pays a Floating Price and the Buyer pays the price 
+ submitted by Counterparty on the Website (the Fixed Price) in respect of the 
+ Notional Quantity per Determination Period. The Notional Quantity per 
+ Determination Period shall be the volume submitted by Counterparty on the 
+ Website. Each calendar month during the term of the Transaction will be a 
+ Determination Period. The Payment Date(s) will be 5 business days after the 
+ Floating Price is determinable. The Floating Price shall be the Index for the 
+ relevant Determination Period.
+ 
+ US Packaging Fin Swap      USD/ST/M
+ 
+ A US Packaging Financial Swap Transaction with Enron North America Corp. 
+ under which the Seller pays a Floating Price and the Buyer pays the price 
+ submitted by Counterparty on the Website (the Fixed Price) in respect of the 
+ Notional Quantity per Determination Period. The Notional Quantity per 
+ Determination Period shall be the volume submitted by Counterparty on the 
+ Website. Each calendar month during the term of the Transaction will be a 
+ Determination Period. The Payment Date(s) will be 5 business days after the 
+ Floating Price is determinable. The Floating Price shall be the Index for the 
+ relevant Determination Period.
+ 
+ US Recycled ONP #8 Fin Swap     USD/ST/M
+ 
+ A US Recycled Financial Swap Transaction with Enron North America Corp. under 
+ which the Seller pays a Floating Price and the Buyer pays the price submitted 
+ by Counterparty on the Website (the Fixed Price) in respect of the Notional 
+ Quantity per Determination Period. The Notional Quantity per Determination 
+ Period shall be the volume submitted by Counterparty on the Website. Each 
+ calendar month during the term of the Transaction will be a Determination 
+ Period. The Payment Date(s) will be 5 business days after the Floating Price 
+ is determinable. The Floating Price shall be the Index for the relevant 
+ Determination Period.
+ 
+ 
+ US Recycled OCC #11 Fin Swap     USD/ST/M
+ 
+ A US Recycled Financial Swap Transaction with Enron North America Corp. under 
+ which the Seller pays a Floating Price and the Buyer pays the price submitted 
+ by Counterparty on the Website (the Fixed Price) in respect of the Notional 
+ Quantity per Determination Period. The Notional Quantity per Determination 
+ Period shall be the volume submitted by Counterparty on the Website. Each 
+ calendar month during the term of the Transaction will be a Determination 
+ Period. The Payment Date(s) will be 5 business days after the Floating Price 
+ is determinable. The Floating Price shall be the Index for the relevant 
+ Determination Period.
+ 
+ 
+ US OSB Fin Swap       USD/MSF
+ 
+ A US OSB Financial Swap Transaction with Enron North America Corp. under 
+ which the Seller pays a Floating Price and the Buyer pays the price submitted 
+ by Counterparty on the Website (the Fixed Price) in respect of the Notional 
+ Quantity per Determination Period. The Notional Quantity per Determination 
+ Period shall be the volume submitted by Counterparty on the Website. Each 
+ calendar month during the term of the Transaction will be a Determination 
+ Period. The Payment Date(s) will be 5 business days after the Floating Price 
+ is determinable. The Floating Price shall be the Index for the relevant 
+ Determination Period.
+ 
+ 
+ STEPS FOR APPROVAL:
+ 
+ click the  START button 
+ select  PROGRAMS
+ select  TEST APPLICATIONS
+ select ENRONONLINE CLUSTER(PROD)
+  PROCEED WITH USUAL LOGIN/PASSWORD 
+ click the Enron Online Production Cluster "START" button  
+ select EnronOnLine (this is the EOL Datamanager)
+  PROCEED WITH EOL LOGIN/PASSWORD
+ click on the "+" for EnronOnLine
+ click on the "+" for Product Types
+ click on the "+" for "Awaiting Approval" (OR  "Partially Approved")
+ select the product requiring review as stated in e-mail above
+ Right "mouse" click on "properties" to view product set-up 
+ TO APPROVE:  Right mouse click on "Approved"   
+ 
+ 
+ 
+ 
+ 

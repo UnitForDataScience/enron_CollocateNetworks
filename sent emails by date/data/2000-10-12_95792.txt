@@ -1,0 +1,68 @@
+
+ 
+ can you arrange this for after 200 or on friday
+ thanks
+ 
+ 
+ Hardware Request Line Item	Master Request: 
+ 	Line Item Status:Scheduled
+ 
+ 				Hardware information:
+ Item:	15IN TFT 5010 OPAL			
+ Request Type:	Upgrade Existing		Request  Requested By:	Janette Elbertson		RC #:	105657
+ CO #:	0413		WO #:	
+ Requested For:	Elizabeth Sager		Location:	EB3805
+ Due  			PO # In Use:	0008373
+ 				20100138
+ 			System # On Shelf:
+ 			PO # On Shelf:	
+ 				
+ 
+ 
+ 	Comments and special requirements:
+ Master Request Ops Comments:	
+ Master Request IS Comments:	SM
+ Line Item Ops Comments:	
+ Line Item IS Comments:	
+ 	
+ 
+ 
+ 				PO information:
+ PO #:	20100428		Vendor:	COMPAQ DIRECT
+ Order  				
+ 				
+ 
+ 
+ 				Installation information:
+ Team Assigned:	BaseSupport Team		Installed By:	
+ Assigned  Scheduled  
+ Follow-up Due:	
+ Follow-up Comments:	
+ 
+ 				Customer order:
+ 				Received All Requested Equipment:  
+ Explain:				
+ 	Technician Signature:			
+ 
+ 							Customer inventory information:
+ System No:			Monitor:			Monitor2:	
+ Printer:			Memory:			CD-ROM:	
+ Customer Phone:			HDD:				
+ 
+ 							Return to stock information:
+ System No:			Monitor:			Printer:	
+ Other							
+ 			Technician Signature For Returning To Stock:				                    Receiving Signature:
+ 
+ Master Items:	Installation Comments:
+ 15IN TFT 5010 OPAL	
+ Receiving History:
+ Item is set as In Stock by Brian Verm on 10/11/2000 01:07:29 PM
+ Item is Staged by Brian Verm in 10/11/2000 1:08:06 PM
+ 
+ Revision History:	Brian Verm
+ Brian Verm	10/11/2000 01:04:55 PM
+ 10/11/2000 01:04:55 PM
+ 
+ 
+ 

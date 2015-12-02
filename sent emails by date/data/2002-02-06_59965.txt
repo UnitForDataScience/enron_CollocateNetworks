@@ -1,0 +1,21 @@
+
+ 
+ No money has been paid into my account in expenses ever - where is the money going.
+ 
+  
+
+    
+ The Payment status has changed on the following report:
+ 
+ Status last changed by:  System
+ Expense Report Name: LK010702
+ Report Total: $2,778.90
+ Amount Due Employee: $2,778.90
+ Amount Approved: $2,778.90
+ Amount Paid: $0.00
+ Approval Status: Approved
+ Payment Status: Processed
+ 
+ 
+ To review this expense report, click on the following link for Concur Expense.
+ http://expensexms.enron.com

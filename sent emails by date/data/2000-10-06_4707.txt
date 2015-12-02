@@ -1,0 +1,55 @@
+
+ 
+ We can postpone until the ticker sytem is available.  Just let me know.
+ 
+ Thanks,
+ Eric
+ 
+ 
+ 
+ 
+ Robert B Cass
+ 10/06/2000 08:20 AM
+
+
+  
+ Eric -  
+ We cannot delete meter #3537 from this particular Product Description since 
+ Products using this product location have already been transacted on 
+ (including Transaction #33491).   
+ 
+ Therefore, we will need to either create a new location name (what would be 
+ the "new" location name?) or we can advise the customers via a ticker  
+ message that the Product description for "HPL/AguaD" has been revised.    
+ Unfortunately, we are working through some issues with the ticker message 
+ system, but we have been advised that it will be in place soon.  Are you able 
+ to postpone until the ticker system is operable?
+ 
+ Please advise.
+ 
+ - Rob Cass
+ x 35491
+ 
+ 
+ 
+ 
+    
+ 	Enron North America Corp.
+ 	
+ 	 	
+ 
+
+
+  
+ Could you please remove Koch Bayside (meter #3537) from the delivery point on 
+ the US Gas Phy HPL/AguaD product?
+ The applicable product numbers are 33462, 33464, 33491, and 33492.
+ 
+ Thanks,
+ 
+ Eric
+ x3-0977
+ 
+ 
+ 
+ 

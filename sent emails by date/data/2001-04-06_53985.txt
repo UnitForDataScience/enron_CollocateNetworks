@@ -1,0 +1,26 @@
+
+ 
+ 
+ 
+ 
+
+ 04/04/2001 04:33 PM
+
+
+  
+ Krishna,
+ 
+ Here is my working paper on the issue. We actually applied the alternative 
+ method
+ (put value) to the calculation of premium for managing the "liquidation 
+ value" curves.
+ 
+ I am working with the desk to get a list of all the projects we have with 
+ information about 
+ the technology class, region, volume etc. Shortly we will be able to apply 
+ these methodologies
+ and test them.
+ 
+ Osman
+ 
+ 

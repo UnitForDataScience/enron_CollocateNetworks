@@ -1,0 +1,27 @@
+
+ 
+ What is the exact location (in terms of LMP) - is this a PJM east or PJM west hub ? Is it connected to NY, either Zone G or Zone J ?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+     
+ Brandon:
+ 
+ Got another one!!!
+ 
+ What:		350-500MW Peaker
+ Where:		Lakewood, NJ (in PJM, about 40-50 miles south of NYC, off the Garden State 		Parkway - Look on a road atlas to get the location right for LMP pricing)
+ Heat Rate:	10,900
+ VOM:		Price it two ways ($1.50/MWh and $3.00/MWh)
+ Gas:		Transco Zone 6 - Non New York
+ Avail:		5x16, year round, day ahead dispatch w/ 8 hour minimums.
+ Start  Term:		3 years (show me 4 years also, please)
+ 
+ Call me if you have questions.
+ 
+ Thanks much.

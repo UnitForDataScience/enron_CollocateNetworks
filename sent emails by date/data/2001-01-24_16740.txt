@@ -1,0 +1,47 @@
+
+ 
+ Dennis Walters in Ojai, California, at (805) 646-1475, or
+
+ 912-2980/pkc/cs/dw
+ 
+ Story illustration: For a chart comparing the performance of
+ Edison and PG&E with the Dow Jones Utilities for the past year,
+ click on {UTIL <Index> COMP D <GO>} or enter the command. Enter
+ EIX US <Equity> in the second box, and PCG US <Equity> in the
+ third. Press <GO>.
+ 
+ PCG US <Equity> CN
+ EIX US <Equity> CN
+ DUK US <Equity> CN
+ ENE US <Equity> CN
+ CPN US <Equity> CN
+ REI US <Equity> CN
+ NRG US <Equity> CN
+ WMB US <Equity> CN
+ SO US <Equity> CN
+ SOE US <Equity> CN
+ AES US <Equity> CN
+ DYN US <Equity> CN
+ 13622Z US <Equity> CN
+ SRE US <Equity> CN
+ 
+ NI UTI
+ NI NRG
+ NI BNK
+ NI ELC
+ NI GAS
+ NI COS
+ NI LAW
+ NI US
+ NI EXE
+ NI GEN
+ NI CA
+ NI RULES
+ NI GOV
+ NI MUN
+ NI MNC
+ NI BCY
+ NI USBONDS
+ 
+ -0- (BN ) Jan/24/2001 15:32 GMT
+ 

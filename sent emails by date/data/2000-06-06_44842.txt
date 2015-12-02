@@ -1,0 +1,32 @@
+
+ 
+ Samantha,
+ 
+ When you get in let's take a look and see if you can get into the Master Swap 
+ Agreement Database.
+ 
+ 
+ 
+ 
+ Information Risk Management on 06/06/2000 05:26:51 PM
+
+ 
+  
+ 
+ The following resource request has been closed. A summary of the request 
+ appears below. To see your original request, please click on the Request Link 
+ icon.
+ 
+ Request Number:	MNES-4L2JK4
+ Requested For:	Tana Jones/HOU/ECT
+ Request Link:	
+ 
+ 
+ 	Requested Resource(s)			
+ 	Name	Cost	Status	Implementation Comments
+ 	Application/Database			
+ 	Unlisted Lotus Notes Applicti...		Completed	Added Samantha Boyd to the ECT Legal - Swap - 
+ Users group. Please allow approx. 1 hour for the change to replicate to all 
+ of the Address Books.
+ 				
+ 				

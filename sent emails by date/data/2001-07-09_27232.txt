@@ -1,0 +1,29 @@
+
+ 
+ This is good info to know.
+ JMF
+  
+     
+ 1)  ERCOT conference call
+ 
+ John Adams with ERCOT called at 3:30 pm on Saturday afternoon to say Enron responded to instructions inappropriately during Friday's frequency control test while under single control area operations.    Friday's instruction from Ercot was for Enron to deploy balancing energy while Enron did not deploy balancing energy as per the instruction because no balancing bid was in place.  Enron  was not the only QSE to be confused by these instructions.  
+ 
+ Adams later clarified the definitions of the operation constraints
+ OC1	worst level constraint
+ 
+ OC0	commercially significant constraints CSC) approved once per year by ERCOT
+ 
+ OC2	entered manually through operator entry
+ 
+ OC3	populated by DC power flows (FST); designed to include all generators in the constraint equation and adjust for load flows.
+ 
+ John encouraged all to understand the distinctions between all these constraints before actively participating in the balancing energy market.
+ 
+ 2)  schedule mismatch
+ 
+ Enron had a schedule mismatch for Sunday's (7-8-01) schedules.  The mismatch was with a 5 mw obligation to BTU for HE 7 to HE 22.  Sunny and I reviewed this situation on Saturday evening.  Sunny said he submitted this schedule several times on Saturday and early Sunday morning.  The off peak hours matched fine.
+ 
+ 
+ Chris Watts
+ Analyst Enron
+ WK:  713-853-4292

@@ -1,0 +1,17 @@
+
+ 
+ Tommy,
+ 
+ I agree.  The traders need access only to the physcal trading systems.  They are only trading next day physical gas for the remainder of May, so they do not need access to any other systems.
+ 
+ Thanks,
+ 
+ Tom
+ 
+  
+    Cc:	Redmond, Brian
+  
+ Attached is a file that list the employees going over to AEP and what data access they currently have within our systems.  At close all of these individuals will be cut back to having only access to AEP/HPL.  Currently some of these individuals have access to more than just HPL or Texas.  I'd like to cut them back to have only access to HPL and Texas ASAP.  Please review and let me know if you'd like to make any exceptions.  The spreadsheet has tabs for Sitara, Unify and Global.  Thanks!  -  Tommy
+ 
+ 
+  << File: HPL AEP Transfers Data Access1.xls >> 

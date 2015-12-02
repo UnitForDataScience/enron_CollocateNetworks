@@ -1,0 +1,29 @@
+
+ 
+ This is a Mark Taylor Question.
+ 
+ 
+ 
+
+ 12/07/2000 11:41 AM
+
+
+  
+ Amita,
+ 
+ Justin has agreed that it would be OK to stop sending GTC's with confirms and 
+ instead include the following language on the confirms for EnronOnline 
+ transactions which are governed under GTC (not governed by Master Agreements):
+ 
+ "This Transaction is governed by the EnronOnline General Terms and 
+ Conditions. For a copy of this agreement, please click on the Product 
+ Description on the EnronOnline website and choose "View GTC".
+ 
+ Justin: Please verify that I have the language correct as per our discussion.
+ 
+ Thanks,
+ 
+ Dave
+ 
+ 
+ 

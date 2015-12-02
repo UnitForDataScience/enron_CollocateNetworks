@@ -1,0 +1,27 @@
+
+ 
+ 
+ 
+   
+ If you are having trouble with TAGG IQ reports do the following.
+ 
+ 1. Click Start/Settings/Control Panel
+   Double Click the ODBC icon.
+ 
+ 2. Under the User DSN tab if there is an entry for TAGGReportt, select it and 
+ then click the Remove button.
+ 
+ 3. Click Add.  Double Click Oracle73.  
+  In the three boxes enter the three following values:
+ 
+   TAGGReport
+   Test
+   tns:ermt_ded
+ 
+  Click the OK.
+ 
+ 4. Click the OK button again on the ODBC window.
+ 
+ That's it.  Rerun the report.
+ 
+ 

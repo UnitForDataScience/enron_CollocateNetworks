@@ -1,0 +1,25 @@
+
+ 
+ Here's the latest I've heard from Diana regarding the deals with a PGE 
+ delivery point. The four you e-mailed me this morning are all daily deals 
+ with PGE and therefore do not need to be confirmed, so they are entered 
+ correctly. I believe Kim Hundl and I discussed this before; but let me know 
+ if you have further questions.
+ 
+ Thanks,
+ kate
+ 
+ 
+ 
+ Diana Scholtes
+ 03/09/2001 12:24 PM
+
+  
+  
+ I just heard the same.  I was talking to Tim about the requirements being 
+ made regarding daily confirmations, and the final decision was not to confirm 
+ PGE daily deals.  Question though,  when we put deals into the system in 
+ Blotter, they automatically confirm.  Do we have to go into every deal and 
+ switch the flag or is there a better way around it?
+ 
+ d

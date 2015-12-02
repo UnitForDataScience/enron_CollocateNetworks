@@ -1,0 +1,18 @@
+
+ 
+ I agree with Rogers.   Because only one entity can mark curves and I have once again made this a requirement for all traders to get re-acquainted with value in the market, it makes sense for Netco/UBS to mark curves until the cutover occurs.   At that point, both entities will assume separate responsibility.
+ 
+  
+   
+  
+ Kevin/Paul -
+ 
+ Apparently the new/separate curve database will not be copied until Monday 2/4.  Therefore, we need to decide who will be responsible for marking curves until such time.
+ 
+ Over the last few days our group has attempted to mark curves but has not been able to because the Netco group is still performing this function (in most cases).  My suggestion is that Netco employees continue to mark curves until the new database is completed.  At that time, there will be two separate processes.  The Enron estate process will only be marking curves where we have live (not terminated) positions including vol positions.
+ 
+ In the meantime, our group will be focusing on validation of the 11/30 and 12/03 curves as well as any other dates that will be crucial for termination calculation purposes.  We will need access to all back-up curve data captured during these time periods.
+ 
+ Please let me know if you agree.
+ 
+ Rogers

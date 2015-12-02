@@ -1,0 +1,87 @@
+
+ 
+ see approval attached
+ 
+ 
+ 
+ 
+ 
+ 
+ Bhavna Pandya
+ 08/09/2000 09:59 AM
+
+
+  
+ Scott,
+ 
+ Need your approval on the attached word document as soon as possible.  After 
+ you have approved it, we can load the critical notice program to the machine 
+ next to me.  The purpose of requesting a generic ID is so that when there is 
+ a problem our team (Yan Wang and two other IT persons) can fix it on the 
+ floor.
+ 
+ 
+ 
+ Thank you.
+ 
+ Bhavna Pandya
+ x3-3962
+ 
+ 
+ 
+ 	Security Resource Request System	
+ Application Line Item		Pending Access Approval
+ 
+ Application Name:	Risk Acceptance		How to process this request...
+ For:	bhavna pandya                                  		
+ Request Type:	Grant		
+ Role(s):	Generic ID		
+ Comments:	(Per Bhavna, needs generic ID so that anyone can log on to a 
+ particular PC that has certain "codes" that a developer will save to that 
+ machine's hard drive. Generic ID= CRINFO1 (name=critical info) -07-28-00 Ecn)		
+ Click  .
+ 			If you wish to approve this request, select  "Approve" in the dialog box. 
+ Otherwise, select "Reject".
+ 			Enter comments (if any).
+ 			
+ 
+ 
+ 	Access Approval Section
+ Approver(s):	IRM Audit/Corp/Enron
+ Roberto Deleon/Corp/Enron
+ Status:	
+ Comments:	
+ 
+ 
+ 	Provider Approval Section             		
+ Provider(s):	Information Risk Management/HOU/ECT	Status:	
+ E-Mail Message:			
+ 			
+ Comments:			
+ 
+ 
+ 
+ 	General     	Request:	KBRN-4MNKFG  
+ Requested By:	Kimberly Brown/HOU/ECT	Phone:	713-853-5193
+ Company:	413	RC #:	0765
+ 		Priority:	High
+ 
+ 	Application        		
+ Icons Added:		Expiration  UNIX Db Required:	No		
+ Network Login ID:		UNIX Login ID:	
+ Required Information:			
+ General Comments			She needs a second login for a machine next to her .  Please handle 
+ as soon as possible
+ 
+ 
+ 		Editing History (Only the last five (5) are shown)	
+ 			
+ Edit #	Past Authors	Edit Dates	
+ 1	Information Risk Management 	07/28/2000 03:33:08 PM 	
+ 
+ 
+ 
+ 
+ 
+ 
+ 

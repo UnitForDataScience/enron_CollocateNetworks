@@ -1,0 +1,21 @@
+
+ 
+ We don't need the currency or mmbtu/gj conversion language if Gas Daily agrees to what we want.
+ 
+  
+ 
+  
+ Greg Johnston
+ 03/13/2001 05:53 PM
+
+   
+ Here is the revised long description.  It incorporates the two changes you had proposed.
+ 
+ Thanks
+ Greg
+ 
+  << File: Daily Daily Swap Language.doc >> 
+ 
+ 
+ 
+ <Embedded Picture (Device Independent Bitmap)>

@@ -1,0 +1,16 @@
+
+ 
+ 
+ 
+ 
+
+
+
+   
+ 
+ Let's try this. Asking COH about Summer MDQ discrepancy, probably rounding
+ error, will let you know.
+ 
+ 
+ 
+  - coh2000-2001.xls

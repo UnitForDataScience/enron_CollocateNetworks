@@ -1,0 +1,15 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Salisbury, Holden\Sent Items
+ X-Origin: SALISBURY-H
+ X-FileName: holden salisbury 6-26-02.PST
+ 
+ I am in the Portland office and using Foster.  When I run the transmission report I get an SQL error that I have enclosed a screen shot of.  Also I cannot run the batch scheduler.  Please let me know if you can help.
+ 
+ Thank You,
+ Holden
+ 
+  

@@ -1,0 +1,49 @@
+
+ 
+ Alright guys, here is the final version, try it in your P&L today.  Thanks.
+ PL
+ 
+ 
+ 
+ =09Gregory A Mausser
+ =0902/22/2001 10:54 AM
+ =09
+
+
+ n,=20
+
+
+  
+ 
+ 
+ 
+ Here is the final version of the template to be used in February 2001=20
+ =01+Regions=01, P&L.  Please re-link cells pulling information from other t=
+ abs=20
+ within your file (i.e. Third Party Sales, Third Party Purchases, CPR Fuels,=
+ =20
+ CPR Imbalance, CPR Cash Out, CPR Pipeline Exchange, and CPR Storage).
+ 
+ Keep in mind that if you have multiple physical tabs in your P&L each must =
+ be=20
+ replaced with the template.  Also, if your region has multiple physical tab=
+ s=20
+ under a single P&L, they should be rolled into one total physical tab named=
+ =20
+ "physical".  =20
+ 
+ In future months, I will send each of you a revised template inclusive of a=
+ ll=20
+ CPR desk names and CPR couterparty names by the end of each month.  Please=
+ =20
+ copy future templates to your file to ensure consistency across all regions=
+ .
+ 
+ Thank you all for your patience and cooperation while we implement this=20
+ process improvement.  Please let me know how I can help.
+ 
+ Regards,
+ Greg (37299)
+ 
+ 
+ 

@@ -1,0 +1,32 @@
+
+ 
+
+ 
+ Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+
+ X- X- X- X-b X-Folder: \ExMerge - White, Stacey W.\Sent Items
+ X-Origin: WHITE-S
+ X-FileName: stacy white 7-15-02.PST
+ 
+ Roberto,
+ 
+ Can you please add to the m: drive a first tier directory of common.  Please let me know ASAP that this is complete.
+ 
+ Thanks,
+ Stacey White
+ Director, Power Risk Management
+ 713-853-1870
+ 
+  
+    Cc:	Lee, Norman
+  Importance:	High
+ 
+ Dear All,
+ 
+ In Enron system, M:\common\power is one of our major folder. In UBS system, it is changed to M:\power. I wonder whether we need to create a new folder:
+ M:\common, then move M:\power under M:\common\ and become M:\common\power just as Enron system. Otherwise, we at least need to spent a lot of time to find out and change all path pointers and fixed links of Excel application under power folder. Also, if too many files dynamic links are  messed up, we may be able to ask system team to rebuild power folder for us.
+ 
+ Thanks!
+ 
+ Min Zheng

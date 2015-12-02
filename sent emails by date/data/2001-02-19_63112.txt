@@ -1,0 +1,26 @@
+
+ 
+ Greg
+ 
+ Why is EES's var being put in my 60 Million limit.
+ 
+ Lavo
+ 
+ 
+ 
+ 
+  
+     
+ The Enron Corp. Board of Directors is meeting today and tomorrow. If approved (very likely), the proposed limit changes will become effective tomorrow, Feb-13th:
+ 						Current				Proposed
+ NA Natural Gas					$60 MM				$61 MM*
+ NA Power					$50 MM				$54 MM NA Power limit will also include all positions in the EES and Cross-commodity portfolios. As of 2/9, EES Power VaR was $ MM and Cross-commodity Power VaR was $0.2 MM.
+ 
+ Also, $10 Million of Discretionary VaR is currently allocated to NA Natural Gas. Again, if limit changes are approved, additional $5 MM of Discretionary VaR will be allocated to Gas:
+ 
+ 						Current				Proposed
+ NA Natural Gas	with Discretionary VaR		$70 MM				$76 MM*
+ 
+ As of 2/9, Gas VaR was $73.5 MM and Power VaR was $36.4 MM.
+ 
+ If you have any questions, feel free to call me (x36954). Vlady.

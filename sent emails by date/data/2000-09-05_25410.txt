@@ -1,0 +1,23 @@
+
+ 
+ You must've had a rough weekend.  I haven't seen this many screwed up e-mails 
+ from you in a while.  Or...is that 110 degree heat finally taking it's toll?
+ 
+ 
+ 
+ 
+
+
+
+
+
+  
+ 
+ 
+ 
+ Changed cell formula to correctly sum column of Spot sales.
+ 
+ (See attached file: hpl0906.xls)
+ 
+  - hpl0906.xls
+ 

@@ -1,0 +1,33 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Keiser, Kam\Sent Items
+ X-Origin: KEISER-K
+ X-FileName: kam keiser 7-11-02.PST
+ 
+ Min,
+ 
+ Is this change only for those using EnPower?  My group will no longer be running any power books and won't need EnPower any longer. 
+ 
+ If this affects the gas applications in any way let me know, but I think that this won't be necessary for me.
+ 
+ Thanks
+ Kam
+ x3-5781
+ 
+  
+    Cc:	Lee, Norman
+  Importance:	High
+ 
+ Dear Kam,
+ 
+ The Oracle Power database has been moved. The Excel Applications which are involved with the database need to be modified. So does your PCs' setting.
+ 
+ Please let us know when we can go to your desk for the changes. The time only need < 20 minutes.
+ 
+ Thanks!
+ 
+ Min Zheng
+ *39976

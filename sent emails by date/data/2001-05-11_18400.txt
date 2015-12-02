@@ -1,0 +1,23 @@
+
+ 
+ 
+ 
+
+ 	05/10/2001 06:49 PM
+ 		 
+
+ 		  		  
+ Jeff,
+ 
+ Please check with Belden or I if you are going to use these curves for 
+ anything other than internal analysis or high-level negotiating.
+ 
+ If you need help converting into quarterly numbers, let me know.
+ 
+ Remember that the total cost of wholesale power includes ancillary services 
+ which you can estimated to be 5% of these amounts.  I.e., 105% of the curve 
+ price is the average power cost including A/S
+ 
+ Alan
+ 
+ 

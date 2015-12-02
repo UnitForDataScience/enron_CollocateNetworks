@@ -1,0 +1,33 @@
+
+ 
+ 
+ 
+  
+    Cc:	Davis, Mark Dana; Sturm, Fletcher J.; Carson, Mike; Gupta, Gautam; Broderick, Paul J.; Benson, Robert; King, Jeff; Gilbert-smith, Doug
+  
+ Please use the next week to clean up our database of delivery locations and regions currently still in Enpower.   I would like to start the database clean with only the key hubs listed:
+ 
+ NEPOOL PTF
+ NY Zone J
+ NY Zone G
+ NY Zone A
+ Ontario
+ PJM East Hub
+ PJM West Hub
+ PJM West
+ Cinergy
+ Com-Ed
+ TVA
+ Entergy
+ SOCO
+ ERCOT South (FP)
+ ERCOT North (Basis)
+ 
+ Let's use this opportunity to clean up Enpower and start with a truly clean set of books.  
+ Team - Am I missing anthing?
+ 
+ Kevin Presto
+ Vice President, East Power Trading
+ Phone:  713-853-5035
+ Cell:  713-854-3923
+ Fax:  713-646-8272

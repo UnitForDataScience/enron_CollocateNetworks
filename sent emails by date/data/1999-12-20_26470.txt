@@ -1,0 +1,73 @@
+
+ 
+ It will be fine to use current +1 as the cutoff.
+ 
+ D
+ 
+ 
+    
+ 	Enron North America Corp.
+ 	
+ 	 	
+ 
+
+
+   
+ FYI - what do you all think?
+ 
+ 
+
+
+
+  
+ Just to clarify, its not the relative age of the production date, but the age 
+ of the event itself.
+ 
+ d.n.
+ 
+ 
+
+
+
+
+  
+ Do any of you see a problem with limiting this to the current month or 
+ current month +1
+ Need to know soon
+ 
+ Scotty
+ 
+ 
+    
+ 	
+ 	
+ 	 	
+ 
+
+
+
+  
+ Scotty/Richard,
+ 
+ Our DBAs would like to see what we can do to reduce the qty of rows in 
+ Contract_Event_Status.  We have over 1 Gig of data in that table.  I would 
+ like to suggest we have a nightly or weekly or monthly process to delete any 
+ row with a Last_Mod_Date over a month (or two) old.  So if someone balances 
+ February 1999 this month, we will keep it around for a month (or two).
+ 
+ Does any one else have a desire to keep this data for a shorter/longer period 
+ of time?
+ 
+ This is not an audit table.  This is just a "log" every nom/track/balance/EDI 
+ send/Fax send/sched qty/quick response since the beginning of time.
+ 
+ d.n.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

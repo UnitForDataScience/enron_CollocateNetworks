@@ -1,0 +1,19 @@
+
+ 
+ This is the first notice from Transco regarding imbalances.  Transco has not 
+ changed their IT notices since the 6th, when they closed down St 90.
+ 
+ Trans. Svc. Provider: 007933021 - TRANSCONTINENTAL GAS PIPE LINE CORPORATION
+    Notice Identifier: L0012213
+      Critical Notice: Yes
+       Type of Notice: 6-Other
+    Required Response: 5-No Response Required
+    Resp By Date/Time: N/A
+ Notice Eff Date/Time: 12/21/00 12:52:26
+ Notice End Date/Time: N/A
+               Status: 1-Initiate
+  Prior Notice Ident.: N/A
+
+ 
+ 
+  - C.DTF

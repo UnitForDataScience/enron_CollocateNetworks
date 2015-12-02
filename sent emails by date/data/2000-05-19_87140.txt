@@ -1,0 +1,6 @@
+
+ 
+ These changes are ok.  In addition, please add "Transporter"  after 
+ "Seller's" in line 8 of "8.5" (1).
+ 
+ dp

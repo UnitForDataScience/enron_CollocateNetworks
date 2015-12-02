@@ -1,0 +1,22 @@
+
+ 
+ do you know what my user id and password are?
+ 
+ 
+ 
+
+
+   
+ 
+ The following expense report is ready for approval:
+ 
+ Employee Name: Henry Quigley
+ Status last changed by:  Automated Administrator
+ Expense Report Name: Quigley050401
+ Report Total: $107.45
+ Amount Due Employee: $107.45
+ 
+ 
+ To approve this expense report, click on the following link for Concur Expense.
+ http://xms.enron.com
+ 

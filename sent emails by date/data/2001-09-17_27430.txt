@@ -1,0 +1,58 @@
+
+ 
+ Frank.  
+ The ancillary services market for non-spinning has been horrible.   Non- spinnning for today is,  at most,   90 cents/mw for hours 14-18.  The remaining hours are worth zero.
+ The down regulation and up regulation markets are lucrative  at as much as $11.99/mw ,  but we are not certified for this service.     As I understand it,  there is some work necessary on the plant to allow us to sell up/down regulation and replacement.  GE personel were to travel to the plant and do some work,  but in light of world events,  I do not know if they have arrived.
+ Once the upgrades are complete,   we need to restart the certification process with Ercot.
+ 
+ If we sell non-spin for .90,  we would need to withhold this power from the market.   We have been selling,  on a Real Time basis,   as much power as we can get out the door.   We have not been selling offpeak and we are starting schedules,  typically at hour 10 through 22 for a sales price of $24.
+ 
+ That is the latest.   We are currently looking at making sales in October.  The heat rate is around 10.7
+ 
+ Thanks,
+ 
+ JForney
+ 
+  
+ 
+  
+
+ 
+ Cc:	Miller, Jeffrey
+  
+ Jerry / John,
+ 
+ Are there any opportunities for our units in the non-spinning (day-ahead) reserves market?
+ 
+ Looks like the only awards / deployments thus far have been in the intra-day down-balancing market...
+ 
+ Thanks,
+ Frank
+ 
+ 
+  X-Mimeole: Produced By Microsoft Exchange V6.0.4712.0
+ content-class: urn:content-classes:message
+
+  
+  
+ X-MS-Has-Attach:
+ X-MS-TNEF-Correlator:
+ Thread-Topic: Deployments
+ Thread-Index: AcE7jl435kZ2pMDlRPOLgwsGV0SSJA==
+
+
+
+ X-OriginalArrivalTime: 12 Sep 2001 13:26:29.0887 (UTC) FILETIME=[882908F0:01C13B8E]
+ 
+ Attached is a schedule of all automated deployments related to the
+ Frontera Plant.  This schedule does not include any manual deployments.
+ Please let me know if you have any questions or comments.
+ 
+  <<TECODEPLOYMENTS.xls>>
+ 
+ Thanks,
+ Laurel
+ 
+ 
+ 
+  - TECODEPLOYMENTS.xls << File: TECODEPLOYMENTS.xls >> 

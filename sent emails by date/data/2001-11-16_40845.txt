@@ -1,0 +1,15 @@
+
+ 
+ As to P6, it is in the budget for next year, but we want to start this year.     Timing is never perfect.
+ 
+  
+     
+ Rod and Joe,
+ 
+ Here is a proposed write up of the procedures we use to protect the data that we send to RAC.
+ Please take a look and give me your comments.
+ Thanks!
+ 
+ Frazier
+ 
+  << File: PROCEDURES FOR CREDIT AND RISK DATA.doc >> 

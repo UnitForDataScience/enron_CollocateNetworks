@@ -1,0 +1,10 @@
+
+ 
+ Mark
+ 
+ We can make this even simpler.  All broker trades are confirmed the next 
+ day.  We would only need to record trader deals when they deal direct which 
+ is rare and all marketer deals.  If we do this we might consider keeping the 
+ tapes for a longer period because only the confirming part would be on tape.  
+ 
+ Please advise.

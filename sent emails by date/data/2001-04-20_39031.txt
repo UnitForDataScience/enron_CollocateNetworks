@@ -1,0 +1,21 @@
+
+ 
+ I have set up the following BPA account numbers since we have been submitting 
+ dec bids at Malin the past few days:
+ 
+ CISO to PUGET  882716
+ CISO to WWP       681713
+ CISO to SCL         882790
+ CISO to Tacoma 882791
+ 
+ I realize these counterparties can pick up at malin however, I thought it 
+ would be useful to have these accounts set up in case they are unable or 
+ unwilling to pick up at Malin. Also I have added an account number for 
+ Turlock to SCL.  SCL has been willing to do Buy/Resales from their system to 
+ Malin recently and this should be useful given that Snohomish has recently 
+ been unwilling to do so.
+  
+ TURLOCK to SCL  790612
+ 
+ These numbers have all been added to the RT BPA Account #'s spreadsheet in 
+ P:/realtime.  Thank you for your attention to this matter. 

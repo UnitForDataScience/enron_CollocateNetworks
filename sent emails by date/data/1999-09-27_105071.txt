@@ -1,0 +1,38 @@
+
+ 
+ No, in general there is a netting issue with French counterparties.  The 
+ "quick fix" is to only permit ONE Transaction using a deemed ISDA.  The 
+ broader issue to be resolved is that one of the parties must be a "financial 
+ institution" under French law.  We tried to push ECT into that defintion, but 
+ without success.  The next step is to require  an opinion from outside 
+ counsel identifying our counterparty as that financial institution.  
+ SS            
+ ps - Tanya is well aware of the situation
+ 
+ 
+    
+ 	
+ 	
+ 	 	
+ 
+
+   
+ I'm pretty sure SITA is a French company.  Have we decided that French 
+ counterparties are ok?
+ 
+ 
+ 
+ 	Heather Alon
+ 	09/24/99 02:30 PM
+ 	
+
+
+
+
+   
+ 
+ 
+ 
+ 
+ 
+ 

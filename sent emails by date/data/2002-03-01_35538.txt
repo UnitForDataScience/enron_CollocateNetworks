@@ -1,0 +1,27 @@
+
+ 
+ I hope I have the right Bob Hall.  I'm trying to get sitara access to the West and Texas Desk and they have not been approved yet.  I'm waiting for Phillip Love (now with UBS) to approve the West and O'Neal Winfree (not sure who this is) to approve the Texas Desk.
+ 
+ Tommy Yanowski was able to help with a couple of these but it looks like we need to get the approving parties changed.
+ 
+ I also left a message for the help desk about this.
+ 
+  
+
+    
+ This resource request has been rejected. You can view the details of the  request by clicking http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000083213&Page=MyReq.
+ 
+ 
+ 
+ 
+ Request ID          : 000000000083213
+ Approver Type       : Data
+
+ Comments            : Chris should have access to Enron Estate portfolios only.  He should not need access to any AEP portfolios.
+ Request Create Date : 2/20/02 3:28:38 PM
+
+ Resource Name       : Sitara Houston Production AEP Edit Trader
+ Resource Type       : Applications
+ 
+ 
+ 

@@ -1,0 +1,14 @@
+
+ 
+ looks good
+ 
+  
+    Cc:	Tonks, Colin
+  
+ Please review the new Gas Message Board in the development site.  http://gasfundy.dev.corp.enron.com
+ 
+ We are hoping to implement this into the production site once you have had the opportunity to look over it.
+ 
+ Thanks,
+ 
+ Dave

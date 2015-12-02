@@ -1,0 +1,16 @@
+
+ 
+ Yes, you will do normal calculation tonight.  In addition, either today or tomorrow, please also calculate the Bankruptcy Portfolio.  Export data from both West and Bankruptcy Portfolio by Counterparty and Physical/Financial.  Compare the data to the Termination Lists.  All counterparties on the termination list should be included in Bankruptcy Portfolio and all other counterparties should be in the West portfolio.  If you notice discrepencies, please investigate and correct.  Also, Will is still changing some deals that Casey sent him an e-mail on.  Do you know if this affected the West?  If so, you will need to wait until he is complete.
+ 
+ Stacey
+  
+     
+ 
+ Casey:
+ 
+ We have changed the termination date for west deals (old and new) as specified in the "termination dates" file in Stacey's special project folder.  Please let me know how we should proceed from here. 
+ 
+ Thanks,
+ 
+ Fran
+ 503.464.7973

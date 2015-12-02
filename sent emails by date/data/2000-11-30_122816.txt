@@ -1,0 +1,4 @@
+
+ 
+ http://www.quicken.com/investments/charts/?period=3MONTH&charttype=HIST&big=on
+ &plot=LINE&mavg=10+50&dji=&sp500=&nasdaq=&symbol=TXN

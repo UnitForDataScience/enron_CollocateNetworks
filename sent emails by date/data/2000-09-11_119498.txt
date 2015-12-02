@@ -1,0 +1,5 @@
+
+ 
+ Do we need to carify the max daily quantity on which the demand charge is 
+ assessed  reflects usage and not nominations.  Just don't want to be in a 
+ position where we must do make-up and have to nom more than 20000.

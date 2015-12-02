@@ -1,0 +1,40 @@
+
+ 
+ 
+ 
+ 
+ Martina Angelova
+ 03/22/2000 02:59 PM
+
+
+  
+ Hi Zimin!
+ 
+ Please find attached the RPI model I developed by bootstrapping RPI swaps. 
+ The structure of this particular swap is:  
+ 
+ semi/semi Act/365F
+ >
+ > YOYUKRPI = (UKRPI(p-2)/UKRPI(p-14) - 1)/2
+ > p = payment month
+ >
+ The first payment is the latest known historical RPI, February 2000. You will 
+ notice that I have assumed constant cashflows between the quoted years (as 
+ opposed to interpolating swaps which distorts the curve a lot).
+ 
+ Please find below a graphic comparison between the RPI curve produced by 
+ swaps and the one produced by the GILT market.
+ 
+ 
+ 
+ Looking forward to your comments.
+ 
+ Best regards,
+ 
+ Martina
+ x34327
+ 
+ 
+ 
+ 
+ 

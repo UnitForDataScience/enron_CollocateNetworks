@@ -1,0 +1,29 @@
+
+ 
+ What should I do with this?  SS
+ 
+ 
+ 
+
+
+
+   
+ 
+ 
+ This is a change ticket from the PeopleFinder.
+ 
+ The PeopleFinder received these changes to your information
+ from the Change Request page on 2/3/2000:
+ 
+     change Confirmation email preference to "mail_internet"
+     change Fax to "713 646 3490"
+     change Confirm external changes to "yes"
+ 
+ If you want these changes made to your information,
+ simply reply to this message.  (Don't change the subject line.)
+ 
+ If you don't want these changes, throw this message away.
+ 
+ We're sorry, but  are reading this in  Please set your Confirmation email preference on the Change page to
+ Internet until you have Lotus Notes installed on your PC.
+ 

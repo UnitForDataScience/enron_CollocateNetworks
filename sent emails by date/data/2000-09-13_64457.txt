@@ -1,0 +1,18 @@
+
+ 
+ Cooper-
+ 
+ Here is the list of the hour ahead scheduled flows:
+ 
+ Generation: Load:  Imp/Exp:
+ Humb  Humb  COI_BG
+ NP15  NP15  El Dorado
+ SF  SF  Mead
+ SP15  SP15  PV
+ ZP26  ZP26  Path 15
+ 
+ 
+ If we can get the data starting 9/1/2000 that would be great.  Thanks again 
+ for your help.  I hope this isn't too much trouble.
+ 
+ Matt

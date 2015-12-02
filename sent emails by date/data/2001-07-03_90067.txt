@@ -1,0 +1,32 @@
+
+ 
+ Looks good.
+ 
+  
+     
+ Kevin and Rogers,
+ 
+ Pursuant to our brief conversations today regarding RAC's Market Risk Group involvement with EES, I have put together an org chart and a list of activities we are currently engaged in. A great deal of these activities are expectations of Rick Buy, however, many of them may be consistent with your expectations.
+ 
+ People:
+ Vlady Gorny		Overall responsibility
+ LaCrecia Davenport	EES East
+ Minal Dalia		EES West (in Portland)
+ Darin Schmidt		EES Deal Review
+ Scott Vonderhide	Contract Review (full-time)
+ 
+    *all of the above individuals participate in the contract review on a part-time basis
+ 
+ Activities:
+ - Daily review and analysis of positions, P&L, VaR and Component VaR
+ - Review and evaluation of new deals
+ - Periodic review of curves
+ - Stress tests by region (NY, Illinois, etc.)
+ - Periodically review and analyze EES models
+ - Development of risk metrics for EES (regulatory, EAM, etc.)
+ - Ad-hoc analysis and projects (DASRing, CA issues, etc.)
+ - Consulting on risk management framework development
+ - Coordination between underwriting, structuring, RM and corporate RM
+ - Facilitate limit infrastructure
+ - Administer and ensure compliance with the Enron Corp. Risk Management Policy
+ 

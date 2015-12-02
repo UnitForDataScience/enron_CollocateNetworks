@@ -1,0 +1,30 @@
+
+ 
+ I do not know my password or user id.
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ This request has been pending your approval for  2 days.  Please click 
+ http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000005721&Page=
+ Approval to review and act upon this request.
+ 
+ 
+ 
+ 
+ 
+ Request ID          : 000000000005721
+ Request Create Date : 10/25/00 2:55:06 PM
+
+ Resource Name       : EOL US NatGas NatGas Book to Book (Website)
+ Resource Type       : Applications
+ 
+ 
+ 
+ 
+ 

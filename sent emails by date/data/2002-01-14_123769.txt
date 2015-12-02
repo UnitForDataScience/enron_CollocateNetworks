@@ -1,0 +1,39 @@
+
+ 
+
+ 
+
+ Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+
+
+ X- X- X- X-b X-Folder: \ExMerge - White, Stacey W.\Sent Items
+ X-Origin: WHITE-S
+ X-FileName: stacy white 7-15-02.PST
+ 
+ If you have not already done so, please send instructions to users (or IT support) to update machines in Portland.
+ 
+ Thanks,
+ Stacey		
+ 
+  
+    Cc:	Lee, Norman
+  Importance:	High
+ 
+ Dear all,
+ 
+ Current Power Oracle production database has been retired. All Excel applications that directly involve with power database for "New ESTATE Alias" have been modified. Also, most of all PCs setting have been updated. Donnie's PCs setting will be updated on Monday.
+ 
+ All those Excel applications infortrmation are in attached.
+ 
+ Please let us know if there is any problem or need more information.
+ 
+ Thanks!
+ 
+ Min Zheng
+ 
+ 
+  << File: LatestEastApplicationForNewESTATEAlias.xls >> 
+ 
+ 
+  

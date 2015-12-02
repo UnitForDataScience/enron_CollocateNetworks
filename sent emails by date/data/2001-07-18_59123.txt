@@ -1,0 +1,106 @@
+
+ 
+ OK with you?
+ 
+     
+ Diane,
+ 
+ Renee Kelso  is requesting access to the below role(s) and its pending your approval.  Please email your response to SAP Security.  If you have any questions, please let me know.
+ 
+ HUMAN RESOURCES - PAYROLL (PAYROLL PERSONNEL ONLY):
+    1. Add HR Processing Payroll 
+    2. Add HR Processing Payroll Taxes 
+    3. Add HR Tax Administration 
+ 
+ 
+ User's Current Access:
+ HR View Payroll and Time Information - CORPORATE
+ HR Benefits View - CORPORATE
+ HR Basic Data View for HR Master Data - Enterprise
+ Master Data Administrator - Enterprise
+ HR Organizational Management - Enterprise
+ HR ESS Employee - Enterprise
+ Standard end user profile for basis and printing
+ 
+ Thank you,
+ Kim Shirley
+ ISC SAP Security
+ 
+ 
+ 
+ 
+ 
+  
+
+
+  
+  
+ The following request information was recently submitted...
+ 
+ REQUESTOR INFORMATION:
+ 
+    Business Unit:                CORP
+    Cost Center:                  100013
+    Company Code:                 0011
+    Business Unit for Roles:      CORP
+    SAP ID:                       501234
+ 
+ GENERAL INFORMATION:
+ 
+    Supervisor:                   Shawn Simon
+    Supervisor Telephone Number:  713-345-7618
+    Employee Name (Last,First,M): Kelso, Michelle
+    Employee Location:            EB1658b
+    Employee Telephone Number:    39650
+
+    Job Title:                    HR Admin
+    SAP User Type:                Enron Employee
+ 
+    Business Reason:              
+    We need this asap.
+    
+    Renee will be processing taxes in the Payroll Department.
+     These access will give her the information to perform
+    her job function.
+ 
+ VIEWER ROLES:
+    No roles in this area were selected.
+ 
+ FINANCIAL ACCOUNTING ROLES:
+    No roles in this area were selected.
+ 
+ PROJECT SYSTEM ROLES:
+    No roles in this area were selected.
+ 
+ JOINT VENTURE ROLES:
+    No roles in this area were selected.
+ 
+ MATERIALS MANAGEMENT / PURCHASING ROLES:
+    No roles in this area were selected.
+ 
+ CENTRALIZED ROLES (LIMITED TO SPECIFIC PERSONNEL):
+    No roles in this area were selected.
+ 
+ HUMAN RESOURCES (HR PERSONNEL ONLY):
+    No roles in this area were selected.
+ 
+ HUMAN RESOURCES - TIMEKEEPERS:
+    No roles in this area were selected.
+ 
+ HUMAN RESOURCES - BENEFITS (BENEFITS PERSONNEL ONLY):
+    No roles in this area were selected.
+ 
+ HUMAN RESOURCES - PAYROLL (PAYROLL PERSONNEL ONLY):
+    1. Add HR Processing Payroll 
+    2. Add HR Processing Payroll Taxes 
+    3. Add HR Tax Administration 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <Embedded Picture (Device Independent Bitmap)>

@@ -1,0 +1,31 @@
+
+ 
+ 
+    
+ 	
+ 	
+ 	 	
+ 
+
+
+
+
+
+
+
+  
+ I just received a directive to obtain a list of the name of each file that is 
+ saved to a disk.  For example:
+ 
+ H / Gas Risk / Firm Trading / Spreadsheet / Y2K
+ H / Gas Risk / Firm Trading / West / Gas Daily Deals
+ H / Gas Risk / Firm Trading / East / Basis Curves
+ 
+ etc .....
+ 
+ Please provide this list to us when you come to 3084 to save your files.
+ 
+ Thanks!
+ 
+ WK
+ 

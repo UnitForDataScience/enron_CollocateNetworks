@@ -1,0 +1,67 @@
+
+ 
+ Thanks.  This is exactly what I wanted.
+ John
+ 
+ 
+    
+ 	Enron North America Corp.
+ 	
+
+ 	
+ 
+
+
+  
+ John, the matrix that was sent to you includes YTD P&L for all the traders in 
+ the matrix.  Trader P&L contribution to desk P&L, however, was not backed out 
+ on that particular matrix.  That matrix effectively shows one trader's 
+ correlation to all others.  What is does not show is one trader's P&L to the 
+ desk P&L.  I have included a spreadsheet with each trader's P&L backed out of 
+ AGG-GAS P&L to demonstrate their relationship.  Please call Frank or myself 
+ if you have questions.  Thanks.
+ 
+ 
+ 
+ 
+    
+ 	
+ 	
+ 	 	
+ 
+
+  
+  
+ questions and answers?
+ 
+ 
+ 
+
+ 09/19/2000 05:33 PM
+
+  
+  
+ Thx for the spreadsheet.   2 questions : What time frame does this entail and 
+ does the correlation between the trader and AGG GAS include that trader's 
+ contribution to the floor's P&L.  In other words, is my P&L correlated with 
+ the floor or is it correlated to the rest of the floor absent me?
+ 
+ 
+    
+ 	Enron North America Corp.
+ 	
+
+ 	
+ 
+
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

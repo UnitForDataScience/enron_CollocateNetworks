@@ -1,0 +1,52 @@
+
+ 
+ Brace yourself.  I'm putting in the June charge of $6.26 !!!  I just got the 
+ invoice today.
+ 
+ 
+ 
+ 
+ Sherry Anastas
+ 07/14/2000 01:03 PM
+
+   
+ Chris, 
+ 
+ I sent a check to KO Transmission for Monday, 7/20 for $71.19.  This amount 
+ covers 2/00 - 5/00 production.
+ 
+ Sherry
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chris Germany
+ 07/11/2000 12:19 PM
+
+
+
+
+
+   
+ I made the following changes so we can track and pay the KO Transmission 
+ invoice.  I terminated deal 236178 (CGAS k#60094) effective 6/30/2000.  I 
+ believe Joann has been using this deal to path the KO Transmission activity.  
+ I created deal 327869 effective 2/1/2000 - this is a CGAS contract with KO 
+ Transmission as the service provider.  We will still do the noms via CGAS on 
+ this contract.  However, we will pay KO Transmission for the transport 
+ expense.
+ 
+ 
+ According to KO, we have not paid our Feb - May invoices.  I set these 
+ charges up on deal 327869 as demand charges.  The amount are small.  
+ Beginning with July, we will reflect a usage charge on deal 327869.
+ 
+ Questions??
+ 
+ 
+ 
+ 

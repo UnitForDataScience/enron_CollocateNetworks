@@ -1,0 +1,11 @@
+
+ 
+ 
+ Tim
+ 
+ You will get stopped out.  I talked to David Port today because last year we spent a lot of time cleaning up gas var and now we must spend the time fixing power var.  However, until its fixed I have no choice but to use the reported numbers.
+   would have to move in excess of $100/MWh.  i might add that we are short q4 which i'm not giving us any credit for as an offset. 
+ 
+ i understand that there is a lot of risk on our books.  i just don't think that it is as much as the var model is spitting out.  wierd things happen in the var model and option valuation models due to the interaction of the blending formula on the volatility and the correlations as we approach delivery.  we see the same thing with option valuations.  we see option model valuations (e.g., transmission spread options) going through the roof when they are trading for fractions of our model valuations in reality.  similarly, the var model valuations move up really fast as the summer approaches.
+ 
+ bottom line.  i need to know what you want us to do.  we are chewing up a lot of var.  if we are going to get stopped out i need to know now.  i think that it would be a shame to close out of a largely spread position that wouldn't necessarily have any practical impact on our real profitability but would make the "model" happy.

@@ -1,0 +1,25 @@
+
+ 
+ 
+ 
+ 
+
+
+
+  
+ 
+ Attached is the final report on data warehousing.  If you have any
+ questions, please feel free to call.  If you need a hard copy, let me know
+ and I will put it in the mail tomorrow.
+ 
+ Edd
+ 
+  <<enron_warehousing_report_cover_letter.doc>>
+ <<enron_data_warehousing_final_report_cover_page.doc>>
+ <<enron_data_warehousing_final_report.doc>>
+ 
+  - enron_warehousing_report_cover_letter.doc
+  - enron_data_warehousing_final_report_cover_page.doc
+  - enron_data_warehousing_final_report.doc
+ 
+ 

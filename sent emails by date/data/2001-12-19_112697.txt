@@ -1,0 +1,25 @@
+
+ 
+ How do I take care of this?
+ 
+ Jim
+ 
+  
+
+  
+ 
+ This request has been pending approval for  2 days and you are the alternate.  Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000079553&Page=Approval to review and act upon this request.
+ 
+ 
+ 
+ 
+ 
+ Request ID          : 000000000079553
+
+ Request Create Date : 12/17/01 5:28:48 PM
+
+ Resource Name       : eConnect - VPN  Tier 2 - Full Access
+ Resource Type       : Applications
+ 
+ 
+ 

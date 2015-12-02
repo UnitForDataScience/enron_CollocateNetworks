@@ -1,0 +1,31 @@
+
+ 
+ 
+    
+ 	
+ 	
+ 	 	
+ 
+
+   
+ Colleen,
+ 
+ Mark wanted me to let you know where a few city gate points are settling 
+ daily:
+ 
+ CNG North City Gate = GD CNG North +.16
+ CNG South City Gate = Settles at what the intra-month trader sets their 
+ intra-month curve at.
+ TECO Citygate = GD CGT/App +.10
+ 
+ Please note that CNG North City and TECO City settle prices come in at a one 
+ day lag.  After we receive gas daily settles, we reload prices for any 
+ derived curves.
+ If you have any questions please let me know.
+ 
+ David
+ x3-4231
+ 
+ 
+ 
+ 

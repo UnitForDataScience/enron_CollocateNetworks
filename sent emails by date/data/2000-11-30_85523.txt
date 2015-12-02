@@ -1,0 +1,5 @@
+
+ 
+ The attached redline document includes the various language changes we 
+ discussed today and some other small changes.  These are in addition to the 
+ action items that EES was going to pursue.  

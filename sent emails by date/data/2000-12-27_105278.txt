@@ -1,0 +1,57 @@
+
+ 
+ Friday,  11/22/00 was an Exchange holiday.  "Preceding" is fine as the 
+ business day convention as long as the change is made in all of the relevant 
+ swaps.  SS
+ 
+ 
+ 
+ 	Greg Johnston
+ 	12/27/2000 09:00 AM
+ 		 
+
+
+ 		  
+ Sara, I assume that the below is okay.  Can you let me know if you have dealt 
+ with this, as I have been out of the office until today.
+ 
+ Thanks
+ 
+ Greg
+ 
+ 
+ 
+
+
+
+
+   
+ 
+ 
+ 
+ I am not sure which of you handles the commodity swaps so I am sending this 
+ to all of you.? The final Pricing Date for the Commodity Swap (your reference 
+ Q19197) is today and we noticed a discrepancy in the swap we have with you 
+ and the one with Chase.? In our Chase swap we specified that the Pricing 
+ Dates for Floating Price are each Friday in the Calculation Period subject to 
+ adjustment in accordance with the Preceding Business Day Convention.? No 
+ Business Day Convention was specified in the swap we have with you and it 
+ will be an issue as US Thanksgiving in November was on a Friday.? Since the 
+ Floating Payments we make to Chase (which flow back to you) need to match the 
+ payments you give to us, we need to amend our swap with you to specify 
+ Preceding Business Day Convention.? Can you let me know if this is acceptable 
+ and I will prepare an amendment or please call me to discuss.
+ 
+ Thanks 
+ 
+ Tracy Ross, Counsel, Royal Bank of Canada
+ Phone: 416-974-5503; Fax: 416-974-2217
+ File - SW Enron 
+ 
+ This email may be privileged and confidential.? 
+ Any dissemination or use of this information by a person other than the 
+ intended recipient(s) is unauthorized.? If you receive this in error, please 
+ advise me immediately.
+ 
+ 
+ 

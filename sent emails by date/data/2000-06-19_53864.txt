@@ -1,0 +1,54 @@
+
+ 
+ John,
+ 
+ It seems to me that using a risk-free rate is not appropriate. I shall 
+ elaborate on my 
+ position and send you a longer message this afternoon (my time).
+ 
+ Vince
+ 
+ 
+ 
+    
+ 	Enron Capital & Trade Resources Corp. - Europe
+ 	
+ 	 	
+ 
+
+
+  
+ Vince,
+ 
+ John Sherriff recommended that I contact you regarding an interesting (and 
+ potentially contentious) option valuation issue we are currently dealing with 
+ in London.  We hold longish term options in a private company in Turkey which 
+ is currently seeking to IPO.  The issue we are discussing with RAC is which 
+ discount rate (i.e., risk-free? and if so Turkish or US?) should we use to 
+ value these options
+ 
+ First, some additional information.
+ 
+ Option characteristics:
+  In the simulated cases where the options are out-of-the-money, we 
+ obviously do not exercise.
+ 
+ We understand that for Black-Scholes option valuation, one needs to be able 
+ to construct a comparable portfolio of cash flows using equity futures and 
+ the risk free in order for the valuation to hold.  And here is where we reach 
+ our difficulty:  since the company doesn't currently trade on a public market 
+ and since equity futures do not exist for Turkish equities, RAC is arguing 
+ that a US risk free is not appropriate to use.  Our argument is that the 
+ non-IPO scenario, a 30% illiquidity discount and a US$ based option 
+ volatility are already in the factored into the simulation.  As such, we feel 
+ RAC's approach is double counting.
+ 
+ If you managed to get through the above, your a patient man!  I'll give you a 
+ call today or tomorrow after you've had a chance to digest the information.
+ 
+ Regards,
+ John Bottomley
+   
+ 
+ 
+ 

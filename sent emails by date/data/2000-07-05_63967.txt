@@ -1,0 +1,37 @@
+
+ 
+  
+ I'd leave those out until we see some plausible data reported. Also, we don't 
+ use data from plants where better numbers are available from other sources, 
+ e.g. most Pacific Northwest federal hydro.
+ 
+ Also, are you doing anything to filter out bad hours? There are intermittent 
+ periods where series of zeros or series of identical readings are erroneously 
+ reported due to telemetry failures. If you're computing totals or averages 
+ from the WSCC data that are consistently smaller than known, accurate 
+ reports, then this might be the cause.
+ 
+ Tim
+ 
+ 
+ 
+ 
+ Matthew Lenhart
+ 07/05/2000 01:59 PM
+
+
+  
+  
+ Enclosed is a copy of the generation reports we put together using your 
+ generation database.  Please look them over and make sure that they are in 
+ the correct order an make sense.  Some of the monthly averages in the report 
+ do not match the CEMS database number.  I wanted to know if I should fill in 
+ the historicals with the CEMS numbers or keep these.  If you could just look 
+ these over and let me know if they make sense I would appriciate it.
+ 
+ Matt Lenhart
+ 
+  
+ 
+ 
+ 

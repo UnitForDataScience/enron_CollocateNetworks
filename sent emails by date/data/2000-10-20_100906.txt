@@ -1,0 +1,52 @@
+
+ 
+ 
+
+
+   
+ Hi there !
+ 
+ For any new requests, a request must be submitted through the GCP Change 
+ Request System.  In the meantime, please email us the information and fax any 
+ supporting documentation you may have.
+ 
+ To receive access to the GCP Change Request System, each user must submit a 
+ SRRS request with the following instructions.    Once access has been 
+ completed, double click this doclink     to add the dbase to your 
+ workspace.     PLEASE DO NOT DELETE THIS EMAIL MESSAGE !!! 
+ 
+ If you need me to give you an overview of the system, please call me.
+ 
+ Thanks
+ Bernice
+ x37972
+ 
+ 1. Open the Lotus Notes ECT Security Resource Request System (SRRS) data base.
+ 	 SRRS => 
+ 2. Compose a new security request.	
+ 3. Follow the instructions on the request form.  Include the following 
+ information specific to requesting access to the GCP Request data base.
+ 
+          a. In the "Submitted For" field, list the name of the person whom 
+ access is being requested for. 
+ 
+          b. Enter the RC and Company #  for the "Submitted For" person.
+ 
+          c. In the Comments/Justification field, enter the following text:  
+ "Please add the following employees to the  "ECT GCP Customers" group to 
+ grant editor access to the ECT GCP Request Data Base on LN_1;  enter the list 
+ of employee names here. 
+ 	
+ 4. Click the Create button. 
+ 	  
+ 5. In the dialog box, select "Applications/Database".
+ 	
+ 6. Select "Unlisted Lotus Notes Application" from the drop down list for 
+ Application name in the Application Data Base Dialog Box.   Click OK to close 
+ the dialog box.   (No other information  needs to be added to the  dialog 
+ box.) 
+ 	
+ 7. Click the Submit Request button.	  
+ 
+ 
+ 

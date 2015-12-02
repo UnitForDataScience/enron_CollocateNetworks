@@ -1,0 +1,51 @@
+
+ 
+ 
+ 
+ 
+
+ 
+ Issue#1)
+ 
+ It is not the physical microphone that is having the problem.  The microphone 
+ volume on the software declines as the speaker talks.
+ 
+
+
+
+  
+ 
+ Hunter,
+ 
+ Please see comments below....
+ 
+ >
+ > 1) When some of the members of the chat room begin to talk, their
+ > microphone
+ > volume starts to trail off.
+ >
+ 
+ Does this happen using different microphones?
+ Brent: Can you swap the mic of an affected user and see if this persists?
+ 
+ 
+ 
+ > 2) Many of the users use the ctrl button in their daily
+ > activities.  The talk
+ > button needs to be changed to an F# key.
+ >
+ 
+ I forwarded this request to our Product Marketing group. We have had this
+ request from other users as well. I will keep you updated on the response.
+ 
+ 
+ > 3) We have trouble with latency.
+ >
+ 
+ I spoke with Brent briefly a few moments ago and suggested changing the
+ jitter buffer value to 1. If the speech becomes choppy then we will have to
+ revert to 2 and put in a sniffer on the route to see if there is anything
+ hardware-wise that may be affecting the data throughput.
+ 
+ Darshan.
+ 

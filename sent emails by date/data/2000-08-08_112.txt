@@ -1,0 +1,37 @@
+
+ 
+ Ina,
+  I keep getting these security requests that I cannot approve.  Please take 
+ care of this.
+ 
+ Phillip
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ Please review and act upon this request. You have received this email because 
+ the requester specified you as their Manager. Please click 
+ http://itcApps.corp.enron.com/srrs/Approve/Detail.asp?ID=000000000001282&Email
+
+ 
+ 
+ 
+ 
+ Request ID          : 000000000001282
+ Request Create Date : 8/8/00 9:15:59 AM
+
+ Resource Name       : Market Data Telerate Basic Energy
+ Resource Type       : Applications
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,6 @@
+
+ 
+  Connection-specific DNS Suffix  . : corp.enron.com
+  IP Address. . . . . . . . . . . . : 172.28.228.37
+  Subnet Mask . . . . . . . . . . . : 255.255.254.0
+  Default Gateway . . . . . . . . . : 172.28.228.1

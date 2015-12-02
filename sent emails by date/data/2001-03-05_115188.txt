@@ -1,0 +1,10 @@
+
+ 
+ Please note:
+ 
+ Dow Jones and fixed price sales will now be depicted as positive numbers; 
+ positive variance indicates EES long position; negative variance indicates 
+ EES short position. Call me with questions.
+ 
+ Kate Symes
+ 503-464-7486

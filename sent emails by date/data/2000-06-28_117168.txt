@@ -1,0 +1,24 @@
+
+ 
+ Will the Reuters feed contain a time stamp?  Some other sites let you know 
+ what  time the trade was done that resulted in the quote. 
+ 
+ 
+ 
+ 	James Bruce
+ 	06/28/2000 08:03 AM
+ 		 
+
+ 		  		  
+ 
+ Dear Mark
+ 
+ Do you know of any legal issue that there could be about adding our own time 
+ stamp to a stock quote from Reuters (so that people viewing the site would 
+ know when the stock quotes were last updated by us)?
+ 
+ Let me know if I should direct this question to someone else.
+ 
+ Thanks Mark
+ 
+ Jay

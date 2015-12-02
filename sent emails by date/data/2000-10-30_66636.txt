@@ -1,0 +1,24 @@
+
+ 
+ FYI...
+ 
+ 
+ 
+ Meiling Chen
+ 10/19/2000 09:42 AM
+
+  
+  
+ 
+ Yesterday's meeting concluded that real time fuel project should use socket 
+ to communicate
+ wtih SCADA to be in sync with other real time application in the group. 
+ Steve Littel sent his VB codes to me and I am working on it.
+ 
+ I asked Joe Zhou about TW Deal Analysis on Window 2000.  He said there should 
+ be no problem.
+ Window 2000 should have IE 5.0 features.
+ 
+ Mei-Ling
+ 
+ 

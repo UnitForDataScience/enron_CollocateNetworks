@@ -1,0 +1,8 @@
+
+ 
+ Automatic Termination Provision:
+ 
+ If the legal opinion required to be delivered by Counterparty pursuant to 
+ Part 3 of the Schedule to the Agreement is not delivered to ENA by December 
+ 29, 1999, then this Transaction shall automatically terminate on December 29, 
+ 1999 without further action or payment required by either party.

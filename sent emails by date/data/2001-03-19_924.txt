@@ -1,0 +1,34 @@
+
+ 
+ Ina,
+ 
+ Can you help me approve this request?
+ 
+ Phillip
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ This request has been pending your approval for  9 days.  Please click 
+ http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000021442&Page=
+ Approval to review and act upon this request.
+ 
+ 
+ 
+ 
+ 
+ Request ID          : 000000000021442
+ Request Create Date : 3/2/01 8:27:00 AM
+
+ Resource Name       : Market Data Bloomberg
+ Resource Type       : Applications
+ 
+ 
+ 
+ 
+ 

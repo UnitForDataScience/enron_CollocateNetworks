@@ -1,0 +1,27 @@
+
+ 
+ Tommy, I see you didn't approve my access for AEP which is fine.  I only need access to all the Estate desks and I just asked Daniel to give me everything because I don't know where the deals are for the other desk.  I didn't know if the Central Desk deals are under Central Desk or one of their many other books.  I think I just need Central, East, West, and Texas.
+ 
+ But, maybe you can help.  My request for the Central Desk needs Darron Giron's approval and he's not in the People Finder.  So he's either at UBS or he left the company.  Do you know who I should be approving that now?
+ 
+ Thanks
+ 
+  
+
+    
+ This resource request has been rejected. You can view the details of the  request by clicking http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000083213&Page=MyReq.
+ 
+ 
+ 
+ 
+ Request ID          : 000000000083213
+ Approver Type       : Data
+
+ Comments            : Chris should have access to Enron Estate portfolios only.  He should not need access to any AEP portfolios.
+ Request Create Date : 2/20/02 3:28:38 PM
+
+ Resource Name       : Sitara Houston Production AEP Edit Trader
+ Resource Type       : Applications
+ 
+ 
+ 

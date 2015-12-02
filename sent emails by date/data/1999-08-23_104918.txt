@@ -1,0 +1,32 @@
+
+ 
+ Can Brent handle this himself?
+ 
+ 
+ 
+
+ 08/20/99 10:16 AM
+
+
+  
+ I believe that I am still authorized to have access to the database.  I think 
+ the problem is that I am on an EI server that is not connected to the ECT 
+ server where the database resides.  Thanks.  
+ 
+ 
+ 
+
+ 20/08/99 04:03 PM
+
+
+
+  
+ Joya - Please submit a security request for Brendt Hendry in Argentina to 
+ have access to the NEW Master Swap Agreements database in Lotus Notes.
+ 
+ Thanks,
+ 
+ Kaye
+ 
+ 
+ 

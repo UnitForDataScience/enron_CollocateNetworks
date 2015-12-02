@@ -1,0 +1,31 @@
+
+ 
+ what is this approval for?
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ You have received this email because you are listed as a security approver. 
+ Please click 
+ http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000006834&Page=
+ Approval to review and act upon this request.
+ 
+ 
+ 
+ 
+ Request ID          : 000000000006834
+ Request Create Date : 11/7/00 4:33:47 PM
+
+ Resource Name       : ICE - External Intercontinental Exchange US Natural Gas
+ Resource Type       : Applications
+ 
+ 
+ 
+ 
+ 
+ 

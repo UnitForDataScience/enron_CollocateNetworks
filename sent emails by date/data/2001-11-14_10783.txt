@@ -1,0 +1,9 @@
+
+ 
+ 	Mike, let me know what kind of feed back you get.  Thanks. Lynn
+ 
+  
+    Cc:	Miller, Kent; Blair, Lynn; Buchanan, John; Kowalke, Terry; Wilkens, Jerry; January, Steve
+  
+ It has come to my attention that changing the operational storage capacity between the Evening process and the NonGrid process can be unduly problematic for customers because most of the pipelines that interconnect with NNG do not recognize the NonGrid process. Such changes can lead to EPSQ issues during the ID1 process when shipper quantities cut during the NonGrid storage allocation end up being less than the EPSQ calculated for ID1. The differences that result will most probably end up as shipper imbalances on NNG. 
+ For this reason, it is strongly recommended that operational storage capacity not be changed between the Evening and the NonGrid processes in the future. 

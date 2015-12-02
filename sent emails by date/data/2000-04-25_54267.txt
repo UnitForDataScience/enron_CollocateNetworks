@@ -1,0 +1,102 @@
+
+ 
+ Steve,
+ 
+ How are the discussions with RISK about an article progressing?
+ 
+ Vince
+ 
+ 
+ 
+ 
+ 
+ Steven Leppard
+ 04/25/2000 05:07 AM
+
+
+  
+ Lenos
+ 
+ I'd like to give a talk entitled "Diagrammatic Representation of Real Optio=
+ ns=20
+ in Enron", in which I will give a brief run-down of a diagrammatic techniqu=
+ e=20
+ I have developed for representing real option deals.  My notation allows=20
+ originators, managers and quants to communicate unambiguously, while still=
+ =20
+ appreciating the complexity and subtlety of real optionality.  I have defin=
+ ed=20
+ a "diagrammatic grammar" which guarantees that the pricing of the deal=20
+ follows immediately and automatically from the diagram.
+ 
+ I propose to introduce the symbols and grammar, then go on to present some=
+ =20
+ suitable examples of diagrams.  If appropriate I'll talk about the links wi=
+ th=20
+ dynamic programming.  (I will need some guidance as to how much technical=
+ =20
+ detail I can go into based on the audience.)
+ 
+ All the best,
+ Steve
+ 
+ 
+   =20
+ =09Enron Capital & Trade Resources Corp.
+ =09
+
+ 04/20/2000 08:45 PM
+ =09
+ 
+
+
+ 
+  
+ 
+ Steve
+ 
+ thanks for agreeing to talk. I attach the program to see the other speakers
+ and style (it is addressed to a professional autience)
+ 
+ Please give me a suitable title for the talk (replacing Kaminski=01%s slot =
+ on
+ July 6/Energy session) and the details of your position
+ 
+ Thanks
+ 
+ Lenos
+ 
+ At 05:01 __ 04/20/00 +0100, Steven Leppard wrote:
+ >
+ >
+ >Dear Prof Trigeorgis
+ >
+ >Vince Kaminski has suggested that I would be a suitable speaker at your Ju=
+ ly
+ >conference in Cambridge, and I'd be happy to come along if required.  Plea=
+ se
+ >could you send me appropriate details, and the audience type expected.
+ >
+ >Many thanks.
+ >
+ >Yours sincerely,
+ >Steve Leppard
+ >
+ >
+ >
+ >
+  - 4thconfsessions.doc
+ 
+ Lenos Trigeorgis
+ Professor of Finance
+ University of Cyprus
+ Dept of Business
+ 75 Kallipoleos, PO Box 20537
+ CY 1678 Nicosia CYPRUS
+ 
+ Tel: +357 2 892261
+ Fax:        339063
+ 
+ 
+ 
+ 

@@ -1,0 +1,5 @@
+
+ 
+ We have added the new One Way, Cash and Letter of Credit Collateral Annex to 
+ the back of the Industrial Master.  It is still located in my form directory, 
+ called industrial-u.s.#5.doc.

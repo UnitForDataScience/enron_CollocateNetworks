@@ -1,0 +1,14 @@
+
+ 
+ 
+ 
+  
+     
+ Vince,
+ here is why Analytical Var does not work for non-normal variables.
+ 
+ Rakesh reviewed this argument as well.
+ 
+ Tanya
+ 
+  

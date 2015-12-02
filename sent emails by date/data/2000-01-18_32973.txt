@@ -1,0 +1,19 @@
+
+ 
+ Please set up the following CGAS contracts.  Please note; ENA is agent for CES
+ 
+ Pipeline CGAS
+ Contract 64031
+ Firmness IT
+ Service Type Storage Service
+ Rate  ISS
+ Term Type Term
+ Eff Date  1/1/2000 - 1/31/2000  Evergreen
+ 
+ Pipeline CGAS
+ Contract 64041
+ Firmness IT
+ Service Type Storage Service
+ Rate  ISS
+ Term Type Term
+ Eff Date  1/1/2000 - 1/31/2000  Evergreen

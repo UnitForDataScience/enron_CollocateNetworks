@@ -1,0 +1,60 @@
+
+ 
+ Testing was done in the test database; however, once they released the new 
+ version of deal entry into production, they tested one more time to make sure 
+ that the new fields were pulling into our scheduling reports. It was a 
+ precautionary measure taken so that we wouldn't enter deals all day long only 
+ to find out that they wouldn't show up in the Enpower to CAPS report at the 
+ end of the day. Sorry for the confusion.
+ 
+ Kate
+ 
+ 
+ 
+ 
+
+ 03/09/2001 10:34 AM
+
+  
+  
+ 
+ Hi Kate, 
+ 
+ Can you please let Phil know that he should be testing deals in the enpower 
+ test database not the actual system.  
+ 
+ Thanks
+ 
+ 
+ 
+
+ 
+
+  
+  
+ This was just a practice deal entered by Phil yesterday to test our new 
+ version of deal entry. He zeroed out the volume, but neglected to kill the 
+ deal or at least change it to no confirm. So this is NOT a good deal - I'm 
+ killing it now.
+ 
+ Thanks,
+ Kate
+ 
+ 
+ 
+
+ 03/09/2001 09:46 AM
+
+  
+  
+ Kate can you ask Phil Platter is Dane Energy Corp the correct broker on this 
+ deal?
+ 
+ Thanks
+ 
+ 
+ 
+ 
+ 
+ 
+ 

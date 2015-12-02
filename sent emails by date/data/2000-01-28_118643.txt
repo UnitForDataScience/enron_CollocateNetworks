@@ -1,0 +1,12 @@
+
+ 
+ We have asked the EnronOnline team to send the Master User ID and Password to 
+ the person who signed the PA.  Our theory was that the signer presumably has 
+ the authority to bind the counterparty and understands that any holder of the 
+ password can also bind the counterparty.  If they want to give it to someone 
+ else, so be it.  But we should not be taking it upon ourselves to send the 
+ password to someone else unless we have conducted the same level of due 
+ diligence on that name as we have on the PA signer.  I was told we were not 
+ looking into the authority of the "nominated" Master Users inn any way but 
+ that we were taking some steps to verify the authority of the PA signers.  It 
+ just seemed safer to me to take this approach.

@@ -1,0 +1,7 @@
+
+ 
+ Per Mark's request, can we rename the headings on two charts with our gross 
+ numbers to match my list:  "Net long or short position in all months 
+ combined" should be the net of our aggregate position, and "Gross Long or 
+ Short Position" should be our gross position on either side of the market, 
+ with the positions not netted out.

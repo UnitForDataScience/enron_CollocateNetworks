@@ -1,0 +1,15 @@
+
+ 
+ 
+ 
+     
+ Could you please run regression analysis on some data in this worksheet.  The two data arrays are on the "Daily" tab in column C and on the "Temperature" tab in column F.
+ 
+ Thank you,
+ 
+ Jay Reitmeyer
+ 33536
+ 
+  << File: daily usage values2.xls >> 
+ 
+ 

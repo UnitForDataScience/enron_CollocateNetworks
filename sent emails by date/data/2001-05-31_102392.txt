@@ -1,0 +1,20 @@
+
+ 
+ I've never run that file since it was split out, but my guess is you need to add any prior month adjustments and broker fees to today's file.  Tomorrow you will want to roll the file over to the new month...Errol should be able to help you with that.  Make sure you also follow the Liquidation instructions for the gas daily post-id's...you can find them on that color coded sheet George has.
+ 
+ Swing by if you need anything else.
+ 
+ Susan
+ 
+  
+
+ 
+  
+ Susan,
+ 
+ Do you think you could stop by George's desk this afternoon when you
+ have a free moment. We need a little help as it is end of month!
+ 
+ Thanks,
+ 
+ Sean

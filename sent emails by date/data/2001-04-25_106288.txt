@@ -1,0 +1,24 @@
+
+ 
+ Sara Shackleton
+ Enron North America Corp.
+ 1400 Smith Street, EB 3801a
+ Houston, Texas  77002
+ 713-853-5620 (phone)
+ 713-646-3490 (fax)
+
+ 
+ 
+ 	Melissa Ann Murphy
+ 	04/25/2001 05:08 PM
+ 		 
+
+ 		  		  
+ 
+ 
+ Hello, I noticed on this example that Kim Hundl forgot to specify if the law 
+ was New York or Texas (the confirm still has both in brackets).  I will have 
+ her re-do the confirm.
+ 
+ Thanks,
+ Melissa

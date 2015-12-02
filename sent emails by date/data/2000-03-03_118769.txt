@@ -1,0 +1,50 @@
+
+ 
+ This looks good to me.  Thanks!
+ 
+ 
+ 
+ 
+ Edmund Cooper
+ 03/03/2000 12:55 PM
+
+   
+ Dear Mark,
+ 
+ Thanks for your thoughts and mark up.  I agree with the points that you 
+ make.  I've redone the definition which l think now covers the SP and BP 
+ amounts.  I've run it by Slaughter's and they are happy with it.  Let me know 
+ if you are and then we can knock it on the head!!
+ 
+ Best wishes, Edmund.
+ 
+ 
+ 
+ 
+    
+ 	
+ 	
+ 	 	
+ 
+
+  
+  
+ Edmund - 
+ 
+ I have reviewed the long descriptions I was given for the credit derivatives 
+ (I can't tell if they are current) and have substantial comments - I have 
+ attached what I have come up with (sorry it's in 2 pieces).  Basically I 
+ don't think we should be restating something in the Long Description that is 
+ already covered (sometimes with different language) in the GTC - this only 
+ creates an ambiguity and is not necessary to form a complete contract.  My 
+ other concern - and I have not been able to draft language to fix it - is 
+ that I can't find any definition of the Seller Payment amount and I don't 
+ think the Buyer Payment language works  -  can you give me a call so we can 
+ discuss my concerns?
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,21 @@
+
+ 
+ 
+ 
+ 
+
+   
+  
+ 
+ Your NYISO certificate application has been approved.
+ 
+ With the same computer and browser you used to make the application,
+ you can pick-up/install your new NYISO digital certificate at:
+ 
+ http://cert.nyiso.com/displayBySerial?op=displayBySerial&serialNumber=638
+ 
+ Please contact Market Relations if you experience any problem
+ either installing or using your new NYISO digital certificate.
+ 
+ 518-356-6060
+ 

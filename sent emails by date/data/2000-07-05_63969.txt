@@ -1,0 +1,4 @@
+
+ 
+ Are there certain plants where that have reliable generation numbers reported 
+ each time?  Should I just track these generators?

@@ -1,0 +1,27 @@
+
+ 
+ Iris,
+ 
+ Can you forward me the attachments to this message.
+ I cannot open them.
+ 
+ Vince
+ 
+ 
+   
+ Nigel; Golden, Sally; Fontaine, Jean-Sebastien; Gordon, Mike; Lee, Derek; 
+ Shanbhogue, Vasant; Dhar, Amitava; Mack, Iris; Salmon, Scott; Albanis, 
+ George; Valnek, Tomas; Vorster, Darren; Larsson, Petter
+  
+ The LIBOR and asset swap models are now live on the traders' desktops, so in 
+ order to aid your understanding and validation of them, here are the 
+ technical documents:
+ 
+  << File: LiveLIBOR.pdf >>  << File: AssetSwap.pdf >> 
+ 
+ Please read, and report back with any questions, criticisms or ideas. 
+ Feedback is the only way we'll ever progress forward......
+ 
+ thanks
+ 
+ Ben

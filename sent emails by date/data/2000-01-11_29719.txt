@@ -1,0 +1,22 @@
+
+ 
+ could ya'll comment on this please?  Thanks.
+ 
+ 
+ 
+ Mark L Schrab
+ 01/11/2000 04:58 PM
+
+
+   
+  Please forward to logistics in your region......
+ 
+ Would any of the desks be opposed to enabling Unify to default the 
+ Destination rankings to the same rankings that are created in the Source 
+ rankings.  There would still be the ability to change to ranking on the 
+ Destination side however, it would not  affect the rankings on the Source 
+ side.  This will save time pathing and prevent the amount of data entry 
+ errors.   Would you please forward comments to your manager.    Dave 
+ Nommenson is aware that some of us are interested in this and would like to 
+ find out if it would be something worth putting into production.
+ Thanks.

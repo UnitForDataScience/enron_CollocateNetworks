@@ -1,0 +1,22 @@
+
+ 
+ Thanks for your response.  My prior message to you was in error because I did 
+ enter the correct address.  For example, I can get to the screen that says 
+ "Documents" but when I click on one of the choices, I get a message that says 
+ "Netscape is unable to locate the server ei-sp-data01.  Please check the 
+ server name and try again."  Am I doing something wrong?  Should I simply 
+ call the Helpdesk here in Houston?  Thanks.  Sara
+ 
+ 
+ 
+ 
+
+ 07/19/99 02:13 PM
+
+   
+ Sara, the correct address is http://ei-sp-data01/regulatory      and not  
+ http://ei-sp-01/regulatory as you tried before.
+ If you can access Enron's intranet or extranet you are able to get in the 
+ site. Please let me know if you still have problems accessing it.  Thanks,  
+ Carlos Gustavo 
+ 

@@ -1,0 +1,55 @@
+
+ 
+ We will trade this product every day, but we aim to start trading it this bid 
+ week, if possible.
+ 
+ Eric
+ 
+ 
+ Dale Neuner   05/04/2000 01:41 PM
+ 
+
+
+   
+ Michael - can you give me an idea of where we are in uploading the Specs for 
+ this.
+ 
+ Eric, our biggest concern with this right now is the valuation for the 
+ Products that you would see in your Position Summary. We know that is we 
+ passed these trades through the system as a straight month-long transaction, 
+ that the valuation would be wrong. Additionally, the start and end dates will 
+ skue the valuation based on which day of the week the first calendar day of 
+ the month falls on and which day of the week the last calendar day of the 
+ month falls on. Using a straight 5/7 valuation methodology is only going to 
+ get you 'close' to true value in the Position Summary. Hence, the specs sent 
+ to Mike that you see in the e-mail below will need to be built.
+ 
+ In short, Eol was not set up to readily accept this valuation methodology. We 
+ will get you as close as we can, and we will give you some idea of how close 
+ these Position Values will be. 
+ 
+ Also, can you confirm that you intent to always and ONLY trade this Product 
+ during bid week? 
+ 
+ Dale
+ 
+ 
+ Dale Neuner   04/26/2000 03:44 PM
+ 
+
+
+  
+ We have finsihed creating and testing a the new 24x5 Nat Gas Product (a month 
+ long transaction which only moves gas Mon-Fri). A final question has come up 
+ - how will these be calculated. Jennifer is under the impression that 
+ something was being built in the EOL Position Summary Report that would be 
+ able to calculate these kinds of trades. Is that the case? Has that been done?
+ 
+ Dale
+ 
+ 
+ 
+ 
+ 
+ 
+ 

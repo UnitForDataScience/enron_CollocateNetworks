@@ -1,0 +1,23 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Slinger, Ryan\Sent Items
+ X-Origin: SLINGER-R
+ X-FileName: 
+ 
+ As the southwest heats up, or the ISO goes into stages of emergency, or path 15 is congested north to south we will want to get power from the northwest utilities down to APS and so on in the southwest.  We can do this many ways but one that I have discovered that may have much capacity is as follows.
+ 
+ 1.  NW Utility to PAC on BPA(T)
+
+
+
+ 5.  Sink with anyone at four corners or buy tranny over to palo or mead.
+ 
+ I'm not sure how long there is going to be room but for monday there is 400mw of room on this path.
+ 
+ 
+ Enjoy,
+ 
+ Slinger

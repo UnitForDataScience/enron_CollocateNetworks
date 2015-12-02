@@ -1,0 +1,25 @@
+
+ 
+ Physical Books
+ CENTRAL  483279  Gulf
+ CENTMIDSTH  826984  Midcon1
+ CENTMIDNTH  826985  Midcon2
+ CENTMKTMIC  773281  Market
+ CENTMKTCG  773283  Market2
+ CENTRLTRSP  483282  Transport
+ 
+ Gas Daily & Price/Basis/Index Books
+ INTRA-CENTRAL
+ INTRA-CNT-GULF
+ IM-CENT-MID
+ INTRA-CEN-MID2
+ INTRA-CNT-MKT
+ INTRA-CNT-MKT2
+ INTRA-CNT-TRANS
+ INTRA-GD-TRANS
+ INTRA-CNT-NEW
+ INTRA-NGPL-STRG
+ 
+ If you have any questions, please call.
+ 
+ DG    3-9573

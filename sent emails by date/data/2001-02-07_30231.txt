@@ -1,0 +1,28 @@
+
+ 
+ are you on this distribution?
+ 
+ 
+ 
+ Maura O'Neil
+ 02/06/2001 11:13 AM
+   
+  
+ Hi All, 
+ 
+ Sorry about the delay.  To delete your spool files, please follow these steps:
+ 
+ 	
+ 	1. Menu path: System>Own spool requests
+ 	2. Check box of spool file to delete 
+ 	3. Menu path: Spool request>Delete
+ 	
+ or you can go to transaction code SP01.  The attached goes through the steps showing the screens.  
+ 
+ Please instruct your users to delete all spools they do not need and to use the spool function whenever possible rather than rerunning reports, etc.  
+ 
+ Thanks,
+ 
+ Maura
+ 
+  

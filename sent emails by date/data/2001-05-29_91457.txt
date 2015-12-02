@@ -1,0 +1,25 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X-
+ X- X-b X-Folder: \ExMerge - Richey, Cooper\'Sent Mail
+ X-Origin: RICHEY-C
+ X-FileName: cooper richey 6-26-02.PST
+ 
+ fyi: i'm calling this watchtower.pl if you're ever looking for it.
+ 
+ 
+ 
+ 
+ 
+ Greg K Berry
+ 05/28/2001 01:49 PM
+
+   
+  
+ 
+ Typical Command Line 
+ >bch_trans_poll.pl -p 127.0.0.1:8488 -x WNACAL-0086:4000 -d z:\production\output\auto\transmission\data -s 20
+ 

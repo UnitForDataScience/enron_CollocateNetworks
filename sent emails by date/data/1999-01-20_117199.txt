@@ -1,0 +1,81 @@
+
+ 
+ 
+ Excessive Optimism:
+ 10/13 INTL  Intel                          .79       5.2
+ 10/13 JNJ   Johnson & Johnson              .70       3.7
+ 10/15 AAPL  Apple Computer                 .49       3.6
+ 
+ Excessive Pessimism:
+ 10/13 JPM   JP Morgan                     1.08        .4
+ 10/12 C     Chrysler                       .87        .7
+ 10/14 PFE   Pfizer                         .57        .9
+ 10/13 GM    General Motors                 .98-      1.2
+ 10/16 G     Gillette                       .30       1.3
+ 10/14 MER   Merrill Lynch                  .56       1.5
+ 
+ 
+ 
+ The first is Intel (INTC).  The semiconductor powerhouse had
+ rallied ahead of its earnings report Tuesday night (10/13) and closed
+ at $83.88.  What's interesting is that they beat the street's estimate
+ by 9 cents and yet the stock gapped down the next morning (10/14).
+ And despite the 330 point Dow rate cut rally on Thursday (10/15), the
+ stock had trouble taking out its recent previous high of $85.88.  Here,
+ our sentiment analysis alerted subscribers that expectations had gotten
+ ahead of itself and that despite the good news, the stock had trouble
+ advancing.
+ 
+ We saw the opposite in the case of Pfizer (PFE).  This blue-chip
+ Pharmaceutical company had sold off more than 20% from its summer high
+ ($120) to close at $95.50 before its release Tuesday night (10/13).
+ Here, Pfizer actually missed its estimated earnings by a nickel.
+ Although the stock initially gapped down the next morning, it quickly
+ rallied and closed higher. Our message: it's all about understanding
+ and managing expectations.
+ 
+ 
+ Pinnacle Index
+ 
+ What is the Pinnacle Index.  It is simply the put/call ratio at key
+ overhigh benchmark levels.  Typically, there should be two (2) calls
+ for every one (1) put.   So when this ratio reaches extremes levels,
+ it can presage key turning points in the stock.  The average Pinnacle
+ Index, therefore, should read 2.0.
+ 
+ One of the key components that separate OptionInvestor.com from any
+ other advisory services is our sentiment indicator or Pinnacle Index.
+ The Pinnacle Index is designed to measure the level of overhead
+ resistance at key overhead benchmark levels. This analysis can give
+ savvy option traders a jump on other traders.
+ 
+ It's important to note that the Pinnacle Index, like many
+ sentiment indicators, is a contrarian indictor.  This means
+ that the stock can and will go higher or lower despite what
+ our sentiment indicators might suggest.  However, our
+ experience has shown that the market is subject to a
+ precipitous sell-off if the Pinnacle Index reaches extreme
+ levels.
+ 
+ 
+ 
+ FREE TRIAL READERS
+ 
+ This newsletter is a publication dedicated to the education
+ of options traders. The newsletter is an information service
+ only. The information provided herein is not to be construed
+ as an offer to buy or sell securities of any kind. The
+ newsletter picks are not to be considered a recommendation
+ of any stock or option but an information resource to aid the
+ investor in making an informed decision regarding trading in
+ options. It is possible at this or some subsequent date, the
+ editor and staff of The Option Investor Newsletter may own,
+ buy or sell securities presented. All investors should consult
+ a qualified professional before trading in any security. The
+ information provided has been obtained from sources deemed
+ reliable but is not guaranteed as to accuracy or completeness.
+ The newsletter staff makes every effort to provide timely
+ information to its subscribers but cannot guarantee specific
+ delivery times due to factors beyond our control.
+ 
+ 

@@ -1,0 +1,21 @@
+
+ 
+ Jean 
+
+   
+ 
+ 
+ This request has been pending your approval for  2 days.  Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000078904&Page=Approval to review and act upon this request.
+ 
+ 
+ 
+ 
+ 
+ Request ID          : 000000000078904
+ Request Create Date : 12/11/01 7:26:47 AM
+
+ Resource Name       : Risk Acceptance Forms Local Admin Rights - Permanent
+ Resource Type       : Applications
+ 
+ 
+ 

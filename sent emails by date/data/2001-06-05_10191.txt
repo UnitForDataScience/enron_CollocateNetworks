@@ -1,0 +1,18 @@
+
+ 
+ FYI.  Thanks. Lynn
+ 
+    Cc:	Dasilva, Esther
+  
+ I need to identify where certain storage and imbalance information reside on the  adhoc server. The attached document lists the data that is needed and where the data is in TMS. The next step is to identify which database stores the required information. 
+ 
+ Esther Dasilva has done some research and  found that part of this information is on the NNG adhoc database. We need your assistance to complete the mapping of this data to the adhoc tables. Can you meet with me and Esther on Tuesday to direct us to the correct path on mapping this data (see attached)?
+ 
+ Thanks,
+ Alice
+ 
+ 
+ 					 << File: BO Critical Points.doc >> 
+ 
+ 
+ 

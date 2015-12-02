@@ -1,0 +1,27 @@
+
+ 
+ Where do you want this to go?
+ 
+ Someone (I think Dave) asked that this be added:
+ 
+ Each day EPMI shall provide EPMI's Native Load projection, and gas and power 
+ projection.
+ 
+ Would it be a projection of  MDEA's Native Load?  Are we providing it or is 
+ MDEA?  By what time is the  made  and is it made 365 days a year?
+ 
+ 
+ 
+ 
+
+
+  
+  
+  
+  	Clarksdale	Yazoo  City	Total
+  	1999	2000	1999200019992000
+ Summer Peak (MW)	52.6	51.3	29.332.581.983.8
+ Winter Peak (MW)	26.4	38.4	15.562241.9660.4
+ 
+ 
+ 

@@ -1,0 +1,7 @@
+
+ 
+ Chris,
+ 
+ I recently found out that Questar posts a Clay Basin storage inventory in html on their website.  The link is http://www.questarpipeline.com/html/qpc_capacity.html.  We will need to start scraping this balance, specifically the "Total Clay Basin Annual Working Gas" and "Total clay Basin Reservoir Inventory".  This does not impact the storage Inventory issue that we've previously discussed, since this balance is currently a manual entry point, and will continue to be even after we start scraping these points.  Please give me a realistic estimate of when we can begin scraping this data.  We will need to create DRN's for both of these points.  Clearly, in terms of priorities, working out the bigger storage inventory balance issue is much higher priority.  Please let me know if you have any questions.
+ 
+ Mat

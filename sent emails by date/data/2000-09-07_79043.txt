@@ -1,0 +1,15 @@
+
+ 
+ Steve,
+ 
+ Please set up a spreadsheet for me with the following tickers:
+ 
+ Basis
+ 
+ NWPL RM  Cash, Oct (spot month), Nov-Mar, Apr -Oct
+ EP SJ  Cash, Oct (spot month), Nov-Mar, Apr -Oct
+  SOCAL  Cash, Oct (spot month), Nov-Mar, Apr -Oct
+ 
+ Thanks,
+ 
+ Larry

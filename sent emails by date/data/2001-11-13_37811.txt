@@ -1,0 +1,21 @@
+
+ 
+ I haven't tested yet, but looks interesting.  Thanks.
+ 
+ John
+ 
+  
+    Cc:	Issler, Paulo; Lu, Zimin; Lee, Bob
+  
+ There are two correlation calculators that are now available in O:\Research\Custom\CorrelMatrix\.
+ 
+ CorrelAnalysis.xls can basket up to 3 curves and calculates the correlation matrix on contracts with different expirations.  This is particularly helpful when the correlation matrix is needed for NYMEX+basis+index calculations.
+ 
+ CorrelVolCalc.xls calculates the correlation between two baskets.  It can basket up to 3 curves in each basket, so this calculator is also able to handle NYMEX+basis+index calculations.
+ 
+ These calculators have been reviewed by the Research Group, and we feel that they are accurate.  Please let me (x53240) or Paulo Issler (x56274) know if you find any problems or have any questions about these new tools.
+ 
+ Thanks,
+ Heather Johnson
+ Enron Research Group
+ X53240

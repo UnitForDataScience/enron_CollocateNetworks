@@ -1,0 +1,17 @@
+
+ 
+ I talked with Gary Hickerson and I am OK with granting Michelle Cisneros access for her specific valuation purpose (pricing access is for 2 years only).
+ 
+    
+ 
+ 	   		
+ 
+ 
+
+   
+ I am asking for authorization to access the Enpower database- for East and West power curves. The Generator Earnings Model is currently accessing the power curves through an Excel spreadsheet given to us from the Structuring Group. We are asking for a restricted view into the Enpower Database to access the exact same information we are getting through the Excel Model. The information we need is monthly prices for 2 years. Direct access to the database will significantly improve the ability of the Earnings model to run efficiently and possibly avoid complications in the future.
+ 
+ The Generator Earnings Model will only be run internally and only our group (Financial Trading) has the authorization to run the model. All outputs of the model are kept internally as well. Several layers of security have been incorporated into the model to maintain confidentiality.
+ 
+ Thank you,
+ Michelle C. Ruch

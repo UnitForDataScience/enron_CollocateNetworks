@@ -1,0 +1,41 @@
+
+ 
+ FYI
+ 
+ 
+ 
+ Dawn C Kenne
+ 03/23/2001 01:35 PM
+
+
+
+  
+ Jeff and Kathy,
+ 
+ After much testing, the logic will be placed into production this evening 
+ that will book the two legs for the counterparties that have master 
+ agreements with ECC and hit a US product.  I have had Victor Guggenheim 
+ review the following deals in tagg stage but you may want to review as well 
+ and let me know if everything looks alright.
+ 
+ QT8025  Dynegy Canada
+ QT8034  TransCanada
+ 
+ This logic will create the two legs for the price and basis swaps when a 
+ counterparty with a master agreement with ECC hits a US product.  The first 
+ leg will be between ECC and the external counterparty and risk assigned to 
+ FT-US/CAND-ERMS.  The second leg is simply the flip from FT-US/CAND-ERMS to 
+ the appropriate US book (the book mapped at the product level).   These 
+ examples illustrate this logic.  This logic is also set up for the 40+ 
+ counterparties that have the master agreements with ECC.
+ 
+ If you see any problems with the example deals or in the logic described 
+ above, please call me before end of business today so we can stop this from 
+ going into production.  Please forward to you groups to inform them of the 
+ change.  Please let us immediately if something is not correct on these deals 
+ on Monday.
+ 
+ Thank you,
+ Dawn
+ 
+ 

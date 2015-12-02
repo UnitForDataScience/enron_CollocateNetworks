@@ -1,0 +1,9 @@
+
+ 
+ Enron Avg = 90 injected
+ Industry avg = 86 injected
+ I-Bank Avg = ~72 injected (they should stick to banking)
+ 
+ My number is 88.
+ 
+ I think the market has already built in a 90 or less number.

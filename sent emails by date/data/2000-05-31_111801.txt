@@ -1,0 +1,31 @@
+
+ 
+ John:
+ My fault.  It should say "succeeding Scheduled Payment Date" and Scheduled 
+ Payment Date is defined in Section 14 of the ISDA form.  As far as choice of 
+ law, we can go with NY although I disagree with your counsel, in that in 
+ order for the New York choice of law to be enforced by a court, the parties 
+ have to demonstrate some minimum relationship with the jurisdiction chose.
+ 
+ Carol St. Clair
+ EB 3892
+ 713-853-3989 (Phone)
+ 713-646-3393 (Fax)
+ 
+ 
+ 
+
+ 	05/31/2000 10:51 AM
+ 		 
+
+
+ 		  
+ 
+ Carol - two issues:  First, dealing with the applicable law, you can see
+ from the copies message below, from our legal counsel, that we will not
+ accept Texas law.  Second, I looked through my ISDA booklets and cannot find
+ that term "Succeeding Payment Date" defined anywhere.  Can you specify where
+ it is defined?
+ 
+ John
+ 

@@ -1,0 +1,14 @@
+
+ 
+
+   Transactions
+ Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Zufferli, John\Sent Items
+ X-Origin: ZUFFERLI-J
+ X-FileName: john zufferli 6-26-02.PST
+ 
+ Nella, the trade volume info looks correct.  It is the new counterparty info that is incorrect
+ 
+ in Q1 - we had 8 new counterparties for the Alberta Power product
+ in Q2 - we had 2 new counterparties for the Alberta Power product

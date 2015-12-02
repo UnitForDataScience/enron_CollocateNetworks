@@ -1,0 +1,37 @@
+
+ 
+ Stinson,
+ 
+
+ 
+ Vince
+ 
+ 
+ 
+ 
+ 
+ Stinson Gibner
+ 11/30/2000 06:14 PM
+
+
+  
+ Alex,
+ 
+ Paulo and I have continued to look at the model and have come up with a 
+ couple of additional changes.
+ 
+ 1.   The cash flow calculations need to include the overlying option strike 
+ payment.   Also, Paulo is trying to clarify if the cashflows should be 
+ discounted to the valuation date or reported as notional future values.
+ 2.  I would suggest trying changing the option valuation from a binomial tree 
+ approach to a one-dimensional integration, perhaps using a quadrature 
+ method.  This may allow us to minimize the size of the delta discontinuities.
+ 3.  Edith is supposed to check and see if the theoretical gamma is used for 
+ anything.   If it is, we will probably need to revisit the gamma calculation 
+ since we are not currently including any cross terms for gamma.
+ 
+ Thanks,
+ 
+ Stinson
+ 
+ 

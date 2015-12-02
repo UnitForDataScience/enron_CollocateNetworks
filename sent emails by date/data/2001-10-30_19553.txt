@@ -1,0 +1,53 @@
+
+ 
+ Looks good.
+ 
+ 
+
+    
+ 
+                                           AGENT CB/CB BOOKING REF ZG8TEX
+  
+                                           DASOVICH/JEFF
+                                           ENRON CORP
+                                           101 CALIFORNIA ST STE 1950
+   ENRON CORP                              SAN FRANCISCO CA 94111
+                                           WN TKTLESS
+  
+  
+  
+  
+   DATE:  OCT 30 2001
+  
+ SERVICE               DATE  FROM           TO             DEPART  ARRIVE
+  
+ SOUTHWEST AIRLINES TE 01NOV OAKLAND CA     BURBANK CA     700A    805A
+ WN 1225    Y          THU   INTERNATIONAL
+                             TERMINAL 2
+                                                           NON STOP
+                             RESERVATION CONFIRMED         1:05 DURATION
+                   AIRCRAFT: BOEING 737-300
+  
+ CAR                   01NOV HERTZ                  BURBANK CA
+                       01NOV CONFIRMATION: B6262919DC0CNTR
+                             TELEPHONE: 1-818-569-3570
+                             FAX: 1-818-842-6394
+                             INTERMED CAR AUTOMATIC AIR
+                             RATE: USD50.39- .00 UNL DY 25.20- UNL XH
+                             RATE GUARANTEED
+                             PICK-UP: HOLLYWD-BURBANK AP 2267 HOLLYWOOD
+                             WAY
+                             DROP-OFF: HOLLYWD-BURBANK AP 2267 HOLLYWOOD
+                             WAY
+  
+ SOUTHWEST AIRLINES TE 01NOV BURBANK CA     OAKLAND CA     225P    335P
+ WN 145     Y          THU                  INTERNATIONAL
+                                            TERMINAL 2
+                                                           NON STOP
+                             RESERVATION CONFIRMED         1:10 DURATION
+                   AIRCRAFT: BOEING 737-300
+  
+ MISCELLANEOUS         01MAR HOUSTON TX
+                       FRI   
+ TICKET PRICE IS 201.50 ROUNDTRIP REFUNDABLE
+ ALL FARES ARE SUBJECT TO CHANGE UNTIL TICKETED/PURCHASED

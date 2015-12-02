@@ -1,0 +1,73 @@
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ 
+ 
+ 
+ > As promised at the May 16 ADR session, attached is a list of business
+ > objectives from the meeting compiled by El Paso Natural Gas.
+ >
+ >
+ >    <<Consolidation of Business Objectives.doc>>
+ 
+ 
+ 
+ 
+  - Consolidation of Business Objectives.doc

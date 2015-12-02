@@ -1,0 +1,30 @@
+
+ 
+ 
+ 
+ 
+ Jeffrey C Gossett
+ 01/10/2001 11:39 AM
+
+
+
+
+
+
+
+
+
+
+  
+  I appreciate everyone's help in making sure that all the information for 
+ Lagrasta's originated is deals is accurate.  He is now receiving a daily 
+ report with all originated deals.  
+ 
+  He has also asked that we give him the data on the deals that his group has 
+ done that do not have origination.  Therefore,  going forward we will need to 
+ put all deals for Lagrasta's group into the origination file.  Meaning,  if 
+ his group does a deal where no origination is granted,  you will need to put 
+ all the relevant information into the origination file and just put a $0 for 
+ the Origination granted on the report.  Thanks so much for your help.
+ 
+ 

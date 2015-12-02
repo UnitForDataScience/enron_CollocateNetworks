@@ -1,0 +1,41 @@
+
+ 
+ Canada officializes one calc that includes both their price and basis 
+ positions.  Risktrac only recognizes the book id to which it assigns the post 
+ id.  Since the Canada post id includes two books ids,  we manually assign the 
+ same post id to the basis book so that both books are picked up.
+ 
+ 
+    
+ 	Enron North America Corp.
+ 	
+
+ 	
+ 
+
+   
+ 
+ Robin,
+ I have to get this email out and I'm looking for your help. Can you proof 
+ read what I wrote and "correct" things that are wrong...
+ 
+ Thanks,
+ 
+ Frank
+ 
+ 
+ 
+ Debbie,
+ 
+ 
+ I spoke with Robin and she confirmed that:
+ One post id for both price and basis books
+ She overrides the price book
+ 
+ The reason is that Risktrac needs unique book id/post id combo's.  However, 
+ the price book comes in no matter what, so she overrides the price book in 
+ order to pull in the basis book...She added that she also did not understand 
+ why they use one post id..
+ 
+ Frank
+ 

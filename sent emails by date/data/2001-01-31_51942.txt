@@ -1,0 +1,36 @@
+
+ 
+ Stinson,
+ 
+ Any resolution on this one?
+ 
+ Vince
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ This request has been pending approval for  2 days and you are the 
+ alternate.  Please click 
+ http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000015793&Page=
+ Approval to review and act upon this request.
+ 
+ 
+ 
+ 
+ 
+ Request ID          : 000000000015793
+
+ Request Create Date : 1/29/01 9:48:41 AM
+
+ Resource Name       : \\enehou\houston\common\Research - [Read]
+ Resource Type       : Directory
+ 
+ 
+ 
+ 
+ 

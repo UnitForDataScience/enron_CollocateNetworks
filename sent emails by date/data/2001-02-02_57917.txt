@@ -1,0 +1,22 @@
+
+ 
+ 
+ 
+
+ 	01/31/2001 03:03 PM
+ 		 
+
+ 		  		  
+ The following expense report is ready for approval:
+ 
+ Employee Name: Richard Shapiro  
+ Status last changed by:  Automated Administrator
+ Expense Report Name: RS012201
+ Report Total: $8,299.73
+ Amount Due Employee: $8,299.73
+ 
+ 
+ To approve this expense report, click on the following link for Concur 
+ Expense.
+ http://nahou-wwxms01p
+ 

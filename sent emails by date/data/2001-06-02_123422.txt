@@ -1,0 +1,4 @@
+
+ 
+ your volume comparison chart is off by a factor of 10.  each contract is 1000 
+ bbls.

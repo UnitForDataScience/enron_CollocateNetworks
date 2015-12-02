@@ -1,0 +1,4 @@
+
+ 
+ Attached are the redlined docs for the docs with changes.  I made some more 
+ changes to the Capacity Release doc to clean several items up.

@@ -1,0 +1,12 @@
+
+ 
+ i'm working thru my 188 emails, would you see if there are any invoice drafts for april 2002 for midland cogen please
+ 
+  
+    Cc:	Polsky, Phil; Dhont, Margaret; Hamic, Priscilla; Doner, Max
+  
+ We stopped serving Midland Cogen on Sitara deals 340305 and 332163 effective 4/1/2002.  There are trigger prices on both of these deals which automatically generates an invoice whether we physically serve the deal or not (see invoice number 36538SA for April 2002 production).  For April 2002, these deals are generating a credit invoice in the amount of $390,748.50.  I would like to take the trigger volumes to 0 effective 4/1/2002 for the term of the deal to see if this reverses out the credit created in April and keeps us from sending out a credit invoice in the future.
+ 
+ Let me know if this is an issue?  
+ 
+ Thanks.

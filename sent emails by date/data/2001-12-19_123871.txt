@@ -1,0 +1,20 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - White, Stacey W.\Sent Items
+ X-Origin: WHITE-S
+ X-FileName: stacy white 7-15-02.PST
+ 
+ How do we want to go about this?
+ 
+ Stacey
+ 
+  
+    Cc:	James, Matthew; Coles, Frank; McAuliffe, Bob
+  
+ To all,  The Enron Net Works infrastructure team is gathering requirements for all common data needed for NEWCO.  This includes Gas/Power commercial data and related trading support data. 
+ Based on the amount of data it can take significant time to migrate so we are on an aggressive schedule.  We need assistance from key individuals within each related business unit.  Please respond with a list of individuals that may be able to assist.  This will be a short effort with the right representation.  Thanks in advance for your cooperation.
+ 
+ Mike Croucher

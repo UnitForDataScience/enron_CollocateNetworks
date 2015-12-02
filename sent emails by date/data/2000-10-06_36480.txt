@@ -1,0 +1,39 @@
+
+ 
+ It looks like we need to be consistent in booking the GD spread deals.  Take 
+ a look at the example and please remember to book all future deals in a 
+ similar manner.  If you have any questions, please let me know.  Thanks.
+ 
+ DG
+ 
+    
+ 
+ 
+     10/05/2000 10:33 AM	
+ 	
+ 	
+ 	                           
+ 	
+ 
+
+
+
+  
+ Hi Dutch,
+ 
+ I was hoping you could spread the word to the book admins regarding a data 
+ entry methodology requirement for Gas Daily 4 legged deals. The Confirms 
+ group is working with Ricky Dang to expand the logic and capabilities of 
+ their systems to accomodate automated confirms on deals done in the new 
+ format, but in order for this to work, it is critical that all Gas Daily 4 
+ legged deals entered manually into TAGG be booked in the same leg order as 
+ those which bridge automatically. Although the legs can technically be 
+ entered in any order as far as Risk is concerned, such deviations will cause 
+ failures from the confirm end. If the Gas Daily book admins can follow the 
+ same entry order used in deal # Q25289.1, .2, .3, .4 , the Confirms Group 
+ should be able to work with it from there. Just let me know if this will 
+ create any problems from your end. Thanks!
+ 
+ Torrey
+ 
+ 

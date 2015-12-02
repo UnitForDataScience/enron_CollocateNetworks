@@ -1,0 +1,35 @@
+
+ 
+ Am I going to be able to get these out on the website today?
+ 
+ Eric
+ 
+ 
+ 
+ 
+ Robert B Cass
+ 07/14/2000 11:31 AM
+
+
+  
+ Please map and test the following two (2) indices which are in TEST for Eric 
+ Bruce (trader): 
+ 
+ INDEX:   Gas Daily - WAHA - HeHub
+ SORT CODE IN TEST:  1006
+ ABBREV:  Waha-HeHub    
+ PRODUCT TYPE: US Gas Fin Swap
+ DESCRIPTION:  The Index for a day shall be the difference between (i) the 
+ Daily Midpoint price published on such calendar day under the heading "Daily 
+ Price Survey" in the Permian Basin Area: Tex intras, Waha area section of Gas 
+ Daily, or if a calendar day is not a Business Day then the price used shall 
+ be the Daily Midpoint price published on the next succeeding Business Day, 
+ and (ii) the Daily Midpoint price published on such calendar day under the 
+ heading "Daily Price Survey" in the LouisianaOnshore South - Henry Hub 
+ section of Gas Daily, or if a calendar day is not a Business Day then the 
+ price used shall be the Daily Midpoint price published on the next succeeding 
+ Business Day.
+ 
+ 
+ Thanks!  - R 
+ 

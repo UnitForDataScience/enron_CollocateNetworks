@@ -1,0 +1,69 @@
+
+ 
+ 
+    
+ 	Enron Capital & Trade Resources Corp.
+ 	
+
+                        01/24/99 06:32 AM
+ 	
+ 
+
+
+   
+ 
+ 
+ The Option Investor Newsletter            1-24-98
+ Sunday                5  of  6
+ 
+ PUTS Continued
+ 
+ 
+ OEX - S&P 100 Index  $610.38     OTM Credit-Spreads
+ 
+ The Standard & Poor's 100 Index is a capitalization-weighted index
+ of 100 stocks from a broad range of industries. The component
+ stocks are weighted according to the total market value of their
+ outstanding shares. The impact of a component's price change is
+ proportional to the issue's total market value, which is the share
+ price times the number of shares outstanding.
+ 
+ OBSERVATIONS:
+ 
+ For OTM credit spread trades, we like to use the actively-traded
+ S&P 100 Index options because they contain much more premium than
+ options on individual stocks and provide an underlying instrument
+ less prone to huge, gapping moves. Remember however, that you can
+ always be exercised early so monitor your positions daily.
+ 
+ TECHNICALS:
+ 
+ While the overall market seems likely to remain in a wide trading
+ range over the next few weeks, the probabilities are quite strong
+ that we have reached a short-term top and the current outlook is
+ somewhat unfavorable. The DOW has found some support just above a
+ key level around 9085 and a close below that number confirmed by
+ a S&P 500 close below 1205 would signal a more serious correction.
+ The long-term pattern is in a neutral but weakening condition with
+ the NYSE survey starting to slip and the NYSE momentum index at
+ its worst level in years. Review the Pinnacle Hedge-Section for
+ more specific technical information on the S&P 100 Index.
+ 
+ PLAY (very conservative/disparity-low ROI):
+ 
+ BUY  PUT FEB-550 OEW-NJ OI=3944 A=$4.50
+ SELL PUT FEB-555 OEW-NK OI=1265 B=$4.87
+ NET CREDIT TARGET=$0.38 ROI=8%
+ 
+ PLAY (conservative/bearish):
+ 
+ BUY  CALL FEB-670 OEY-BN OI=6374 A=$1.19
+ SELL CALL FEB-660 OEY-BL OI=6738 B=$2.12
+ NET CREDIT TARGET=$0.93 ROI=10%
+ 
+ PLAY (aggressive/bullish):
+ 
+ BUY  PUT FEB-565 OEW-NM OI=2357 A=$6.38
+ SELL PUT FEB-570 OEW-NN OI=3851 B=$7.25
+ NET CREDIT TARGET=$0.87 ROI=21%
+ 

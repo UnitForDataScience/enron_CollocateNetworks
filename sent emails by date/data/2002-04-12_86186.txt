@@ -1,0 +1,10 @@
+
+ 
+ hey, how are you? can you send me an example of how you callculate var on contracts.
+ 
+ for example: price is 3.10, 100 contracts, vol. 60%
+ 
+ "SHOW ME THE MATH"
+ 
+ JOE
+ 832-851-2821

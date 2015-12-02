@@ -1,0 +1,84 @@
+
+ 
+ I think everything is OK now.  I set up deals 260724 (k#B00693026471), 260689 
+ (k# F01978) and deal 260712 (k#I00454).  I changed the end date for deal 
+ 235701 (also k#B00693026471 - unpathed) to 4/30/00 and it still shows up in 
+ Unify for May.
+ 
+ Beavy, make sure you use the B*** k# with an MDQ of 9005 when you path May.
+ 
+    
+ 	Enron Capital & Trade Resources Corp.
+ 	
+ 	 	
+ 
+
+
+  
+ Richard,
+ 
+ I trust you're on top of this.....let me know if you'd like my help!
+ 
+ Thanks!
+ 
+ dg
+ 
+ 
+ 
+ 
+ 
+
+  
+ DG & RP,
+ 
+ National Fuel says they are 100% using the GISB pathed model type.  Our Unify 
+ noms are non-pathed.
+ 
+ 1) Can you look at the National Fuel invoice and verify that the accounting 
+ area will still work effortlessly if we change Unify to pathed.
+ 2) If we elect to change Unify's model type to pathed, let's do it just like 
+ we did Southern Natural.  And, I would like this done for May 1 noms in 
+ production and have the Scheduler (Beverly?) path in this new model type 
+ manner.  We are suppose to be getting scheduled quantities in production 
+ starting tomorrow, unless ECOM prevents it, so you'll be able to see what the 
+ pipe expects in the pathed model type.
+ 3) If we elect to NOT change Unify's model type to pathed, I guess we can't 
+ ever edi this pipe unless I can figure out some clever way to join up the 
+ noms.
+ 
+ Beverly, Do you think it would be a problem to start entering the upstream 
+ k's and downstream k's when you path in Unify.  The pipe told me this is 
+ mandatory data unless the nom is involved in the Appalachian area.  If it is 
+ a problem, don't do, I don't want to slow you down since you have to enter 
+ the data twice today.  If and when we do edi, we'll need the up/down k's 
+ entered at that time.
+ 
+ Thanks, Diane
+ x3-9931
+ 
+ >
+ 
+ >> 3) Please confirm that your model type is always "P" pathed from noms all 
+ the
+ >> way down to invoices.
+ 
+     Our model type is always "P" for pathed.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

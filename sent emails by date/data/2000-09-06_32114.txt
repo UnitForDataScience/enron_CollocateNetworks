@@ -1,0 +1,32 @@
+
+ 
+ SST and we always assume we are using FTS.
+ 
+ 
+ 
+ 
+ Brenda H Fletcher
+ 09/06/2000 10:42 AM
+
+   
+ We must have lucked out in June because the commodity variance in June for 
+ CGAS was only  $4,147.   Is this transport on a SST or FTS contract?  The SST 
+ rate is .0225 and the FTS rate is  .0227.  Both are inclusive of ACA and GRI
+ 
+ 
+ 
+ Chris Germany
+ 09/06/2000 10:21 AM
+
+   
+ I just entered a commodity rate on deal 299159.  It has very big volumes on 
+ it each month and there has not been a commodity rate on it.  Joanne just 
+ verified that this is regular transport, not Dayton or CALP.  This will be a 
+ big OA variance for June - August.
+ 
+ This deal is for deliveries to Storage.  Would you verify if ACA and GRI are 
+ billed for storage deliveries please?   
+ 
+ 
+ 
+ 

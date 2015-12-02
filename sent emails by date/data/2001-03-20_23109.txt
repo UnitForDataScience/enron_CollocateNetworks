@@ -1,0 +1,22 @@
+
+ 
+ FYI
+ 
+  
+
+ 
+  
+ The Payment status has changed on the following report:
+ 
+ Status last changed by:  System
+ Expense Report Name: Quinn Emanuel
+ Report Total: $2,390.25
+ Amount Due Employee: $2,390.25
+ Amount Approved: $2,390.25
+ Amount Paid: $0.00
+ Approval Status: Approved
+ Payment Status: In Progress
+ 
+ 
+ To review this expense report, click on the following link for Concur Expense.
+ http://nahou-wwxms01p

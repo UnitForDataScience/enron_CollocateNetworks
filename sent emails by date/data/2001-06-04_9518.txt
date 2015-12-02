@@ -1,0 +1,7 @@
+
+ 
+ As a follow up to last Thursday's lunch meeting, Scott Mills and Mary Lynn Ruffer are working with Evan Hughes to further define Option 2 that we discussed regarding the settlements function.  To recap, with that option, EWS would assume internal management of the settlements function, including managing data requirements to and from the outsource providers,  and EES would retain the service management function, defining service levels and pricing, plus serving as the interface with EES customers.  
+ 
+ We will review with Tim, Kevin, Don and Rogers the more detailed recommendations from this team by mid week.  Then we should have a final proposal of roles and responsibilities for EWS and EES around the settlements function before the end of this week.  
+ 
+ Please call me in the interim if you have any questions or suggestions.  --Sally   (x35926)   

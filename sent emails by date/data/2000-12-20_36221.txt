@@ -1,0 +1,20 @@
+
+ 
+ Please read
+ 
+ DG
+ 
+ 
+ 
+ Jeffrey C Gossett
+ 12/20/2000 04:00 PM
+
+
+
+   
+ Please make sure that all physical deals with a finacial component are marked 
+ physical in TAGG.  Mostly this applies to annuities associated with physical 
+ deals and imbedded options.   Not clicking physical is causing problems with 
+ accounting as well as the credit group.
+ 
+ Thanks

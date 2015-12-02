@@ -1,0 +1,47 @@
+
+ 
+ RECAP:  This is Project Moosehead.  After the meeting, we determined that the 
+ transaction should be structured as a cap and not a swaption.  The Fixed 
+ Price is the premium.  The Strike is the Cap Price (remember, strikes are for 
+ options and strikes are cap/floor in those deals).  We'll need to revise 
+ today to send in the morning.  CP is "Merrill Lynch Capital Services, Inc.".  
+ Enron party normally is ENA but we may change to EPMI and create a new ISDA 
+ Master for the deal.  There must be a zero floor (ie, no negative payments in 
+ the other direction).  Don't worry about weekend quotes yet because we may 
+ eliminate weekends and extend the term of the deal. 
+ 
+ Could you begin revising?  Also, do the calculations work?  Please feel free 
+ to call me as I'm buried in my office today and things change as the day goes 
+ on.  SS
+ 
+    
+ 	
+ 	
+ 	 	
+ 
+
+
+  
+ Sara,
+ 
+ If it's a Cap, is the Fixed Price then the Strike Price?  I think the format 
+ looks good.  I would prefer a "Notice of Exercise" provision, but it's not 
+ necessary.
+ 
+ Thanks,
+ Joe
+  
+ 
+ 
+ 
+ Sara Shackleton
+ 12/16/99 09:35 AM
+
+   
+ I think that this transaction is called "Project Moosehead".  I have a 
+ meeting on it this morning.  Please comment to the draft I sent to you 
+ yesterday.  I don't know if the structure works.  I couldn't decide upon the 
+ format; it also looks like a cap.  Thanks.  SS
+ 
+ 
+ 

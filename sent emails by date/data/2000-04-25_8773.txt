@@ -1,0 +1,40 @@
+
+ 
+ Tara, 
+ 
+ When I tried to approve this request (Sheri gave verbal approval), I got 
+ message that it had already been approved by another access approver.
+ 
+ Patti
+ x39106
+ 
+ 
+  
+  
+ 	Security Resource Request System	
+ Application Approval		
+ Please review and act upon this request. You have received this eMail because 
+ you are listed as an approver on the original request.
+ 			Instructions	
+ For: 	Tori Hayden                   			
+ Request	Original: 			
+ Application Name:	EOL - Backoffice (US)			
+ Request Type:	Grant			
+ Role(s):	EOL- Product Data Manager			
+ Comments:	test		Review the request in the Request section at left.
+ 			For more information regarding who the request is for, do the following:
+ 			Click on the name for PeopleFinder info
+ 			See the Further Information section below
+ 			In the Approval Section, select Approve or Reject, enter comments as 
+ necessary and click [Submit].	
+ 
+ 
+ 
+ 
+ 	Further Information		
+ 	         		
+ Requestor:			Tori Hayden/HOU/ECT
+ Manager:	Tara Sweitzer		
+ Request  RC #:	100243	WO #:	
+ Company #:	0011	Priority:	Normal
+ General Comments:			

@@ -1,0 +1,23 @@
+
+ 
+ Oops - I guess the deal can't be killed because it contains liquidated 
+ strips. I've changed the confirm status to no confirm, and the energy to 
+ CAISO - so even though the deal has no volume or price, its other details are 
+ correct.
+ 
+ Kate
+ 
+ 
+ 
+ 
+
+ 01/03/2001 06:51 AM
+
+  
+  
+ Hi Kate,
+ This deal needs to be changed to no confirm (it's a West daily deal).  Also, 
+ it has an NP-15 delivery point with firm energy.
+ Thanks!
+ Kim
+ 

@@ -1,0 +1,12 @@
+
+ 
+ 56943 TW-NNG Ward
+    Cc:	Schoolcraft, Darrell; Betancourt, Ramona 
+  
+ 
+ 
+ The following points need updating in PLE
+ 
+ 1635 is scheduled as a bi-directional point so we need to label in PLE  as such to be picked up in TMS
+ 56943 should be a displacement point on both IT and SP groups in West Texas
+ 500168 is scheduled as a bi-directional point so we need to label in PLE as such to be picked up in TMS

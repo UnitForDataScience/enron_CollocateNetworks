@@ -1,0 +1,18 @@
+
+ 
+ Lloyd - Don't worry about the formatting.   After playing around some more, I have a new way that works fine for me.    The main issue is keeping the database live with all of the historical information.    We can figure out how to format.
+ 
+ thanks.
+ 
+  
+    Cc:	Will, Lloyd; Chen, Alan
+  
+ Please ensure that real-time prices for ERCOT, PJM, NY, and NEPOOL are added to the cube database.   I have been analyzing the data today and the real-time clearing prices are not there.
+ 
+ Thanks.
+ 
+ Kevin Presto
+ East Power Trading
+ Phone:  713-853-5035
+ Cell:  713-854-3923
+ Fax:  713-646-8272

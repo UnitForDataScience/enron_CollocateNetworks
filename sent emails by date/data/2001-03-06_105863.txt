@@ -1,0 +1,35 @@
+
+ 
+ FYI
+ 
+ Sara Shackleton
+ Enron North America Corp.
+ 1400 Smith Street, EB 3801a
+ Houston, Texas  77002
+ 713-853-5620 (phone)
+ 713-646-3490 (fax)
+
+ 
+    Cc: Bailey, Susan; Boyd, Samantha; Panus, Stephanie; Mendoza, Nidia; Reves, 
+ Brant
+  
+ Gas Producers Liquids Inc. - Omnibus confirmations only - No ISDA
+ 
+ How do we margin this LC customer when the Exposure Thresholds are not 
+ consistant across each Annex B?  Their financial mark to market exposure is 
+ currently $1.3MM.
+ 
+ 		Annex
+ Trades		B-Credit Line
+ 		
+ QL3281.1		$0
+ QL3360.1		$0
+ QN8251.1		$0
+ QN8251.2		$0
+ QQ7096.1		$0
+ QQ7109.1		$500,000
+ QR4386.1		$0
+ QS3259.1		$0
+ QS3259.2		$25,000
+ 
+ Brant

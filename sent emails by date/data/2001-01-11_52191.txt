@@ -1,0 +1,35 @@
+
+ 
+ Stinson,
+ 
+ Do you know anything about it?
+ 
+ Vince
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ You have received this email because you are listed as an alternate data 
+ approver. Please click 
+ http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000013085&Page=
+ Approval to review and act upon this request.
+ 
+ 
+ 
+ 
+ Request ID          : 000000000013085
+
+ Request Create Date : 1/10/01 8:59:14 AM
+
+ Resource Name       : \\enehou\houston\common\Research - [Read]
+ Resource Type       : Directory
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,33 @@
+
+ 
+ Mtr 1600- A deal already exists for this meter (#159194).  If you view the 
+ meter in MOPS you can see the deal.  (It had zero volume before today.)
+ 
+ Mtr 6725 - This gas is traded on the spot market, so there is no deal to put 
+ in.
+ 
+ D
+ 
+ 
+ 
+ 
+ Jackie Young
+ 04/06/2000 10:15 AM
+
+   
+ Daren,
+ 
+ I hate to be a pest but here's the deal on the above two meters:
+ 
+ 98-1600  Sitara deal #159194 expired on 2/29/2000.  The flow for 2/2000 was 
+ on the 215K.  This meter (del.) flowed 53.863 for 3/2000.  There is no   new 
+ deal referenced, nor is the evergreen flag in effect.
+ 
+ 98-6725  Sitara deal #214948 expired 3/27/2000.  No evergreen and no new deal 
+ referenced.  This is a little premature but this meter is active   monthly 
+ and I'm thinking that it will flow for this month with no K being applied.
+ 
+ Thanks
+ -Jackie-
+ 3-9497
+ 

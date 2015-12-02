@@ -1,0 +1,35 @@
+
+ 
+ 
+ 
+ 
+ Steven Leppard
+ 06/21/2000 04:13 AM
+
+
+
+   
+ All
+ 
+ Attached in the latest version of my real options presentation, which I'll be 
+ presenting at a Real Options Group conference in Cambridge next month.
+ 
+ I've removed the gas storage pricing example, and instead put in a simple 
+ example to show that my method can reproduce decision tree approaches (should 
+ one wish to do so).  This is a response to the heavily decision-tree 
+ dominated approach taken by most people at the last conference I spoke at.  I 
+ want to demonstrate explicitly that my approach covers both decision tree and 
+ option pricing as special cases, the synthesis needed for correct real option 
+ valuation.
+ 
+ My presentation now covers:
+ 1. Decision trees.
+ 2. Binomial option pricing trees.
+ 3. Power station valuation.
+ 4. Power asset development.
+ The option pricing and power examples are based on the (too simplistic) 
+ binomial tree method.  I obviously won't indicate my thoughts on the most 
+ correct way to do this.
+ 
+ Steve
+ 

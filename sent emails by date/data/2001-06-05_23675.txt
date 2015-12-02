@@ -1,0 +1,33 @@
+
+ 
+ Does this help?  I have approved this product.
+ 
+    Stacy; Moran, Tom; Love, Phillip M.; Hunter, Larry Joe
+ Cc: Lees, Lisa; Sweitzer, Tara; Jones, Tana; Lambert, Karen; Lombardi, Kelly; 
+ Sever, Stephanie; Kenne, Dawn C.; Moorer, Torrey; Cass, Robert B.; Meredith, 
+ Kevin; Lozano, Melba; Alatorre, Carlos
+  
+ Please approve the following product type in Data Manager after 11 A.M.
+ 
+ US Gas Phy Fwd Secondary Firm
+ 
+ 
+ 
+ 
+ 
+ STEPS FOR APPROVAL:
+ 
+ click the  START button 
+ select  PROGRAMS
+ select  TEST APPLICATIONS
+ select ENRONONLINE CLUSTER(PROD)
+  PROCEED WITH USUAL LOGIN/PASSWORD 
+ click the Enron Online Production Cluster "START" button  
+ select EnronOnLine (this is the EOL Datamanager)
+  PROCEED WITH EOL LOGIN/PASSWORD
+ click on the "+" for EnronOnLine
+ click on the "+" for Product Types
+ click on the "+" for "Awaiting Approval" (OR  "Partially Approved")
+ select the product requiring review as stated in e-mail above
+ Right "mouse" click on "properties" to view product set-up 
+ TO APPROVE:  Right mouse click on "Approved"

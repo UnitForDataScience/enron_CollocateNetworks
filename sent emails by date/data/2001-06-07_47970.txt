@@ -1,0 +1,49 @@
+
+ 
+ A little forward movement trying to get the Global Counterparty not to set up 
+ counterparties under division or trade names.  If the counterparties insist 
+ on doing so, we have been trying to get them to add the legal name as part of 
+ the counterparty's name in GCP.   For non-swap team members, you may want to 
+ forward this email on to your groups as well. 
+ 
+ 
+
+ 	06/06/2001 05:47 PM
+ 		 
+
+
+
+
+
+
+
+
+ 		  
+ 
+ In accordance with the suggestions provided by Mary Cook in our Legal Dept., 
+ we have come to an agreement in regard to the naming conventions for 
+ divisions and trade names. For both divisions and dba/trade names, the 
+ counterparty name will be formatted to lead with the sub-entity name, 
+ followed by the parent legal name.
+ 
+  i.e. division name, division of parent legal name  or  trade name, a dba of 
+ parent legal name
+ 
+  Ex. Duke Power, a division of Duke Energy Corporation
+ 
+ This layout will make it easier to choose the correct counterparty name and 
+ avoid the misconception of duplicate records. Also the legal requirements 
+ will be met.
+ 
+ Please notify me by Friday, June 8th, if there are any issues with this 
+ format. Otherwise, the GCP group will commence using this proposed layout on 
+ current and future requests. 
+ 
+ Cleanup of existing records in GCP and Contracts will be accessed. In cases 
+ where the requested name could exceed the 90 character length maximum there 
+ will need to be an evaluation.
+ 
+
+ 
+ Thank you,
+ Marilyn

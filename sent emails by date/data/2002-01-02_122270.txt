@@ -1,0 +1,14 @@
+
+ 
+ Paul,
+ 
+ This make sense to me, but please make sure you are OK with the final position now reflected in the Caminus system.  
+ 
+ Thanks, Kim.
+ 
+  
+    Cc:	Lohman, TK; Watson, Kimberly
+  
+ Rudy,
+ 
+ Per your request, I have removed the 10,000/d of natural long fuel positions that were in Caminus for anticipatory hedges that were initially hedged with RMTC before those deals were terminated.  This reduced the VaR on the TW fuel book from $841k to $421K.  I did not remove the natural long position that was physically contracted (10,000/d) from Caminus.  To summarize, we had 20,000/d of natural long, 20,000 was swapped to a fix price, and 10,000 was physically contracted to perfect the fixed price hedges.  All 20,000/d of the swaps were with RMTC and were terminated.  Please let me know if you have any questions.

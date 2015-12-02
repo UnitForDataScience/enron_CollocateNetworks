@@ -1,0 +1,7 @@
+
+ 
+ 
+ 
+ (A)  "Independent Amount" means with respect to a party, the amount specified as such for that party in each Confirmation, or if no amount is specified, zero.
+ 
+ [(A)  "Independent Amount" means with respect to Party A, the amount specified as such for Party A in each Confirmation, or if no amount is specified, zero and means with respect to Party B, the amount calculated as follows: on any Business Day, Party A shall have the right to adjust the Independent Amount due from Party B due to changes in the volatility of relevant markets or of Party B's portfolio of transactions with Party A ("Party B's Portfolio").  Party A will calculate such Independent Amount based on its internal Value at Risk ("VAR") calculation for up to ten (10) days of VAR with respect to Party B's Portfolio, provided, however, that in no event shall Party B's Independent Amount be less than $250,000 if there are any outstanding transactions.]

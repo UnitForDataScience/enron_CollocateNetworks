@@ -1,0 +1,21 @@
+
+ 
+ I just created deal 1204869 per the notes in o:/Gas Structuring/Bankruptcy/Storage Inventory/Daily Inventory Update.xls, an ENA sale to PanCanadian Energy Services Inc with the following details;
+ Price:		$2.25
+ Volume:	1,121,702
+ Location:	MPC/Dry Creek Storage/2-02125-1
+ 
+ Rita, there is a storage contract 7010 in Unify for MPC.  I assume this is the contract that needs to be pathed in Unify to withdraw the storage gas.  Do you get any statements from MPC?
+ 
+   
+ 
+ 
+ 
+ 
+  
+     
+ Doesn't look like tickets were ever entered in the system.  I've requested access to change the tickets.  I'll send a new email once I enter the deal.
+ 
+ Thanks
+ 
+ Let me know if you see any other missing items too.

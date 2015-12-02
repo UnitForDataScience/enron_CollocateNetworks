@@ -1,0 +1,28 @@
+
+ 
+ Use this file instead.
+ PL
+ 
+ 
+ 
+ 	Gregory A Mausser
+ 	02/20/2001 04:43 PM
+ 	
+
+
+
+  
+ I have made a slight revision to the template regarding CPR Cash In and CPR  
+ Cash Out for consistency between Accounting, OA, and Economics.  
+ 
+ OA CODE 15 CASH IN  SALE
+ OA CODE 14 CASH OUT PURCHASE
+ 
+ Please replace the previous template with the one below.  
+ 
+ 
+ 
+ 
+ 
+ Thank You ,
+ Greg(37299)

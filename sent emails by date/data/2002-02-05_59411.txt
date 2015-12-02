@@ -1,0 +1,19 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Keiser, Kam\Sent Items
+ X-Origin: KEISER-K
+ X-FileName: kam keiser 7-11-02.PST
+ 
+ Stephen,
+ 
+ I made a copy of your BenchbyTrader and cleaned it up a little by taking out all the hidden rows and old traders.  It is saved to the same directory as UBS BenchByTrader.xls
+ 
+ 
+ Can you look at this and check the macros to make sure it all still works?  Can you use that going forward?
+ 
+ Thanks
+ 
+ KK

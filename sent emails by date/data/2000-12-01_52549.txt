@@ -1,0 +1,8 @@
+
+ 
+ ISBN: 0124458904
+ Title: Microscopic Simulation of Financial Markets
+ Author: LEVY/LEVY/SOLOMON 
+ Cover: CaseBound
+ Published: June 2000
+ US Price: $69.95

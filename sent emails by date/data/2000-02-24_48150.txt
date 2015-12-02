@@ -1,0 +1,18 @@
+
+ 
+ We have received the following executed ISDA Master Agreement (which 
+ supersedes and replaces the Master Agreement [ECT] executed 1/30/97, dated as 
+ of 10/19/95):
+ 
+ Type of Contract: ISDA Master Agreement (Multicurrency-Cross Border)
+ 
+ Effective  
+ Executed  
+ Enron Entity:  Enron North America Corp.
+ 
+ Counterparty:  TXU Energy Trading Company
+ 
+ Transactions Covered: All products covered except pulp & paper and FX
+ 
+ Confirm Desk:    As previously noted, we have agreed to a special form of 
+ confirmation acceptance letter

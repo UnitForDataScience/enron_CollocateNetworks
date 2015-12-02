@@ -1,0 +1,5 @@
+
+ 
+ Darren,  Per our discussion, attached are the confirms for the Nevada Power 
+ transaction for the Firm GTC in lieu of the master.  After review, lets 
+ discuss the credit provisions we need to insert into the GTC.

@@ -1,0 +1,26 @@
+
+ 
+ Jan,
+ 
+ FYI, Kim.
+ 
+  
+     
+ Attached is an Excel workbook detailing TW PNR activity/billing for the month of January, 2002. A summary is provided below:
+ 
+ Buyer	PO#	POI		 Dth 	Rate 	Daily/Total	 Invoice Amount 
+ PNM	27267	500617	 	49,000 	 $0.0800 Total	 	 $3,920.00 
+ USGT	27268	500622	 	14,871 	 $0.0400 Daily	 	   $607.96 
+ USGT	27268	500622		    328 	 $0.0500 Total		     $16.40 
+ USGT	27268	500622	 	21,563 	 $0.0500 Daily		$1,078.15 
+ Calpine	27507	78151		10,000 	 $0.3883 Daily	 	$7,766.00 
+ VirgPwr	27719	500623	 	* 4,793	 $0.0800 Daily	 	$9,137.52 
+ 								
+ TOTALS			100,555 			$22,526.03
+ 
+ * BOM Balance withdrawn in January
+ 
+ If you have any questions, please call me.
+ 
+ 
+  

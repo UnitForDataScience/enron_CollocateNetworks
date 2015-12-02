@@ -1,0 +1,35 @@
+
+ 
+ Sara Shackleton
+ Enron North America Corp.
+ 1400 Smith Street, EB 3801a
+ Houston, Texas  77002
+ 713-853-5620 (phone)
+ 713-646-3490 (fax)
+
+ 
+    Shifali Sharma                02/12/2001 01:39 PM
+ 
+
+  
+  
+ Hi,
+ 
+ As I mentioned most of the liquids' traders do have brent books set up and 
+ are able to trade brent.
+ 
+ The main ones are:
+ 
+ Bill White  Oil-Brent-Price
+ Spencer Vosko  Phyoil-Price
+ 
+ 
+ 
+ Other traders include Pavel Zadorozhny, Mario De La Ossa, Rob Fuller, John 
+ Wilson, Phil Clifford.
+ 
+ Thanks,
+ Shifali
+ 
+ 
+ 

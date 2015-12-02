@@ -1,0 +1,82 @@
+
+ 
+ 
+ 
+
+
+
+
+
+  
+ With the release that was put out Tuesday evening, Deal Validation should be 
+ able to change the counterparty on deals where the volume is something other 
+ than expected (e.g. confirmed, nominated, scheduled, etc.).  
+ 
+ In addition, this release will also capture "near-time" the contract changes 
+ that are made in global.  This means that need for server bounces will not be 
+ necessary.
+ 
+  New/Changes to contracts will show up without having to get out of deal 
+ manager.
+  New Counterparties, and new/changes to facilities will require getting out 
+ of all active Sitara apps (except for launch pad).  
+   Once out of all apps, start a new app - the respective information that you 
+ are looking for will appear.
+ 
+ I mention "near-time" because we are constrained by the amount of time it 
+ takes for the change in Global data to trigger an alert for Sitara who then 
+ updates its information
+ 
+ SRM (x33548)
+ 
+ 
+ 
+ 
+ 
+
+ 04/04/2000 03:41 PM
+
+
+
+
+
+
+
+
+   
+ The following changes will be made in the Global Contracts database due to 
+ receipt of executed Consent to Assignment for the following contracts:
+ 
+ Current Counterparty Name   Contract Type  Contract #   'New' Counterparty 
+ Name
+ CES - Commonwealth Energy Services  GISB   96029892  Commonwealth Energy 
+ Services
+ 
+ CES - Samuel Gary Jr. & Associates, Inc  GISB   96029302  Samuel Gary Jr. & 
+ Associates
+ 
+ CES - South Jersey Gas Company  GISB   96029143  South Jersey Gas Company
+ 
+ CP name change and Contract Type correction (Contract Type different than 
+ that provided by CES)
+ Per CES
+ CES - Southwest Gas Corporation  1/1/98 GISB  96029146
+ 
+ Per Contract File
+ CES - Southwest Gas Corporation  04/14/93 Master Purchase/Sale Interruptible 
+ (will edit Global #96029146)
+ &
+ CES - Southwest Gas Corporation  12/01/94 Master Sale Firm   (created new 
+ Global record to accommodate this K, #96037402)
+ 
+ Please note that Southwest Gas Corporation has consented to the assignment of 
+ both of these contracts.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,7 @@
+
+ 
+ Jay,
+ 
+ Have received comments that when multi day limit orders are placed, they are not alive after a friday night. I think this might have to do with orders getting wiped out duirng maintenance but I wanted to alert you to this.
+ 
+ AZ

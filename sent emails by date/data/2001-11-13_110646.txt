@@ -1,0 +1,7 @@
+
+ 
+ Steve,
+ 
+ As I remember the output from your power forecasting model gets stored in the MOD_Load table.  However, that table does not appear have results for California for the scenario ID 25 (New Model).  Does the California data have a different scenario ID?
+ 
+ Mat

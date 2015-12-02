@@ -1,0 +1,14 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Solberg, Geir\Sent Items
+ X-Origin: SOLBERG-G
+ X-FileName: geir solberg 6-26-02.PST
+ 
+ Hey Guys!
+ 
+ I went through all the templates and removed the RT prefix for all the templates. You can now sort them alphabetically making the process of finding the right template a lot easier. From now on please do no use the RT prefix when creating new templates.
+ 
+ Geir

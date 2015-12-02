@@ -1,0 +1,52 @@
+
+ 
+ OK
+ 
+ 
+
+ 
+
+ 
+
+ 
+  
+ Steve 
+    Cc: Choyce, Karen; Lindsey, Mark E.
+  
+ Jo Ann,
+ As we discussed I am sending this email to request PR2 Enterprise access 
+ re-activated for the following employees:
+   
+    Karen Choyce               HR View Basic Data & Org ENTP
+    Deana Taylor                HR View Basic Data & Org ENTP
+    Joanne Cortez              HR View Basic Data & Org ENTP     (starting in 
+ the group 7/16)
+    Rebecca Tran               HR View Basic Data & Org ENTP   &   View 
+ Payroll and Time
+    Roy Comeaux              HR View Basic Data & Org ENTP   &   View Payroll 
+ and Time
+    George Howell              HR View Basic Data & Org ENTP   &   View 
+ Payroll and Time  
+ 
+ Please note I am not requesting access for the entire department,  the list 
+ of employees above are the only individuals in our group that will be allowed 
+ this type of access. Corp's payroll accounting group is responsible for 
+ reconciling the general ledger balance sheet accounts across all Enron 
+ companies, therefore Enterprise access is needed.
+ 
+ The requested access is essential for our group to perform our job.   Without 
+ this, we are unable to trace amounts related to FIT, FICA, net pay, stock 
+ option deductions, etc,  through the payroll system to the ledger, and to 
+ ensure that the items are accounted for properly.   Equally as important,  
+ the access enables us to identify system issues between PR2 (payroll) and PR1 
+ (ledger).   Corp's payroll accounting group has already identified several 
+ processing issues and alerted the ISC.   
+ 
+ I hope this "pleads our case" on why we need the access and request it be 
+ re-activated.    Please feel free to call me or Mark Lindsey, if you need 
+ additional information. 
+ 
+ Thanks,
+ Deana
+ 3-4593
+ 

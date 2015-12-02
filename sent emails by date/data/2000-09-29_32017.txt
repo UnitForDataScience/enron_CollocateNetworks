@@ -1,0 +1,18 @@
+
+ 
+  
+ 
+ Tetco MDQ's for OCT
+ 
+ k#  MDQ  Delivery Receipt
+ 892510  16136  M3  Access (same as last month)
+ 892511  7500  M3  Access (same as last month)
+ 893145  5000  M3  Access (same as last month)
+ 892875  9400  M3  Access (same as last month)
+ 
+ 892872  19355  M2  Access (same as last month - this # may be too high)
+ 894029  5000  M2  Access (new)
+ 894028  5000  M2  ELA (new)
+ 
+ VNGk#
+ 830015  10555  M2  Access (MDQ is higher but only use 10,555 dth)

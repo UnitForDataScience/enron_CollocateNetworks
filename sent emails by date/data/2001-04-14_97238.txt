@@ -1,0 +1,26 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X-
+ X- X-b X-Folder: \ExMerge - Salisbury, Holden\Sent Items
+ X-Origin: SALISBURY-H
+ X-FileName: holden salisbury 6-26-02.PST
+ 
+ Deal number on the buy from PNM is #581199.
+ 
+ The shape of this length is:
+ 
+ HE1	50
+ HE2	50
+ HE3	50
+ HE4	50
+ HE5	45
+ HE6	20
+ HE23	35
+ HE24	50
+ 
+ Day total is 350.
+ 
+ Thanks

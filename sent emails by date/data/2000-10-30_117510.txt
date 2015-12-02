@@ -1,0 +1,66 @@
+
+ 
+ I won't be able to be on the 11:30 call this morning.  I have given Elizabeth 
+ a copy of the 'omnibus' document we probably used if the put options sold to 
+ Puget Sound were derivatives and described the arguments we could make that 
+ the imposition of the proposed price cap would be a Market Disruption Event.  
+ If it is a Market Disruption Event the most likely outcome under the contract 
+ (since it will last more than 3 days and we presumably will not be able to 
+ negotiate an agreed price) is that "the Floating Price shall be determined in 
+ good faith by ENA, by taking the average of two or more dealer quotes."  I'm 
+ not sure what dealer quotes would get us under these circumstances.  Can 
+ dealers quote prices in excess of the price cap?
+ 
+ 
+ 
+ 	Richard B Sanders
+ 	10/29/2000 09:01 AM
+ 		
+
+
+
+ 		  
+ I have set up a conference call at 11:30 on Monday to discuss.
+ 
+ 
+ 
+ 	Christian Yoder
+ 	10/27/2000 12:15 PM
+ 		 
+
+
+ 		  		  
+ In the days immediately before the application for a price cap, Puget came to 
+ us and asked us to enter into several put options.  We did so. I am advised 
+ by the traders that if this price cap were to actually be in effect,  our put 
+ option transactions would not make sense for us economically and we would 
+ never have entered into them had we known of their intention to make this 
+ filing.   I am under some pressure  to explain two things:  (i) whether the 
+ fact that they knew they were going to file for the cap when they did the 
+ options is some kind of fraud, and (ii) whether the WSPP Agreement or our 
+ ISDA swap agreements have any clauses in them to address this kind of 
+ thing,ie. is this some kind of "illegality" issue?  I am working on the 
+ second issue and have discussed it with Mark Taylor, but on the first issue, 
+ I need advice from Richard and anyone else who can help.
+ 
+ 
+ Mary Hain
+ 10/27/2000 09:50 AM
+
+
+ Portland West Desk
+   
+ Puget Sound has filed a complaint against all jurisdictional sellers of 
+ wholesale energy and/or capacity in the Pacific Northwest, including parties 
+ to WSPP agreement.  Puget Sound requests FERC to impose price cap on 
+ wholesale sales of energy and capacity in the Pacific Northwest equal to the 
+ lowest price cap "established, ordered, or permitted by the Commission for 
+ wholesale purchases by the Cal ISO or Cal PX . . . ."  Puget requests an 
+ effective date of December 25,2000.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 

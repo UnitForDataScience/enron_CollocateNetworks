@@ -1,0 +1,28 @@
+
+ 
+  this is changeable in cell M26 {when you start shipping 
+ volumes from Algeria to Elba via NB} and both AC25 and AD25 {when you start 
+ incurring charter costs for the NB}).  Regarding shipping from Venezuela, you 
+ could either run the volumes from Venezuela using the Newbuild or the Hoegh 
+ Galleon.  I chose the Newbuild b/c its voyage costs were cheaper.  The fixed 
+ costs are there regardless of which ship you choose.
+ 
+ Shipping Voyage Costs:  The voyage costs in $/MMBtu are calculated from the 
+ voyages from Algeria (for the Newbuild) and Qatar (for the Hoegh Galleon) to 
+ Elba.  The Newbuild voyage costs should drop on 1/1/04 when the volumes start 
+ coming from Venezuela (rather than Algeria), but they aren't currently 
+ modeled that way.
+ 
+ FOB to Qatar/Algeria/VZ:  This got a little complicated so I just plugged in 
+ some fixed numbers.  $1.00/MMBtu to both Qatar and Algeria, $2.30/MMBtu to 
+ Venezuela.
+ 
+ NPV Calcs:  I've done some, but delete them if you wish.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

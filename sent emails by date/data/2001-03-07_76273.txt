@@ -1,0 +1,17 @@
+
+ 
+ Hi there,
+ 
+ I think a good next step while the counterparties are reviewing the docs is 
+ the creation of a closing checklist, since we have a good starting point with 
+ the Intergen closing list.  We can get organized on putting together a 
+ package of the next traunche of docs, such as the parent guaranty, escrow 
+ agreement, etc. 
+ 
+ Thanks,
+ 
+ Kay
+ 
+ PS.  You might want to check the docs I sent out to Jake to make sure I 
+ didn't put a Panda in a Delta doc.  I checked, but I need to be double 
+ checked.  Another good reason to use XYZ's until the finalist is selected.

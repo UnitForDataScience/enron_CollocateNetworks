@@ -1,0 +1,58 @@
+
+ 
+ The purchase from Swift was shown at mtr 3405 during Dec and Jan.  I have 
+ created a new deal (#204777) to add mtr 9643 to the deal.
+ 
+ Deal 114096 is the purchase from HPLR Liquids.  This purchase is on 138544 
+ for Jan 2000 forward.
+ 
+ D
+ 
+ 
+    
+ 	
+ 	
+ 	 	
+ 
+
+
+
+  
+ Fred is trying to set up accounting arrangments to cover the Swift deal.  Can 
+ you please verify that you made this purchase from Swift?  If so, is there 
+ another deal to replace deal #114096 of should this deal be extended into 
+ January.    If I should forward this to someone else, please let me know.  
+ 
+ Thanks for you help, Stella
+ 
+ 
+ 
+ 
+ Fred Boas
+ 02/24/2000 11:25 AM
+
+
+  
+ Stella:
+ 
+ The Swift deal is not pathed correctly in POPS.  I set up an accounting 
+ arrangement on the 012-41500-02-015 contract with the Track ID 80705.  Would 
+ you put the contract in POPS with the associated Track ID?  
+ 
+ The transportation contract (012-41500-02-003) for the Liquids Replacement 
+ gas is not POPS.  I looked in Path Manager and there is no deal for it 
+ either.  In December, the deal for this gas was 114096.  Could you extend the 
+ deal or get me the number for the new deal if there is one?  I need to set up 
+ an accounting arrangement so I will need for you to verify the deal number 
+ and transportation contract that this gas is supposed to go on.  When I set 
+ up the accounting arrangement I will let you know what the Track ID is so you 
+ can put the contract at meter 9643.
+ 
+ Let me know when all of this is done so that I can reallocate the meter.
+ 
+ Thanks,
+ 
+ Fred
+ 
+ 
+ 

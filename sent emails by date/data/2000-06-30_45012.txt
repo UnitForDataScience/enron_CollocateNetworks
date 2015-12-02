@@ -1,0 +1,23 @@
+
+ 
+ We really haven't used the Local Currency form in several years.  We found 
+ that we were getting requests to switch to the Multicurrency Form so 
+ frequently that we made the Multicurrency our primary form.  In the long run 
+ we have found that the Multicurrency Form gives us the most flexibility as 
+ the trading markets become more international in nature.  If you prefer the 
+ Local Currency it may take me asome time when we get back on Wednesday to 
+ compare the forms and convert the document over.  Please let me know if that 
+ is your preference.
+ 
+ 
+ 
+
+ 	06/30/2000 05:15 PM
+ 		 
+
+
+ 		  
+ 
+ Thanks for the copy of the draft Agreements. Do you have a Local Currency -
+ Single Jurisdiction version of this agreement? Since this is a single, one
+ time transaction that would be a better agreement for us. Thanks

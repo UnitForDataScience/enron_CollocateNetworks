@@ -1,0 +1,7 @@
+
+ 
+ The sound card does not work on my eol machine-it works on the keyboard 
+ supporting eol which is opposite of what I want.  I want the screen to ding 
+ every time someone trades on eol.  I don't want to listen to my self type in 
+ deals on the keyboard.  My Enron computer system works fine right now.  If 
+ you could handle getting the eol problem fixed I would appreciate it.

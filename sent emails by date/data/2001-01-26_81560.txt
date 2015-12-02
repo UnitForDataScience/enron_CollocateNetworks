@@ -1,0 +1,42 @@
+
+ 
+ 
+    
+ 	Enron North America Corp.
+ 	
+
+ 	
+ 
+
+
+
+
+
+
+ 
+  
+ Please distribute to your book administrators:
+ 
+ If you enter deals with the following entities, please use the TAGG shortname 
+ below and Enron entity of ECC:
+ 
+ Counterparty    TAGG shortname
+ 
+ AEC Oil & Gas (any AEC name)  AEC-OIL&GAS
+ 
+ Alberta Energy Co.   AEC-OIL&GAS
+ 
+ Agrium     AGRIUM
+ 
+ Dynegy Canada   DYNEGYCAN
+ 
+ Engage Canada   ENGAGEENECAN
+ 
+ TransCanada    TRANSCANENEFIN
+ 
+ Duke Energy Mkt (Canadian point) DUKEENEMARLTD
+ 
+ 
+ 
+ Thanks for the help.
+ Joe Hunter

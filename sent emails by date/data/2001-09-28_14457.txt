@@ -1,0 +1,8 @@
+
+ 
+ Here is my recollection of the sequence of events. The concept of an operationally available capacity report and what it contains are already in GISB standards.  FERC then picked up on this concept, added design capacity & said that the report needs to be updated at each nomination cycle in Orders 587-L and in Order 637 transactional reporting.  GISB has since adopted standardized data formats for the transactional reporting, recently published in GISB version 1.5 standards.  While these standard formats have been adopted, and I believe that we are following these formats, they haven't yet been adopted by FERC  
+   
+  
+ 
+ 
+ Indicated Shippers in their Reply to our Reply brief (at 19) argue that we implied that our capacity postings are consistent with the standardized Gisb format.  They compare our postings to NGPL's, which are different, to support their argument.  Then they conclude that there is no standardized GISB capacity-posting format.  Is this true?  How can we respond if this comes up at oral argument tomorrow?  Maria

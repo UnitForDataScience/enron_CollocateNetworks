@@ -1,0 +1,29 @@
+
+ 
+ 
+ 
+ 
+
+
+
+   
+ 
+ Hi,
+ I'm sending this to all the people I know because I think it is important
+ to you.
+ Everyone wants faster internet access, primarily for the world wide web.  I
+ know we did.
+ So, we got DSL from Pacific Bell.  It was wonderful!  But, quickly we
+ learned that we were now exposed to hackers or others with evil intentions
+ because they could reach our computers directly through the net.  So, we
+ hired a local consultant to build us a firewall computer.  For $250 we got
+ a secure computer running Linux attached to our DSL on one side and our
+ local area network on the other and were no longer easy prey for the
+ cyber-hackers.
+ Everyone and his mother-in-law is now selling DSL or cable modem services.
+  But, they don't tell you about the risks.
+ Read this article and remember to acquire security when you acquire faster
+ access.
+ http://www.networkmagazine.com/magazine/current/0005wide.htm
+ Bob Brooks
+ 

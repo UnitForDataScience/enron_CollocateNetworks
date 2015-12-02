@@ -1,0 +1,11 @@
+
+ 
+ 	i fixed it. until further notice PJM to NY deals will have a trans. id of 5062820,5064308,or 5064505.  NY to PJM trans id is 5042199.
+ 	lc
+ 
+  
+     
+ 5/16 - Trans Id. 5062820 shows 1033 mw R/T but we do not show this in EnPower.  However, deal 613492 in EnPower for 1270 mw does not go with anything with NY. The comments are not helping in identifying what transaction it goes with. Could you please advise.
+ 
+ Thanks,
+ Jim Cashion

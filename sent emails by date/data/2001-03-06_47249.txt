@@ -1,0 +1,4 @@
+
+ 
+ My database is not showing that I've looked at this counterparty before, so I 
+ need to know if they are an ESP, or not?

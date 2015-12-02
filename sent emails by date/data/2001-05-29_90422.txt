@@ -1,0 +1,36 @@
+
+ 
+ I need approval for this ERCOT Schedule C.   The e-mail from Stacey outlines the details.
+ 
+ Thanks.
+ 
+  
+ 
+  
+
+ 05/11/2001 01:59 PM
+
+
+  
+ Chris and Anita-
+ 
+ I created a Schedule C in LT-Ercot today for ($1,713,647) relating to the BP Energy/ Green Mountain transaction.  The reserve is broken out as follows:
+ 
+ Description			Volume		Reserve		Amount
+ Energy Reserve		(623,144)		$1.50			($934,717)
+ Ancillary Reserve		(623,144)		$1.00			($623,144)
+ QSE Reserve			(623,144)		$0.25			($155,786)
+ TOTAL									$1,713,647
+ 
+ 
+ Power Structuring as provided the following amortization schedule for these reserves:
+ 
+  
+ Let me know if you have any questions.
+ 
+ Andrea
+ 
+ 
+ 
+ <Embedded Picture (Device Independent Bitmap)>
+ <Embedded Picture (Metafile)>

@@ -1,0 +1,11 @@
+
+ 
+ Please set up the following Sonat contract with ENA as agent for CES
+ 
+ Pipeline Southern Natural
+ k#  SSNG10
+ Firmness Firm\
+ Service Type CSS
+ Rate  CSS
+ Term  Term 
+ DAtes  1/1/2000 - 1/31/2000

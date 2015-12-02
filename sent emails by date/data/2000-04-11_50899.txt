@@ -1,0 +1,38 @@
+
+ 
+ Shirley,
+ 
+ The invoice for papers I have ordered on-line.
+ 
+ Vince
+ 
+ 
+ 
+
+
+   
+ 
+ You have ordered the following papers:
+ - WP W7613
+   Foundations of Technical Analysis: Computational Algorithms, Statistical 
+ Inference, and Empirical Implementation
+ - WP W6250
+   Pricing and Hedging Derivative Securities in Incomplete Markets: An 
+ E-Aritrage Model
+ 
+ The total cost (excluding shipping) is:
+ $US 10
+ 
+ Shipping address:
+ 
+ 
+ If you ordered papers for electronic delivery and experienced problems
+ downloading them, browse the following URL(s) to download your paper
+ orders. The URL(s) are valid for 7 days.
+ 
+ http://nberws.nber.org/tmp/31590.w7613.pdf
+ http://nberws.nber.org/tmp/31590.w6250.pdf
+ 
+ If you receive duplicate bills, please send a note to <A
+
+ 

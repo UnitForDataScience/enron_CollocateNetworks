@@ -1,0 +1,9 @@
+
+ 
+ The eData LOg on screen is not appearing after clicking on the eData icon.  It seems to lock up???
+ 
+ Any ideas.
+ 
+ Paul Thomas
+ Enron Corp
+ 713-853-0403

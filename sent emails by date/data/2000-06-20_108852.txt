@@ -1,0 +1,8 @@
+
+ 
+ The two canadian points (Dawn and Niagara) are quoted in US dollars so a 
+ basis can be calculated.  We also need to add NIT (AECO).  John McKay manages 
+ this product.  He should know the hours of trading and which day should be 
+ selected for index calculation.
+ 
+ Hunter

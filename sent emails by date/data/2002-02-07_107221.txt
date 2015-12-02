@@ -1,0 +1,29 @@
+
+ 
+ fyi only - this has to do with ACCESS trading only
+ 
+  
+
+     CONTRACTS
+ 
+ Notice # 02-46
+ February 7, 2002
+ 
+ TO:	All NYMEX Division Members
+ 		All NYMEX Division Clearing Members
+ 
+ FROM:	J. Robert Collins, Jr., President
+ 
+ RE:		EFP/EFS PROCEDURES FOR NYMEX ACCESS
+  CONTRACTS
+ 
+ Please be advised that the following procedures should be followed when
+ executing an EFP or EFS trade for any futures contract that trades
+ exclusively on NYMEX ACCESS
+ .
+ 
+ Orders should be sent to the floor and pitcards should be submitted to the
+ Late Pit-Card submission area.
+ 
+ Pitcards should be marked appropriately indicating that the trade is an EFP
+ (marked with and E) or an EFS (marked with an F).

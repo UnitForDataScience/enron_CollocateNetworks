@@ -1,0 +1,15 @@
+
+ 
+ I want our VAR to be accurate on all accounts and I will settle for nothing less.
+ 
+  
+    Cc:	Gupta, Sanjay
+  
+ Dear All,
+ 
+ 	For the Heat Rate Swaps, we have gone through the PortCalc program and confirmed that it is using the combined NG price and Basis for the calculations, it is not an easy task to split the calculation and store the results separately, please let us know if this is of utmost importance and shall be prioritized accordingly.
+ 
+ 	Regards,
+ 
+ 
+ Norman.

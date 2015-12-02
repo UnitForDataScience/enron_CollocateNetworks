@@ -1,0 +1,24 @@
+
+ 
+ I have no objection to changing the product name.  The tax issue concerns the 
+ location of the trader - if the guy managing the prices is in London but the 
+ transactions are with ENA, there may be tax implications.
+ 
+ Mark
+ 
+ 
+ 
+ 
+ Bob Crane
+ 04/25/2000 08:35 AM
+
+   
+ Mark,
+ 
+ I have not yet been contacted by legal/tax regarding the change of 
+ description for PIX indices.  We still basically want only to delete "US" and 
+ replace it with "PIX".  To my simplistic, non-legal, mind this is a pretty 
+ simple issue....can't we just do it??
+ 
+ Bob
+ 

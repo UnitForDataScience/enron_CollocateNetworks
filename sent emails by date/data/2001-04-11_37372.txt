@@ -1,0 +1,98 @@
+
+ 
+ 
+ 
+ 
+ Vincent Strohmeyer
+ 04/10/2001 01:52 PM
+
+
+ 
+  
+ Jeff,
+ 
+ I hope you can help me with this.  I need to find a way to identify 
+ offsetting 3rd party derivative transactions relating to the internal trades 
+ done with TW for the following deals:
+ 
+ TW RMTC QL2915.1
+ TW RMTC QL2918.1
+   
+   
+ TW RMTC QL5424.1
+ TW RMTC QL5444.1
+   
+   
+ TW RMTC QL5357.1
+ TW RMTC QL5358.1
+   
+   
+ TW RMTC QL9270.1
+ TW RMTC QL9273.1
+ 
+ Tiffany Miller identified you as the person that did this for our deals with 
+ ENA earlier.  Please let me know as soon as possible, if you can help.  If 
+ not, do you have any suggestions?
+ 
+ Vince
+ 713.853.6701
+ 
+ 
+
+ 04/10/2001 11:36 AM
+
+
+ 
+  
+ 
+ 	
+ 
+ Dan/Bob,
+ Following my voice mail message (to Dan), I want to circle back on the 
+ accounting impact of the recent internal transportation derivatives between 
+ TW and RMTC.
+ 
+ The concern that has arisen is that TW has taken the "out-of-the-money" 
+ impact of these trades (approx. $27MM) to OCI while RMTC has marked the 
+ "in-the-money" impact through income.
+ 
+ TW has taken its impact to OCI because it is, on a standalone accounts basis, 
+ designating these internal trades in cash flow hedge relationships.
+ 
+ However, from an Enron consolidated financial position viewpoint, the 
+ internal trades cannot be designated as hedges (and, thus, would need to be 
+ reversed which would have a negative impact on earnings of $27MM).
+ 
+ So, in order not to have this negative impact, 3rd party "offset" 
+ transactions in ENA must be identified and documented as cash flow hedge 
+ transactions.
+ 
+ It may be that RMTC has already identified offsetting 3rd party derivative 
+ transactions relating to the internal trades done with TW. 
+ 
+ However, if not, we think that the best place for responsibility for getting 
+ these 3rd party trades IDENTIFIED AND PROPERLY DOCUMENTED IN CASH FLOW HEDGE 
+ RELATIONSHIPS is with the business unit that wanted the internal trade in the 
+ first place - i.e. TW in this case.
+ 
+ If this has not already been done, can you have someone in your shop work 
+ with ENA to identify and obtain copies of sufficient 3rd party trades that 
+ hedge the risk hedged by TW. Once this is accomplished, Enron Corp. 
+ consolidated hedge documentation needs to be established as a matter of 
+ urgency; again, we consider this responsibility is best placed in the BU 
+ using the internal trade as a hedge. In this regard, Ernie (effectiveness 
+ testing) and I will be available to assist with this documentation.
+ 
+ Please do not hesitate to advise comments or questions on this matter. I am 
+ preparing the FAS 133 impact 3/31 Pro-Formas based on the identification and 
+ development of the consolidated hedge documentation.
+ 
+ Roger
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,20 @@
+
+ 
+ Team,
+ 
+ We now have the capability of importing live EOL quotes into our models if so desired.  Colin Tonks, who supports IT development efforts for the trading floor, has made this capability available to us via a file that I have now saved in the Models directory under the name "EOL_Product_Listen".
+ 
+ In order to run the file, you will first need to run a program called "Tibco Rendezvous Client"  You can run this program by going to the Start Menu/System Utility Applications/Installation and Disk Creation/"Install Tibco Rendezvous Client".  You will have to reboot after installation is complete.  After rebooting you can then open the program "EOL Program Listen".
+ 
+ The program has 2 sheets: 1) EOL, and 2) EOL_Search
+ 
+ Sheet 1 (EOL) is the sheet that pulls in the live quotes based on an EOL ID number that you enter in column C. In order to determine the correct EOL ID number, you need to use Sheet 2 (EOL_Search).  On this sheet, you can enter a search string in cell B1 and then hit the search macro.  Efficient use of this search macro requires some trial and error since the search is limited to a max number.  Once you find your product ID #, you can enter it into Sheet 1 (EOL) and then hit the "Start" button.  You will then be pulling in live quotes which can be linked to any model which you wish.
+ 
+ A word of caution:  We will likely all find limitations into how this tool can be effectively used.  For instance, it has been brought to my attention that the product ID #'s change each month as new prompt months roll on.  Thus, the tool should be used with discretion and verification that the right ID # is linking up should always be verified, especially on older files.  Nonetheless, as we get comfortable with the tool, I believe that it will provide some value on deals that require real-time pricing inputs.
+ 
+ Please let me know if you have any questions/comments.  I can provide a quick demo at my desk if anyone wishes.
+ 
+ 
+ Thanks,
+ 
+ Charlie

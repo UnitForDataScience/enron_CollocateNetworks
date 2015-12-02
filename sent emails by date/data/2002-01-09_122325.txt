@@ -1,0 +1,18 @@
+
+ 
+ Steve,
+ 
+ James re-ran Trans Pecos with the following:
+ 
+ 	Term:  20 years
+ 	Rate:  $0.261
+ 	Volume:  240,000 MMBtu/d
+ 	Cost:  $130.274MM (Without cost of NNG I/C and over-run up to $143.9MM)
+ 		then
+ 	ROE: 12.38%
+ 
+ 	If Cost is capped at $130.274 (no over-run), then ROE is 15.25%
+ 
+ 
+ 
+ Let's discuss tomorrow morning.    Kim.

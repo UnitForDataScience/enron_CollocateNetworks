@@ -1,0 +1,45 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X-
+ X- X-b X-Folder: \ExMerge - Richey, Cooper\'Sent Mail
+ X-Origin: RICHEY-C
+ X-FileName: cooper richey 6-26-02.PST
+ 
+ 
+ I'm getting some error messages when I try to use the Houston mail server to send out automated messages - it 
+ seems like 'external' messages are getting rejected (messages going to my enron.com account work fine.)  
+ 
+ the error message i get back is below.
+ 
+ Are you seeing any similar problems?
+ 
+ 
+ 
+ 
+ 
+ Delivery Failure Report
+ 
+ Your document:	CG4	
+
+ because:	551 Recipient Not Local	
+ 
+ 
+ What should you do?
+ You can resend the undeliverable document to the recipients listed above by choosing the Resend button or the Resend command on the Actions menu.  
+ Once you have resent the document you may delete this Delivery Failure Report.
+ If resending the document is not successful you will receive a new failure report
+ Unless you receive other Delivery Failure Reports, the document was successfully delivered to all other recipients.
+ 
+ 
+ ENE-MTA01/Enron, ENE-MTA01/Enron, ENE-NS03/Enron, ECTHOU-LNHUB1/ECT, ECTCAL-LN1/ECT
+ 
+
+ 
+ 
+  
+   
+ 
+ CG4 BELOW THRESHOLD 

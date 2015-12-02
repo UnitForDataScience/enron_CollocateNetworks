@@ -1,0 +1,71 @@
+
+ 
+ Hi there,
+ 
+ I made some revisions to the language Rose proposed.
+ 
+ Here are some questions/comments:
+ 
+ I deleted the references to changing any delegation of rights/obligations. =
+ =20
+ I'm not yet clear as to what the agency language will look like, and what=
+ =20
+ rights we need/want to change (i) the identity of the agent (ii) the role o=
+ f=20
+ the agent (iii) whether the agency can be terminated.  I'm just not that=20
+ familiar with the structure yet, but if I can get that information, I'll wo=
+ rk=20
+ on it.=20
+ 
+ I suggest we consider using a credit rating instead of "substantially=20
+ similiar" comparison.  Just easier to decipher.
+ 
+ Rose/Lisa, I've added some SPV language.
+ 
+ I'm added receipt of final payment as an exception to the credit rating=20
+ standard.  In other words, if they have received their final payment, they=
+ =20
+ can't use credit as a reason to not give consent.
+ 
+ I don't think we should agree to provide a list of power projects done by t=
+ he=20
+ assignee in the past 5 years.  I also think 3 years is a bit much on audite=
+ d=20
+ financials, but I didn't comment there.
+ 
+ I don't like their language that an affiliate must be intending to=20
+ own/operate the plant.  I've just bracketed the langauge and added=20
+ "construct", since I don't know if this point has already been agreed.
+ 
+ Enough explanation, here it is (with Word file attached below):
+ 
+ 
+ 
+ Except for as described in Section hereto.  Any failure to respond in writing withi=
+ n=20
+ the foregoing period shall be deemed to constitute consent.
+ 
+ When duly assigned in accordance with this Article, (including, following a=
+ ny=20
+ collateral assignment, upon foreclosure by any collateral assignee), (i) th=
+ is=20
+ Agreement or the rights and/or obligations so assigned shall be binding upo=
+ n=20
+ and shall inure to the benefit of the assignee (and all rights and/or=20
+ obligations so assigned, including, without limitation, any and all warrant=
+ y=20
+ rights, shall be assigned to the assignee as if such assignee were an=20
+ original party hereto), (ii) the assignor shall be irrevocably relieved of=
+ =20
+ and forever discharged from all liability under this Agreement so long as t=
+ he=20
+ assignee executes an assumption of this Agreement and such liabilities and=
+ =20
+ obligations herein, and (iii) Seller shall look only to such assignee for t=
+ he=20
+ performance of the obligations so assigned.  Any assignment other than as=
+ =20
+ permitted herein shall be void and without force or effect.
+ 
+ 
+ 

@@ -1,0 +1,31 @@
+
+ 
+ FYI
+ 
+ 
+ 
+ Dawn C Kenne
+ 03/13/2001 06:20 PM
+
+
+
+
+  
+ In order for EOL to support the Broker Client Application, we are requesting 
+ that EOL be removed from the broker field in Tagg on all previous EOL 
+ transactions.  We would like this "sweep" to be performed on Thursday 
+ evening, if possible.  What this means to end users is that they will no 
+ longer be able to query on the broker field to find EOL deals in Tagg.  The 
+ only way to search for EOL deals in the future will be to query on the EOL 
+ transaction number.
+ 
+ Please communicate this new procedure to your groups.  Also, I don't know if 
+ Ron/Joe cover the Canada confirmations, if not, please let me know who the 
+ confirmations contact is in Canada. 
+ 
+ Jeremy/Ron, please let me know if Thursday evening works for you to clean out 
+ the broker field.
+ 
+ Thank
+ 
+ 

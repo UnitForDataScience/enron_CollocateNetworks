@@ -1,0 +1,34 @@
+
+ 
+ Chance, take a look at this file it will give you an ideal of what formate we are looking for on a consolidated report. We need the info non-PVed. Also, the oxy Info needs to be seperated.
+ Info we need is:
+ 
+ Wholesale Financial                                 
+ Price
+ Basis
+ Nymex Equiv.
+ Index
+ 
+ Wholesale Physical 
+ Price
+ Basis
+ Nymex Equiv.
+ Index
+ 
+ EES Financial                                 
+ Price
+ Basis
+ Nymex Equiv.
+ Index
+ 
+ EES Physical 
+ Price
+ Basis
+ Nymex Equiv.
+ Index
+ 
+ 
+ 
+  
+     
+  

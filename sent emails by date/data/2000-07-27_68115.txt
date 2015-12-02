@@ -1,0 +1,9 @@
+
+ 
+ Attached is the file that I use from Storey to load his curves.  It has quite 
+ a few tabs because he uses the model to track his positions and P&L.  The 
+ tabs that should be of interest to you are the upload tab - for the curve 
+ names and the batch tab for the curve prices.  Please give me a shout with 
+ any questions.
+ PL
+ 3-7376

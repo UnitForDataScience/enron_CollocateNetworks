@@ -1,0 +1,21 @@
+
+ 
+ Thanks,
+ I appreciate the great work!  Like we said, come over around 2:30 and we can go over the procedures.
+ 
+ Paul
+ 
+  
+    Cc:	Allen, Thresa A.; Thomas, Paul D.
+  
+ I researched all the errors and they were deal entry problems on the scheduler or trader's side, not program errors.
+ 
+ I think is looks good and can be moved into production.
+ 
+ We will have to watch it closely for a while and the might be some small changes or enhancements, but overall I think it is done.
+ 
+ I will get together with the schedulers and traders sometime today to show them what to do.
+ 
+ Thanks for all your hard work.
+ 
+ Rebecca

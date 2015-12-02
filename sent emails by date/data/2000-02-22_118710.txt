@@ -1,0 +1,19 @@
+
+ 
+ These look ok.  I'm still unhappy with using an average of the index for each 
+ day when there is only one index for the entire month but I guess we're stuck 
+ with it for now.
+ 
+ 
+ 
+ 
+ Dale Neuner on 02/17/2000 04:41:54 PM
+
+
+  
+ Please review and offer comments/approval.
+ 
+ Dale
+ 
+ 
+ 

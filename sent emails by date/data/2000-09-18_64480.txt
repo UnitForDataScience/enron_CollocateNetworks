@@ -1,0 +1,9 @@
+
+ 
+ Cooper-
+ 
+ The sheet that you sent me earlier doesn't refresh anymore.  It is  saying 
+ that a rollback transaction is missing.  Let me know if I need to do anything 
+ to fix it.  Thanks for your help.
+ 
+ Matt

@@ -1,0 +1,35 @@
+
+ 
+ Howard, 
+ 
+ The Park  and Ride deals should be booked to a transport contract.  Desk to 
+ desk deals should be on the transport contract also.
+ 
+ D
+ 
+ 
+ 
+ 
+ Howard B Camp
+ 01/27/2000 10:17 AM
+
+
+
+  
+ Daren,
+ Just a quick note to follow up on UA4 issues.
+ 
+ For desk to desk deals, we are keeping the entry on co 89 since there is not 
+ a Co 16 contract with Co 16 and attaching an ECT transport contract to the 
+ backscreen.
+ 
+ On Park and ride deals, I am under the impression that the Park and ride deal 
+ would be booked to an 089 contract and cleared either intra month or in a 
+ subsequent month.
+ If this is true, was it done by reversing out or offsetting the previous Co 
+ 89 entry.  I am not sure whether an ECT transport should be attached.  I hope 
+ you have some insight on this issue.
+ 
+ Let me know
+ HC
+ 

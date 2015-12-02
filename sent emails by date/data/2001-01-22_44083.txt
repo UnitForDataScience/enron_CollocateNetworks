@@ -1,0 +1,5 @@
+
+ 
+ Please review the Collateral Threshold amount language added as item 12 to 
+ the Firm GTC.  The 3rd party debt default language was added as a triggering 
+ event.  

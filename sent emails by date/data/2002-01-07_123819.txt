@@ -1,0 +1,24 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - White, Stacey W.\Sent Items
+ X-Origin: WHITE-S
+ X-FileName: stacy white 7-15-02.PST
+ 
+ I know of nothing in stage that I use.  I would like to make sure Casey and John both agree with me.
+ 
+ Stacey
+ 
+  
+    Cc:	Nommensen, Dave; Luu, Duong; Crooks, William; Yang, Zhiyun; Balasundaram, Arun; Govindasamy, Sivakumar; Zheng, Min
+  
+ Dear All,
+ 
+ 	We are going to forever shutdown ( destroy) the EnPower Stage ( pwrtestp ) database in the near future, and would like to confirm if there is anything that should be saved or copied to another database. Please let us know.
+ 
+ 	Thanks,
+ 
+ 
+ Norman.

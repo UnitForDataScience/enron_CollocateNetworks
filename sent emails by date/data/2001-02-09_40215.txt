@@ -1,0 +1,12 @@
+
+ 
+ Steve Walton has suggested the following definitions concepts for definitions 
+ of "Congestion Zone" and "Flowpath"
+ 
+ Congestion Zone - Segment of Electric System within which there is minimal 
+ congestion between busses.
+ 
+ Flowpath - A facility or set of facilities that represent commercially 
+ significant constraints within the transmission system.
+ 
+ As we discussed, Steve affirmed that these are terms of art.

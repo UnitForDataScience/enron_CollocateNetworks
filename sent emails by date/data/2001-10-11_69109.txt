@@ -1,0 +1,15 @@
+
+ 
+  
+ 
+     
+ 
+ Please make sure all of your book admins running WeaponX are compressing the databases on a weekly basis AT LEAST.
+  
+ I've seen a couple recently approaching 1/2 gigabyte.  As a result, we are wasting tons of disk space.
+  
+ Let me know if you have questions.
+  
+ Thanks,
+ Greg
+  

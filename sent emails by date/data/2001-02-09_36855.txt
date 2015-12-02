@@ -1,0 +1,47 @@
+
+ 
+ Joe,
+ 
+ Call Pat Ryder for West desk requests.
+ 
+ DG
+ 
+ 
+ 
+    
+ 	
+ 	
+ 	 	
+ 
+
+
+
+   
+ 
+ Jeff, 
+ Thanks for the lead with Avril Forster, it looks like that will help us in 
+ the near future.  Until we can get EnTelligence built to our specifications, 
+ we'll need to continue to go to the different desks to provide Mark-to-Market 
+ valuations for a Counterparty's portfolio.
+ 
+ Desk heads,
+ 
+ Can you provide to Ellen and myself the names of the person on your desk who 
+ we should go to with these requests.  Also, please let these persons know 
+ that we will be coming to them often with these requests (we recieve several 
+ per week).
+ 
+ Here's the background of these requests.  Because of various accounting 
+ rules, Parties dealing in Derivatives must show third party valuations to 
+ their Auditors.  Our group (Confirmations) is responsible for providing MTM 
+ values and open position reports for these parties.  We do not have access to 
+ any system that values these deals, but are looking to get the on-line 
+ "EnTelligence" built so that it carries back-dated curves that will allow us 
+ to complete these requests without taking up a Risk person's time and without 
+ having to black out information (Delta/Vol) that is included in a mini-book.
+ 
+ Thanks for the help.  We'll try to get these off of your plates as soon as 
+ possible.
+ 
+ Joe
+ 

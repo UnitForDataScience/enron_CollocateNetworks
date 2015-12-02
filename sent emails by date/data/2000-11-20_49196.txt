@@ -1,0 +1,29 @@
+
+ 
+ 
+ 
+ 
+ Zimin Lu
+ 11/17/2000 04:37 PM
+
+
+  
+ 
+ 
+ Stinson,
+ 
+ I add the total P/L due to contract rollover.  When the number of trades is 
+ large
+ and the spread is not too small, the model prints a lot of money, dominated by
+ those trade earning the half of BO spread. 
+ 
+ I also wrote an explaination about the model on the front page. I think we 
+ are 
+ ready to deliever the model V.1.
+ 
+ 
+ 
+ Zimin
+ 
+ 
+ 

@@ -1,0 +1,5 @@
+
+ 
+ This deal was unwound with a paper ticket.  Trader did not mean to ok the 
+ deal in EOL.  No way to kill EOL deal without booking.
+ PL

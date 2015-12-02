@@ -1,0 +1,17 @@
+
+ 
+ 
+ 
+  
+     
+ The option query that we ran this morning does not tie back to AdHoc.  I first realized it when I was trying to clean up deals that had many strips.  There were instances where the P&L and delta were not consistent for every strip so I looked in AdHoc to see which number was right and that is when I started noticing inconsistencies.  Could you please query the P&L and Delta for the following deal numbers in spreadsheet.  The only way I have to do this is to query each deal separately in AdHoc.  Your help would be greatly appreciated.
+ 
+ Stacey
+ 
+ Phone numbers where I can be reached:
+ 
+ Home - 281-894-0468
+ Work - 713-853-1870
+ 
+ Thanks,
+ Stacey 

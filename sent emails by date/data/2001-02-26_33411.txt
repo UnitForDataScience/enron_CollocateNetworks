@@ -1,0 +1,16 @@
+
+ 
+ 
+ Trans. Svc. Provider: 007933021 - TRANSCONTINENTAL GAS PIPE LINE CORPORATION
+    Notice Identifier: L0102261
+      Critical Notice: No
+       Type of Notice: 6-Other
+    Required Response: 5-No Response Required
+    Resp By Date/Time: N/A
+ Notice Eff Date/Time: 02/26/01 11:32:05
+ Notice End Date/Time: N/A
+               Status: 1-Initiate
+  Prior Notice Ident.: N/A
+
+ 
+  - C.DTF

@@ -1,0 +1,50 @@
+
+ 
+ CNG SAbine contact is Alain Diza 713-752-7690.
+ 
+ 
+ 
+ 
+ 
+ 
+ Richard Pinion
+ 12/28/99 03:54 PM
+
+
+
+  
+ Actually, the service is called "Parkfolio" by the hub.  Sylvia just needs to 
+ verify that this is a point based service like the IHT service to finish.  If 
+ you could call sylvia ASAP and all will be finished by today.
+ 
+ RP
+ 
+ 
+ 
+ 
+ 
+ Richard Pinion
+ 12/20/99 04:31 PM
+
+
+
+ (b  
+ As per our conversation today, we will set up a new service for contract 
+ I00059 that will be "Park and Lend".
+ 
+ I talked with Scott Mills regarding the Sitara end; he said two tickets were 
+ necessary:
+ 
+  1.  An Exchange ticket with the counterparty "CPR PIPELINE EXCHANGE" (when 
+ done with the pipeline) and
+  2.  A Storage Capacity Ticket with the pipeline (CNG Sabine Hub Services) as 
+ the counterparty.  This is where you
+   will set up the rate you have negotiated with the pipeline and the service 
+ that Molly can path on so as to
+   get the correct rate for the service.
+ 
+ I will check with Kirk Lenart to confirm the correct way for Global to set 
+ this up and I will let you know so you may select it on your deal ticket.
+ 
+ 
+ 

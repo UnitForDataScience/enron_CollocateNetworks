@@ -1,0 +1,5 @@
+
+ 
+ no-I wanted my machine to make a sound every time someone traded on EOL but 
+ instead it's hooked up to my keyboard so that when I type the keyboard makes 
+ sounds instead.

@@ -1,0 +1,26 @@
+
+ 
+ 
+    Nagwa Elkachouty                07/04/2002 12:34 PM
+ 
+
+  
+  
+ hello Mark;
+ 
+ I need to get the following information for the 750 kw turbines, may be  from 
+ storm lake, lake benton 1&2  . We need these info's ASAP  , Please help !
+ 
+ currents all 3 phase if possible ( generator)
+ voltages all 3 phases if possible (generator
+ generator RPM, KW, generator temperature  1&2
+ generator rotor current ,voltage , frequency, any information the system is 
+ recording for the rotor I would like to get it.
+ 
+ Can we collect the above information over all the speed range of the 
+ generator since the turbine starts till maximum speed  ( 
+ hypersynchronous).above synchoronus
+ 
+ Thanks very much
+ 
+ Nagwa

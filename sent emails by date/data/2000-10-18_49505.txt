@@ -1,0 +1,21 @@
+
+ 
+ 
+ 
+ 
+
+ 10/17/2000 04:00 PM
+
+   
+ Vince,
+ I have put together a parameter estimation model, which is continuation of 
+ Tanya's model.
+ The estimation process is more consistent now. Attached are the model and a 
+ brief
+ write-up of the methods. If you see any problem/ways to improve it, please 
+ let me know.
+ 
+ Best,
+ Alex
+ 
+ 

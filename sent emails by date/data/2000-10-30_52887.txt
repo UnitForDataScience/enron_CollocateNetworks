@@ -1,0 +1,37 @@
+
+ 
+ 
+ 
+ 
+ Zimin Lu
+ 10/19/2000 05:20 PM
+
+
+  
+ 
+ 
+ Sanjeev and John,
+ 
+ Thanks for your continuing interest for the storage model.   The storage 
+ model is
+ the extension to the swing model we sent you earlier, in the case of swing, 
+ you are only allowed to
+ withdraw or hold. 
+ 
+  I will add some heading to the "log" files from the 
+ model.  These files includes
+ 
+ Curve.txt  which records the price trajectories of the  first 10 simulations,
+ 
+ Op???.txt, where ??? are the numbers represent the day,  these files record
+ decisions for each gas level, each price node for the given day.
+ 
+ All these files are C:\temp.
+ 
+ I did a presentation about the storage valuation, which explains the basic 
+ ideas.  
+ Take a look, I am open for more discussions.
+ 
+ Zimin
+ 
+ 

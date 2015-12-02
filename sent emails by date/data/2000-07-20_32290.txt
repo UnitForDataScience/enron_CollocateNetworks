@@ -1,0 +1,6 @@
+
+ 
+ I changed the rate on transport usage deal 227992 from $.27 to .32.  Impact 
+ will be ($18,400)
+ 
+ I need your help  changing the curve formula - please.

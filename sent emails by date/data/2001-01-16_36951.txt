@@ -1,0 +1,26 @@
+
+ 
+ This is a physical deal.  Leg 4 is unwinding Leg 1.  Leg 1 had the Price and 
+ Basis components and Leg 3 had the Index component.  I am in Chicago today 
+ and tomorrow.  If you have any further questions, please let me know.
+ 
+ DG
+ 
+ 
+    
+ 	Enron North America Corp.
+ 	
+
+ 	
+ 
+
+   
+ Darron:
+ 
+ Leg 4 of this deal is in TAGG as a physical swap instead of a physical 
+ forward.  Is this a physical or financial deal?
+ 
+ Thank you:
+ 
+ Derek
+ 

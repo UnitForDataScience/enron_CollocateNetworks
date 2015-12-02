@@ -1,0 +1,5 @@
+
+ 
+ Yes, we do have a standard Enron guaranty form.  It is located in  
+ atty.fms/swaps/current forms/guaranty.doc (both the Enron & counterparty 
+ guarantees are in there).

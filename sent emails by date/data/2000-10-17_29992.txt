@@ -1,0 +1,39 @@
+
+ 
+ Guys:  currently the system is designed to match upstreams and downstreams 
+ for buy/sells in contract exchange, and the scheduler would then recreate 
+ these paths in Unify.  In my opinion this does not guarantee data integrity 
+ between the systems.  Carrie and I have scheduled a meeting for 1:30 pm today 
+ in 21c2 to discuss.  Please feel free to attend and give your opinions.  
+ 
+ 
+ 
+ Carrie Slagle
+ 10/16/2000 05:11 PM
+
+
+
+  
+ Hello!
+ 
+ Randy and I were discussing some additional functionality after the meeting 
+ today. . .
+ 
+ Is there any reason that we could NOT automate the creation of the buy/sell 
+ or brokered paths in UNIFY once the deals have been matched in the Contract 
+ Exchange module?  Will the Contract Exchange module contain enough 
+ information to create the UNIFY path just a scheduler would?  
+ 
+ In other words, is the path creation process for buy/sell deals only manual 
+ "re-entry" of the data that will be sitting out in Contract Exchange?  OR is 
+ there additional information that you need to create the path that is not 
+ sitting in Contract Exchange?
+ 
+ This, of course, assumes that the meter has been added to the deal in 
+ Contract Exchange and the deal has bridged from SITARA to UNIFY.
+ 
+ It seems to us that this should be possible and valuable, but please give us 
+ your input!
+ 
+ Thanks,
+ Carrie

@@ -1,0 +1,23 @@
+
+ 
+ Done.
+ 
+ DG
+ 
+ 
+
+
+   
+ Darron,
+ 
+ I have two trades from yesterday that have a few problems.  
+ 
+ V83030.1:  shows a term of Nov02-Mar03.  The broker is saying that is should 
+ be Nov02-Dec02.
+ 
+ V83656.1:  Counterparty name should be BANKAMENAT.
+ 
+ I know that you are covering for Carole, so thank you for your time.
+ 
+ Patrick    X53877
+ 

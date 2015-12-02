@@ -1,0 +1,37 @@
+
+ 
+ 
+ 
+ 
+ Machelle F. Grim
+ 03/22/2001 11:11 AM
+ 
+ 
+
+
+
+
+
+
+ 
+ 
+  
+ FYI
+ Based on a request by Dennis Bond, a new report has been added that allows
+ external customers to see the group, name, and description for all reports 
+ that
+ they can run.  The report is called RPT_GROUPS_EX (group Reports), and can be
+ run by internal users as well.  Only reports that are available to all 
+ external
+ customers are included, so company specific reports will not be displayed.
+ Currently the report is 10 pages, and does not include a data file 
+ (description
+ can be up to 200 characters, and doesn't fit well into a spreadsheet).  Dennis
+ wanted to be able to give new customers something to help them get started 
+ with
+ the various billing report options.  Since showing all reports didn't require
+ that many pages, thought it might be helpful to include everything.  Good 
+ idea!
+ 
+ 
+ 

@@ -1,0 +1,20 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X-
+ X- X-b X-Folder: \ExMerge - Weldon, V. Charles\'Sent Mail
+ X-Origin: WELDON-V
+ X-FileName: v charles weldon 7-2-02.PST
+ 
+ Soma,
+ 
+ Per your request, I've calculated a Houston Area notional swap price for 6/01 through 12/04.  I used  the IF-Katy mid curve as of today's close and have not adjusted for any injection or withdrawal charges that may need to be accounted for in your analysis.  If you need any further help, please let me know.
+ 
+ 
+ Thanks,
+ 
+ Charlie Weldon
+ 
+  

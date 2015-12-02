@@ -1,0 +1,61 @@
+
+ 
+ approved
+ 
+ 
+ 
+ 
+ SAP Security
+ 02/06/2001 01:28 PM
+ Sent by:	Eva Tow
+
+
+ 
+  
+ 
+ Mary Botello, P00503184-GPG Corp-Job Title: Financial Analyst is requesting access to several GPG rols and it is pending your approval.  Please email your response to SAP Security.  If you have any questions, please Tracy Geaccone (x37372).
+ 
+ Pending Elaine Concklin's Approval:
+ FN IM Capital Budget Appropriation Requestor-GPG
+ FN IM Capital Budget Approver-GPG
+ FN IM Capital Budget Controller-GPG
+ 
+ Pending Tracy Geaccone's Approval:
+ FN PS Project Accountant-GPG
+ FN PS Viewer-GPG
+ 
+ Mary's Current Access:
+ Global Counterparty Errors for London
+ Std End-User profile for basis and prntg
+ FN CO VIEWER GPG
+ HR EMployee ESS CATS Enterprise HR
+ FN CO ANALYST GPG
+ FN CO CCA PLANNER GPG
+ FN CO INTERNAL ORDER ANALYST GPG
+ FN CO PCA PLANNER - GPG
+ CO Master Data Creator - GPG
+ AR MASTER RECORD CONTROL GROUP-Non-REG
+ FN FI Consolidated Viewer-GPG
+ 
+ Thank you,
+ SAP Security (Eva)
+ 
+ 
+ 
+ 
+ 
+ 
+ Mary Botello on 02/05/2001 12:48:25 PM
+
+  
+  
+ See attached form.
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ <Embedded StdOleLink>

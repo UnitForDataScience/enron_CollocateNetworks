@@ -1,0 +1,49 @@
+
+ 
+ At the request of Mark Taylor, can you get Sara Shackleton and Brent Hendry 
+ passwords too so they can review the Dynegydirect GTC's.  P.S.  Do we have 
+ any particular deadline for getting them approved?  
+ 
+ Thanks!
+ 
+ 
+ 
+ 
+ 	Stephanie Sever
+ 	11/15/2000 10:02 AM
+ 		 
+
+
+ 		  
+ I have set up the following Users with Read Only Access for Dynegydirect.
+ 
+ Dan Hyvl
+ User ID: DHYVL1
+ Password: enron2
+ 
+ Leslie Hansen
+ User ID: LHANSEN
+ Password: enron1
+ 
+ Tana Jones
+ User ID: TJONES
+ Password: enron3
+ 
+ Please note the above are case sensitive.
+ 
+ Let me know if you have any questions.
+ 
+ Thanks,
+ Stephanie
+  I don't want to have them since they 
+ grant execution status.  Instead, can you please set me, Dan Hyvl, and Tana 
+ Jones up as a sub-user with read-only access to all products.
+ 
+ Thanks,
+ 
+ Leslie
+ 
+ 
+ 
+ 
+ 

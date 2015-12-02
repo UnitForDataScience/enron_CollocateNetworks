@@ -1,0 +1,34 @@
+
+ 
+ Thanks for your email.   It is important on a going forward basis that if we 
+ veer from any restriction that Legal has placed on a counterparty (e.g. if 
+ Credit says it is ok to trade weather under a GTC instead of a master) that 
+ Legal hear before we trade so we all make sure we are on the same 
+ understanding as to whether any restriction should be waived.  In response to 
+ your email I have the following comments:
+ 
+ 1.  The New York Times Company:  cannot trade derivatives online at all.  
+ Their board resolution and master agreement require that two specific 
+ officers must enter into the trade together on a telephone call.  They cannot 
+ trade any other way without revising their board resolution and agreement.  
+ All their  trades must be done by telephone.
+ 2.  San Diego Gas & Electric Company:  the California PUC said that utilities 
+ such as San Diego cannot enter into derivatives transactions at all!
+ 3.  Aspect Resources:  can enter into derivative transactions.  We want the 
+ transactions to roll up under the existing ISDA Master Agreement between ECT 
+ and Aspect.
+ 4.  Brant-Allen Industries:  Is shut down, more or less, for all financial 
+ trading.  They cannot enter into another derivative transactions with us, 
+ either on the phone or online, until, prior to entering into the trade, they 
+ provide us with a board resolution approving the trade or derivative trading 
+ in general.  The board resolution they provided with the signed master 
+ agreement only approved the one trade we entered into at that time.
+ 5.  Cox & Perkins:    We had a master with this counterparty and they have 
+ informed us i writing that they didn't want to trade with us anymore.  In 
+ reality, if they did another trade, Legal will need to be contacted and we 
+ probably would try and reactive the master and roll the trade up under the 
+ master if possible.  Credit, keep us informed if they do trade.
+ 6.  Sonoco Products:  We should not be trading with them at all until we 
+ resolve this payment dispute.  Sara Shackleton was working on that.  We do 
+ have a master with them, and if we resolve the payment dispute and begin 
+ trading with them, the trade should roll up under the existing master.

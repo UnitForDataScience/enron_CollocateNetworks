@@ -1,0 +1,22 @@
+
+ 
+ 
+ 
+ 
+ Torrey Moorer
+ 12/13/99 07:45 PM
+
+
+
+
+
+  
+ There has apparently been some misunderstanding regarding the scope of 
+ calculations that must be covered under the Post ID's submitted for EOL 
+ reporting each night. Many desks are turning in post IDs which only cover 
+ books in which EOL activity has taken place, thus ommitting many other 
+ non-eol trades. What is needed is post IDs which will collectively cover the 
+ entire universe of gas trading which has taken place on a given desk. In 
+ running the collective post ID's we need to be able to capture all trading 
+ which has taken place on a given day and the scope of the post ID's must 
+ cover this. 

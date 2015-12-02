@@ -1,0 +1,70 @@
+
+ 
+ 
+ 
+  
+
+    
+                                           AGENT MC/MC BOOKING REF X8HH5N
+ 
+                                           SHIVELY/HUNTER
+                                           EB 3278
+                                           ETKT RECEIPT
+   ENRON CORP
+ 
+ 
+ 
+ 
+ 
+   DATE:  MAY 07 2001
+ 
+ SERVICE               DATE  FROM           TO             DEPART  ARRIVE
+ 
+ CONTINENTAL AIRLINES  17MAY HOUSTON TX     CHICAGO IL     750A    1024A
+ CO 1104    B          THU   G.BUSH INTERCO O*HARE INTL
+                             TERMINAL C     TERMINAL 2
+                                                           NON STOP
+                             RESERVATION CONFIRMED         2:34 DURATION
+                   AIRCRAFT: BOEING 737-800
+                             SEAT 16F NO SMOKING CONFIRMED SHIVELY/HUNTER(
+ 
+ HOTEL                 17MAY THE DRAKE CHICAGO
+                       18MAY 140 EAST WALTON PLACE
+                             CHICAGO, IL 60611
+                             UNITED STATES OF AMERICA
+                             TELEPHONE: 1-312 787 2200
+                             FAX: 1-312 787 1431
+                             CONFIRMATION: 3119647310
+                             REFERENCE: A04A54
+                             SINGLE ROOM KING SIZE BED
+                             RATE: ENR USD 195.00 PER NIGHT
+                             GUARANTEE GIVEN
+                             ENRON CORP
+              TO AVOID BILLING CANCEL BY 4PM DAY OF ARRIVAL.
+ 
+ HOTEL                 17MAY THE DRAKE CHICAGO
+                       18MAY 140 EAST WALTON PLACE
+                             CHICAGO, IL 60611
+                             UNITED STATES OF AMERICA
+                             TELEPHONE: 1-312 787 2200
+                             FAX: 1-312 787 1431
+                             CONFIRMATION: 3120439349
+                             SINGLE ROOM KING SIZE BED
+                             RATE: ENR USD 195.00 PER NIGHT
+                             GUARANTEE GIVEN
+                             HOLDING 2ND OF TTL 2 ROOMS
+              TO AVOID BILLING CANCEL BY 4PM DAY OF ARRIVAL.
+ 
+ CONTINENTAL AIRLINES  18MAY CHICAGO IL     HOUSTON TX     444P    715P
+ CO 1111    B          FRI   O*HARE INTL    G.BUSH INTERCO
+                             TERMINAL 2     TERMINAL C
+                             SNACK                         NON STOP
+                             RESERVATION CONFIRMED         2:31 DURATION
+                   AIRCRAFT: BOEING 737-800
+                             SEAT 19D NO SMOKING CONFIRMED SHIVELY/HUNTER(
+                THIS IS A NON-REFUNDABLE FARE THAT REQUIRES
+                TRAVEL ON THESE SPECIFIC DATES AND FLIGHTS.
+                ANY CHANGES WILL RESULT IN A PENALTY AND/OR
+                          ADDITIONAL COLLECTION.
+            
+ E-TICKET 005-7028420545 ISSUED 07MAY01 - $383.50.

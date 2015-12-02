@@ -1,0 +1,24 @@
+
+ 
+ Mike,
+ 
+ How can Brent get access to our Master Swap Agreement database from EI in 
+ Argentina?  Thanks for your help.
+ 
+ 
+ 
+
+ 08/10/99 05:51 AM
+
+   
+ No.  My understanding is that the EI server does not have a link to the ECT 
+ server or something else like that which prevents access from my computor 
+ down here.
+ 
+ 
+
+   
+ The question of the day is, do you have access to our Lotus Notes Database?
+ 
+ 
+ 

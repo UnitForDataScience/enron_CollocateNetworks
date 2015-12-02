@@ -1,0 +1,32 @@
+
+ 
+ My recollection is that we did this on purpose - that the industry works this 
+ way for all participants (or nearly all) so we built our documents to reflect 
+ that practice.  Do I remember correctly?
+ 
+ 
+ 
+ David Forster
+ 02/17/2000 01:59 PM
+
+
+
+  
+ All,
+ 
+ I am aware that early in the EnronOnline process, some GTC's were only 
+ generated for the "With Collateral" category and hence, all companies 
+ transacting in that commodity were subject to the collateral clause.
+ 
+ I am now starting to wonder if this was an oversight, or if there is a reason 
+ why all counterparties should be bound by a collateral clause for the 
+ following GTC's/Products:
+ 
+ 
+ 
+ 
+ I would appreciate any insight which any of you can offer.
+ 
+ Thanks,
+ 
+ Dave

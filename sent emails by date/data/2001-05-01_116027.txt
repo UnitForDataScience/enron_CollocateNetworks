@@ -1,0 +1,7 @@
+
+ 
+ Here's the path to the California prices sheet:
+ 
+ P:Trading/California/CAScheduling/Cash/Position/CA/2001/feb2001/Cal Prices
+ 
+ Have fun with that.

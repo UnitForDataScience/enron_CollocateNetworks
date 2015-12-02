@@ -1,0 +1,12 @@
+
+ 
+ Please set up the following Service Type, Rate Sched combinations.
+ 
+ Pipe Code EGHP
+ Firmness Firm
+ Service Type Storage
+ Rate Sched FSS
+ Term  Term
+ 
+ 
+ thanks

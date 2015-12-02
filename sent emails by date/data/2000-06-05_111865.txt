@@ -1,0 +1,11 @@
+
+ 
+ Steve:
+ I spoke with Rod Nelson, our credit person, about the cross default language 
+ and we have the following proposal to make.  We are okay with the language as 
+ it applies to declaring a an Event of Default and then declaring an early 
+ Termination Date.  For purposes of triggering a reduction of the collateral 
+ threshold to zero, we would propose that this language would not apply such 
+ that an event of Default would be triggered upon the occurrence of the cross 
+ default.  Let me know what you think.
+ Carol 

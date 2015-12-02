@@ -1,0 +1,197 @@
+
+ 
+ 
+ 
+  
+
+  
+ 
+ 05/14/2001
+ 
+ Enron North America Corp.
+ Vince Kaminski
+ 1400 Smith Street
+ 30th Floor, Rm. 3036B
+ Houston, TX 77251-1188
+ 1 713-853-3848
+ 
+ Dear Vince Kaminski,
+ 
+
+ instructions are available immediately. The download instructions are
+ included at the end of this email.    Please see below for more information
+ regarding this new release..
+ 
+
+ accompanying documentation contains installation and other information.
+ 
+ Here is an overview of the new and changed features since Version 2.0.
+ 
+
+ 
+
+ implemented for valuation of American options (OPT), Black and
+ Mean-reverting models. It greatly improves accuracy at minimal cost in
+ speed. All models now supports new scalar risk measures corresponding to
+ parallel displacement delta, hedge, and gamma.  Average price/strike options
+ now support an alternative way of computing theta. The definition of Gamma
+ curves has been modified for all models.
+ 
+
+ spread options. Models affected are SPREADOPT, STRIPSPREADOPT, OPTSPREADOPT,
+ OPTSTRIPSPREADOPT. The new methodology dramatically improves speed. All
+ models now supports new scalar risk measures corresponding to parallel
+ displacement delta, hedge, and gamma.  Average price/strike options now
+ support an alternative way of computing theta. The definition of Gamma
+ curves has been modified for all models.
+ 
+
+ models.
+ 
+
+ 
+ See the file fea\energy\ergnote.txt in your distribution for a list of bug
+ fixes.
+ 
+ Here is an overview of the new and changed features since Version 1.6.
+ 
+
+
+ Inputs and outputs to POWERCALIB and COMCALIB have changed. See the
+ corresponding function syntax in the User Guide for additional information.
+ 35-40% speed improvement. The module is now out of beta.
+ 
+
+ Different interpolation schemes on forward prices are now supported. If you
+ use INDEXSWAP , EXOTICSWAP, or OPTINDEXSWAP with floating price linked to a
+ series of futures dates, such futures dates need not be close to dates
+ specified in the forward curve input.  A new utility function, PATHUTIL,
+ allows you  to simulate and visualize price paths consistent with the models
+
+ 
+
+ Different interpolation schemes on forward prices are now supported. If you
+ use OPTDIFFSWAP or DIFFSWAP  with floating price linked to a series of
+ futures dates, such futures dates need not be close to dates specified in
+ the forward curve input. CALSPREADOPT now allows for the specification of
+ two different mean reversion rates. 30-35% speed improvement.
+ 
+
+ SWINGOPT and STRIPSWINGOPT now allow for valuation of swing straddle
+ contracts with overall load constraints. 65-70% speed improvement. The
+ module is now out of beta.
+ 
+
+ 30-35% speed improvement.
+ 
+ See the file fea\energy\ergnote.txt in your distribution for a list of bug
+ fixes.
+ If you are a user of the ErgLib library, please be aware of possible
+ backward compatibility issues in calls to Eapo, Easo, Espreadapo,
+ Espreadaso, and Ecrackapo.  See fea\energy\ergnote.txt for additional
+ details.
+ 
+ Here is an overview of the new and changed features since Version 1.5.
+ 
+
+ European options  and strips of European options now support valuation via a
+ jump diffusion model (see OPT and STRIPOPT functions). Average price options
+ (see the APO, SPREADAPO, CRACKAPO functions), and average strike options
+ (see the ASO, SPREADASO functions) now allow for a direct input of the
+ fixing dates.
+ 
+
+  Includes two new functions, OPTSTRIPOPT and OPTSTRIPSPREADOPT for valuation
+ of complex compound options.
+ 
+ If you are a user of the ErgLib library, please be aware of backward
+ compatibility issues in calls to Eapo, Easo, Espreadapo, Espreadaso, and
+ Ecrackapo.  See fea\energy\ergnote.txt for additional details.
+ 
+ Here is an overview of the new and changed features since Version 1.4.
+ 
+
+
+ to generate forward curves, volatility curves and mean reversion rates used
+
+ 
+
+ 	APO's and ASO's: bug fixed when avg_starts < opt_expiry, and num_fixings=1.
+ 
+
+ 	No change.
+ 
+
+ 	Additional ways of formatting the temperature data are now provided.
+ 
+
+ 	Pay_at_end with strips: previously implemented was pay at end of  all
+ periods. Now implemented is pay at end of each subperiod. . Module still in
+ beta release.
+ 
+ 	Bug fixes:
+ 1)	if max_const=min_const and max_const in not a multiple of the maximum
+ daily amount (in previous version min_const was disregarded in this case).
+ 2)	in strip with global constraints: if allowed number of swings per period
+ changes (currently this can only be due to calendar effects).
+ 3)	strip at index: index was incorrectly evaluated after first sub_period.
+ 
+ New Excel Templates
+ 	The following Excel workbooks and worksheets have been added:
+ 
+
+ 
+ Add-in Manager
+ Now supports function help. If template is open with the Add-in manager and
+ function help is requested through the manager, the relevant portion of the
+ documentation get displayed.
+ 
+ Your input into the refinement of this product is welcome and greatly
+
+ 
+
+ 
+ NOTE: Using EXPLORER leads to unpredictable results, so we suggest using
+       NETSCAPE or a DOS shell.
+ 
+ 
+ USING NETSCAPE:
+ 
+
+ Password: ect9sq5h
+ 
+ energy-2.1-win32.exe is for Excel 7, 97SR1 or 2000;
+ 		     for Windows 95/96/2000/NT/ME;
+ 		     download and run on a local drive.
+ 
+ USING A DOS SHELL:
+ 
+ At a DOS prompt type: ftp ftp.fea.com
+ User: energy
+ Password:  ect9sq5h
+ 
+ Type "binary" and hit 'return'.
+ Type "ls" for a list of available files.
+ Type "get" energy-2.1-win32.exe and and wait for the ftp> prompt.
+ Type "quit".
+ 
+ The file will be downloaded into the directory at which you entered the ftp
+ site.
+ Double click on the exe and follow the instructions on the screen.
+ 
+ There is also a readme file which contains installation instructions.
+ You may wish to print this out for easy reference.
+ 
+ N.B.:  The password is only valid until the first Friday of next month.
+ If you have any questions please feel free to contact us. We appreciate this
+ opportunity to be of continuing service to Enron North America Corp..
+ Regards,
+ Erin Hopkins
+ Administrative Assistant
+ Financial Engineering Associtates, Inc.
+ Tel: +1.510.548.6200
+
+ or
+
+ 
+ 

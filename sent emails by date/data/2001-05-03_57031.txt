@@ -1,0 +1,45 @@
+
+ 
+ Stinson,
+ 
+ Let's talk about it. It seems like an open personality clash developing 
+ for the first time in the history of the group.
+ 
+ Vince
+ 
+ 
+ 
+ 
+      
+ 
+ 
+ 
+ 
+ 
+
+
+
+  
+ This morning, Zimin told me that Pavel is using a special model in evaluating his Asian option portfolio. 
+ He asked me to talk to you in order to access to the code so that I can see the difference made to the model.
+ 
+ As I cannot find the doc. describing this model, please tell me what that new input parameter 'Sig' is.
+ 
+ Thanks,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <Embedded StdOleLink>
+ <Embedded StdOleLink>
+ <Embedded StdOleLink>

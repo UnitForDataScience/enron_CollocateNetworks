@@ -1,0 +1,10 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Pimenov, Vladi\Sent Items
+ X-Origin: PIMENOV-V
+ X-FileName: vladi pimenov 6-26-02.PST
+ 
+ Select pts.REF_PERIOD_DT, pts.CURVE_AMT FROM EGS.EGS_CURVE_DEF def, EGS.EGS_CURVE_POINTS pts WHERE def.CURVE_DEF_ID = pts.CURVE_DEF_ID AND def.CURVE_CD='NG' AND def.BOOK_TYPE_CD='P' AND def.CURVE_TYPE_CD='PR' AND def.EFFECTIVE_DT = TO_DATE('01-Oct-2001','DD-MON-YYYY')AND pts.REF_PERIOD_DT BETWEEN TO_DATE('01-Nov-2001','DD-MON-YYYY') AND TO_DATE('01-Oct-2007','DD-MON-YYYY') order by pts.REF_PERIOD_DT

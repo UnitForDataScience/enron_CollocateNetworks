@@ -1,0 +1,14 @@
+
+ 
+ MAybe the language should be "redeem".
+ 
+  
+    Cc:	Chandler, Bob; Walters Jr., Harry; Zahn, Gary; Cobb Jr., John; Fancler, Dan
+  
+ Attached are the latest draft for the NNG 3rd Qtr 2001 in support of the revolver transactions
+ 
+ This draft does not include any changes related to backdraft or SLA settlement in principle issues.
+ 
+ 
+  << File: NNGFINANCLRev.xls >> 
+  << File: NOTES.doc >> 

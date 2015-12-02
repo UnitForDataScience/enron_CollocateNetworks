@@ -1,0 +1,16 @@
+
+ 
+ Tom,
+ 
+ Attached are the graphs for energy lost due to the pitch and overspeed faults 
+ you listed. As I mentioned before the methodology requires decent data 
+ recovery for the 10-minute data. The data recovery was poor for several sites 
+ in January, and for Fenner and Klondike in May. 
+ 
+ I will be compiling a report on this request, summarizing the graph types and 
+ some explanation of the methods used to produce them. I hope to have that 
+ completed within the next couple of days.
+ 
+ If you see deficiencies or suggested modifications let me know.
+ 
+ Mark

@@ -1,0 +1,23 @@
+
+ 
+ 
+ 
+ 
+
+
+  
+  
+ The following expense report is ready for approval:
+ 
+ Employee Name: Robert L. Bradley Jr
+ Status last changed by:  Automated Administrator
+ Expense Report Name: Robert L Bradley Jr
+ Report Total: $5,092.29
+ Amount Due Employee: $5,092.29
+ 
+ 
+ To approve this expense report, click on the following link for Concur 
+ Expense.
+ http://expensexms.enron.com
+ 
+ 

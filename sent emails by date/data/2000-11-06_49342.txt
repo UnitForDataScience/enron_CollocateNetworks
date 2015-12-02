@@ -1,0 +1,48 @@
+
+ 
+ Stinson,
+ 
+ Please, take a look at it.
+ 
+ 
+ Vince
+ 
+   the 
+ rational for using Digitals and  your knowledge of its use in other markets 
+ (electricity or other commoodity or in the banking sector).
+ 
+ It seems to me that setting the srike is key and a 'value judgement' or am I 
+ wrong, and are there curves and models which could help you substantiate 
+ this? In any event, do you have a feel for what an acceptable % of chance or 
+ likelihood that a commodity price hits the strike on a digital before it 
+ becomes non arm's length and does not pass the smell test?
+ 
+ Vince, Jarek suggested that you may be able to assist. Your views would also 
+ be appreciated.
+ 
+ Gillian. 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ Digital options are extremely uncommon in the crude oil market. Nobody ever 
+ asked me to show quotes in the OTC market. The only time we encountered them 
+ was when producers, brought by our marketing team, wanted to sell a 
+ knock-outable swap, whereby they would get a higher swap price in exchange 
+ for cancelling the swap if the price settled below a certain level. This 
+ structure had a digital put embedded in it, although the customers didn't 
+ necessarilly know that. The companies were US oil and gas producers: Venoco, 
+ Titan, Magnum Hunter, Patiena Oil & Gas, Belco, Central Resources. It was 
+ about 1 year ago. In the OTC market, at about the same time, I asked for 
+ quotes to hedge these transactions and sold a digital Cal 00 $16 swaption to 
+ Elf and strips of digital puts to somebody else that I cannot recall.
+ 
+ I hope this helps.
+ 
+ Pavel
+ 
+ 
+ 

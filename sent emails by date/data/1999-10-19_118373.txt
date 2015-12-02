@@ -1,0 +1,74 @@
+
+ 
+ Yes, without doubt.  The ETA can't be amended on a counterparty by 
+ counterparty basis and it says that any applicable master agreement will 
+ control.  
+ 
+ Leslie Hansen is also working on a draft.  If you get something from Justin, 
+ please forward a copy to me and Leslie.
+ 
+ Thanks,
+ 
+ Mark
+ 
+ 
+ 
+ 
+ David Forster
+ 10/19/99 08:24 AM
+
+   
+ Mark,
+ 
+ What is your position regarding U.S. financial EOL trades?  Do you want to 
+ adopt the same position? (i.e. to override a master, we need a letter sent to 
+ the customer)?
+ 
+ I believe Justin is drafting something for the physical side. Shall I forward 
+ a copy to you when it is complete?
+ 
+ Thanks,
+ 
+ Dave
+ 
+ 
+ 
+ Justin Boyd
+ 15/10/99 09:16
+
+
+
+  
+ The underlying contractual structure for trades effected on-line between the 
+ relevant Enron entity and a Counterparty is as follows:
+ 
+ if there is an existing Master for the particular product between the 
+ contracting parties, that Master will govern on-line trades.
+ if there is no Master between the parties, then the applicable on-line GTCs 
+ will apply. 
+ 
+ If the terms of a Master are unacceptable to us for whatever reason (e.g. due 
+ to insufficient credit provisions), then it may be appropriate to terminate 
+ that Master.  
+ If however, we wish to keep a Master in place but do not wish to use it for 
+ on-line trades, then the counterparty needs to be notified of this and give 
+ its consent.  Such notice could state that until the Master had been suitably 
+ amended (i.e. by the negotiation of new credit provisions), then the on-line 
+ GTCs will apply.
+ 
+ Justin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

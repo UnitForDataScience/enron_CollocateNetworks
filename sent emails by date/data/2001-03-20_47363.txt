@@ -1,0 +1,41 @@
+
+ 
+ Are these physical transactions?
+ 
+ 
+ 
+
+ 	03/20/2001 04:12 PM
+ 		 
+
+
+ 		  
+ Hi Tana,
+ These are the EOL deals that were erroneously entered under Coral Power LLC, 
+ they were actually done with Coral Energy Holding LP
+ 550402:
+ Buyer:  Coral Energy Holding LP
+ Seller:  Enron North America
+ Delivery Point:  NYISO Zone G (HUD VL)
+ Term:  3/19/01 - 3/23/01, M-F EPT, HE 8-23
+ Volume:  50
+ Fixed Price: $54.50
+ Index:  Hudson Valley NY Zone G
+ 
+ 550229:
+ Buyer:  Coral Energy Holding LP
+ Seller:  Enron North America
+ Delivery Point:  NYISO Zone A (West)
+ Term:  3/16/01 - 3/16/01, Fri., EPT, HE 8-23
+ Volume:  50
+ Fixed Price: $37.75
+ Index:  NY Zone A (West)
+ 
+ Please let me know if you need additional information.  
+ Thank you for your help!
+ Kimberly Hundl 
+ Power Documentation x31647
+ 
+ 
+ 
+ 

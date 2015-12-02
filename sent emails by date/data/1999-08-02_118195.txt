@@ -1,0 +1,49 @@
+
+ 
+ 
+ 
+
+
+
+   
+ As discussed the table to be completed by August 4th in order for us to start 
+ loading the customer profiles into the system.
+ 
+ The following worksheet is split into two tabs for the counterparty groups 
+ suggested by the North America commercial versus those counterparties 
+ suggested by Europe commercial.  The US tab consists of the following 
+ information:  
+ 
+ Column A Fed Tax ID (needed for physical global products counterparties)
+ Column B Country where Headquarters is located
+ Column C State of Incorporation
+ Column D Country of Incorporation
+ Column E Counterparty Name
+ Column F Dunnes Link ID
+ Columns G-CU Product Types/Enron Legal Entity
+ 
+ The Europe Tab is set as follows:
+ 
+ Column A Country of Incorporation
+ Column B Counterparty Name
+ Column C Dunnes Link ID
+ Columns D-CR Product Types/Enron Legal Entity 
+ 
+ 
+ 
+ The matrix is blank assuming that all counterparties can trade all product 
+ types/Enron Legal Entity.  The above  responsibility groups will need to 
+ perform a detailed review by placing a "X" in the intersection of the 
+ counterparty/product types indicating that that Product Type should not be 
+ offered to that counterparty.
+ 
+ This review needs to be completed by no later than cob August 4, 1999 so that 
+ we can remain on our overall click trading schedule.
+ 
+ Regards,
+ 
+ Kevin
+ x73206
+ 
+ 
+ 

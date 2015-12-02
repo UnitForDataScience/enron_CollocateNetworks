@@ -1,0 +1,54 @@
+
+ 
+ Andrew  Parsons is currently leading a project to define and quantify the 
+ costs for several different alternatives for disaster recovery.  We should 
+ get an update from him to see if there is anything applicable.   There is 
+ sheer disaster that impacts many companies/locations (which may require one 
+ approach), and then there is nusance stuff (frozen freeways in Houston, etc.) 
+ that really requires an updated contact list and set of notification 
+ procedures.  And then there is system failure and the requisite back up.  
+ 
+ 
+ 
+ 
+
+ 11/14/2000 01:30 PM
+
+
+  
+ This topic came up at last week's technical meeting.  Several of the 
+ potential liabilities of EOL were discussed.  Given our ASP model, we have to 
+ offer a system even more robust than EOL.  In a related area, we began to 
+ discuss security, including some of the latest, inexpensive biometrics 
+ stuff.  Feel free to partcipate in this discussion. Tommy will be the lead on 
+ these topics.....
+ 
+ 
+ 
+ 
+ 
+
+ 11/14/2000 01:25 PM
+
+  
+  
+ One of the calculated risks ENA has lived with is the potential 
+ unavailability of systems given a disaster strikes the Houston area such as a 
+ hurricane that knocks out power, etc.
+ 
+ Have you given any thought on the commodity logic side of providing a 
+ hot-backup / fail-over capability from another location ?  This could be 
+ particularly critical with the Contract Exchange module and might be one 
+ assurance customers would want before signing up.
+ 
+ For that matter, is there a market in providing disaster recovery / 
+ hot-backup capability to companies in high-risk areas?  It has traditionally 
+ been thought of as too expensive to warrant implementing such a capability 
+ for our own purposes.  Perhaps there are economies of scale that can be 
+ recognized when providing this capability for many.
+ 
+ 
+ 
+ 
+ 
+ 

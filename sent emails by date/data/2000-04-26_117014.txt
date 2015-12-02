@@ -1,0 +1,74 @@
+
+ 
+ Thanks for your note.  My company has revised our e-mail addresses.  Please 
+
+ 
+ 
+ 
+ 
+
+
+   
+ 
+ 
+ Hi! This is the ezmlm program. I'm managing the
+
+ 
+ 
+ Messages to you from the storm mailing list seem to
+ have been bouncing. I've attached a copy of the first bounce
+ message I received.
+ 
+ If this message bounces too, I will send you a probe. If the probe bounces,
+ I will remove your address from the storm mailing list,
+ without further notice.
+ 
+ 
+ I've kept a list of which messages from the storm mailing list have
+ bounced from your address.
+ 
+ Here are the message numbers:
+ 
+    5
+ 
+ --- Enclosed is a copy of the bounce message I received.
+ 
+
+     by aftershock.snv.cimedia.net with SMTP; 25 Apr 2000 06:12:01 -0000
+   by postmaster.enron.com (8.8.8/8.8.8/postmaster-1.00) with ESMTP id BAA27571
+
+ 25 Apr 2000 01:11:50 -0500 (CDT)
+   by mailman.enron.com (8.8.8/8.8.8/corp-1.03) with ESMTP id BAA03684
+
+ 25 Apr 2000 01:11:46 -0500 (CDT)
+   by dserv1.ect.enron.com (8.8.8/8.8.8) with SMTP id BAA06852
+
+ 25 Apr 2000 01:11:49 -0500 (CDT)
+  id 862568CC.00220B73 ; Tue, 25 Apr 2000 01:11:51 -0500
+ X-Lotus-FromDomain: ECT
+
+
+
+
+ 
+ Mime-Version: 1.0
+ Content-type: text/plain; charset=us-ascii
+ Content-Disposition: inline
+ 
+ 
+ 
+ This message is an automated response to the email you recently sent to me. I
+ received the message but the email address you used has been changed to
+
+ 
+ Please update your address book(s) to reflect this change.
+ 
+ This will ensure that I receive your emails in the future.
+ 
+ Thank you
+ Mark Taylor
+ 
+ Please do not reply to this message as it was automatically generated.
+ 
+ 
+ 

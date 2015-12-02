@@ -1,0 +1,8 @@
+
+ 
+ Here is my request:
+ 
+ Can you make the system calculate a killed deal?  There were deals killed with Sempra Energy Trading on Saturday and the credit group needs to know what the value would have been had these deals been calculated against yesterday's curves.  Basically, we need to calc all Sempra deals that were killed Saturday or later as of last night.  Is this possible?
+ 
+ Thanks,
+ Stacey

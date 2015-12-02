@@ -1,0 +1,29 @@
+
+ 
+ What do you think about the situation below?
+ 
+    
+ 	
+ 	
+ 	 	
+ 
+
+
+  
+ Pan Canadian Energy Services has the following request:
+ 
+ For all EOL traded deals they do not want to recieve the Annex A that is 
+ attached to our Omnibus-EOL templates.  They claim that since they have 
+ already signed off on the GTC in order to trade on EOL, then they do not want 
+ to repeat any work and have to review an additional GTC when we send them a 
+ Confirmation.  Is it possible to exclude any Annex A (GTC) when we send an 
+ Omnibus Confirmation for trades done on EOL?
+ 
+
+ 
+ Thanks,
+ Joe
+ 
+ 
+ 
+ 

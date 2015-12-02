@@ -1,0 +1,9 @@
+
+ 
+ Dave
+ 
+ I just realized that you do have "financial desk excluding futures" on report.
+ 
+ Get rid of the other "financial desk" and when you aggregate it exclude the futures trades.
+ 
+ Thanks

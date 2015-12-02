@@ -1,0 +1,15 @@
+
+ 
+ Transco capacity for Feb
+ 
+ 
+ k#  MDQ  Comment
+ 3.8129  3800  Z3-Z3
+ 3.7324  10000  Backhaul Z4-Z1, use to serve Mirango
+ 
+ 1.8793  n/a  Use to flow Nful Leidy to CNG Leidy, no fuel. we have a rate of 
+ $.01 through March 31.
+ 1.8793  n/a  Can use to flow Ragley to Mamou, no fuel, we have a rate of $.01 
+ for Feb.
+ 
+ For the 1st, we will be serving NYPA from Texas Gas.

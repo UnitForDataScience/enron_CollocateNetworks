@@ -1,0 +1,65 @@
+
+ 
+ I received the item.
+ 
+ DG
+ 
+ 
+ 
+ 
+
+ 02/09/2001 02:50 PM
+
+
+  
+ John/Darren,
+ 
+ We are in the process of cleaning our files and found this purchase order is 
+ still open.  Could you please check to see if you have received this item(s) 
+ and let me know so that we can get it out of the system.
+ 
+ Thank you,
+ Tabitha
+ 
+ 
+ ECT Hardware Request	Request #:ECTH-4T4MQ6
+ 	Request Status:In Process
+ 
+ 				Request information:
+ Requested By:	John Chambers		Phone:	713-345-3960
+ Requested For:	Darron C Giron		Location:	EB3265D
+ SAP Cost Center #:	105614		User Mgr Approval:	Darron C Giron
+ CO #:	5413		WO # / Project #:	
+ CO Name:	?		User Phone:	
+ Priority:	Normal		Due  Request Type:	Upgrade Existing		Request  RAM:			CD-ROM:	
+ Docking Station:			Local Printer:	
+ Justification:				
+ User Selected HW:				Maintenance kit for HP LJ 8100 DN
+ P/N C3914-69001
+ Price $399.00
+ Vendor Eagan
+ User Comments:				
+ 
+ 
+ Hardware selected for this request: 
+ Item Number	Item Name	
+ C3914-69001	Maintenance Kit for HP LJ 8100N	
+ 
+ 
+ 	Comments and process information:
+ IS Group Comments:	DR
+ Ops Group Comments:	
+ Date Completed:	
+ PO Assigned:	
+ 
+ 
+ Revision History:	Donna Ruff
+ Donna Ruff
+ Donna Ruff
+ Donna Ruff	01/18/2001 04:17:37 PM
+ 01/18/2001 02:33:50 PM
+ 01/18/2001 02:33:48 PM
+ 01/18/2001 11:16:27 AM
+ 
+ 
+ 

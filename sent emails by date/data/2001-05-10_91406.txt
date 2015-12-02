@@ -1,0 +1,55 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X-
+ X- X-b X-Folder: \ExMerge - Richey, Cooper\'Sent Mail
+ X-Origin: RICHEY-C
+ X-FileName: cooper richey 6-26-02.PST
+ 
+ These are to bring the Alberta Power Decision Support Web Hosting infrastructure up to 
+ the Houston hardware spec (2 servers required)
+ 
+ Also. I'm contemplating using this configuration to replace the box running
+ things under my desk at the moment (2 servers required)
+ 
+ 
+ 
+ 
+ 
+
+
+   
+ Cooper,
+  
+ Please reply to me and explain again what this is for... I lost the thread.
+  
+ Regards,
+  
+ Todd
+  
+ 
+  
+
+
+
+   
+ Shelley, 
+ 
+ Please quote the following: 
+ 
+ Compaq Proliant DL360 in th following configuration: 
+ 1 x Intel Pentium III 933 Mhz 
+ 512 mb RAM (2x 256mb memory Sticks) 
+ 2 x 9.1 GB Pluggable Universal Ultra2 SCSI Hard Drive 7200rpm 1" 
+ 
+ 
+ Apparently, these can be purchased from Compaq in Three packs.  You might want to quote that sku as well.  Please provide price and availability information.
+ 
+ Regards, 
+ 
+ Todd 
+ 
+ 
+ 

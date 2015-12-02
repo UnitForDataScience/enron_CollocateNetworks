@@ -1,0 +1,65 @@
+
+ 
+ 
+ 
+ 
+
+
+   
+ 
+ Darron,
+ 
+ Thank you for using Alamo.com to make your car rental reservation.
+ 
+ Your reservation has been confirmed!  When you complete the QuickRent 
+ process, we will send you another email with the details of your online 
+ rental.
+ 
+ Your Confirmation Number is: 8506108
+ 
+ To View, Modify or Cancel Your Reservation:
+ 
+ You may use the Web site to modify your reservation by following the link 
+ provided below. If you experience any problems, email the webmaster at 
+
+ 
+ To view your Reservation, follow this link:
+ http://res.alamo.com/default.asp?go=Frame&target=/Modify/modify_page0.asp?Conf
+ irmNum=8506108%26LastName=Giron%26PUMonthYear=Mar-2001%26PUDay=10%26Mode=V
+ 
+ To modify your Reservation, follow this link:
+ http://res.alamo.com/default.asp?go=Frame&target=/Modify/modify_page0.asp?Conf
+ irmNum=8506108%26LastName=Giron%26PUMonthYear=Mar-2001%26PUDay=10%26Mode=M
+ 
+ To cancel your Reservation, follow this link:
+ http://res.alamo.com/default.asp?go=Frame&target=/Modify/modify_page0.asp?Conf
+ irmNum=8506108%26LastName=Giron%26PUMonthYear=Mar-2001%26PUDay=10%26Mode=C
+ 
+ Reservation Information:
+ 
+ Name:   Darron Giron
+
+ 
+ Vehicle Type: Fullsize - Buick Century
+ 
+ Pickup Location:
+ Denver Intl, CO
+ 24530 E 78th Ave
+ Denver, CO 80249
+ Phone: 303-342-7373
+ Fax:   303-342-3431
+ Hours: Mon-Sun: 6:00am-1:00am
+ 
+ Pickup  Pickup Time: 9:30 PM
+ 
+ Drop-off Location: Denver Intl Airport, CO
+ Drop-off  Drop-off Time:     7:00 AM
+ 
+ If you decide not to complete your QuickRent at this time, you can still 
+ convert your reservation to a QuickRent & bypass the rental counter, follow 
+ this link:
+ http://res.alamo.com/default.asp?go=Frame&target=/Modify/modify_page0convert.a
+ sp?ConfirmNum=8506108%26LastName=Giron%26PUMonthYear=Mar-2001%26PUDay=10
+ 
+ 
+ Thank you again for using Alamo.com to make your Reservation. Drive Happy! 

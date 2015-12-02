@@ -1,0 +1,35 @@
+
+ 
+ 
+ 
+  
+
+
+   
+ 
+ > Dear Dr. Albanese,
+ > my name is Tanya Tamarchenko. I work at Enron's Corp Research department
+ >
+ > in Houston. I have a question related to your paper "Fast convolution
+ > method for VAR
+ > and VAR gradients". I am wondering if you (or anyone else) have applied
+ > the "Convolution"
+ > or "Analytical" VAR method to non-normal distributions.
+ > We can estimate distributions of the marginals using historical time
+ > series as you suggest on
+ > page 3 of the paper, then we would have to assume independence of
+ > marginals and calculate
+ > VAR. How different that VAR would be compared to historical VAR based on
+ > the same time
+ > series of xi?
+ >
+ > Have you heard of any such experiments?
+ >
+ > Best regards,
+ >
+ > Tanya.
+ >
+ >
+ >
+ 
+  - mpvartst.zip 
