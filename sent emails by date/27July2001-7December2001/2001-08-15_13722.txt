@@ -1,0 +1,18 @@
+
+ 
+ I don't know 
+    Cc:	James, Ron; Evans, Carrie
+  
+ Kriste - 
+ 
+ Could you clarify a payment classification question for me?  
+ 
+ Separation Agreement payments are being entered into SAP for future payments.  These payments are in lieu of severance payments.  When these payments get coded into SAP, should they legally be coded as:
+ 
+ 	1. severance payments (since they are taking the place of severance) or 
+ 	2. agreement payments (since it is an actual agreement)
+ 
+ Call me if you have any questions.  I just want to make sure that we are coding them properly.  
+ 
+ Thank you.
+ Cindy Simon

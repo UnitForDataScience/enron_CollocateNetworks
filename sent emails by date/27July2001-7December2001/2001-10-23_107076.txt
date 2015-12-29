@@ -1,0 +1,25 @@
+
+ 
+ Kim:
+ 
+ I didn't save the email verison of the "corrections to published prices" so I'll state the changes below and you can revise:
+ 
+ (1)  You will need two different versions:  one for GTC's and the other for ISDA confirmations	
+ 
+ (2)  Don't capitalize the word "party" in either version
+ 
+ (3)  Use the capitalized term "Interest Rate" for the GTC version
+ 
+ (4)  Use the capitalized term "Applicable Rate" for the ISDA version
+ 
+ When I hear back from Kim T., we can finalize the rounding convention for online and offline confirmations.
+ 
+ Thanks.  Sara
+ 
+  
+    Cc:	Murphy, Melissa Ann
+  
+ Per our discussion this morning I have attached the new form for our confirms.  Please let me know if further changes are necessary.   
+  << File: sampledoc.doc >> 
+ Thank you for your help!
+ Kimberly Hundl x31647

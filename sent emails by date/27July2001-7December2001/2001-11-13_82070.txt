@@ -1,0 +1,11 @@
+
+ 
+ 
+ 
+  
+     
+ Both Heating Oil and Gasoline futures
+ uses the last business day, prior month
+ for expiration dates.
+ See the attached excel.
+  

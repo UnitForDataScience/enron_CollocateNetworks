@@ -1,0 +1,21 @@
+
+ 
+ For the 6th, I borrowed 19,903 dth from EGHP (deal 1158684) and I must pay the all the gas back by Friday (deal 1158685).  Since we are borrowing the gas first, we should path this gas on contract # EGHP IT Loaning - 001.
+ 
+ Please let me know if you have any questions.
+ 
+ 
+ 
+  
+    Cc:	Ramirez, Robert; Fletcher, Brenda H.
+  
+ What do you guys think about the following set ups for the Egan park and loan contracts?
+ 
+ 
+ 			Parking				Loaning
+ Pipe Code		EGHP				EGHP
+ Firmness		IT				IT
+ Service Type		Interruptible Parking Service	Interruptible Loaning Service
+ Rate Schedule		IPS				ILS
+ Term			Term				Term
+ Contract #		EGHP IT Parking - 001		EGHP IT Loaning - 001

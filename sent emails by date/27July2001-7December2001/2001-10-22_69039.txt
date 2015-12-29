@@ -1,0 +1,14 @@
+
+ 
+ NXAVC is just like nymex, it settles as one price for the entire month.  I don't know what you mean look for pricing for 9/11-9/14.  NXAVC is a monthly index.  Please clarify.
+ PL
+ 
+ 
+  
+     
+ Philip,
+ 
+ The attached file contains settle prices for crude.  The NXAVC code price is in cell "D48" which I have highlighted in yellow.  There is also historical data in the file where you can verify prior months.  If you have any other questions please ask.
+ 
+ 
+  << File: NYMEXSTL.01.xls >> 

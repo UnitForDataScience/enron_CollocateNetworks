@@ -1,0 +1,7 @@
+
+ 
+ Bart,
+ 
+ Sorry I didn't get back to you right away.  Because I had my hard drive switched out last week, I have to reinstall SQL server on my computer.  However, because of the latest virus scare, they've taken away my administrator access to my machine.  This should all be taken care of this week.  Please check back with me, and I should be able to provide you with the load data.
+ 
+ Mat

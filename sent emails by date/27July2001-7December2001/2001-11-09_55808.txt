@@ -1,0 +1,12 @@
+
+ 
+ 
+ 
+  
+     
+ Vince, 
+ Attached here is the actual version of the slides I presented at INFORMS conference. Many people, including an area editor of Operations Research journal, showed their interests so I am thinking about publishing a paper about it. Of course, I will show it to you first before sending it to outside. 
+ I also met a guy from Bell Lab working in Lucent's Bandwidth trading group. He said that Lucent allocates about 3-4 researchers to work in this area. He said Lucent believes that the bandwidth demand will eventually pick up so they want to be the first one who provide products and research for supporting bandwidth trading. I agree with him that research work should not be stopped and bandwidth trading will become a reality in the next few years.
+ This time the conference is very big. They have 45 parallel sessions presenting at the same time for 3.5 days.
+ -Chonawee
+  

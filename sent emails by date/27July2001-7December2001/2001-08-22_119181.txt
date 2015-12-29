@@ -1,0 +1,17 @@
+
+ 
+ 
+ 
+  
+     
+ This is Refco's F/x demo which is hosted by Dresner Bank and the f/x market making is provided by Dresner Bank
+ 
+ 
+ Refco F/X online demo   
+ 
+ username: refcodemo260 
+ password: cummings 
+ 
+ To access the service please go to this link, http://www.refco.com/productLogin_home.html , you will see a
+ selection to choose from, you will want to click on  "Refco Foreign Exchange Trading Demo" this will start the program and then prompt you for your username and password.  You will need to have Internet Explorer 5.5 and Java Virtual Machine 5.0 (Build 3802) installed and running on your PC to view the online trading system.  Both can be downloaded for free at
+ www.microsoft.com   When logging in, you must type the username and password in lowercase without any spaces.  

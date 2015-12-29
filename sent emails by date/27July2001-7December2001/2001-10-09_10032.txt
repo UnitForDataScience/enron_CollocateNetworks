@@ -1,0 +1,11 @@
+
+ 
+ 	Jennifer, how long has this been a problem?  Is there a concern we have caused
+ 	customers problems in nominating due to bad information?  Thanks. Lynn
+ 
+  
+     
+ 
+ Yesterday we noticed a problem where reports were not reporting on the correct cycle, or were not picking up information between cycles.  As it turns out, an important table was not being replicated from the application database to the reporting database.  
+ 
+ I was told that this problem has been fixed, and on first inspection of the tables, everything looks correct.

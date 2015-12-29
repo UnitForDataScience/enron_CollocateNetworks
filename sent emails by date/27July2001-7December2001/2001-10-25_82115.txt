@@ -1,0 +1,21 @@
+
+ 
+ Tom,
+ 
+ I agree w/ this position (67,016 Peak) as of last night.
+ 
+ Thanks,
+ 
+ Errol, X5-8274
+ 
+  
+     
+ 
+ Hi Errol, 
+ 
+ We're trying to generate our executive reports for Power positions from EnPower directly (trying to avoid using multiple spreadsheets). For the Financial group's power positions, I'm using the GASPOW portfolio in Enpower. For effective date 10/24, the query returned the numbers below for Peak and Off-Peak, respectively. Please confirm that these are correct and that these numbers capture all of your traders' positions.
+ 
+ Thanks.
+ - Tom
+ 
+  << OLE Object: Picture (Metafile) >> 

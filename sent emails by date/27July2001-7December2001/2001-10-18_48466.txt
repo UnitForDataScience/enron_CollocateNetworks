@@ -1,0 +1,22 @@
+
+ 
+ We also have lots of agreements between internal counterparties. 
+ 
+ I also owe you more comments...I haven't forgotten...
+ 
+  
+    Cc:	Stewart, Meredith
+  
+ All,
+ 
+ We are currently working on the data model for the Trading Agreements System and have a question pertaining to internal/external counterparties.  Are all agreements between an internal company(counterparty) and an external company(counterparty)?  I spoke with Meredith Stewart (the data architect for this project) and she found an agreement between 2 internal counterparties, e.g. Enron Louisiana and ECT.
+ 
+ Please let me know ASAP.
+ 
+ Thanks,
+ 
+ Sheri Luong
+ Corporate Systems Development
+ Enron Net Works
+ ECN1831C
+ (713) 345-3553

@@ -1,0 +1,18 @@
+
+ 
+ I do not have access to this file.   I requested access to the curves directory.  Do I need specific access to the file?
+ 
+ Thanks,
+ Mike
+ 
+  
+     
+ Mike the exact path and name of the Financial Curve File is:
+ 
+ O:\ERMS\1ntra\CURVES\GDI - West II.xls
+ 
+ It would be better for us if you would set the financial index curves in this file, just like you do the Physical index curves in the other file.  Let me know what you decide.
+ 
+ Thanks
+ 
+ Anne 

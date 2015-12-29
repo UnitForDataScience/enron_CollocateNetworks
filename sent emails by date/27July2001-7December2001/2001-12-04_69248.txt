@@ -1,0 +1,11 @@
+
+ 
+ we at least temporarily halting the calcing of the trading track books.  Please make sure the following books (all risk types) are inactivated:
+ Dummy-Book
+ EPMI-Trdtrck-11
+ Trade-Track-7
+ Trade-Track-8
+ Trade-Track-9
+ 
+ Thanks.
+ PL

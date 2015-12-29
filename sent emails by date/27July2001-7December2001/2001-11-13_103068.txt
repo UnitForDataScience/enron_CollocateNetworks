@@ -1,0 +1,33 @@
+
+ 
+
+ 
+
+ Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+
+
+ X- X- X- X-b X-Folder: \ExMerge - Semperger, Cara\Sent Items
+ X-Origin: SEMPERGER-C
+ X-FileName: cara semperger 6-26-02.PST
+ 
+ No, I will just make a note of these two strange deals
+ 
+  
+     
+ Good Evening
+ 
+ I ran a master download for December 1 so that over the next few days I can test the overwriting fix, and found two deals that are 24 hour deals, show scheduled hours of 1-24, but are segregated with the "OFF PEAK" deals. 
+ 
+ The deal numbers are:
+ 
+ 576490.1	 
+ 737863.1	 
+ 
+ 
+ Can you look and see if they are booked in a strange way that makes them fall into the wrong segregation category?
+ 
+ 
+ Here is my PSW sheet:
+ 
+  << File: MAIN_DECEMBER_MASTER.psc >> 

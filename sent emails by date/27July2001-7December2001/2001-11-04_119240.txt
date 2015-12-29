@@ -1,0 +1,39 @@
+
+ 
+ 
+ 
+  >
+ 
+           </td>
+ 
+         </tr>
+ 
+       </table>
+ 
+     </td>
+ 
+     <td width="35">&nbsp;</td>
+   </tr>
+   <tr>
+     <td valign="middle"><font face="Arial, Verdana, Helvetica" size="1">CarPrices.com
+       values your privacy. This email address has opted to receive occasional
+       communications from CarPrices.com, its affiliates or partners. If you would
+       no longer like to receive email communications from CarPrices.com, please
+
+       in the subject line.</font></td>
+     <td width="35">&nbsp;</td>
+   </tr>
+ 
+ </table>
+ 
+ <br>
+ <map name="RightSideNavMap">
+   <area shape="rect" coords="2,62,29,161" href="http://tracking.carprices.com/cgi-bin/aff_partner.cgi?PARTNER=NEWSLETTER11-01&redir=http://tracking.carprices.com/cgi-bin/clk_thru.cgi?ID=394">
+   <area shape="rect" coords="3,172,30,274" href="http://tracking.carprices.com/cgi-bin/aff_partner.cgi?PARTNER=NEWSLETTER11-01&redir=http://tracking.carprices.com/cgi-bin/clk_thru.cgi?ID=404">
+   <area shape="rect" coords="3,283,30,385" href="http://tracking.carprices.com/cgi-bin/aff_partner.cgi?PARTNER=NEWSLETTER11-01&redir=http://tracking.carprices.com/cgi-bin/clk_thru.cgi?ID=405">
+   <area shape="rect" coords="2,394,30,497" href="http://tracking.carprices.com/cgi-bin/aff_partner.cgi?PARTNER=NEWSLETTER11-01&redir=http://tracking.carprices.com/cgi-bin/clk_thru.cgi?ID=406">
+ </map>
+ <img src="http://tracking.carprices.com/cgi-bin/nl_track.cgi?PARTNER=NWSLTR_OPN11-01" width="1" height="1">
+ </BODY>
+ </HTML>
+ 

@@ -1,0 +1,9 @@
+
+ 
+ http://itfundy.dev.corp.enron.com/Projects/plasmaProject/default.asp
+ 
+ 
+ 
+ Under the Production section click on PROD NYMEX Tickers and that is the Nat Gas and WTI feed
+ 
+ click on PROD EOL Tickers and then select Financial Spread & Avg Charts for the chart info.

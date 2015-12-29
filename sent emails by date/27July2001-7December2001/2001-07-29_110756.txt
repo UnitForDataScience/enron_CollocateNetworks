@@ -1,0 +1,44 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Solberg, Geir\Sent Items
+ X-Origin: SOLBERG-G
+ X-FileName: geir solberg 6-26-02.PST
+ 
+ HEY KATE.
+ COULD YOU PLEASE INCLUDE THE PRICES IN THESE EMAILS.
+ 
+ GEIR
+ 
+ 
+ 
+  
+    Cc:	Gang, Lisa
+  
+ Three things to be aware of for MONDAY:
+ 
+ 1. EPE Lending Agreement - STWBOM will be short 25 mw on peak at Palo Verde, as will STSW. Don't forget to reduce the STWBOM purchase (706936) from El Paso to $4 after purchasing the energy elsewhere. Sell back to them at $0. Deals are as follows:
+ 
+ 	706936 - STWBOM buys EPE
+ 	706950 - STWBOM sells STSW
+ 	706954 - STSW buys EPE
+ 
+ 2. STSW Parking Agreement - STSW will be going long 13 mw on peak at Palo Verde coming from PNM. (Deal 707099 - $45) Please sell this off Real Time and link it to their day-ahead puchase. 
+ 
+ 3. STCA/STWBOM Short to California Imbalance - Each desk will be short 50 mw total on peak: 25 mw in SP15 and 25 mw in NP15. STWBOM deals are as follows:
+ 
+
+
+ 
+ Please let me know if you have questions.
+ 
+ Thanks,
+ Kate
+ 
+ 
+ 
+ 	
+ 
+ 	

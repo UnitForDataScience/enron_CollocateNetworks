@@ -1,0 +1,19 @@
+
+ 
+ FYI
+ 
+  
+    Cc:	Miller, Don (Asset Mktg)
+  
+ here's a revision to travis's draft for the private equity folks.
+ 
+ couple of comments for consideration at 2:00:
+ 
+ 1.  we do not want to encourage a 338(h) 10 election for basis reasons that are different than existed in Northern.
+ 2.  I have drafted as though TW is issuing the preferred, for tax reasons that may cost ENE +/- $30 million per year we want Newco 1 to issue.
+ 3.  I am not convinced we want to offer same conversion terms as we did Dynegy.  Areas to think about removing or changing are (i) do we offer the makewhole and (ii) should we replace all "repurchase" scenarios with a redemption structure to avoid the whole change of control issue.  
+ 4.  We need to add or relook at the exchange features given the private equity's motivation to participate in the closing of the merger.
+ 
+ Thanks
+ Jeff
+  

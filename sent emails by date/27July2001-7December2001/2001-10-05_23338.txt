@@ -1,0 +1,24 @@
+
+ 
+ FYI
+  Jim Derrick
+ 
+ 
+ 
+
+
+   
+ The Payment status has changed on the following report:
+ 
+ Status last changed by:  System
+ Expense Report Name: Coronado Club
+ Report Total: $68.61
+ Amount Due Employee: $68.61
+ Amount Approved: $68.61
+ Amount Paid: $68.61
+ Approval Status: Approved
+ Payment Status: Paid
+ 
+ 
+ To review this expense report, click on the following link for Concur Expense.
+ http://expensexms.enron.com

@@ -1,0 +1,15 @@
+
+ 
+ Ty, pls check your model, I would believe you have a file reference error on the July 25, 55 day payables number ( when you include new deals).
+ 
+ Pls update and re-issue to me first thing. 
+ 
+ BT 
+ 
+  
+     
+ I've updated the spreadsheet to show the payables totals for the existing and proposed deals as Jan 25, 2002 and July 25, 2002, respectively.  I have also modified the payables calculation to consider only 2002 prices, as this is the applicable period for our exercise.
+ 
+  << File: Huber - Existing & Proposed Deals 111201.xls >> 
+ 
+ - T

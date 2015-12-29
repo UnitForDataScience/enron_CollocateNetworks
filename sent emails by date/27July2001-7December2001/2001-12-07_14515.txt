@@ -1,0 +1,33 @@
+
+ 
+ 
+ It's been a few days now since ENA dropped their gas supply from ENA from 250M down to approx 75-85M and FPL has settled into a pattern of how it is replacing the ENA gas and still keeping its nominations at 800M.
+ 
+ Here is a quick snapshot of where FPL is sourcing there gas from:
+ 
+ ENA					85
+ Exxon					35
+ SNG					48
+ Destin				92
+ Western Gas 			30
+ Dynegy				40
+ Oneok					25
+ BP Amoco				153
+ El Paso				96
+ Aquila				20
+ Duke					26
+ Coral					20
+ Cinergy				20
+ Sempra				25
+ Bridgeline				15
+ National Energy			15
+ 		
+ Delivered Gas:		
+ FGU					15
+ Reliant				31
+ Energy Authority			7
+ NUI					30
+ Total FPL Supply			828
+ Less:  		
+ FPL Energy Services		21
+ Total FPL Deliveries		807  (774 Firm + 33) 

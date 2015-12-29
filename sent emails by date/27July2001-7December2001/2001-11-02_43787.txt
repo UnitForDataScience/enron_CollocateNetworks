@@ -1,0 +1,16 @@
+
+ 
+ 
+ 
+  
+    Cc:	Alters, Dennis
+  
+ To calculate maximum hourly allowable volumes the daily firm volume (Maximum Daily Quantity, or MDQ) in the contract is multiplied by the hourly per cent.  If the per cent is not shown in the contract, then the tariff rate of 6% is used.
+ 
+ Assuming 1000 MDQ, at 6% is:
+ 
+ 1000 * .06 = 60 per hour, or a daily rate of 60 * 24 = 1440
+ 
+ So at any time the customer can flow at a rate of 1440 but cannot exceed 1000 for the day.  An individual delivery point cannot usually drastically affect the mainlines, but they can affect smaller laterals.  Consequently, any lateral for this customer would be designed to deliver 1440 per hour.
+ 
+ Shorthand for the daily rate is .06 * 24 = 1.44.     Multiplying any MDQ by 1.44 gets the daily rate, assuming the max hour is at 6%.

@@ -1,0 +1,24 @@
+
+ 
+ we will have to take the PMA, it looks like a deal entry error.
+ PL
+ 
+ 
+  
+    Cc:	Bowen, Melba A.
+  
+ 
+ Phillip
+ 
+ Melba and I just noticed there are two lone liquidations for Texex Energy Partners Ltd for August 2001 production that are linked to Sitara deals that say they are for August 2002.  Which year is correct?
+ 
+ 
+ Sitara 848155	August 2002	Tagg VG6573.1	August 2001
+ Sitara 848158	August 2002	Tagg VG6577.1	August 2001
+ 
+ The exposure on these two liquidations together would be $67,911	expense to the desk.
+ 
+ Let me know what we should do.
+ 
+ Thanks
+ Cathy

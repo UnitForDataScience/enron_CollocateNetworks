@@ -1,0 +1,48 @@
+
+ 
+ 
+ 
+ 
+ Elizabeth Sager
+ 713-853-6349
+ 
+  
+ 
+                     Ernie Kohnke
+
+                     10/23/01             cc:
+                     04:12 PM              
+ 
+ 
+ 
+ 
+ Pete,
+ 
+ Attached please find my comments and suggested revisions for the Master
+ Netting Agreement with Enron.  I have noted in paragraph 6(h) (and the same
+ comments applies to paragraph 6(i)) that I need further explanation of the
+ provision itself, and I will be happy to discuss this provision with
+ someone from Enron or someone in our shop.
+ 
+ For the most part, the agreement looks pretty good.  Most of my changes
+ focused on the arbitration clause.  Given the nature of this Agreement, we
+ should be careful to include all of the counterparty agreements (for
+ example, I added a reference to a GISB in place between DMT and Enron
+ Energy Services).  If the list of agreements becomes too extensive, then we
+ may want to consider simply listing all of the various Enron entities and
+ Dynegy entities by name within the body of the Agreement, and attaching an
+ exhibit that specifies the Underlying Master Agreements that are in effect
+ at the time this Netting Agreement is executed.
+ 
+ Please contact me with any questions or comments you may have.
+ 
+ Thanks.
+ 
+ Ernie
+ 
+ (See attached file: Enron Master Netting Revised 10-23-01.doc)
+ 
+ 
+ 
+  - Netout.doc 
+  - Enron Master Netting Revised 10-23-01.doc 

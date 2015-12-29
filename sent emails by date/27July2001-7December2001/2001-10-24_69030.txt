@@ -1,0 +1,13 @@
+
+ 
+ FYI - keep an eye out for this.
+ PL
+ 
+ 
+  
+     
+ Guys:  Just a reminder to have everyone check their physical Index deals carefully.  We have been discussing this issue with Tara and thought that it was a one time issue that had been resolved, but today, Tuesday, we found that EOL is still booking certain Fiz Index deals incorrectly.
+ 
+ Look for a 0.00 in Basis.
+ 
+ On most of ours the deals did not show up in any of our calcs because the Nymex reference is not populated.

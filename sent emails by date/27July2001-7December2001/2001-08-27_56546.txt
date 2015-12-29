@@ -1,0 +1,26 @@
+
+ 
+ 
+ 
+  
+     
+ 
+ 
+ I have talked with Gordon regarding to the impact of current Enron stock price on the Raptor structure.  Here are the main points:
+ 
+ 1) After the March  fix-up, Raptor hedged ENE credit capacity all the way down to ENE $20/share.  And the collars are consists of European type options.  The maturities are:  original collars for Raptor I, II, IV will mature in 2003.  The new collars for Raptor II and IV will mature in 2005.  
+ 
+ 2) The collars were transacted with ENE.
+ 
+ 3) The option settling method will be equity method.  Enron will hand over shares at the maturity.  But there is a maximum 3 share per option limit.   For example:   With a strike of $80,  if ENE price drop down to $20, the intrinsic value of the option is $60 which means ENE will have to hand over $60/$20=3 shares.   But if ENE price drop down to $10, ENE still only hand over 3 shares, with $30 in value.
+ 
+ 4) When options exercised, Enron will have share dilution but no impact on Enron income.
+ 
+ 5) A good portion of the public equities have been liquidated by Raptor at a substantial discount. (I have the list and the share numbers) The notional value of all the swapped assets at the time of Raptor inception was $733.68 MM.  Current value of assets remain in Raptors are $141.8 MM.
+ 
+ 6) While the raptors have hedged Enron's credit capacities,  the current Enron credit capacity dropped from around ($36MM) after the fix up, to around ($237MM) as of 8/20/01.
+ 
+ Hope these information help answering some of the question you had.
+ 
+ Ding.
+ 

@@ -1,0 +1,53 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Williams III, Bill\Sent Items
+ X-Origin: WILLIAMS-W3
+ X-FileName: 
+ 
+ 
+ 
+ |
+ 
+ 
+ 
+
+ 
+
+
+
+
+
+
+       Zhang/USTRA/ABB)
+  
+ Security Level:?         Internal
+ 
+ 
+ 
+ All,
+ Please be advised that the SI Server Certificates on the primary SI site in
+ Folsom will expire in about a month.  We are planning to install ISO
+ issued/trusted Certificates on the Folsom SI servers as we have already done
+ on the Alhambra server several months ago. We presently use Verasign as the
+ Third Party Trust.  We would like input from you as to any known issues with
+ authentication at the Alhambra SI site and any impact you may have seen
+ after our implementation there.  Please provide feedback to me via e-mail
+ prior to this Wednesday's TSWG meeting and I will consolidate concerns so
+ that we may discuss these in that forum.
+ Best Regards,
+ 
+           Ginger Seitles
+           Senior Market Integration Engineer
+           California ISO, Market Operations
+           Phone: (916) 351-4420
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 

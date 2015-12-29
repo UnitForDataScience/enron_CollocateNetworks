@@ -1,0 +1,19 @@
+
+ 
+
+   purchase excess power from CDWR's long-term contracts
+ Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Williams III, Bill\Sent Items
+ X-Origin: WILLIAMS-W3
+ X-FileName: 
+ 
+ 
+ 
+  
+    Cc:	DL-Portland Volume Mgmt
+  
+ Steve,
+ 	Here is a summary of what we have learned regarding how the CAISO is handling 487.  Kent at Sierra Power inquired to me why he was being charged 487, (487 is the charge code the CAISO uses when it has to go out of market, and purchase power that exceeds $150.00/mwh, 481 is the charge code they use to credit it back), for the same hours and intervals that both the INC and DEC prices were zero.  This was obviously very peculiar and nobody in VM knew the answer. So Caroline posed the question to Keoni at the CAISO.  His response was this:  that the CAISO is charging 487 regardless of the INC and DEC prices, to cover the forward market contracts signed by CDWR and CERS.  In effect, they are ignoring their tariff that states they are supposed to purchase power at the lowest price, and are in effect trying to recover costs for CDWR and CERS.   
+ 
+ -Kit

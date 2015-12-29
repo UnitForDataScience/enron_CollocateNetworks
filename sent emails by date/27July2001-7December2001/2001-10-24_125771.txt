@@ -1,0 +1,38 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Zufferli, John\Sent Items
+ X-Origin: ZUFFERLI-J
+ X-FileName: john zufferli 6-26-02.PST
+ 
+ 
+ 
+  
+
+    
+ Gentlemen,
+ 
+ First, my condolences on your stock price.  All I can say is that I
+ empathize: AES fell 49% in one day a few weeks ago.  I suspect the market
+ will bounce back for both our companies before very long.
+ 
+ I attach a speadsheet with slightly revised performance numbers, and per
+ our last conversation, I have added numbers on ramp rates and start times
+ to help you better model the optionality.  When the forwards improve (as a
+ developer, I MUST be optimistic!), you can use this updated information to
+ update your pricing.  I look forward to resuming our discussions.
+ 
+ Regards,
+ 
+ Derek Denniston
+ Vice President
+ AES Calgary
+ o: 415.395.7886
+ f:  415.395.7891
+ m: 415.786.3773
+
+ 
+ 
+  - Tolling Inputs 10-23.xls 

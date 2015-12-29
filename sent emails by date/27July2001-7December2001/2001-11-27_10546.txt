@@ -1,0 +1,12 @@
+
+ 
+ 	John, where are we on this item?  Thanks. Lynn
+ 
+  
+    Cc:	Blair, Lynn
+  
+ 	
+ 	Let's discuss again on Monday if we need to relook at hard coding the allocation
+ 	based on discussions with Kent and Frank.
+ 
+ 	Thanks. Lynn

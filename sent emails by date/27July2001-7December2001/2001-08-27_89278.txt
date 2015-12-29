@@ -1,0 +1,45 @@
+
+ 
+ Thanks Anthony, please add Gerald Nemec to your distribution.
+ 
+  
+    Cc:	Dickson, Stacy E.; Perlingiere, Debra
+  
+ Jeff,
+ 
+ After researching the Global Contracts database and not finding a Master Agreement, I have created the following GTCs with Primary Terms over six months:
+ 
+ Counterparty:  Dominion Exploration & Production, Inc.
+ Enron Entity:  ENA
+ Sitara#:  999841
+ Tagg#:  VX6932.1
+ Desk:  West
+ Term:  9/1/01 - 10/31/02
+ Global #:  96066276 - GTC Purchase Firm
+ 
+ Counterparty:  HS Energy Services, Inc.
+ Enron Entity:  ENA
+ Sitara#:  989945
+ Tagg#:  VW6012.1
+ Desk:  West
+ Term:  11/1/01 - 10/31/02
+ Global #:  96064790 - GTC Purchase Firm
+ 
+ Counterparty:  Cascade Natural Gas Corporation
+ Enron Entity:  ENA
+ Sitara#:  967371
+ Tagg#:  VT8850.1
+ Desk:  West
+ Term:  11/1/01 - 10/31/03
+ Global #:  96064312 - GTC Sale Firm
+ 
+ Thank You,
+ 
+ Anthony Campos
+ Enron Corp._Global Contracts
+ 713.853.7905 (office)
+ 713.646.2495 (fax)
+ 713.709.0373 (pager)
+
+ 
+ 

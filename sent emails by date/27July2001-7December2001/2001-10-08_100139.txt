@@ -1,0 +1,44 @@
+
+ 
+ TW
+ 
+ Socal Window               (Actual)      (Projected)                   
+ Saturday                       688
+ Sunday                         709
+ Monday                                              728
+ 
+ California Del.
+ Saturday                       947
+ Sunday                         960
+ Monday                                              964
+ 
+ San Juan Del. 
+ Saturday                       870
+ Sunday                         871
+ Monday                                              874
+ 
+ East Del.
+ Saturday                      430
+ Sunday                        445
+ Monday                                              351
+ 
+ No major problems for the weekend.
+ 
+ NNG
+ 
+ Temps.
+ Saturday                       39
+ Sunday                         43
+ Monday                                                53
+ 
+ System Load    
+ Saturday                     1959
+ Sunday                       1800
+ Monday                                             1675
+ 
+ Line Pack
+ Saturday                     3318
+ Sunday                       3400
+ Monday                                              3400
+ 
+ No major problems for the weekend. 

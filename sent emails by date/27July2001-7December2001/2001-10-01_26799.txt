@@ -1,0 +1,12 @@
+
+ 
+ The supply from the desk-to-desk transaction (#1075281) is pathed to the transport.  The 1023 contract is an ENA agreement.  So, deal 1075281 transfers the gas to ENA.  ENA then transports the gas on it's agreement on Lone Star.
+ 
+ D
+ 
+  
+     
+ Darren:
+ I see the new path for the desk to desk in Nov 2000.  You pathed it as a buy/sell.  Should it be on contract 1023 where the old path was?  We have a transport statement from TXU for contract 1023 that has 21,309 mm.  
+ Megan
+  << OLE Object: Picture (Device Independent Bitmap) >> 

@@ -1,0 +1,18 @@
+
+ 
+ 	Don, this is great.  This report was a big hurdle for us.  I will check with the team on how it
+ 	is working.  Thanks for all your support as we go forward in our Business Objects training.
+ 	Thanks. Lynn
+ 
+  
+    Cc:	Woodson, Harry; Powers, Ken; Mysyk, Andriy; Keller, Shelly; Gilbert, Steve; Sawyer, Lisa; Sawyer, Lisa; Gigliotti, Mark; Bodnar, Michael
+  
+ I finished development of a BusinessObjects Report to produce the NNG Bushton PVR information.  Today I turned this over to the Gas Logistics South End Team.  The report is available via the intranet web server Infosource.ets.enron.com.  I walked the team through the login process, refreshed and printed the report.  I plan to demonstrate how this report was built to the Gas Logistics report team being coordinated by Mike Bodnar.  I will do so at one of our earliest meetings.  Please let me know if you have questions.
+ 
+ u Don Powell
+ Manager Business Information
+
+ n Enron Transportation Services
+ phone: 713-853-5801
+ fax: 713-646-8000
+ Web: <http://www.enron.com> 

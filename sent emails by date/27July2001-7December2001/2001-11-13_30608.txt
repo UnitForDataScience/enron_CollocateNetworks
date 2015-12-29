@@ -1,0 +1,11 @@
+
+ 
+ ETS             103.5
+ PGG              54.7  Includes GW adjustment $5.2
+ EGAS           (29.8)  
+ EEOS           (74.7)
+ EREC            53.2
+ AZURIX         (19.0)
+ Clean Fuels   (21.1)
+                    
+                      66.8

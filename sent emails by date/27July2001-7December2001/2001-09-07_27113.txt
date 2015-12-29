@@ -1,0 +1,15 @@
+
+ 
+ Please note that when we will receive a unit specific instruction,   we will also receive a category one deployment.
+ The unit specific instruction tells us the level that they want the unit to produce.    The category one is just a summary of how much we need to move to achieve the unit specific level.   These should not be combined .
+ 
+ Also,  when you receive a category 2, 3 or 4 we are essentially receiving an OOM type instruction that is settled under the OOM provisions.    
+ 
+ JMF
+ 
+  
+
+
+                Would  it be prudent for me to call Cheryl Moseley for a Market Ops
+     question? (a la Nancy Traweek in CA?)
+     

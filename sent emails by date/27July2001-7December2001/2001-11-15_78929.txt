@@ -1,0 +1,22 @@
+
+ 
+ 
+ Do I approve Daren's expense report.  If I do go ahead and approve it.
+ 
+ Tom
+ 
+ 
+  
+
+    
+ The following expense report is ready for approval:
+ 
+ Employee Name: Jerry D. Farmer
+ Status last changed by:  Automated Administrator
+ Expense Report Name: Daren Farmer
+ Report Total: $153.53
+ Amount Due Employee: $153.53
+ 
+ 
+ To approve this expense report, click on the following link for Concur Expense.
+ http://expensexms.enron.com

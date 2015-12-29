@@ -1,0 +1,29 @@
+
+ 
+ volume 1	settle is 3.198 curve adjust is -.135 and bid is -0.063 less all in bid of  3.01
+ volume 2	settle is 2.997 curve adjust is -.05 and offer is +0.033  all in offer of  2.98
+ volume 3	settle is 3.198 curve adjust is -.055 and bid is -0.043 less all in bid of  3.10
+ 
+ let me know if you have any questions ?
+ 
+ 
+ 
+  
+     
+ Dutch,
+ 
+ Attached is a file with volumes for the EEX VPP.  Remember, we will simply do an incremental VPP with additional volumes (column C), but our "pitch" to EEX is to tell them how much they would save by doing the incremental with us and not another company.  So, we want you to quote up the unwind of the existing VPP (offer in column B) as well as the Bid for the entire volume (column A).
+ 
+ Please provide the quote based upon where you set tonight's curve.
+ 
+ Per my model ...
+ 
+ A: Total Volume - Adjustment is -.1259
+ B: Existing Volume - Adjustment is -.0548
+ C: Incremental Volume - Adjustment is -.0475
+ 
+ Thanks!
+ 
+ Eric
+ 
+  << File: NYMEX Quote - EEX (D.Quigley) 9.24.01.xls >> 

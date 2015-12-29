@@ -1,0 +1,7 @@
+
+ 
+ IN
+ 
+  
+     
+ Would you prefer, or not, that the price sheet and the position report that I run be in the ECT_Trading folder?

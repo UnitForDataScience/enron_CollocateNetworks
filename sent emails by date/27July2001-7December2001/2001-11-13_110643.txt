@@ -1,0 +1,7 @@
+
+ 
+ Kam,
+ 
+ Hey, there's a nymex sale of 5000 /day Dec at 2.945 that shows up as a changed deal in my P&L from last night.  The deal is a valid sale that I executed, but it does not appear to be valued correctly.  It's valued at $3,096 when nymex was marked at 2.735 so the value should have been $32,550.  I would contact Ashley directly, but I don't know her last name.  Thanks.
+ 
+ Mat

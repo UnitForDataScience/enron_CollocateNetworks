@@ -1,0 +1,37 @@
+
+ 
+ Just FYI - Thu Pham Arnold does our Global Counterparty requests now.
+ 
+ Stacey
+ 
+  
+    Cc:	White, Stacey W.; Evans, Casey; Moorer, Torrey; Lee, Norman; Victorio, Tom; McIntyre, Burton; Trevino, Susan; McClure, Zakiyyah; Wilson, Shona
+  
+ Sam;
+ 
+ Power Risk Management has determined that the status for the following counterparty codes should be changed to "SUSPENDED".  Can you please make this change in your tables?  Please let me know when the process is complete.
+ 
+ Thanks for your help.
+ 
+ 
+ Regards,
+ 
+ 
+ Nancy
+ 
+ EPGC-GL-SPR-MTM	
+ EPGC-LC-SPR-MTM	
+ EPGC-LT-GC-MTM	
+ EPGC-LT-LC-MTM	
+ EPGC-ML-DMD-MTM	
+ EPGC-WH-SPR-MTM	
+ EPMI-LT-MAIN	
+ EPMI-LT-MAPP	
+ EPMI-LT-NEUTIL	
+ PWR-NG-MIDWEST	
+ PWR-NG-NTHEAST	
+ PWR-NG-ST-CENT	
+ PWR-NG-STHEAST	
+ EPMI-LT-WHALLEY	
+ EPMI-ST-WR	
+ PWR-SS-R7	

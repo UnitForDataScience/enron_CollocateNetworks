@@ -1,0 +1,7 @@
+
+ 
+ Maria,
+ 
+ Since you set my security up for the fundamentals database, I can't access any of the outage tables.  Can you make sure that I have access to those tables with my NT id "msmith18".  Previously, I would use the "gasintranet" ID and "fundamentals" password.  Thanks.
+ 
+ Mat

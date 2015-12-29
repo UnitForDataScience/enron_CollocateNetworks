@@ -1,0 +1,10 @@
+
+ 
+ 	
+ Small issue but annoying:
+ 
+ If try to modify a plo by going to the line and getting the +/- box in the row with the order there is no way to change your mind and not modify without two error messages getting generated. i.e. if you decide to leave the price unchanged and hit "set" it generates the error messages, there is no other way to get out of the window though, no x box to close it.
+ 
+ Hope all is well otherwise,
+ 
+ Andy

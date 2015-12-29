@@ -1,0 +1,56 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: quoted-printable
+ X- X- X- X-b X-Folder: \ExMerge - Crandall, Sean\Sent Items
+ X-Origin: CRANDELL-S
+ X-FileName: 
+ 
+ Kevin,
+ 
+ My apologies for not getting back sooner, but I sort of wanted to see how t=
+ he Enron real-time products did before proceeding with this.  It seems like=
+  real-time is a success, so let's get going with this. =20
+ 
+ I call this product DART (Day-Ahead/Real-Time).  It's basically a physical =
+ product that is transacted on a day-ahead cash basis, but is delivered on r=
+ eal-time.  For example, on the day-ahead, lets say I post a "US Pwr Phy Fir=
+ m  Mid-C Peak Oct04 to Oct05 DART"  $27 at $28.  If I get hit, then the par=
+ ty selling to me is obligated to deliver on Oct 5th, real-time 25 MW each h=
+ our.  I would be long real-time at $27.  If a party lifts my $28, then I wo=
+ uld be obligated to deliver to them on Oct 5, real-time, 25 MW each hour.  =
+ I would be short at $28.
+ 
+ The mechanics of this deal are much like a regular day-ahead cash transacti=
+ on.  The primary difference is we would have to flag these deals somehow su=
+ ch that they would not get mixed with our regular day-ahead transactions th=
+ at needed to be prescheduled.
+ 
+ As far as the product language goes, I think if you add the following langu=
+ age to what you provided below, we should be OK (obviously subject to legal=
+  review).
+ 
+ "This product is intended to be transacted on a Day-Ahead basis, for delive=
+ ry on a Real-Time basis.  Day Ahead means the trading day prior to the day =
+ of delivery, consistent with WSCC scheduling and trading practices.  Real-t=
+ ime means the actual Delivery Day.  Real-time deliveries shall be consisten=
+ t with generally accepted WSCC scheduling timelines and practices."
+ 
+ Take a look, give me a call.  Thanks.
+ 
+  it is to be settled real time.  If we fast forwar=
+ d to real-time, Morgan Stanley has two options.  They can buy from us on EO=
+ L, whereby this transaction books out, or they can deliver us physical powe=
+ r, whereby we have to sell the power to a third party real time.  The nice =
+ thing about this product is it provides any party the ability to take a pos=
+ ition to real time, even if they are not a control area.  In addition, it w=
+ ould provide utilities and generators the ability to hedge a day-ahead posi=
+ tion.
+ 
+ Kevin, I'm not sure if it's you I need to talk to about this, but I would a=
+ ppreciate some direction if it's somebody else.  Once we identify who we ne=
+ ed to look at this, I'd like to set up a conference call to discuss contrac=
+ t language and EOL mechanics.
+ 
+ Thanks.

@@ -1,0 +1,26 @@
+
+ 
+ 	Lori, please coordinate any testing for the Customer teams for NNG and TW with Mike Bodnar.
+ 	Thanks. Lynn
+ 
+  
+     
+ Brad,
+ 
+ This is what I would like to convey to the users at this time.  Also, let everyone know that I am available to attend their individual staff meetings.
+ 
+ 
+ The Business Objects IT staff is currently in the process of upgrading the hardware and software for Business Objects.  The hardware will provide better processing times and more stability.  The software upgrade will provide some bug fixes and enhancements.
+ 
+ As far as the effect to the users, the impact should be minimal.  
+ 
+ If the users accesses Business Objects through InfoSource.ETS.Enron.com, there will be no changes.
+ If the users accesses BO through ZABO, they will need the new version installed.  This will accomplished through a Corp script that will either push the new software onto the users PC or they will have to select a Start menu item.
+ 
+ The go live date is Dec 1.
+ 
+ Lori Saffer will be sending reminder e-mails as the deadline approaches.  
+ 
+ Thank you for all your help,
+ Lori Saffer
+ 713-853-0641

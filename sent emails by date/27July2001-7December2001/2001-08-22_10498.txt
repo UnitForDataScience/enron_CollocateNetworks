@@ -1,0 +1,11 @@
+
+ 
+ 	Jim, good idea.  I had not thought about that.  Thanks. Lynn
+ 
+  
+     
+ Lynn, 
+ 
+ I talked with John Buchanan and we decided not to do the pop up notice for the new scheduled quantities report because we reserved that means of communication for instant critical notices.  So, we are going to send an email notice to all users using the email distribution list that we have for critical notices.  This email list should cover all active users whether they are online users or EDI users.  Also, I can put more info in an email notice.  
+ 
+ Jim  

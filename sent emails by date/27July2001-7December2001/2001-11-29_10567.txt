@@ -1,0 +1,25 @@
+
+ 
+ 	Who is sending the letter to let Bear Paw know we need prepayment?  Thanks. Lynn
+ 
+  
+     
+ 
+ I just got off the phone Paul Cherry and there is an exposure issue with 3 affiliate shippers: Bear Paw, Enovate and The New Power Company.  Please check with the schedulers (if any) and determine if these contacts have been previously nominated upon.  Also, it is important that, if they nominate from this date forward, the activity is approved through Paul Cherry (may require pre-payment).  Thanks
+ 
+ Craig
+ 
+ TW
+               Shipper                  Con #     K Type    MDQ        Exp Date      Ext Terms
+ 
+ THE NEW POWER COMPANY	27509	ITS-1	50,000	2/14/2002 0:00			
+ THE NEW POWER COMPANY	27510	PNR	50,000	2/14/2002 0:00	Evergreen		
+ 
+ NNG
+ 
+ Bear Paw Energy, LLC	102518	IT	30,000	12/31/1997	Evergreen	
+ Bear Paw Energy, LLC	104442	FT	20,000	12/31/2003	ROFR	
+ Bear Paw Energy, LLC	105396	IT/OBA	n/a	4/30/2000	Evergreen	
+ 						
+ Enovate, LLC	107282	ID		1/31/2002	Evergreen	
+ Enovate, LLC	107283	IT	50,000	1/31/2002	Evergreen	
