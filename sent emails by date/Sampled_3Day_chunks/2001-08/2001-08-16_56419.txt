@@ -1,0 +1,123 @@
+
+ 
+ 
+ 
+  
+ 
+ void HJMsim( int nRun, int nfactor, int toEndMonth, \
+ 			 double *F, double *vol, double s0, double *svol, double *correl, 
+ 			 double *LHP, double *mean_spread,
+ 			 int freq,int freq1, int *bin_dim, double Correl;
+ FILE   *fp;
+ double var_s, var_F0, delta, b,cc;
+ int    nperiods;
+ 
+ if(RECORD){
+    fp=fopen("C:\\temp\\curve.txt","w");
+    fprintf(fp,"traj\tmonth\tperiod\tspot\t\tprompt\t\tprompt+1\tzeroFwd\n");
+ }
+ 
+ 
+ 
+ Nt = freq1 + toEndMonth*freq;
+ 
+ 
+ DT=1.0/(12.0*freq);  //freq=4 is weekly step, freq=30 is daily step;
+ sqrtDT=sqrt(DT);
+ 
+ 
+ 
+ ffVol =dvector(1,toEndMonth);
+ LH    =dmatrix(1,toEndMonth, 1,nfactor); // historical factor loadings
+ Correl=dmatrix(1,toEndMonth, 1,toEndMonth);
+ L     =dmatrix(1,toEndMonth, 1,nfactor); // current factor loadings
+ 
+ 
+ for(i=1;i<=toEndMonth;i++)
+ 	for(j=1;j<=nfactor;j++)
+ 	    LH[i][j]= LHP[j+(i-1)*nfactor];
+ 
+ hisCorrel(toEndMonth, nfactor, LH, Correl);
+ sffVolatility(toEndMonth, vol, ffVol);	
+ preHJM(toEndMonth,nfactor,ffVol,Correl,L);
+ 
+ free_dmatrix(LH,1,toEndMonth, 1,nfactor);
+ free_dmatrix(Correl,1,toEndMonth, 1,toEndMonth);
+ 
+ 
+ 
+ fwdCv=dmatrix(1,toEndMonth,1, freq);
+ fwdCv2=dmatrix(1,toEndMonth,1, freq);
+ price=dvector(0,toEndMonth);
+ nrv =f3tensor(0,toEndMonth, 1, freq, 1, nfactor);
+ bin2=dvector(1,bin_dim2);
+ pBin=ivector(0, Nt);	                //Ns X Nt
+ 
+ 
+ 
+ //Time=0
+ 
+     spot=s0;               // bining spot
+ 	prompt=F[1];		//bining prompt
+ 	spread=prompt-spot;
+ 
+ 	is=hist3(spot, bin_dim[0],  bin[0]);
+ 
+ 	if(is<1) is=1;
+ 
+ 	for(i=1;i<=bin_dim2;i++)
+ 		if(is-bin_dim2/2+i-1<1)
+ 			bin2[i]=bin[0][1]-bin[0][is];
+ 		else if(is-bin_dim2/2+i-1> bin_dim[0])
+ 		    bin2[i]=bin[0][bin_dim[0]]-bin[0][is];
+ 		else
+ 			bin2[i]=bin[0][is-bin_dim2/2+i-1]-bin[0][is];   //chose bin_dim2 odd
+ 
+   
+ 
+ 	
+ 	is2 = hist3(spread,bin_dim2, bin2);
+ 	if(is2<1) is2=1;
+ 
+     index= (is-1)*bin_dim2+is2;
+ 
+ 	pBin[0]=index;
+ 	*index0=index;
+ 
+ 
+ 
+ for(traj=1;traj<=nRun; traj++){
+ 
+ //Time=0	   
+     spot=s0;
+ 	price[0]=s0;
+     for(i=1;i<=toEndMonth;i++)
+ 		price[i]=F[i];
+ 
+ 
+ //	a[pBin[0]][0] +=1.0;
+ //	c[pBin[0]][0] += spot;
+ //	d[pBin[0]][0] += F[1];
+ 
+ 	a[*index0][0] +=1.0;
+ 	c[*index0][0] += spot;
+ 	d[*index0][0] += F[1];
+ 
+ // forward induction
+ //n-factor model for forward curve
+ 
+ 	for(month=0; month<=toEndMonth; month++){
+ 		if(month!=0)
+ 			nperiods=freq;
+ 		else
+ 			nperiods=freq1;
+ 
+ 		for(j=1;j<=nperiods;j++)
+ 			for(k=1;k<=nfactor;k++)
+ 		       nrv[month][j][k]=gasdev(&idum);
+ 	}
+ 
+ //propagate to maturity
+ 	for(month=1; month<=toEndMonth; month++)
+ 		for(it=1;it<=month;it++){
+ 			if(it  */??if(RECORD)?   fclose (fp);??free_ivector(pBin,0,Nt);?free_dmatrix(fwdCv, 1,toEndMonth,1, freq);?free_dmatrix(fwdCv2, 1,toEndMonth,1, freq);?free_dvector(price,0,toEndMonth);?free_f3tensor(nrv,0,toEndMonth, 1, freq, 1, nfactor);?free_dvector(bin2, 1,bin_dim2);?free_dvector(ffVol,1,toEndMonth);??free_dmatrix(L,1,toEndMonth, 1,nfactor); ????}?/*?	for(i=1;i<nCurvePts;i++)?		for(k=Krange[i];k<=Krange[i+1];k++)?			volume[k]=volumeBin[i]+(k-Krange[i])*injectionRate[i];?*/???	return 1;?}?

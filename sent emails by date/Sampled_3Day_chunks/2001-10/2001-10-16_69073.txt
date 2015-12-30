@@ -1,0 +1,21 @@
+
+ 
+ GDP-ST.CLAIR and GDP-NGPL(IA-IL
+ 
+ Thanks.
+ PL
+ 
+  
+     
+ Hey Phillip,
+ These are the unmapped curves.  Please let me know what OMICRONS they should be mapped to and I'll have Nilay do it.  This is your problem.  Large hedge benefits are not being captured in her books.
+ 
+ Bharat
+ 
+ 
+ 
+ GDP-MONCHY	             890,193 	
+ GDP-NGPL/(IA-IL	          2,315,334 	
+ GDP-ST.CLAIR	            (379,744)	
+ 	
+ 	TOTAL			        2,825,783 

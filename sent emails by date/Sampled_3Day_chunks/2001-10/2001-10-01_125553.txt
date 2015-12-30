@@ -1,0 +1,21 @@
+
+ 
+ 	1). Nov 1yr
+               
+                 close: 2.77
+                 reset swap px: 2.70
+                 resets to: 3.10
+                 reset trigger: 3.15
+ 
+ 
+            2). Nov 2yr
+               
+                close: 3.00
+                reset swap px: 2.90
+                resets to 3.35
+                reset trigger: 3.35
+        
+ 
+ The mechanics of the swap are as follows:  It is a normal swap at the reset swap price unless a particular reference month settles at or above the reset trigger. In that case that month and only that month's reference price resets to the new price as specified in "resets to." all other months remain unaffected until they settle and we go through the same process all over again.
+                 
+ Let me know if you have questions.

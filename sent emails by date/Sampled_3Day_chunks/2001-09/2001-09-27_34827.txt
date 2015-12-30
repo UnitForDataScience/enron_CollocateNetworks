@@ -1,0 +1,11 @@
+
+ 
+ When I look up this contract in Passkey, I show an MDQ of 16,373.
+ 
+ We think it should be 4723 with the following primary receipt points.
+ Leg	MDQ
+ 800   	1228
+ 500	897
+ Z0	2598
+ 
+ I might be looking in the wrong screen.  I am going under contracts/contract maintenance/review

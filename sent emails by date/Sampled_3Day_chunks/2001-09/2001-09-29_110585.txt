@@ -1,0 +1,23 @@
+
+ 
+ Dave,
+ 
+ Since I'm thinking of it, what we'd like to strive for is, for one, to be able to double click on the bars and get a list of the the plant outages that make up the total and also to be able to select date ranges.  Also, it would be be great to be able to be able to select daily or monthly averages over a day range or month range, respectively.  Maybe have the current page be the default with control boxes to modify the criteria.  
+ 
+ Mat
+ 
+  
+    Cc:	Huang, Jason; Dronet, David; Holst, Keith
+  
+ Dave,
+ 
+ Since I'm thinking of it, what we'd like to strive for is, for one, to be able to double click on the bars and get a list of the the plant outages that make up the total and also to be able to select date ranges.  Also, it would be be great to be able to be able to select daily or monthly averages over a day range or month range, respectively.  Maybe have the current page be the default with control boxes to modify the criteria.  
+ 
+ Mat
+ 
+ 
+ Dave,
+ 
+ Hey, I checked out the test chart you did for outages.  Nice work!  I'm already thinking of many other things we'd like to have.  Does this charting tool, allow us to customize the chart features to the extent excel does?  Can you manually set the min and max values on the axis?  We like some of the charts to have the same axis settings so that the bars can be compared from one chart to the next.  If so, Jason can tell you how we'd like them set.  Let's also discuss what interactivity we can build into this page. 
+ 
+ Mat

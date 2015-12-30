@@ -1,0 +1,17 @@
+
+ 
+
+ 
+
+ Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+
+
+ X- X- X- X-b X-Folder: \ExMerge - Slinger, Ryan\Sent Items
+ X-Origin: SLINGER-R
+ X-FileName: 
+ 
+ It appears that there is a 10mw transmission schedule missing on peak from Pac System border to Mid C.  This has us out 320 mw at Mid C for 8/1/01.	
+ 
+ thanks- 
+ ryan

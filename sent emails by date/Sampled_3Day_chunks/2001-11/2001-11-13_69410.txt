@@ -1,0 +1,10 @@
+
+ 
+ 
+ FYI - based on a call I got from Chris Abel in controls.  Not sure if any of your guys roll from the regions file instead of daily.
+ PL
+ 
+  
+     
+ Just wanted to send you an FYI - due to problems that are caused for RAC, please roll your P&L's each day from your daily file and not the regions file.  The RAC group looks at our P&L's in the region files each morning to determine rho and drift and this causes a problem if you have saved your P&L after rolling(it appears as though you have data already captured for current day because it copies and pastes formulas from the prior day to current day).  Thanks for your help and shout with any questions.
+ PL

@@ -1,0 +1,14 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Williams III, Bill\Sent Items
+ X-Origin: WILLIAMS-W3
+ X-FileName: 
+ 
+ Good morning.
+ We are off in position manager at Mid Columbia because of Enron Canada. I notified Murray at Enron Canada at approximately 6:15 this morning. Position manager is also not working properly, it is reporting a variance at Pacificorp system border ? and at Palo Verde. However the position manager shows no variance when detail is clicked.
+ If you have questions, let me know.
+ Thanks,
+ Bill

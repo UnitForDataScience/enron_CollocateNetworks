@@ -1,0 +1,16 @@
+
+ 
+ That makes sense.  How do we notify our trading counterparties?  Mark
+ 
+  
+     
+ 
+ Due to the extent of work required to modify our annexes, GTCs etc. on EOL (IT coordination, counterparty notification and the like) and the traders' strong preference to not often make changes on EOL product documentation, we propose to implement the EOL form change in one aggregate revision as and when the trading forms committee concludes its work on events of default and termination valuation/remedies.  Should you think this should be handled differently, please advise.  Mary
+ 
+ Cordially,
+ Mary Cook
+ Enron North America Corp.
+ 1400 Smith, 38th Floor, Legal
+ Houston, Texas 77002-7361
+ (713) 345-7732
+ (713) 646-3393 (fax)

@@ -1,0 +1,42 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Zufferli, John\Sent Items
+ X-Origin: ZUFFERLI-J
+ X-FileName: john zufferli 6-26-02.PST
+ 
+ these are all ok
+ 
+  
+    Cc:	Sever, Stephanie
+  Importance:	High
+ 
+ John,
+ 
+ We are working on an EnronOnline Website Audit.  We have noticed that many traders have duplicate ID's and are not using some of them.  In an effort to reduce risk, we would like to inactivate all ID's that are no longer valid for traders.  Please note that inactivating these ID's will not effect matrix trades.  Please review the following information and let us know if these are valid books and ID's.
+ 
+ Canada-Power-Basis book
+ User ID:  ADM53947
+ 
+ Canada-Power-GD book
+ User ID:  ADM26160
+ 
+ ECC Canada Power book
+ User ID:  ADM41651
+ 
+ Enron Canada Power book
+ User ID:  ADM21625
+ 
+ HedgeCDN book
+ User ID:  ADM46053
+ 
+ HedgeUS book
+ User ID:  ADM32569
+ 
+ Thank you,
+ 
+ Karen O'Day
+ EnronOnline
+ 713-345-4135

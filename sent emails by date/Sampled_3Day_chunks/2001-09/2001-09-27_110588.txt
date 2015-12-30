@@ -1,0 +1,7 @@
+
+ 
+ Maria,
+ 
+ I think that the curve names are the same for index as for basis (which you currently pull), except that you specify the curve type as index instead of basis.  I've never looked in the database, so I've never seen the fields.  Hope this helps.
+ 
+ Mat

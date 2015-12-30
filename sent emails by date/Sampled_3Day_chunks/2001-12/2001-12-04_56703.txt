@@ -1,0 +1,33 @@
+
+ 
+ 
+ 
+  
+    Cc:	Wadlington, Mark
+  
+ Hello Vince,
+ 
+ I thought that I would take the liberty to summarize our request after our meeting this morning:
+ 
+ Volatilities per commodity
+ Electricity
+ Natural Gas
+ Crude Oil (strip proxy?)
+ Aluminum (strip proxy?)
+ Copper (stip proxy?)
+ Fixed Income (US 10 year treasuries as a proxy?)
+ Equities (S&P 500 as a proxy?)
+ Currencies ($, yen or DM as a proxy)
+ Cross correlation matrix for each commodity with every other commodity
+ Correlation of power and gas volatility to Enron's trading earnings
+ Comparable analysis of Enron ROVAR to other trading organizations (e.g. banks, hedge funds, etc..)
+ Analysis of amount of economic capital versus cash in order to support a certain VAR
+ 
+ 
+ If there is anything that we can do in order to help with the request, please let me know.  Again thank you very much for all of your help.  
+ 
+ Regards,
+ Jayshree Desai
+ x3-3290
+ 
+ ps   Mark and I enjoyed the opportunity to pick your brains.

@@ -1,0 +1,23 @@
+
+ 
+ Can you or someone else ask her why she requested m:\common\power Read/Write?
+ 
+ Stacey
+ 
+  
+
+  
+ 
+ You have received this email because you are listed as a data approver. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000069680&Page=Approval to review and act upon this request.
+ 
+ 
+ 
+ 
+ Request ID          : 000000000069680
+ Request Create Date : 10/19/01 3:30:04 PM
+
+ Resource Name       : \\nahoutrd\houston\pwr\common\common\Power - [Read/Write]
+ Resource Type       : Directory
+ 
+ 
+ 

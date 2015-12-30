@@ -1,0 +1,23 @@
+
+ 
+ i don't know whose id's these are.  they are not mine, but i know that they are still in use because i see them trading sometime.  check with lavorato and shankman on these.  
+ 
+  
+    Cc:	Sever, Stephanie
+  Importance:	High
+ 
+ Greg,
+ 
+ We are working on an EnronOnline Website Audit.  We have noticed that many traders have duplicate ID's and are not using some of them.  In an effort to reduce risk, we would like to inactivate all ID's that are no longer valid for traders.  Please note that inactivating these ID's will not effect matrix trades.  Please review the following information and let us know if these are valid books and ID's.
+ 
+ EPMI Long Term North America Management book
+ User ID:  ADM79276
+ 
+ Oil-WTI (Specific Trades) book
+ User ID:  ADM54235
+ 
+ Thank you,
+ 
+ Karen O'Day
+ EnronOnline
+ 713-345-4135

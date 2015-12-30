@@ -1,0 +1,24 @@
+
+ 
+ If they can split by business unit they must have by company.  The FERC nor the partnerships will accept these charges unless we have the data to send the costs to them.  I really need something like yesterday.  I thought we had this resolved a long time ago.
+ 
+ 
+ 
+  
+    Cc:	Schlaudraff, Christine; Sullivan, Michael
+  
+ Tracy,
+ 
+ These are the statistics provided by Chris Schlaudraff.
+ 
+  << File: ISC Allocation Metrics.xls >> This is a recap at the business unit level.  The business unit allocation is weighted as follows:
+ 			29.27% based on how many licenses we have.
+ 			53.41% based on how many documents we have on the system.
+ 			17.32% based on the amount of CO data (or master data) we have on the system.
+ 
+  << File: Stats by company for ETS.xls >> This is the detail of the documents (# of FI docs & # of PO docs columns) and the CO data (all other columns) ETS has on the system.....by company.
+ 
+  << File: ISC ets licenses.xls >>   This is a list of the ETS users/licenses.  It is not by company.  
+ 
+ Let me know if you have any questions,
+ Greg

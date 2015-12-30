@@ -1,0 +1,27 @@
+
+ 
+ Realtime power interchange schedule paths to be considered for analysis/beta testing for OATI Webtrader:
+ 
+ Paths:
+ NSP(G)-MAPP-AMRN-TVA-SOCO-GTC-JEA-FPL(L)
+ MHEB(G)-MAPP-TVA-SOCO-JEA-SEC-FPC(L)
+ IP(G)-AEP-ATSI-PJM(L)
+ PJM(G)-NYISO-NEEPOOL(L)
+ PJM(G)-AP-AEP-DUK-SCEG-SOCO-JEA(L)
+ EES(G)-TVA-AEP-MECS(L)
+ 
+ 
+ Potential Long/Short positions.
+ IP(G)-AEP-ATSI-PJM(L)
+ DPL(G)-AEP-TVA-SOCO(L)
+ WR(G)-SWPP-MAPP-ALT-CE-ATC-WEC(L)
+ AECI(G)-AMRN-TVA-SOCO(L)
+ MHEB(G)-MAPP-AMRN-AEP-AP-PJM(L)
+ 
+ EPMI Hourly completes approxmitly 5 tags per hour.      
+ 
+ 
+ Have a safe trip.  Give me a call if you get there and need some help.
+ 
+ Don
+ 713-853-0392 

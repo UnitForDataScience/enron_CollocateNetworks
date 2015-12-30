@@ -1,0 +1,14 @@
+
+ 
+ Was on a conference call with Keith (TW gas control) and Ken Gruel (Griffith plant) Monday morning (September 3) 
+ concerning pressure drop at the Griffith plant.  It was discovered that the TW mainline setpoint had been changed to 
+ reflect the new order of 35,000 for the day.  The plant sent TW a schedule of hourly burns for the day.  They had 
+ intended to take their 24hr rate with-in 12 to 14hrs.  Asked Keith to raise the TW mainline setpoint to approximately 
+ 120,000.  
+ After speaking with Keith off line and asked him to open the spead sheet from Ken on their takes asked him to figure
+ the hourly take for the 24 hrs.  He said that he made a mistake and didn't look at it.  The Griffith plant has been on line
+ since sometime in April and this should not be anything new to the gas controllers.
+ Asked Keith to call Ken back with Griffith and make sure they had Gas controls E:mail address and or fax number to send
+ any revisions. 
+ 
+ Thanks DS 

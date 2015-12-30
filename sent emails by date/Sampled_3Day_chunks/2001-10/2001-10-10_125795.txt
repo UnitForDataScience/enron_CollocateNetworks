@@ -1,0 +1,17 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Zufferli, John\Sent Items
+ X-Origin: ZUFFERLI-J
+ X-FileName: john zufferli 6-26-02.PST
+ 
+ The currency P&L is missing from the preliminary again.  We shouldn't post P&L to the executive management reports with missing components.
+ 
+  
+    Cc:	Reeves, Kathy
+  
+ Please find attached the file containing the P&L for Oct 9.
+ 
+  << File: pwrdpr.xls >> 

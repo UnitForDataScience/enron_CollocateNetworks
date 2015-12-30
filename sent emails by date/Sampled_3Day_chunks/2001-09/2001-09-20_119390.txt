@@ -1,0 +1,27 @@
+
+ 
+ Example 1
+ 
+ Party A calculates that it is in the money $100 (which results in a "Loss" to Party A from the termination)
+ Party B calculates that it is out of the money $98 (which results in a "Gain" to Party B from the termination)
+ There are no Unpaid Amounts
+ 
+ The Payment Amount is 50 percent of ($100 + $98) = $99
+ Since the Payment Amount is positive Party B (the Party with the net Gain) pays $99 to Party A (the party with the net Loss)
+ 
+ 
+ 
+ Example 2
+ 
+ Same as example 1 except Party A owes $150 in Unpaid Amounts to Party B and Party B owes Party A $12 in Unpaid Amounts
+ 
+ The Payment Amount is (a) 50 percent of ($100 + $98) plus (b) $12 minus (c) $150 = negative $39
+ Since the Payment Amount is negative Party A (the party with the net Loss) pays $39 to Party B (the party with the net Gain)
+ 
+ 
+ Let me know if you need any further explanation.
+ 
+ Mark Taylor
+ Vice President and General Counsel
+ Enron Wholesale Services
+ (713)853-7459

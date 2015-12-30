@@ -1,0 +1,44 @@
+
+ 
+ Are we making sure everything is done on our end to liquidate and manage the EES retail positions effective 1/1/02.
+ 
+  
+    Cc:	Wagner, Joseph; Misra, Narsimha; Day, Smith L.; Merola, Jeff; Bird, Richard
+  
+ Changes from last week in red.
+ 
+ Retail load
+ About 18 MW peak, 17 MW off-peak. 
+ October 4th - First account was switched. 
+ By November 6th - Remaining accounts will be switched
+ Issue - Some Lockheed Martin accounts that aren't in the batch.
+ Issue - Trying to get positions correctly reflected in positions report - Jeff Jackson
+ Issue - Data we are getting from RPS is incorrect.
+ 
+ Interface with EWS Wholesale
+ To date - Met with EPMI and discussed management (when will position be transferred? how? at what price?) of retail position. Tom May to discuss with Rogers. 
+ Issue - How will we pass through intrazonal congestion costs? This isn't an issue for the pilot, but will be an issue on 1/1/2002.
+ 
+ Intramonth book development
+ November 1 - Expect to have volume management/reporting capability. 
+ November 1 - Expect to have MTM calculations
+ ???- Expect to have all other reporting capabilities functioning. Will meet with Richard Bird this week to develop a new timeline.
+ 
+ Working with CSC to develop a method to obtain actual customer usage on a timely basis.
+ 
+ Load forecasting
+ Issue - There is a significant difference (at least in % terms) between the Packaged Ice position per the positions report and Frazier's forecast. Appears the majority of this difference is due to some Packaged Ice accounts being booked more than once.
+ Issue - Forecasting by zone (vs. at the account level) may lead to inaccuracies in P&L reporting.
+ 
+ ?	Customer switching process
+ Jeff Merola to determine roles and responsibilities
+ 
+ ?	Site profile
+ Site profile desk has processed the pilot program deals. 
+ Met with the desk to discuss the other (non-pilot program) deals that we expect to switch 1/1/202. 
+ 
+ Thanks, 
+ Preston Ochsner
+ Commodity Risk Management
+ Enron Wholesale Services
+ 713-345-3341

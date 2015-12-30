@@ -1,0 +1,14 @@
+
+ 
+ Please enter your free agents yourself so I can approve them
+  
+ MC    Kennison           75
+ ML    Glenn                35
+ JW    Coles                40
+ HS    Pinkston            30
+ HS    Morton               25
+ HS     San Diego          0
+ EB    Wilkins               2
+ EB    Jones                 0
+  
+  

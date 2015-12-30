@@ -1,0 +1,47 @@
+
+ 
+ Looks good to me
+ 
+  
+
+    
+ >                                           AGENT AA/TR BOOKING REF YMFYYA
+ >
+ >                                           TAYLOR/MARK E
+ >                                           EB 3889
+ >
+ >   ENRON CORP
+ >
+ >
+ >
+ >
+ >
+ >   DATE:  AUG 21 2001
+ >
+ > SERVICE               DATE  FROM           TO             DEPART  ARRIVE
+ >
+ > CONTINENTAL AIRLINES  26OCT HOUSTON TX     FT LAUDERDA FL 705P    1035P
+ > CO 1748    V          FRI   G.BUSH INTERCO FLL INTL
+ >                             TERMINAL C     TERMINAL 1
+ >                             SNACK                         NON STOP
+ >                             RESERVATION CONFIRMED         2:30 DURATION
+ >                   AIRCRAFT: BOEING 737-800
+ >                             SEAT 06C NO SMOKING CONFIRMED TAYLOR/MARKE(ID
+ >
+ > CONTINENTAL AIRLINES  28OCT FT LAUDERDA FL HOUSTON TX     555P    733P
+ > CO 249     B          SUN   FLL INTL       G.BUSH INTERCO
+ >                             TERMINAL 1     TERMINAL C
+ >                             SNACK                         NON STOP
+ >                             RESERVATION CONFIRMED         2:38 DURATION
+ >                   AIRCRAFT: BOEING 737-900
+ >
+ > MISCELLANEOUS         25FEB HOUSTON TX
+ >                       MON   
+ > THE FARE IS $263.32 NON- REFUNDABLE
+ > ALL FARES ARE SUBJECT TO CHANGE UNTIL TICKETED/PURCHASED
+ >
+ >
+ >
+ >
+ > Teresa
+ > 

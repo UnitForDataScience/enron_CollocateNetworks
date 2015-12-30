@@ -1,0 +1,21 @@
+
+ 
+ 
+ 
+ Alex,
+ You have been somehow  entering deals under South America - Brazil region,   rather than South 2001.   Risk has been having a problem with this.
+ This has also affected the Brazil trading desk.      
+ Double check your deal entry desks and zones.     I intended to mention this last week and I forgot.   It came up again today,  per risk.
+ 
+ Also,
+ on the hour ending 6 deal today;   you should have entered a sale to Frontera in Enpower, rather than Mirant.
+ This is a bit confusing,  but here goes:
+ 
+ Frontera had sold Mirant this option,  not Enron.     Frontera tells me daily what Mirant is calling for.   I replace this power,  or Frontera generates the schedule.
+ If I (or you)  replace,  then we do enter a schedule of a sale to Mirant in the Portal.   But,  we dont sell to Mirant in Enpower, as this is not our deal.
+ 
+ Instead,   the sale goes to Frontera.   They pay us to reimburse us for buying LCRA on their behalf. 
+ 
+ Does that help?
+ 
+ JMF

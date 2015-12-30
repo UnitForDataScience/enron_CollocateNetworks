@@ -1,0 +1,14 @@
+
+ 
+ I had not heard that there was a discussion today. However, since we ran the economics for Huber and discovered that Enron's books do not appropriately value the Permian capacity, we have been trying to convince BP that the value of the capacity is greater than the basis spread becase of the optionality associated with the variable costs of fuel and commodity.  We used to have a model that the transport group used to use to value that optionality based upon the volatility of the basis spreads and the variable costs.  Steph and Phil are running numbers to determine Enron's "extrinsic value".  We need to discuss how and what information we share with BP in order to convince them that the capacity is worth more than the value than that the  outright basis markets . 
+ 
+  
+    Cc:	Nemec, Gerald; Miller, Stephanie; Tycholiz, Barry
+  
+ All,
+ 
+ Here is a draft document for BP, please review and comment.
+ 
+ Dave
+ 
+  << File: EPNG Capacity Proposal II.doc >> 

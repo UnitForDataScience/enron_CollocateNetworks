@@ -1,0 +1,16 @@
+
+ 
+ Baltimore	4
+ Miami		8
+ NYG		15
+ Indy		14
+ Jags		3
+ Atlanta		10
+ GB		2
+ SF		13
+ Philly		12
+ Bears		7
+ SD		11
+ Skins		6
+ NO		9
+ Raiders		5

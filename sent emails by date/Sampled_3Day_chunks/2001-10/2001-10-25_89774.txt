@@ -1,0 +1,11 @@
+
+ 
+ We can't make a daily capacity market in the current environment.
+ 
+  
+ 
+ In the Dynegy v. ComEd complaint, Dynegy states:
+ 
+ "Dynegy typically only sells capacity on an annual or seasonal basis for $1MM to $2 MM per 50 MW.  Dynegy does not typically sell capacity on a daily basis."
+ 
+ Enron's argument against Dynegy will be that the FERC network transmission agreement does not give Dynegy a right to "capacity payments."  Aside from that, maybe Enron can make a daily capacity market, since Dynegy clearly isn't making one.  (And in the meantime, we of course continue to try killing "icap")

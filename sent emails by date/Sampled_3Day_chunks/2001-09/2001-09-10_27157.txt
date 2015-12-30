@@ -1,0 +1,17 @@
+
+ 
+ correct
+ 
+  
+     
+ John,
+ 
+ Frank Busot asked me to give him a summary of who is responsible for what in the trading function at Enron.  The reason is that he wanted to be more comfortable than he is with the separation of EPMI and Services.
+ 
+ Currently, I see:
+ 
+ Jeff King - Long - Term ERCOT
+ Paul Schivone - Short Term ERCOT
+ John Forney - Services Trading, EPMI ERCOT Hourly, Services ERCOT Hourly
+ 
+ Correct?

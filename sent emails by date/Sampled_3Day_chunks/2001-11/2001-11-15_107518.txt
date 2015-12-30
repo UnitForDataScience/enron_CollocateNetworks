@@ -1,0 +1,18 @@
+
+ 
+ All:
+ 
+ I am trying to resolve a recurring issue in the financial power group.
+ 
+ In the past, we have withheld payment for all swaps with the same counterparty terminating during a calendar month until the fifth Business Day after the floating price is determinable at the end of a month.  As a practical matter, calculation of the payment of an aggregate of daily transactions would conceivably wait until the last Business Day of the month when a floating price was needed for one or more of the swaps.
+ 
+ How do you feel about payment for multiple trades with a party having varying termination dates throughout a given month?  Is this a cash flow issue?  Do I need to involve someone from Treasury or Settlements?
+ 
+ Please let me know.  Thanks.
+ 
+ Sara Shackleton
+ Enron Wholesale Services
+ 1400 Smith Street, EB3801a
+ Houston, TX  77002
+ Ph:  (713) 853-5620
+ Fax: (713) 646-3490

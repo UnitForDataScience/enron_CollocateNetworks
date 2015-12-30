@@ -1,0 +1,13 @@
+
+ 
+ yes we control the flow into TW.
+ 
+ ds
+ 
+  
+    Cc:	Lindberg, Lorraine
+  
+ 
+ The operator for oba contract 21580(Amoco Abo) in our system is Arco Oil and Gas.  The operator for oba contract 24828(Amoco Florida) in our system is Amoco Production.  I think that the correct operator for both of these contracts should be BP Energy.  
+ 
+ Lorraine and Christine - Should BP Energy be listed as the operator for these contracts?  If so - Dennis, what do you need to make appropriate changes in our system?

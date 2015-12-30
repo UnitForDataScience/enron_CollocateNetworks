@@ -1,0 +1,33 @@
+
+ 
+ Can you run a component VaR report again for me.  We can not figure out where Souad's VaR is coming from.  IT fixed the curves and Burton fixed them on his side, the VaR should be virtually nonexistent.  I am also noticing a high VaR for Virawan Yawaponsiri, can you also run one on hers please.  Sorry to continue to bother you with this, Jeff Gossett just wants this resolved ASAP.  Thanks.
+ PL
+ 
+ 
+  
+    Cc:	Copeland, James L.; McIntyre, Burton
+  
+ Hi Nilay,
+ The curves below have not been mapped.  It's causing a problem with a traders VaR.
+ 
+ 
+ EMERSON-US/IM: Map to NG and to OMICRON_5
+ 
+ GDC-CHI./N/BORD: Map to NGI/CHI.GATE and OMICRON_11
+ 
+ GDP-EMERSON: Map to NG and OMICRON_5
+ 
+ IF-MONCHY: Map to NG and OMICRON_5
+ 
+ IF-NGPL/OK-NW: Map to and OMICRON_11
+ 
+ NGPL-IOWA-ILLIN:  Map to NG and OMICROM_11
+ 
+ 
+ 
+ Let me know when it is done...............
+ 
+ 
+ Thanks
+ 
+ Bharat

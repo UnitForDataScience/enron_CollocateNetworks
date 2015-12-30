@@ -1,0 +1,20 @@
+
+ 
+ I have received a new book name and ID so I am no longer using that book name or id
+ 
+  
+    Cc:	Sever, Stephanie
+  Importance:	High
+ 
+ Janie,
+ 
+ We are working on an EnronOnline Website Audit.  We have noticed that many traders have duplicate ID's and are not using some of them.  In an effort to reduce risk, we would like to inactivate all ID's that are no longer valid for traders.  Please note that inactivating these ID's will not effect matrix trades.  Please review the following information and let us know if this is a valid book and ID.
+ 
+ West-Southwest book
+ User ID:  ADM14720
+ 
+ Thank you,
+ 
+ Karen O'Day
+ EnronOnline
+ 713-345-4135

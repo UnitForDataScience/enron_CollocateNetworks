@@ -1,0 +1,12 @@
+
+ 
+ 	Terry, would you please check with all the teams to day to ensure they
+ 	have talked with their customers about the scheduled quantities reports.
+ 	Thanks. Lynn
+ 
+  
+    Cc:	DL-ETS TMS Production Support
+  
+ The migration for reinstalling the scheduled quantities reports went well.....I tested all three pipes with K#'s and ID#'s and they came up fine.....I did this for both internal and external.
+ 
+ Jill

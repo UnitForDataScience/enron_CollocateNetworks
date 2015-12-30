@@ -1,0 +1,30 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Williams III, Bill\Sent Items
+ X-Origin: WILLIAMS-W3
+ X-FileName: 
+ 
+ Jill,
+ Could you look into my concur expense login/password. I am at a class today and need to approve these expense reports in the system. However,I cannot access the system. I am not sure if this is related to our floor wide network problems or what. Also, we are a go for Edgefield. You and I just need to talk about the expense report.
+ 
+ Thanks,
+ 
+ Bill
+ 
+ 
+
+
+    
+ 
+ The following reports have been waiting for your approval for more than 4 days.  Please review.
+ 
+ Owner: Darin L Presto
+ Report Name: Presto, Darin  11/7/01
+ Days In Mgr. Queue: 6
+ 
+ Owner: Leaf Harasin
+ Report Name: Harasin, Leaf  11/9/01
+ Days In Mgr. Queue: 4

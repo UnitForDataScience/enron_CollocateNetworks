@@ -1,0 +1,31 @@
+
+ 
+ Craig,
+ 
+ Can we get together and talk about this?  I was out of town several days last week, and as I look at it now, I want to make sure I understand the questions that Rita is asking and I'm wondering if we need to do something different with the way that we fill out the deal sheet.  
+ 
+ Can you help me comb through this?
+ 
+ I'm in the office all next week.  Just let me know when it is convenient for you.  
+ 
+ Thanks, Kim. 
+ 
+  
+ #2
+ Item (27) Tier Indicator
+ How do different types of Tiered TW rates work?
+ A=Range Average
+ C=Daily Range
+ D=Daily Tier  (Tier volume applies to flow per day?)
+ R=Range
+ T=Tier
+ Z=None (does this just signify a non-tiered discount?)
+ 
+ NNG Tiered discounts can be 
+ D=Based on levels of daily flow
+ M=Based on monthly volume levels - used mainly with tiered-reservation rates. 
+     For example, if a contract has MDQ of 10,000, Monthly Tiered discount could be for
+ $4 on first 5000
+ $3 on next 2500
+ max rate on remaining 2500
+   

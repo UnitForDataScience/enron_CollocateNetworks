@@ -1,0 +1,10 @@
+
+ 
+ Lisa, Your changes look fine to me.  I added the sentence to make it clear that ECS would not be owning and operating that portion of the equipment.  It wasn't clear to me from the section which indicate we will be arranging for the installation of the compressors.
+ 
+  
+    Cc:	Hilgert, Chris; Knippa, Mark
+  
+ Lisa,  I made significant revisions to this form.  Please review and lets discuss.
+ 
+  << File: OakhillLOI(10-3-01).doc >> 

@@ -1,0 +1,13 @@
+
+ 
+ 
+ 
+ Ercot is now requiring that we fill out and fax the attached form to  them when we have imported/exported across one of the DC ties.
+ The file is located in:
+ 
+ M:electric/24hour/ercot/dc schedlist.spreadsheet.
+ 
+ 
+ Please update tag number,  megawatts (positive for exports, negative for imports),   and total number of schedules.
+ 
+  

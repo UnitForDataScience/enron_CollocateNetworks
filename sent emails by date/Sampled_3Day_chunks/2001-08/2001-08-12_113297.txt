@@ -1,0 +1,12 @@
+
+ 
+ Not until all of the key electricity fixes are included in the package - remember RTOs are still voluntary, the Courts have yet to require FERC to do away with the Native Load exception, and NERC is in charge of reliability.  This is clearly the biggest issue for the Publics.
+ 
+ Jim
+ 
+  
+    Cc:	Linda Robertson; Chris Long
+  
+ Following up on our conversation last night, Linda was right (I have to eat some crow!), but the RTO-related tax changes were in fact included in the tax title of the energy package reported by the House Ways and Means Committee and included in the omnibus energy package that was approved last night.  Specifically, the tax provisions would (1) address the "private use" issue that could otherwise be detrimental to the municipal bonds of public power entities and (2) address the tax consequences of a transfer of transmission assets from an IOU to an RTO (current law would make this a taxable event, the bill would let the IOU reinvest the proceeds in other utility property, liberally defined, and thus defer the tax.  In sum, on both counts, this is what EEI and APPA had negotiated.  The ball is now in the Senate's court on these tax issues. Given this movement on these tax issues, they should not be used as insurmountable hurdles in the RTO process.
+ 
+ We have hard copies of the relevant statutory language and explanatory materials for your use.   I will get them to each when you are next in the office "between RTO rounds" at FERC.

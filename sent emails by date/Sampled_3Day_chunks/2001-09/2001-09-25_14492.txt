@@ -1,0 +1,5 @@
+
+ 
+ Toby,
+ 
+ Could you please take a look at the format of the outage postings.  Maybe I'm going at this the wrong way, but when I try to pull up a specific outage posting, I always get a whole set of outage postings.  For example when I try to pull up the chaim of postings related to the NNG MOPs 831 outage, I can't just pull up the specific posting, I also get other outages.  Why can't each outage posting be its own document?

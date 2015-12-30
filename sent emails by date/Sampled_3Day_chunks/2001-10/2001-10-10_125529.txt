@@ -1,0 +1,27 @@
+
+ 
+ 
+ Ina,
+ 
+ When was this, or was it ever, supposed to be deposited into my account ? I haven't seen any sign of it.
+ 
+ Andy
+ 
+
+
+    
+ 
+ The Payment status has changed on the following report:
+ 
+ Status last changed by:  System
+ Expense Report Name: Misc Expenses - Houston
+ Report Total: $159.29
+ Amount Due Employee: $159.29
+ Amount Approved: $159.29
+ Amount Paid: $159.29
+ Approval Status: Approved
+ Payment Status: Paid
+ 
+ 
+ To review this expense report, click on the following link for Concur Expense.
+ http://expensexms.enron.com

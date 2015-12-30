@@ -1,0 +1,19 @@
+
+ 
+ Changed just a few minor things in the summary.  Please look at the titles and arrangement of the positions in the summary.
+ 
+ Thanks,
+ Mike
+ 
+  
+     
+ How is the last revision that you sent me of the position report different than the version you revised earlier yesterday?
+ 
+ Attached are the reports for today.  I neglected to realize that I hadn't yet created formulas for the change columns, so today they aren't working.  By tomorrow, they will be.
+ 
+ I have hard copies printed out if you want them; I'll bring them down in a second.
+ 
+ -Ryan
+ 
+  << File: HS_WESTall.xls >> 
+  << File: HS_WESTminusPA.xls >> 

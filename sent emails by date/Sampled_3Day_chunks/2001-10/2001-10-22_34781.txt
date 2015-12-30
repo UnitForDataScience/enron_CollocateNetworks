@@ -1,0 +1,8 @@
+
+ 
+ 			IT	FT	Fuel		FT Demand
+ Onshore-Mainline	.0387	.004	.697%		$1.0603 = $.0349 per day
+ 
+ Mainline-Leach		.1225	.0191	2.902%		$3.145 = $.1035 per day
+ 
+ All rates include ACA but no GRI.

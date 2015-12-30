@@ -1,0 +1,68 @@
+
+ 
+ approved
+ 
+ 
+
+    
+ 
+ The following request information was recently submitted...
+ 
+ USER INFORMATION:
+ 
+    SAP ID:                                 P00577146
+    Employee Name (Last,First,MI):          Rideau, Crystal
+    Business Unit:                          ETS
+    Company Code:                           0179
+    Cost Center:                            111386
+    Employee Telephone Number:              713-345-6814
+
+    Job Title:                              Contractor
+    Business Unit for Roles:                ETS
+ 
+ SUPERVISOR INFORMATION:
+ 
+    Supervisor SAP ID:                      p00505106
+    Supervisor Name (Last, First, MI):      Baker, Lee
+    Supervisor Telephone Number:            713-853-5292
+
+ 
+    Business Reason:                        
+    New contractor for our group.  Needs access in order
+    to assist Financial Planners with budgets and cost center
+    groups for ETS.
+ 
+ VIEWER ROLES:
+    1. Add FN AM View Asset History
+    2. Add FN AP Data Viewer
+    3. Add FN CO Viewer
+    4. Add FN PS Viewer
+    5. Add FN GL Viewer
+    6. Add FN IM View Management Information
+ 
+ FINANCIAL ACCOUNTING ROLES:
+    1. Add FN CO Master Data Creator BU  
+ 
+ PROJECT SYSTEM ROLES:
+    No roles in this area were selected.
+ 
+ JOINT VENTURE ROLES:
+    No roles in this area were selected.
+ 
+ MATERIALS MANAGEMENT / PURCHASING ROLES:
+    No roles in this area were selected.
+ 
+ CENTRALIZED ROLES (LIMITED TO SPECIFIC PERSONNEL):
+    No roles in this area were selected.
+ 
+ HUMAN RESOURCES (HR PERSONNEL ONLY):
+    No roles in this area were selected.
+ 
+ HUMAN RESOURCES - TIMEKEEPERS:
+    No roles in this area were selected.
+ 
+ HUMAN RESOURCES - BENEFITS (BENEFITS PERSONNEL ONLY):
+    No roles in this area were selected.
+ 
+ HUMAN RESOURCES - PAYROLL (PAYROLL PERSONNEL ONLY):
+    No roles in this area were selected.

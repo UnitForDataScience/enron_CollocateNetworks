@@ -1,0 +1,20 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X-
+ X- X-b X-Folder: \ExMerge - Richey, Cooper\Sent Items
+ X-Origin: RICHEY-C
+ X-FileName: cooper richey 6-26-02.PST
+ 
+ greg,
+ 
+ i wanted to run the curve fetcher for the last few days.  
+ 
+ i booted up the app, but it looks like i need to setup a db connection.  
+ 
+ can you send me the steps i need to run for the last few days.
+ 
+ thx,
+ coop

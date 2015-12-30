@@ -1,0 +1,16 @@
+
+ 
+
+ 
+ Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+
+ X- X- X- X-b X-Folder: \ExMerge - Crandall, Sean\Sent Items
+ X-Origin: CRANDELL-S
+ X-FileName: 
+ 
+ Fran,
+ 
+ Due to the fact Houston killed several transactions (as opposed to zeroing them out in Scheduling), the real-time position manager is out of balance for December 2 and December 3 at the Mid-C and COB.  December 1 looks OK.  This seems like an issue that Houston is going to have to resolve since they know the deals that were killed.  I will put the necessary interdesk swaps in on Saturday, but I'm going to leave Sunday and Monday open at this point.  If you have any questions, let me or Diana know.
+ 
+ Thanks

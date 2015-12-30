@@ -1,0 +1,17 @@
+
+ 
+ Are these positions correct?  Please check the formulas for DEC-MAR.  The day on day change looks to large.  Let me know.
+  
+ Thanks,
+ Mike
+ 
+  
+    Cc: 
+  
+ 
+ 
+ Keep in mind that the change columns aren't accurate because I started to include index positions... 
+ 
+ <<HS_WESTall1029.xls>> 
+ 
+ <<HS_WESTminusPA1029.xls>> 

@@ -1,0 +1,19 @@
+
+ 
+ Luiz -
+ 
+ Please get internal comments from Thane Twiggs, Sue Mara, Steve Walton, Dan Staines, and Dave Perrino before letting Doug go public with this document.  I want to make sure that we are correct in some of our analysis (for example, I think that you may have misinterpreted the FERC in the California discussion).
+ 
+ Jim
+  
+    Cc:	Steffes, James D.; Gilbert-smith, Doug
+  
+ Christi, Mike:
+ 
+ As per your request, please find enclosed my first draft of the Balanced Schedules White Paper - to be used by Doug  in Ercot.
+ 
+ If you think the graphs help illustrate the points, they should be inserted and cross-referenced as part of the chapter " can reliability be jeopardized if balanced schedules are abadoned"? (cross-reference is relative straightforward as graphs as described in the text)
+ 
+  << File: BALANCED SCHEDULES.doc >>  << File: Graphs.ppt >> 
+ 
+ LM

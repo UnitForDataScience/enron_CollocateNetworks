@@ -1,0 +1,30 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Pimenov, Vladi\Sent Items
+ X-Origin: PIMENOV-V
+ X-FileName: vladi pimenov 6-26-02.PST
+ 
+ 
+ 
+  
+    Cc:	Sulistio, Franky; Hyde, Chris
+  
+ 
+ Due to performance issues with our plasma screens we have restricted access to the EOL feeds to the plasma machines themselves.
+ You can however still access the NYMEX strip on the right utilizing the following links.  If you know anyone else who has need
+ for this information, please forward this email on to them.
+ 
+ Prod Nymex Financial
+ http://hotcs.enron.com/fundyplasma/site/Financial.jsp
+ Prod Nymex Financial with EOG
+ http://hotcs.enron.com/fundyplasma/site/FinancialEOG.jsp
+ Prod Nymex Current
+ http://hotcs.enron.com/fundyplasma/site/Current.jsp
+ 
+ 
+ Thanks,
+ 
+ Dave

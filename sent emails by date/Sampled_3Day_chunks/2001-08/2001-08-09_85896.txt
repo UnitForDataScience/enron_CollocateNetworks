@@ -1,0 +1,23 @@
+
+ 
+ Judy,  Let me visit with Jeff on the 6 month threshold for the Committed Reserves.  Otherwise I am OK with this Matrix.
+ 
+ 
+ 
+  
+     
+ Gerald,
+ 
+ When you get a second, see if the following accurately captures which confirmation template should be used with which deals.
+ 
+ Confirmation Usage		
+ 		
+ Form	Deal Type	
+ GTC Firm Pooled Gas	1 - 12 months Pooled Gas	
+ GTC Firm Point Gas	1 - 5 months Wellhead Gas	
+ Committed Reserves	Producer trades > 6 months	
+ GISB	Day-month trades not with Producers with GISB	
+ GTC Spot	Day-month trades not with Producers without GISB	
+ 
+ Thanks,
+ Judy

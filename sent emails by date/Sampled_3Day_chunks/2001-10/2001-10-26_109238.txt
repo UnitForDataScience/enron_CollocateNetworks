@@ -1,0 +1,10 @@
+
+ 
+ 
+ Central         +800
+ East          +1,100
+ Texas        +1,200
+ West             -200
+ Financial    +4,000 (mostly front)
+ 
+ total           +6,900

@@ -1,0 +1,19 @@
+
+ 
+ 
+ 
+  
+
+ 
+  
+ Changes to Schedule Today:
+ 
+ 1) Delayed startup after 4 hour shutdown by 1 hour.
+ 2) Reduced MW for first hour after startup from 150 to 125.
+ 3) Extended operation with Duct Burners at 100% firing for 3 additional
+ hours.
+ 
+ All else remains the same.
+ 
+ (Embedded image moved to file: pic20055.pcx)
+  - pic20055.pcx 

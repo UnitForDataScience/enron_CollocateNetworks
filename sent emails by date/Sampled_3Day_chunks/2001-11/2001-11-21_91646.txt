@@ -1,0 +1,33 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Richey, Cooper\Sent Items
+ X-Origin: RICHEY-C
+ X-FileName: cooper richey 6-26-02.PST
+ 
+ Hey Toby,
+ 
+ sorry to hear about the layoffs.  i think the hatchet falls around here next week.  
+ 
+ Chris Wiebe has been taking care of things here and interacting with Houston
+ a fair bit and I think he's been doing a great job with things, which is too bad 
+ since that means he forces me to play around in dev instead of prod ...
+ 
+ anyway, i hope we can enjoy a beer sometime and laugh about enron, but it
+ doesn't feel too good right now.  
+ 
+ thanks for the note.  
+ 
+  
+     
+ Hi Cooper,  
+ 
+ How are things going?  I presume not stunningly!  We have already canned 40% of IT staff and who knows what's going to happen next?
+ 
+ We are about to hand over support of the database servers in both Portland and Calgary to Paul Kane, as per his request,  but will still be happy to help out if it is required.
+ 
+ See ya
+ 
+ Toby

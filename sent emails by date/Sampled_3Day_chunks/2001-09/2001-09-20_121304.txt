@@ -1,0 +1,15 @@
+
+ 
+ 
+ 
+  
+  
+  
+ Your message did not reach some or all of the intended recipients.
+ 
+               
+ The following recipient(s) could not be reached:
+ 
+
+             The e-mail address could not be found.  Perhaps the recipient moved to a different e-mail organization, or there was a mistake in the address.  Check the address and try again.The MTS-ID of the original message is:c=US;a= ;p=ENRON;l=20010920012902NOTES38130477
+             MSEXCH:NAHOU-MSCNX02-LME-NOTES:NA:NAHOU-MSCNX02 Enhanced Mail System Status Code (RFC1893): .4.1

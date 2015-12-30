@@ -1,0 +1,29 @@
+
+ 
+ Are you going to bring me the list of trades with the counterparty names?
+ 
+ 
+     
+ 
+ Matt,
+  
+ Here is the list of counterparties that I have excluded.  Please feel free to edit.
+  
+ 9803
+ 9084
+ 9805
+ 9806
+ 9807
+ 9909
+ 9911
+ 9914
+ 9916
+ 
+ <?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" />
+ 
+ Lindon Chiu 
+ Technologist 
+ Enron Corp 
+ (800)973-6766 x 57758 
+ 
+  

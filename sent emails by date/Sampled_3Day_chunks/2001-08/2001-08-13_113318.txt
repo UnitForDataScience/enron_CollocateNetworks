@@ -1,0 +1,66 @@
+
+ 
+ Linda  25% adder/discount will apply to those
+ RESs whose imbalances exceed 25% of their schedules 10% or more of the hours
+ of the month.  If the 10% of the hours are exceeded, the adder/discount
+ shall apply to all hours.
+ 
+ *	Edison also applies a bandwidth to the total net energy imbalance
+ attributable to unbundled retail load served by RESs.  If the hourly
+ imbalance caused by all unbundled retail load, excluding PPO load, is within
+ the 100 MW bandwidth, no RES (except those whose imbalance exceeds ?25%, as
+ noted below) will be subject to an adder or discount.  PPO load will, in
+ aggregate, be subject to the same terms and conditions as above, but
+ imbalance attributable to the PPO will be compared against a 100 MW deadband
+ separately from all RES load.
+ 
+ *	Edison will permit RESs to trade energy imbalances among themselves,
+ to offset their imbalances at whatever prices and terms they wish, before
+ applying a charge for energy imbalance.  According to Edison, this feature
+ will allow RESs to minimize energy imbalance charges by exchanging
+ overscheduled megawatt-hours for underscheduled megawatt-hours in the same
+ hour.  All remaining imbalances will be settled in cash at 100% of Edison's
+ OPC.  Edison shall make available information on OPC ten days prior to the
+ opening of the trading window.
+ *
+ *	The net retail energy imbalance in excess of 100 MW will be charged
+ an adder or discount of 10%.  This charge will be allocated among RESs who
+ are out of balance in the direction of the net and whose imbalance exceeds
+ their individual deadband.  The allocation will be based on the ratio-share
+ of the amount by which these individual RESs' imbalances exceed their
+ individual deadbands.  Any such adder/discount will be billed separately
+ from charges for any imbalances remaining after trading. Likewise, any
+ adder/discount attributable to the provisions of Paragraph 3 will be billed
+ separately from charges for any imbalances remaining after trading.
+ *
+ *	Load profiles will be developed using Dynamic Load Modeling with
+ seasonal adjustments.  Edison will not require the installation of interval
+ demand recorders for customers of less than 400 kW at this time.
+ *
+ *	Energy imbalances will be assumed to be within the bandwidth (i.e.,
+ no adders/discounts) when the imbalances are due to (1) Edison interruptions
+ and restorations, or (2) customer force majeure events, that are in each
+ case material to the RESs' schedule and of which the RES could not
+ reasonably be aware in sufficient time to adjust the schedule.
+ *
+ *	Edison will include a description of the methodology for determining
+ OPC in its energy imbalance schedules filed with the FERC.
+ 
+ 	The IIEC opposed Edison's proposal and requested that the Commission
+ require Edison to offer an optional imbalance service at the distribution
+ level.  Blackhawk also opposed Edison's proposal and supported the IIEC
+ proposal  Alliant also supported Edison being required to offer an energy
+ imbalance service at the distribution level.  Mid-American opposed any
+ effort by the Commission to exert jurisdiction on energy imbalances.
+ 
+ 	The Commission failed to weigh-in on the energy imbalance issue
+ consistent with its determination that the FERC is the appropriate forum for
+ such issues.  The Commission reserved the right to address the issue in some
+ future FERC proceeding.
+ 
+ 
+ 
+
+ 
+ 
+  - C.DTF << File: C.DTF >> 

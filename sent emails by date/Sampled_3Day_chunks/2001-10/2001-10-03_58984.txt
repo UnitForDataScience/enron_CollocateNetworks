@@ -1,0 +1,20 @@
+
+ 
+ 
+ 
+ 
+
+
+    
+ 
+ The following expense report is ready for approval:
+ 
+ Employee Name: Mark A. Palmer
+ Status last changed by:  Automated Administrator
+ Expense Report Name: MP Aug/Sept, 2001
+ Report Total: $4,648.01
+ Amount Due Employee: $4,648.01
+ 
+ 
+ To approve this expense report, click on the following link for Concur Expense.
+ http://expensexms.enron.com

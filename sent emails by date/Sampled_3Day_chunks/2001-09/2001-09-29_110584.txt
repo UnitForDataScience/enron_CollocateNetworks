@@ -1,0 +1,3 @@
+
+ 
+ FYI, the portland website has a similar chart that allows you to double-click the bar and get the detail of the outages, as well as detail about the plant characteristics, so that you may be able to use some of their code.

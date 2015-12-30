@@ -1,0 +1,28 @@
+
+ 
+ Please grant the following origination to Robin from the TP1 book.
+ 
+ Thanks
+ 
+  
+     
+ 
+ 	the following deals i put in your book and would like to have origination granted for them.
+ 
+ 	customer - national fuel   sitara   1110335
+ 	bought from im ontario    sitara    1110281
+ 	rec/del pt - niagara
+ 
+ 	eff date		vol     	purchase price		sell price		$
+ 
+ 	10-18		5000	3.005			3.02			75
+ 
+ 	10-26		17149	3.45			3.46			171
+ 	
+ 	10-26		2851	3.485			3.5			43
+ 
+ 	10-30		20000	3.42			3.43			200
+ 
+ 	10-30		15000	3.45			3.46			150
+ 
+ 	TOTAL									$639

@@ -1,0 +1,27 @@
+
+ 
+ Could you look in to this for me.
+ 
+ Thanks,
+ 
+ Jon
+ 
+  
+    Cc:	Sever, Stephanie
+  Importance:	High
+ 
+ Jon,
+ 
+ We are working on an EnronOnline Website Audit.  We have noticed that many traders have duplicate ID's and are not using some of them.  In an effort to reduce risk, we would like to inactivate all ID's that are no longer valid for traders.  Please note that inactivating these ID's will not effect matrix trades.  Please review the following information and let us know if these are valid books and ID's.
+ 
+ Firm Trading-Canada (EGSC) [East Region] book
+ User ID:  ADM55732
+ 
+ Foreign Currency Risk Trading book
+ User ID:  ADM54746
+ 
+ Thank you,
+ 
+ Karen O'Day
+ EnronOnline
+ 713-345-4135

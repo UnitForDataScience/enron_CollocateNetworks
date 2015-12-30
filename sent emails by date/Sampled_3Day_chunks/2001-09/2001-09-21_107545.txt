@@ -1,0 +1,45 @@
+
+ 
+ thanks!  sara
+ 
+  
+ >  >  >  >  > 
+ > Tom:
+ > 	As best I could determine, the agreement and general terms are
+ > consistent with the industry standard and are not unreasonable.
+ > Nonetheless, there are a few minor points worth mentioning, per our
+ > specialist, as set forth below. 
+ > 2. The Transaction is more of a swap than an option. If Enron insists on
+ > still calling it a Deferred Premium Call Option, then I would make it
+ > clear in the Confirmation that (1) the "Swap" payment terms in Section 2
+ > of the GTC's apply and (2) the "Exercise Period" is inapplicable (given
+ > that the Confirmation specifies "Automatic Exercise" as being applicable).
+ > 
+ > 3. The term "Calculation Period" in the Confirm should be "Determination
+ > Period." I believe that use of the "Calculation Period" is a typo.
+ > 4. The representation in Section 1(b)(i) should be: " "Eligible Contract
+ > Participant" as defined in Section 1a(12) of the Commodity Exchange Act,
+ > as amended." 
+ > 5. Please note that the setoff provision allows setoffs of amounts owed to
+ > and from Affiliates.  This is a keen legal point because typically
+ > affiliates have no legal authority to bind one another.
+ > 6. New York law (not Texas) should apply, per our specialist. 
+ > 	  If you have questions or comments, please let me know.
+ > 
+ > Keith
+ > 
+ > 
+ > Confidentiality Note:   This e-mail message and any attachments to it are
+ > intended only for the named recipients and may contain legally privileged
+ > and/or confidential information.  If you are not one of the intended
+ > recipients, please do not duplicate or forward this e-mail message and
+ > immediately delete it from your computer.
+ 
+ 
+ Scott F. Griffin
+ Enron Global Markets, LLC
+ 1400 Smith Street
+ Houston, TX 77002-7361
+ 
+ Office:     (713)-853-0973
+ Mobile:    (713)-503-5686
