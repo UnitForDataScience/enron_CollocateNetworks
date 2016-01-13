@@ -1,0 +1,43 @@
+
+ 
+ The risk group should be able to help you coordinate this request.
+ 
+ Stacey White
+ 
+  
+    Cc:	Richter, Jeff
+  
+ Good Morning Stacey,
+ 
+ Jeff Richter wants to start trading ancillary service deals through EOL.  To help facilitate this new business, we need to setup several new pub codes that represent the indexes the California ISO publishes for ancillary services.  A few of the ancillary pub codes are already setup we just need to add the ones for spin & non-spin.  Do you know who we need to get with to have these new pub codes setup?  I will work with the IT guys to ensure the programs that scrape the ISO site and store the prices are updated to capture these new indexes.
+ 
+ Thanks,  David Poston
+ 
+ ps - Please give me a call if you have any questions, 57834
+ 
+ 
+ These pub codes already exist:
+ 
+
+
+ 
+ Repeat for SP-15
+ 
+ Repeat for ZP-26
+ 
+ 
+ These pub codes need to be created:
+ 
+
+
+ 
+ Repeat for SP-15
+ 
+ Repeat for ZP-26
+ 
+
+
+ 
+ Repeat for SP-15
+ 
+ Repeat for ZP-26

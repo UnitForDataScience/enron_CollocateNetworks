@@ -1,0 +1,20 @@
+
+ 
+ 
+ 
+  
+     
+ Tenn Transport k#29667, MDQ = 35,000
+ 
+ Demand		$374,500.00	
+ Comm			$.0092		(ACA = $.0022, GRI = $.0070)
+ Fuel = 1.31%
+ 
+ Iroq Transport k#125008, MDQ = 35,465
+ 
+ Demand		$294,554.56	
+ Comm			$.0057		(ACA = $.0022, Comm = $.0028, Deferred Asset Surcharge = $.0007)
+ Fuel = see below.
+ 
+ 
+ Notes:	Iroq fuel changes each month.  It ranges between 0 to .5%.  All of the Iroq charges are normal section 284 tariff rates.  

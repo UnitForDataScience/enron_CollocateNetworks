@@ -1,0 +1,12 @@
+
+ 
+ Having any luck.   Look at my coal markets.
+ 
+  
+    Cc:	Misra, Narsimha
+  
+ Kevin -
+ 
+ Was just going in to play around with the 03-04 off peak markets and it indicated that limit orders were not available.  Can you check and see if they have set the markets up to accept limits?  
+ 
+ RH

@@ -1,0 +1,11 @@
+
+ 
+ Maria,
+ 
+ Hey, I installed SQL server...I feel like a real professional now.  Although, I don't remember exactly which table I'm looking for.  I found one that's MOD_Load that looks like it's the one.  If it is, where do I find what the Scenario ID field means?  
+ 
+ By the way, I'm still working on those index curves.
+ 
+ Thanks.
+ 
+ Mat

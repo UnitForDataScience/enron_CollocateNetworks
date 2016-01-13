@@ -1,0 +1,26 @@
+
+ 
+ Dave,
+  
+ Can you please approve or reject Samantha's request.  If you are not comfortable approving it, then reject it so she can resubmit.  When I went into the system today, it said it had already been assigned to you.
+  
+ Stacey
+  
+
+  
+ 
+ 
+ You have received this email because the requester specified you as their Manager's alternate. Please click <http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000066118&Page=Approval> to review and act upon this request.
+ 
+ 
+ 
+ 
+ Request ID          : 000000000066118 
+
+ Request Create Date : 10/8/01 3:19:27 PM 
+
+ Resource Name       : Enpower North America West Production Table_Edit 
+ Resource Type       : Applications 
+ 
+ 
+ 

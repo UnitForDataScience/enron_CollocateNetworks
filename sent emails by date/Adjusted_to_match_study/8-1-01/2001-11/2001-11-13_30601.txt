@@ -1,0 +1,63 @@
+
+ 
+ approved
+ 
+ 
+
+    
+ 
+ The following request information was recently submitted...
+ 
+ USER INFORMATION:
+ 
+    SAP ID:                                 P00504745
+    Employee Name (Last,First,MI):          Moore, Jan K
+    Business Unit:                          ETS
+    Company Code:                           0060
+    Cost Center:                            111021
+    Employee Telephone Number:              713-345-3858
+
+    Job Title:                              Sr. Mktg Analyst
+    Business Unit for Roles:                ETS
+ 
+ SUPERVISOR INFORMATION:
+ 
+    Supervisor SAP ID:                      P00505341
+    Supervisor Name (Last, First, MI):      geaccone, tracy
+    Supervisor Telephone Number:            713-853-7372
+
+ 
+    Business Reason:                        
+    I prepare the financial forecasts for the TW Commerical
+    group.  I need access to the reports so I can verify
+    O&M actuals against Plan.
+ 
+ VIEWER ROLES:
+    1. Add FN FI Consolidated Viewer
+ 
+ FINANCIAL ACCOUNTING ROLES:
+    No roles in this area were selected.
+ 
+ PROJECT SYSTEM ROLES:
+    No roles in this area were selected.
+ 
+ JOINT VENTURE ROLES:
+    No roles in this area were selected.
+ 
+ MATERIALS MANAGEMENT / PURCHASING ROLES:
+    No roles in this area were selected.
+ 
+ CENTRALIZED ROLES (LIMITED TO SPECIFIC PERSONNEL):
+    No roles in this area were selected.
+ 
+ HUMAN RESOURCES (HR PERSONNEL ONLY):
+    No roles in this area were selected.
+ 
+ HUMAN RESOURCES - TIMEKEEPERS:
+    No roles in this area were selected.
+ 
+ HUMAN RESOURCES - BENEFITS (BENEFITS PERSONNEL ONLY):
+    No roles in this area were selected.
+ 
+ HUMAN RESOURCES - PAYROLL (PAYROLL PERSONNEL ONLY):
+    No roles in this area were selected.

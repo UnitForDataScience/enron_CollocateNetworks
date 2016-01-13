@@ -1,0 +1,43 @@
+
+ 
+ 
+ FYI,
+ This morning Ercot asked us to run all three units for a manual OOM.    Our Resource plan indicated that our total minimum was 220.    I believe that we had a discussion with Ercot indicating that our minimum on a 2 on 1 config was 280.    We ran at 280,  but our resource plan was not updated.     Ercot called mid-morning to say that they only wanted 220.   It is possible that we will be punished financially (receive the balancing energy price) for the 60 mw's over their request.
+ 
+ The point is,   the Resource Plan is the only thing binding.    We must reflect our true minimums at all times.    If the situation changes intraday,  we need to make changes in the resource plan to reflect what we can actually do.
+ 
+ 
+ Please see the e-mail below from Alan.
+ 
+ JMF
+  
+     Importance:	High
+ 
+ All,
+ 
+ ERCOT is questioning us the resource plan we put in the MOS, especially the Min/Max MWs for STG001. If we only have one CT running, then the Min/Max for ST would be 58/80 MWs instead of 130/184 MWs. Here is a list of points I got from Frontera for your reference:
+ 
+ 1. One CT running:
+ 	CTG101		STG001
+ MW	80		58
+ MW	100		64
+ MW	110		66
+ MW	120		68
+ MW	130		70
+ MW	140		74
+ MW	150		80
+ 
+ 2. Both CT's running:
+ 	CTG101		CTG201		STG001
+ MW	80		80		130
+ MW	100		100		140
+ MW	110		110		148
+ MW	120		120		151
+ MW	130		130		154
+ MW	140		140		158
+ MW	150		150		165
+ 
+ If you have questions, please let me know. Thanks.
+ 
+ Alan Chen
+ x37027

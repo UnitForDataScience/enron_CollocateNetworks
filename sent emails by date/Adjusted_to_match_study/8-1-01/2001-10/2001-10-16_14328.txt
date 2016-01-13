@@ -1,0 +1,34 @@
+
+ 
+ Dave,
+ 
+ I am meeting with Maria Teresa this Wednesday to start working on price forecast.
+ 
+ I am currently working with Andrew on inventory forecast and the procedure is as follows:
+ 
+ Based on the formula (capacity * op. rate) - shipments = forecast inventory.
+ 
+ We used PPPC capacity forecast for the year and divided by 12 to get the monthly forecast. Then multiply this with our own estimate of the operating rate which can be an average of the last 2 months or the operating rate of last month carried forward, or the last month's operating rate difference with the average and apply that difference to calculate the next  month op. rate. 
+ 
+ We also estimate the level of shipments as the last 3 years average for the month we are trying to forecast.
+ 
+ So far we have only tested September and the forecast was pretty close to the actual.
+ 
+ 
+ let me know if this is what you requested,
+ Thanks,
+ Monika
+ 
+ 
+  
+    Cc:	Carter, Karen E.; Determeyer, Peggy
+  
+ Two things:
+ 
+ 1) I think you are all aware that we need to develop a market overview presentation on each of your markets similar to what Monika is pulling together on pulp. Have you started outlining what would go in your presentation?
+ 
+ 2) Please give me a short (2-3 bullet) summary of what you are doing on pricing and inventory forecasting. I want to develop a summary report for Bob Crane.
+ 
+ Thanks,
+ 
+ Dave

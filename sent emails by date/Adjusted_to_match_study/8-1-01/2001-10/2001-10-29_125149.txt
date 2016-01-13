@@ -1,0 +1,11 @@
+
+ 
+ Dipak,
+ Seattle/Tacoma is the summation of a large number of meters.
+ The largest residential loads are broken out separately as tabs.
+ The temps are from the research/weather folder.
+ Initially, I am just curious if you can achieve a decent correlation.
+ We can refine things a bit later.
+ Jason
+ 
+  

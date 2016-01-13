@@ -1,0 +1,11 @@
+
+ 
+ FYI :
+ When entering deals with Canada, please remember to have the counter parties in a financial deal to be ECC and Riskmantra and a physical deal it will be ENA to ECC.
+ Also remember on gas daily out months(2 legs) that the book on the gas daily swap leg needs to be INTRA-CND-WE-GD not INTRA-CAND-WEST(this book is for basis piece).
+ 
+ ALSO:
+ Please remember to check your new deals completely every day, this will help eliminate future OA variances.  Do not rely on your trader to catch mistakes.
+ 
+ Thanks.
+ PL

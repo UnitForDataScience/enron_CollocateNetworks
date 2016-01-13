@@ -1,0 +1,8 @@
+
+ 
+ Attached is a spreadsheet where James has calculated the interest owed by SoCal.  The interest totals about $0.5 MM.
+ 
+ We have not been billing interest.  The system does not generate an interest invoice until the disputed amount is paid.  Then, based upon when it's paid, the interest is calculated.
+ 
+ 
+  

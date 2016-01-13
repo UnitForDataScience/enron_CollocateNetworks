@@ -1,0 +1,19 @@
+
+ 
+ 	Mike, did any one ever answer Reyna?  Thanks. Lynn
+ 
+  
+    Cc:	Threet, Kay; Bodnar, Michael; Trevino, Linda
+  
+ Sue, 
+ During the meeting today with Gerry to discuss the SBA priority during allocations, some of the following issues came up:  (Gerry, correct me if I misunderstood anything)
+ 
+ If we ever call an SBA to bring in gas after the timely cycle, do we still want them to have priority over Alternate and Interruptible? (my opinion is no, they should only have this priority during the timely cycle).
+ If the SBAs bring in gas at a secondary point, do we still want them to have priority over Alternate and Interruptible?  (my opinion is no, they should only have this priority at Primary Points).
+ Are we aware that an Alternate shipper who has flowing rights from the previous day might get "squeezed" out of the same entitlement on a day that an SBA shipper is given priority over Alternate?  Might have some mad shippers.
+ How will SBA volumes be posted on the EBB if there is an allocation: Interruptible???
+ Because the current methodology for allocation is based on a "point", they don't follow the downstream, will the IT contracts currently being used have to be identified through the contracts department as "SBA IT"?
+ This is for the future contracts system:  Should we ask that the new contract system to automate all the manual processes of the SBAs such as account balance and carryover days in order for the system to be able to validate this criteria?
+ 
+ Reyna Cabrera
+ (713) 853-3072

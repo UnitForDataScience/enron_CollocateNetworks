@@ -1,0 +1,7 @@
+
+ 
+ I have had a few people test the system.  It looks like it works very well except if you hit ENTER instead of TAB then the form will be submitted.  If that could be corrected so that you have to hit the SUBMIT button to submit, then I think it is ready to go.
+ 
+ Sorry it took so long for me to get back to you and thanks again for your hard work on this.
+ 
+ Jay

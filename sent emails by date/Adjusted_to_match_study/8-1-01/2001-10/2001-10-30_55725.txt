@@ -1,0 +1,26 @@
+
+ 
+ Ed,
+ 
+ 713 646 2503.
+ 
+ The file comes across as winmail.dat   not as a .doc file
+ or a  .pdf file. It happens in the case of some
+ E-mail systems: the files get encoded and then they don't 
+ get decoded correctly.
+ 
+ Vince
+ 
+  
+
+    
+ 
+ 
+ Edward N. Krapels, PhD
+ Director, Gas and Power Services
+ ESAI
+ www.esai.com
+ tel 781 245 2036
+ 
+ 
+  - winmail.dat << File: winmail.dat >> 

@@ -1,0 +1,32 @@
+
+ 
+ Let's go ahead and release.
+ 
+  
+    Cc:	White, Stacey W.
+  
+ I think I've cleared the final issues relating to implementing the new methodology.  The attached file should contain all the impacted portfolio's and related VAR change.  I would like to implement tonight, however I understand that you may need to comment, so I await your feedback.  VaR decreases in both regions, pending on portfolio.
+ 
+ In summary, these factors reflect the following changes (improvements)  
+ 
+ ?	Changed correlation measure to fixed contract instead of using prompt price history
+ ?	Extended factors out past prompt month to 24 months, (previously was for prompt month only) 
+ o	Repeating last 12 months (seasonality) for 120 months, and scaled by ff vol
+ ?	Updated jumps from 1998 (impacts intra month books)
+ o	Introduced regionally correlated jumps
+ ?	Mapped F curves to appropriate R and B curves (partially implemented)
+ ?	Captured gas leg in spread option (already implemented)
+ ?	Captured gas leg in heat rate swaps (already implemented)
+ ?	Corrected incorrect curve codes and data input relating to risk type (already implemented)
+ 
+ On our to do list, is the smoothing of FFvol curve combined with the introduction of more factors to model (40). (improving correlations and decreasing VAR instability)  Additionally, we are looking at trying to introduce a fast Fourier transformation to resolve Monte Carlo modeling issues regarding number of simulations.  Convolution VAR will allow us to increase number and accuracy of simulations.
+ 
+ Thank you for your patience, I realize in many ways that this has been a long road.
+ Thanks,
+ 
+ Frank
+ 
+ 
+  << File: Varchange09-24-01.1.xls >>  << File: Trader File.xls >> 
+ 
+ 

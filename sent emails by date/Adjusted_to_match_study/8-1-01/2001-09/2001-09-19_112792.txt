@@ -1,0 +1,39 @@
+
+ 
+ CONFIDENTIAL 
+
+ 
+
+  
+ Attached are files that compare the ISO's calculation of Mitigated Market
+ Clearing Price (MMCP) against various prices that prevail and are used in
+ the California market.
+ 
+ The attached tables give monthly values for peak and off peak periods (using
+ 6X16 to define peak).  They show percent changes and absolute dollar values
+ ("Margin").
+ 
+ As you can see, the price reductions (that is original price minus mitigated
+ price as a percent of original price) amount to 50% in some cases.
+ 
+ The margins and percent reductions vary importantly by time period and the
+ type of charge involved.
+ 
+ I hope that these are useful.
+ 
+ Please let me know if you have any questions.
+ 
+  <<mitigation margins.xls>>
+ 
+ Jan Paul Acton
+ Vice President
+ Charles River Associates
+ 1201 F St., NW, Suite 700
+ Washington, DC 20004-1204
+ Voice: (202) 662 3902
+ Fax: (202) 662 3910
+ 
+ 
+ 
+ 
+  - mitigation margins.xls 

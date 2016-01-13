@@ -1,0 +1,14 @@
+
+ 
+ Ok, but make sure the documentation of the email follows the invoice for the payment, otherwise we will have to go back to him to appriove the payment.   On the otherhand, there is no reason that a DASH can't be used for non-discretionary approvals as well, and if it doesn't have to go to RAC, then it doesn't.   
+ 
+  
+    Cc:	Neubauer, Dave; Peters, Jerry; Fancler, Dan; Gilbert, Steve; Chandler, Bob; Cobb Jr., John
+  Importance:	High
+ 
+ kent, et al, 
+ quick feedback from rod:
+ 1. gas purchase - need to get approved thru stan    $'s required make it a Stan approval.    We will need a DASH to get his signature on.
+ 2. hedge of gas purchase - no issues; need to quickly develop hedge documentation     
+ 3. hedge of sba "spread" - we need to regroup to better clarify how the commodity component of the sba can be identified within the
+ sba contract, for hedge purposes

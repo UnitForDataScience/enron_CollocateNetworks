@@ -1,0 +1,14 @@
+
+ 
+ The End Date on the following Park & Loan contracts has been extended from 9/30/01 to 10/31/01.
+ 
+ 
+ Contract	Deal
+ 37874		1075382
+ 37875		1075388
+ 37876		1075391
+ 37877		1075393
+ 37878		1075407
+ 37879		1075408
+ 
+ I had to create new sitara numbers because the old deal numbers were "Baseload" instead of "Term".

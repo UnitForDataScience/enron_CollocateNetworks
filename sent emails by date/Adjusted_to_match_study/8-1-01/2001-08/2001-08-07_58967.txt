@@ -1,0 +1,32 @@
+
+ 
+ ok
+ 
+  
+    Cc:	Davies, Neil; Abshire, Kathy
+  
+ Hi Gary,
+ The following people in my organization require the HR View Non-Confidential role (Enterprise-wide) in order to perform their jobs:  
+ 
+ 1.)  Name:  James Collins
+ SAP ID:  P00514726
+ Reason access is requested:  Administrator of the Enron-wide Employee Referral Reward Program
+ 
+ 2.)  Name:  Kathy Absire
+ SAP ID:  P00520713
+ Reason access is requested: a.)  Performs audits of Personic User access against SAP Active status 
+ b.) serves as back up for James Collins in the administration of the Enron-wide Employee Referral Reward Program
+ 
+ 3.)  Name:  Theresia James
+ SAP ID:  P00500804
+ Reason access is requested: Performs Enron-wide EEO audits
+ 
+ This access was granted previously but this week it was taken away as a result of an audit.
+ 
+ Meg Wysatta
+ Manager, Recruitment Technology
+
+ 713-345-7569 (office)
+ 713-562-7122 (cell)
+ 
+ ~Innovative Technology for Recruiting Excellence~

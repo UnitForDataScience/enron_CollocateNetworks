@@ -1,0 +1,8 @@
+
+ 
+ New spreadsheet that contains all the tissue mills, their capacity and number of machines is now located in: 
+ 
+ O://Industrial Markets/Fundamentals/Paper/Pulp/Tissuemills
+ 
+ 
+ Monika Causholli

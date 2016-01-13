@@ -1,0 +1,21 @@
+
+ 
+ FYI
+ 
+  
+
+    
+ The Approval status has changed on the following report:
+ 
+ Status last changed by: Rosalee T. Fleming
+ Expense Report Name: Lunches
+ Report Total: $162.88
+ Amount Due Employee: $162.88
+ Amount Approved: $162.88
+ Amount Paid: $0.00
+ Approval Status: Approved
+ Payment Status: Pending
+ 
+ 
+ To review this expense report, click on the following link for Concur Expense.
+ http://expensexms.enron.com

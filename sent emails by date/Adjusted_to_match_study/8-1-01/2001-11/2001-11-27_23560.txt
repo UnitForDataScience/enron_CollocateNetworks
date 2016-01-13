@@ -1,0 +1,21 @@
+
+ 
+ 
+  Jim Derrick
+ 
+ 
+ 
+
+
+   
+ The following expense report is ready for approval:
+ 
+ Employee Name: Paula H. Rieker
+ Status last changed by:  Automated Administrator
+ Expense Report Name: Return Trip from MIT Visit - Special BOD
+ Report Total: $2,015.88
+ Amount Due Employee: $2,015.88
+ 
+ 
+ To approve this expense report, click on the following link for Concur Expense.
+ http://expensexms.enron.com

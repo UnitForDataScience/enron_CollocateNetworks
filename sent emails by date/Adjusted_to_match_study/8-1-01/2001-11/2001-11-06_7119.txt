@@ -1,0 +1,15 @@
+
+ 
+ 24 Hour Group,
+ 
+ OATI has a new website for the testing of the NEW Etag 1.7.  Please run through common & uncommon hourly transaction paths in order to help OATI work out the bugs and so that we may become proficient at using this new tagging format.  We have four usernames so play with, when you have time.
+ 
+ Website:    http://www.oati.net
+ Username: Enron1-4
+ Password: colddays
+ 
+ Thanks,
+ 
+ DB
+ 
+ 

@@ -1,0 +1,23 @@
+
+ 
+ Dave,
+ 
+ Hey,  can you create a view for me on Portland's database.  The SQL code is below.  Let me know if you need anything else.
+ 
+ Mat
+ 
+ 
+ 
+ SELECT     dbo.MOD_Load.DateTimeValue, dbo.LkpCalendar_Definitions.DateValue, dbo.LkpMOD_Scenario.ScenarioCode, dbo.LkpMOD_Region.RegionCode, 
+                       AVG(dbo.MOD_Load.Load_MW) AS [Ave Dly Ld], dbo.LkpCalendar_Definitions.MonthName, dbo.LkpCalendar_Definitions.DayNum, 
+                       dbo.LkpCalendar_Definitions.YearNum, dbo.LkpCalendar_Definitions.DayOfWeekName, dbo.LkpCalendar_Definitions.PeakOrOffPeak
+ FROM         dbo.MOD_Load INNER JOIN
+                       dbo.LkpMOD_Region ON dbo.MOD_Load.RegionID = dbo.LkpMOD_Region.RegionID INNER JOIN
+                       dbo.LkpMOD_Scenario ON dbo.MOD_Load.ScenarioID = dbo.LkpMOD_Scenario.ScenarioID INNER JOIN
+                       dbo.LkpCalendar_Definitions ON dbo.MOD_Load.DateTimeValue = dbo.LkpCalendar_Definitions.DateTimeValue
+ GROUP BY dbo.LkpMOD_Scenario.ScenarioCode, dbo.LkpMOD_Region.RegionCode, dbo.LkpCalendar_Definitions.DateValue, 
+                       dbo.LkpCalendar_Definitions.YearNum, dbo.LkpCalendar_Definitions.MonthName, dbo.LkpCalendar_Definitions.DayOfWeekName, 
+                       dbo.LkpCalendar_Definitions.PeakOrOffPeak, dbo.LkpCalendar_Definitions.DayNum, dbo.MOD_Load.DateTimeValue
+ HAVING      (dbo.LkpMOD_Scenario.ScenarioCode = 'BEST') AND (dbo.LkpCalendar_Definitions.DateValue BETWEEN CONVERT(DATETIME, '2001-09-01 00:00:00', 
+                       102) AND CONVERT(DATETIME, '2001-12-31 00:00:00', 102))
+ ORDER BY dbo.LkpCalendar_Definitions.DateValue DESC, dbo.MOD_Load.DateTimeValue

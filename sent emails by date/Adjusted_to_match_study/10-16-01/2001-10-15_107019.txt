@@ -1,0 +1,22 @@
+
+ 
+ Gil:  I left you a voice mail earlier.  I'm concerned about the definition of "Specified Transaction".  As drafted, I read this as cross defaulting to all other derivative trades between ENA and BSIL, as well as ENE and BSIL.  I don't know if we have any on the books or will enter into any prior to termination of your trades, but the same will be impacted unless you limit the Section 14 definition to your trades only.
+ 
+ 
+ >  > 
+ > Cc:	Cooke, Peter Confidential Memo-Counsel (Exchange); Guinchard, Claude
+ > (Exchange)
+ >  > 
+ > Gil:
+ > 
+ > Attached are the revised documents.  There are two versions of each, a
+ > redlined copy and a clean copy.  
+ > 
+ > Regards,
+ > 
+ > Ilene Froom
+ > 
+ > 
+ >  << File: Enron Forward Clean.pdf >>  << File: NY14468 Enron North America
+ > Corp.mark-up.pdf >>  << File: NY14468 Enron VWAPtion.mark-up.pdf >>  <<
+ > File: Enron VWAPtion Clean.pdf >> 

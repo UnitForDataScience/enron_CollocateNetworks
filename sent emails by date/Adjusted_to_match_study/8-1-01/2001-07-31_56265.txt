@@ -1,0 +1,60 @@
+
+ 
+ =20
+ =20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+ =20
+ 
+ =20
+ WORST EVER VIRUS (CNN announced)
+ 
+ PLEASE SEND THIS TO EVERYONE ON YOUR CONTACT LIST !!
+ 
+ A new virus has just been discovered that has been classified by Microsoft =
+ as the most destructive ever! This virus was discovered yesterday afternoon=
+  byMcAfee and no vaccine has yet been developed. This virus simply destroys=
+  Sector Zerofrom the hard disk, where vital information for its functioning=
+  are stored. This virusacts in the following manner It sends itself automat=
+ ically to all contacts on your list with the title "A Virtual Card for You.=
+ " As soon as the supposed virtual card is opened, the computer freezes so t=
+ hat the user has to reboot. When the ctrl+alt+del keys orthe reset button a=
+ re pressed, the virus destroys Sector Zero, thus permanently destroying   t=
+ he hard disk. Yesterday in just a few hours this virus caused panic in NewY=
+ ork, according to news broadcast by CNN.
+ 
+ This alert was received by an employee of Microsoft itself. So don't open a=
+ ny mails withsubject: "A Virtual Card for You." As soon as you get the mail=
+ , delete it. Please pass   this mail to all of your friends.
+ 
+ Forward this to everyone in your address book.
+ 
+ I would rather receive this 25 times than not at all. Also: Intel announced=
+  that a new and very destructive virus was discovered recently.
+ 
+ If you receive an email called "An Internet Flower For You," do not open it=
+ . Delete it right away! This virus removes all dynamic link libraries (.dll=
+  files) from your computer. Your computer will not be able to boot up!!
+ 

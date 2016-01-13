@@ -1,0 +1,25 @@
+
+ 
+ Can you map the following three curves to Omicron curves.  Nilay did his side and I need you to do the other side according to the IT guys.
+ GDP-St.CLAIR		Omicron 14
+ GDP-NGPL(IA-IL	Omicron 11
+ GDP-MONCHY		Omicron 11
+ 
+ Can you let me know when this is done so that I can get Souad's VaR rerun.  Thanks for your help.  You also need to let me know if you guys can go to lunch on me on Friday.
+ PL
+ 
+ 
+  
+     
+ Hey Phillip,
+ These are the unmapped curves.  Please let me know what OMICRONS they should be mapped to and I'll have Nilay do it.  This is your problem.  Large hedge benefits are not being captured in her books.
+ 
+ Bharat
+ 
+ 
+ 
+ GDP-MONCHY	             890,193 	
+ GDP-NGPL/(IA-IL	          2,315,334 	
+ GDP-ST.CLAIR	            (379,744)	
+ 	
+ 	TOTAL			        2,825,783 

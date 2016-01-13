@@ -1,0 +1,21 @@
+
+ 
+ Oct. 26	        Scheduled
+ California	 864
+ San Juan 	 874
+ East    		 582
+ 
+ Oct. 27
+ California	 815
+ San Juan	 834           
+ East		 635	
+ 
+ Oct. 28	
+ California	 836
+ San Juan	 855
+ East		 632
+ 
+ Oct. 29
+ California	 819
+ San Juan	 838
+ East		 638

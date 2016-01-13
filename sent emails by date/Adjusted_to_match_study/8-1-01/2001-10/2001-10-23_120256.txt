@@ -1,0 +1,14 @@
+
+ 
+ Virtual Bidding Questions
+ 
+ 1)	How is uplift allocated when there is thunderstorm alert in NYC?  Is the uplift allocated to those short going into the real time
+  in Zone J/K only or is it allocated statewide?
+ 2)	When is uplift allocated statewide as opposed to superzone?
+
+ 
+ Thanks Tom
+ 
+ 
+ 
+ 

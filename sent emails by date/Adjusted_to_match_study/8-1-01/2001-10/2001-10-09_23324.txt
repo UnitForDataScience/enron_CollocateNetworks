@@ -1,0 +1,24 @@
+
+ 
+ FYI
+  Jim Derrick
+ 
+ 
+ 
+
+
+   
+ The Payment status has changed on the following report:
+ 
+ Status last changed by:  System
+ Expense Report Name: Lunches
+ Report Total: $162.88
+ Amount Due Employee: $162.88
+ Amount Approved: $162.88
+ Amount Paid: $0.00
+ Approval Status: Approved
+ Payment Status: Processed
+ 
+ 
+ To review this expense report, click on the following link for Concur Expense.
+ http://expensexms.enron.com

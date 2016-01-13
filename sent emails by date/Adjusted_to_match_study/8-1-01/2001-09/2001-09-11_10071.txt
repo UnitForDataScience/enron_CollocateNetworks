@@ -1,0 +1,24 @@
+
+ 
+ 	John and Terry, I want you two in on this discussion.  Thanks. Lynn
+ 
+  
+    Cc:	Porter, Diana
+  
+ 
+ As you know, USE is agent for a number of small Carlton sourcers.  They have contracted with a single supplier to bring gas in at Carlton for all of USE's clients.  USE wants to bring each shipper's Carlton obligation gas in on the shippers' individual contracts.  Normally, the supplier would have to confirm separate nominations for each little shipper.  Debbie Burgess at USE asked Diana Porter if there was a way that the USE Supplier could nominate the gas to a single USE contract at Carlton, then USE would nominate the Carlton gas from that contract to all the little Carlton sourcers for whom they are agent.
+ 
+ I talked with Steve & Dari.  They did not feel there was any tariff/legal obstacle to letting USE do this, as long as the contract
+ can only be used to facilitate the Carlton sourcing obligation.
+ 
+ I talked with Terry Kowalke & Gerry Medeles.  The simplest approach would seem to be an Administrative contract (non-revenue) where USE's supplier would nominate deliveries to the Admin contract and USE would nominate gas from the Admin contract to its clients' individual firm contracts.  
+ 
+ Based on those conversations, I told Debbie that it sounded like we could work something out.
+ 
+ Problem:  Later, Gerry Medeles determined that, because Carlton has special scheduling logic in TMS, 
+ it will require at least 2 weeks worth of system changes to accommodate US Energy's request.
+ With the current work load, Gerry didn't think IT could get the changes made by November 1 
+ but may have something in place for December.
+ 
+ Should we pursue?
+ 

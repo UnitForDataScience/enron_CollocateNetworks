@@ -1,0 +1,32 @@
+
+ 
+ Do not suspend this CPID, because we have physical and gas daily deals that are active in this book.  Sorry for the delay.  Thanks for your help on this.
+ PL
+ 
+ 
+  
+    Cc:	Victorio, Tom
+  Importance:	High
+ 
+ All:
+ 
+ Attached please review a detail of books marked as "To be Archived" on the Active/Inactive website.  These books have already been archived on RisktRAC, so no positions will be captured going forward.  In order to close the Risk Loop we need to have these counter parties SUSPENDED on the various deal entry systems.  By changing the status of the Counter party codes we do not impact the data related to these counter parties.  The data will still be there and edits of existing deals will be allowed, however no new deals would be allowed for these counter parties.
+ 
+ 
+ Please review the list of books and send an email approving the status change to "SUSPENDED" on the deal entry systems for the books related to your own Business Units.  Please note that in order to "SUSPEND" the counter party code all risk types for that code must be suspended (i.e. IDX,BAS,PRC,GDL,GDI & PHY).  If you have any questions please feel free to contact me at ext 54751.
+ 
+ 
+ Due to the urgent nature of this request, I kindly ask that you reply by Friday Oct 5 or at your earliest convenience.   
+ 
+ 
+ Thank you for your time and assistance in completing this task.
+ 
+ 
+ 
+ Regards,
+ 
+ 
+ 
+ Nancy 
+ 
+  << File: archivebooks.xls >> 

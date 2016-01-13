@@ -1,0 +1,5 @@
+
+ 
+ 
+ Error : Can not login user: ESAIBI to eolprod_bde
+ ORA-24324: service handle not initialized

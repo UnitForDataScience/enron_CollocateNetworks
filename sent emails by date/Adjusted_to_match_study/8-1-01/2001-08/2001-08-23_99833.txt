@@ -1,0 +1,7 @@
+
+ 
+ The pressure regulator has been taken out of service at the TW Griffith I/C on the mainline.  
+ This is to hopefully minimize the pressure swings to the plant.  
+ David if you have any other comments please respond with your ideas.
+ 
+ Thanks DS

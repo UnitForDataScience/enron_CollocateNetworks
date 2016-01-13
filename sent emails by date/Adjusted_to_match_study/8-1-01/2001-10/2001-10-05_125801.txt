@@ -1,0 +1,34 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X-
+ X- X-b X-Folder: \ExMerge - Zufferli, John\Sent Items
+ X-Origin: ZUFFERLI-J
+ X-FileName: john zufferli 6-26-02.PST
+ 
+ 
+ 
+  
+
+ 
+  
+ 
+ Dear ClickAtHome Participant,
+ 
+ ClickAtHome is interested in making sure you have the latest security tools available to you.  As part of the ClickAtHome program, you may download and update Norton Anti-Virus and BlackICE Defender software from the ClickAtHome Portal.  
+ 
+ Norton AntiVirus software repairs computer virus infections automatically.  It scans and cleans your hard drive, diskettes and both incoming and outgoing email.  
+ BlackICE Defender is an industrial-strength anti-hacker system that protects your PC by scanning your DSL, cable modem, or dial-up Internet connection looking for hacker activity. When it detects an attempted intrusion, it automatically blocks traffic from that source, keeping intruders from accessing your system. 
+ By installing and updating both Norton AntiVirus and BlackICE Defender, your ClickAtHome PC will have the latest security offered by these two products.  
+ Instructions for accessing the Portal and downloading the software are provided below.
+
+ The ClickAtHome Team!
+
+ To download the software:
+ 1)  Visit the ClickAtHome Portal at www.clickathome.net from your ClickAtHome PC.
+
+ 3) Once you have logged on, select "Tools" from the top menu bar.
+ 4) Under the "Secure Download" heading, click on "BlackICE" or "Norton" and log on to the download page using your SAP ID and Date of Birth.
+ 5) Follow the directions provided on screen.

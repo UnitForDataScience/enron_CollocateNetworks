@@ -1,0 +1,12 @@
+
+ 
+ 
+ Andrea,
+ apparently an imbalance deal was entered under Teco services and the mark to market flag was not removed.    I show negative new deal value for Teco Services,  when I sold above the curve on their behalf.
+ I assume this is the reason for the negative new deal value.
+ 
+ The deal has been revised,  as it was to be a temporary placeholder anyway.   This imbal. sale deal will be taken to zero and resold to another counterparty tonight.
+ 
+ Will I ever get a true up for the negative new deal value?
+ 
+ JMF

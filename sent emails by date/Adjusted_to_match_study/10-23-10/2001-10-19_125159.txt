@@ -1,0 +1,23 @@
+
+ 
+ 
+ Information for new physical point
+ 
+ US Gas Phy	Kern Las Vegas		Dec01		USD/MM
+ 
+ Pipe: Kern River Gas Transmission
+ Trade Zone: Las Vegas
+ Facility: UNA - Las Vegas
+ 
+ Meters will be determined during scheduling; it should bridge with unassigned meter.
+ EOL products required are Next Day physical, Next Day + 1 phys, BOM phys, BOM +1 phys,
+ and Prompt phys.
+ 
+ Trader: Mike Grigsby
+ Risk Book: ENA - IM WC CAL
+ Book Admin: Monte Jones
+ 
+ Thanks,
+ 
+ Jason Wolfe
+ x30568

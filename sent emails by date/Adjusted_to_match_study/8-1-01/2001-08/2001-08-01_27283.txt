@@ -1,0 +1,19 @@
+
+ 
+ Hourly deals should be under Teco SVC the majority of the time.    However,  at times Enron's option (under Ercot Asset book)  will be long into the Real Time market.
+ This is Frontera generation,  but Enron bought it in the form of the option. 
+ You will see deals of this type for today under the Ercot Asset.
+ 
+ So hourly deals:
+ Teco Services - 99% of time
+ Ercot Asset - 1 %
+ Hrly Ercot - NEVER
+ 
+ 
+     
+ 
+ Jeff or John,
+ 
+ Please confirm for me that HRLY-ERCOT should NOT have any deals with Frontera and that all "hourly" deals with Frontera should be with the TECO-SVCE book.
+ 
+ Rebecca

@@ -1,0 +1,7 @@
+
+ 
+ Chris and Eddie,
+ 
+ I noticed that since Sept. 20, cycle 13 from NWPL has not been making it into the database, thus showing errors in our Ops report.  The Latest Scrape Information does not current show any errors in capture.  Can you please look into this and get back to me.  Thanks.
+ 
+ Mat

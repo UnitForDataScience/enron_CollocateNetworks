@@ -1,0 +1,21 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Richey, Cooper\Sent Items
+ X-Origin: RICHEY-C
+ X-FileName: cooper richey 6-26-02.PST
+ 
+ thanks
+ 
+  
+     
+ Chris, 
+ 
+ can you roll this when you get a chance?
+ 
+ thx,
+ cooper
+ 
+  << File: sp_ab_getpricedata_settlement.sql >> 

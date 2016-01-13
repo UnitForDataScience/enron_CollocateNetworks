@@ -1,0 +1,7 @@
+
+ 
+ While trading on EOL or moving physical power you should not have a position larger than 100 MW.  If you find yourself at these positions while trading EOL you should then widen your market so that you do not take on a larger position.  If you have any questions please let me know.  
+ 
+ I would recommend that you put EOL product properties on manage stack... then you will be able to widen your market easily when your position reaches the 100 MW limit.
+ 
+ Paul

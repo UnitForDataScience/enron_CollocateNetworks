@@ -1,0 +1,19 @@
+
+ 
+ fyi
+ 
+ ds
+ 
+  
+     
+ Attached is an excel workbook that contains the details of the September PNR billing. If you have any questions, please call me.
+ Below is a summary of the PNR charges:
+ 
+ Buyer		P.O.#	POI		BOM BAL	 Dekatherm 	 Rate/Dth 	 	 Invoice Amount 
+ USGT		27268	500622		(722)		722 		 $0.0400 		 $1,264.69 
+ Calpine 		27507	78151		0 		39,000 		 $0.3883 	 	 $15,526.95 
+ TOTALS						39,722 					 $16,791.64
+ 
+ 
+ 
+  

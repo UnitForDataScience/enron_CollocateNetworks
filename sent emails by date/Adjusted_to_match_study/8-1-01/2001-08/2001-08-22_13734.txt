@@ -1,0 +1,17 @@
+
+ 
+ Twanda, please pull all emails on this subject matter out of my in box and print for the file.  Thanks.  MHC
+  
+     
+ Shanna, 
+         Per your request here is a brief description of my relationship with Bluewater Communications. 
+ 
+         Bluewater is a provider of prepaid calling cards. They purchase minutes from wholesale telcom carriers on a take or pay basis and then resell them to retail customers. Bluewater is responsible for marketing the minutes to the retail customers, and all volume and price risk for the minutes.
+ 
+         I developed for Bluewater a model that allows them to structure their prepaid calling cards to maximize profitability while minimizing volume risk. The model uses their historical calling profiles and allows them to compute the expected profitability of a given calling card platform. The model utilizes statistics as well optimization theory.
+ 
+         My current  working relationship with Bluewater is a licensing aggrement which allows them to use my model on an ongoing basis. They pay me a percentage of their monthly revenues for use of the model. As they collect more data from their switch I am occasionally asked to recalibrate the model (about once every 2 months). 
+ 
+         That is the extent of my envolvment with Bluewater. 
+ 
+ Brad 

@@ -1,0 +1,34 @@
+
+ 
+ I think the only other solution is to post two curves, one with an SP and one with PR.  You should be able to simply set up the same curves as risk type PR and have it look to the SP curve.   Then you would publish two curves with the exact same name and value, just two different risk types.  The only other option I see is to change the deals back to the "old" aeco curve that we used prior to this.
+ PL
+ 
+ 
+  
+    Cc:	Cuilla, Martin; Love, Phillip M.; Khanna, Bharat; Shively, Hunter S.; Keiser, Kam; Basu, Nilay; Patel, Virendra; McIntyre, Burton
+  Importance:	High
+ 
+ Brian,
+ Please help us resolve the issue around curve:
+ 
+ GD-AECOCD/FRWKD
+ 
+ The issue is that this curve is only for risk type "SP" as well as having prices posted for only one 1 reference date, i.e. today.
+ 
+ There are only two solutions:
+ 1.	We need you to rename it from risk type "SP" to risk type "PR" 
+ a.	Post prices for balance of month, currently you are only posting a price for one day.
+ 2.	Or, we need you to put out a brand new curve out tonight for this deal.
+ a.	Book admins would have to move all positions to this new curve today
+ b.	This new curve would have to have Book type code M, and curve type code PR
+ c.	Map it to omicron 9, primary curve mapping AECO/Basis, vol group CGPR/EMPRESS
+ d.	Prices have to be posted for daily term structure.  
+ 
+ This is urgent as Lavorato has a position on this curve and is rather firmly demanding that VAR be captured.
+ 
+ To all, am I thinking about this correctly?
+ 
+ Thanks,
+ Frank
+ 
+ PS.  If Brian is unable to post curve, maybe we can post it here.  (i.e. we cannot have VAR without price and vol curve)

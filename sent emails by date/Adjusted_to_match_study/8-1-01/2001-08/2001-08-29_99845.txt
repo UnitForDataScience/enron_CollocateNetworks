@@ -1,0 +1,6 @@
+
+ 
+ Can we use a summation meter for the POI 500168 Westar Ward County Meter # 9089 and Meter # 10187
+ We can make this a bi-directional point in our system.  This will make it transparent to our customers.
+ 
+ Thanks DS

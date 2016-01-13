@@ -1,0 +1,7 @@
+
+ 
+ I have a DSL connection and sometimes it takes as long as 3-4 minutes to load the page.    Is there anything that can be done to improve the speed?
+ 
+ Rod Hayslett
+ EB4054
+ 713-853-6178

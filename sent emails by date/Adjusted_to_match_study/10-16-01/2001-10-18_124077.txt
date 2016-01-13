@@ -1,0 +1,23 @@
+
+ 
+ I cannot think of anything that would cause this to be incorrect.  Please let me know if you agree and I will bless the change.
+ 
+ Thanks,
+ Stacey
+ 
+  
+    Cc:	Postlethwaite, John
+  
+ Hi Stacey:
+ 
+   Just want to follow up to see if there is any after thought about what we discussed yesterday on Index Option.  From our discussion, index option will be reported in two records:  reported as physical in the delivery region, and financial in the index region with the corresponding position and risks.    This seems to be a better alternative than reporting the collapsed position in the delivery region in one record or reporting both position as physical  in two records in the delivery and index region.  
+ 
+    Could you please let me know if we should go ahead  implementing the changes?  We plan to move the current stage to production tonight and do a new stage release this week, I'd like this change, if going to occur, to go into this release.
+ 
+    Thanks a lot.
+ 
+ - Zhiyun
+ 
+ 
+ 
+   

@@ -1,0 +1,46 @@
+
+ 
+ Iris
+  
+  
+ The power prices are not financially settled, they are settled by physical delivery, the gas prices are settled against 'Gas Daily' index. What we will need to also look at is, the contractual provision, for 2003 onwards, when the RTO is expected to kick in.
+  
+ Also, lets look at some other term sheets and make a more robust one. What might be a good idea is to call John Llodra and see if he has any old ones he could mail us.
+  
+  
+ Harry
+  
+  
+  
+ 
+ 
+ 
+
+ 
+     
+
+ 
+     
+    Wayne:
+ 
+    May 1 through Sep 30:  $5.83/kw-mo
+ 
+    Jun 1 through Aug 31:  $8.78/kw/mo
+ 
+    Heat Rate:   10,900
+ 
+    VOM:         $1.63/MWh
+ 
+    Term:        3 years
+ 
+    Start:       2003
+ 
+    Availability:     5x16
+ 
+    Delivery:    Into TVA
+ 
+    Regards, Greg
+ 
+ 
+ 
+    

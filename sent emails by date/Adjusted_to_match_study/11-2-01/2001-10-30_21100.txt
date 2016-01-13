@@ -1,0 +1,7 @@
+
+ 
+ Mike,
+ We need to know the volumes of their load and how it is broken down.  This would include location (by zone), ramp rates, and load factors.  Also, we need to know how fast the load can react to instructions, and how flexible the load is, i.e. can the load be moved up and down on an interval basis without causing problems?  We would also need to know their load forecast.  For example, when is the load available to be reduced, summers, on-peak, etc.?  Obviously if this is limited, we would want to value it accordingly.
+ 
+ Thanks,
+ Clint

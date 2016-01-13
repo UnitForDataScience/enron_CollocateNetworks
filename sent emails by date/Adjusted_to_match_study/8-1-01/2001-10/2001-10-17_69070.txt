@@ -1,0 +1,32 @@
+
+ 
+ here are Souad's book names, Bharat is going to give you the portfolios:
+ FT-PEOPLES-PRC
+ FT-PEOPLES-BAS
+ FT-PEOPLES-IDX
+ ARUBA-TP-PHY
+ FT-PEOPLES-GDL
+ ARUBA-SPLY-PRC
+ FT-PEOPLES-GDI
+ FT-CENTRAL-OPT-GDL
+ INTRA-CNT-TRANS-PHY
+ 
+ Thanks for all of your help.
+ PL
+ 
+ 
+ 
+  
+     
+ Hey Phillip,
+ These are the unmapped curves.  Please let me know what OMICRONS they should be mapped to and I'll have Nilay do it.  This is your problem.  Large hedge benefits are not being captured in her books.
+ 
+ Bharat
+ 
+ 
+ 
+ GDP-MONCHY	             890,193 	
+ GDP-NGPL/(IA-IL	          2,315,334 	
+ GDP-ST.CLAIR	            (379,744)	
+ 	
+ 	TOTAL			        2,825,783 

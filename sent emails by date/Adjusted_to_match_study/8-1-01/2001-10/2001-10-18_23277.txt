@@ -1,0 +1,21 @@
+
+ 
+ FYI
+ 
+  
+
+    
+ The Approval status has changed on the following report:
+ 
+ Status last changed by:  Automated Administrator
+ Expense Report Name: Lunch
+ Report Total: $46.05
+ Amount Due Employee: $46.05
+ Amount Approved: $46.05
+ Amount Paid: $0.00
+ Approval Status: Pending
+ Payment Status: Pending
+ 
+ 
+ To review this expense report, click on the following link for Concur Expense.
+ http://expensexms.enron.com

@@ -1,0 +1,15 @@
+
+ 
+ These are the mid values for the following deals.
+ 
+ 
+ Deal		Book			Mid Value
+ 1065846	TP3 selling to TP1	NX1 + .13
+ 
+ 1065497	TCO selling to TP3	NX1 + .08
+ 
+ 241639		TCO purch from AEc	NX1 + .08
+ 219618		TCO sell to AEC	NX1 + .08
+ 
+ 
+ Kimat, would you enter deal 1065846 and 1065497 in Tagg please?

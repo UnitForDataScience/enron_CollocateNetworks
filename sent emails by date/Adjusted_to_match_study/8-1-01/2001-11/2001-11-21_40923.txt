@@ -1,0 +1,15 @@
+
+ 
+ Outside of normal business lines is outside of the pipelines and therefore is not subject to being an issue here.
+ 
+  
+     
+ Rod and Joe,
+ 
+ Here is a proposed write up of the procedures we use to protect the data that we send to RAC.
+ Please take a look and give me your comments.
+ Thanks!
+ 
+ Frazier
+ 
+  << File: PROCEDURES FOR CREDIT AND RISK DATA.doc >> 

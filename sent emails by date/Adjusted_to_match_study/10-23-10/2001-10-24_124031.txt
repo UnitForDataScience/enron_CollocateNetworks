@@ -1,0 +1,17 @@
+
+ 
+ Can you take care of this?
+ 
+ Stacey
+ 
+  
+    Cc:	Martin, Karen Y; Prelli, Peter
+  
+ Deal Entry needs your user testing today.  The Production freeze starts tomorrow so we have to move this today if it is ok or it cannot be moved for another 2 weeks.
+ Kroum made some changes so that the long deals done in Canada will not crash the system.  You should not see a change at all.  They had over 2000 transactions that replication could not keep up with, but that has been fixed.
+ I will be calling you to make sure you are able to test.  I appreciate all your help.
+ Thank you!
+ 
+ Laura Aldis
+ Quality Assurance-EnPower Support Group
+ 713-345-4410

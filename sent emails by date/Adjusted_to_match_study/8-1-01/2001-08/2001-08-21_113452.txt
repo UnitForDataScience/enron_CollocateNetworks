@@ -1,0 +1,18 @@
+
+ 
+ sounds good.
+ 
+  
+     
+ 
+ 
+ 
+ The structure of an independent market monitor is arising in the RTO proceedings.  These are some thoughts:
+ 
+ Market monitor should have the ability to monitor the activities of the RTO and the markets.  For example, if the RTO is a transco, it is appropriate for the MM to review whether the RTO is doing something potentially problematic in planning, ATC calcs, etc.
+ MM should only have the ability to recommend changes to market structure, possible penalties, etc.  MM should not have the ability to issue a penalty to any one without first going to FERC.  It is possible that the MM could ask for FERC pre-approval to issue "penalties" or remedies for certain conduct.  The example that comes to mind is the $1000 price cap in PJM.  It has been approved at FERC and if someone bids above it, the MM could reduce the bid to $1000 without going to FERC again.
+ MM has no authority that FERC does not have.  (I have heard some (outside of Enron) people state that the MM should have authority to do things that FERC could not do.)
+ Market participants should always retain their right to go to FERC before providing documents in response to an MM request and should retain right to go to FERC even if there is an arbitration clause (should not be required to agree to binding arbitration).
+ Ultimately, FERC staff could provide the MM function.
+ 
+ Let me know any comments ASAP please (since I have comments due on this Friday for the SE RTO).  Thanks.

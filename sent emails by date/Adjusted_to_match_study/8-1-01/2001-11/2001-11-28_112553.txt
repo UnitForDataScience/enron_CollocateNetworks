@@ -1,0 +1,16 @@
+
+ 
+ Ginger 
+
+    
+ The following expense report is ready for approval:
+ 
+ Employee Name: Michael  . Roan Mr.
+ Status last changed by:  Automated Administrator
+ Expense Report Name: Michael Roan
+ Report Total: $624.93
+ Amount Due Employee: $624.93
+ 
+ 
+ To approve this expense report, click on the following link for Concur Expense.
+ http://expensexms.enron.com

@@ -1,0 +1,43 @@
+
+ 
+ I am finally making it all the way through old e-mails.  I will try to call you and talk through all of this.  I am probably not as familiar as I should be on the procedures that exist.  
+  << OLE Object: Picture (Device Independent Bitmap) >> 
+
+  << OLE Object: Picture (Device Independent Bitmap) >> 
+ 11/07/2000 09:18 AM
+
+
+   
+ As mentioned in my previous memo regarding Cash Control Standards, approval authorizations are critical to our cash control environment.  Corporate Accounts Payable is actively pursuing a "Workflow" system to route invoice images for approval and processing.  This workflow solution will not be implemented until early 2001.  In the interim, an approval process will be implemented by AP and Treasury to ensure invoices have proper approvals and correct general ledger coding.  Effective Monday, November 20 the following approval authorizations will be required for all invoices, payment requests and wire transfer requests that are $1,000,000 or greater:
+ 
+ (A)  Those NOT approved by an underlying contract or RAC require two approvals:  a Managing Director approval of the payment, and an Accounting Director approval of the general ledger coding.  
+ 
+ (B)  Those that ARE approved by an underlying contract or RAC require an Accounting Director approval of the payment  and general ledger coding.
+ 
+ In both examples above, supporting documentation must be attached.  If not attached, then the payment will not be processed.
+ 
+ To assist us with implementing this approval process, I'm requesting each of you to accumulate signatures of the Managing Directors and Accounting Directors in your business unit using the attached form.  Please forward this information to Larry Dallman (JFR568) by Friday, November 10th.
+ 
+ This new process becomes effective Monday, November 20th.  It important to provide this information or payments greater than $1,000,000 will not be processed.
+ 
+  << File: Approval Authorization Form.xls >> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,7 @@
+
+ 
+ Kam,
+ 
+ I received my eol id, and went ahead and executed a few trades.  I'm now trying to get into TDS to views positions and such, but it doesn't look like it is set up.  I can get into TDS but there aren't any selections in the Desks dropdown box.  The tds login i used was msmith_pc.  Is this something you set up?
+ 
+ Mat

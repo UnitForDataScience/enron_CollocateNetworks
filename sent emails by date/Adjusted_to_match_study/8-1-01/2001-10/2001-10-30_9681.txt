@@ -1,0 +1,12 @@
+
+ 
+ FYI
+ 
+  
+    Cc:	Husain, Karima; Lim, Francis S.; Saluja, Gurdip; Sweitzer, Tara
+  
+ The problem we faced today was due to 2 eol deal packets (2098073, 2099764) not having startdate and enddate.  Missing these 2 tibco message fields caused the bridge to bounce and resulted in the queue to build up while the bridge is starting up. (The bridge takes 2 minute for startup).  Each time these deals are sent/resent, it continuously cause the Sitarar EOLBridge to restart, thus magnifying the buildup of the queue.
+ 
+ The corrective action we are taking at our end is to build a rejection logic when eol packets do not have start and/or enddate. 
+ 
+ -Dat Truong 

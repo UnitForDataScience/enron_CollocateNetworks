@@ -1,0 +1,33 @@
+
+ 
+ Thanks for the feedback.  
+ 
+ Your model now assumes a modification to the Distribution tariff to include a new rate element.  That may get around the Settlement (although OCA in PA will think that now D is going up and there is no offset in the G rate so consumers are getting screwed because they won't switch).  
+ 
+ Also, can the PaPUC implement this charge and direct the EDCs to transfer the funds to third-party generators?  Seems like that would require legislative changes.  
+ 
+ I like the idea that there should be fixed charge for ICAP - one way to get that number would be to go back to the EDC stranded cost cases and look at their filed testimony - remember if they are earning more from the market than that $ amount, they are overearning on their stranded costs.
+ 
+ Jim
+ 
+  
+    Cc:	Montovano, Steve
+  
+ In an email I sent yesterday, I touched on an ICAP proposal I've been thinking about and thought I would expand on it more.
+ The political reality of ICAP is that it is here to stay; at least as long as there are energy price caps or retail rate caps.  ICAP is also a most likely outcome by regulators and politico's if energy prices are perceived to be too high (assuming no price caps).  Therefore, we need to come up with a system that is fair and doesn't prejudice any one participant, especially if the participant is us.  The system I have been kicking around is one in which we would concede any trading opportunity in ICAP but would relieve our load servers with the obligation.
+ 
+ The ISO's (particularly PJM) and others have been stating that ICAP is required for reliability reasons.  While we can argue against this concept and try to convince these folks that operating reserves with a well-run energy market is sufficient for reliability, I don't think we are going to win (it's a battle of perception and, unfortunately, one man's perception is another man's reality).  For this reason ICAP should be the sole purview of the RTO.  The RTO is the one who has all the information on load forecasts and installed resources and is the one who performs the necessary analysis to determine reserve margins and obligations.  In PJM, the staff  would perform all calculations and present the results to the Reliability Committee for approval which would typically be approved unanimously.  
+ 
+ I would propose that the RTO determine the annual ICAP obligation, and then conduct an annual auction for the necessary resources.  I know that Enron does not want the RTO involved in the market, but this would be no different than what the RTO does in a daily LMP market - he receives bids, stacks them, determines the clearing price, and dispatches according to the stack.  It would be the same for the ICAP auction.  The RTO would not be a participant in the market as such and is only the facilitator.  The total cost of ICAP  would then be allocated to the transmission owners based on a pro-rata share of their installed load and recovered from load as a part of their revenue requirements (ideally it would appear as a separate line item on an end users bill and be identified as a "reliability tax" so they would see what it is costing them).
+ 
+ This proposal, while not perfect would accomplish the following:
+ 1.  It would satisfy the reliability concerns of the RTO's and politicians,
+ 2.  It would assess a "tax" on the load for reliability since load is the beneficiary (assuming there is a benefit from ICAP) of reliability,
+ 3.  It would relieve the LSEs of the burden and obligation of providing ICAP,
+ 4.  Deficiency penalties would not be required and accompanying deficiency rates would not need to be determined,
+ 5.  Generators would still receive ICAP income, provided they are selected in the auction,
+ 6.  Since the ICAP obligation is typically for a period in the future (in PJM, the ICAP requirements approved this year are for the year 2003), the much talked about "price signal"  for new generation is provided.
+ 7.  It allows the market to set the ICAP and not some artificial deficiency rate,
+ 8.  Market power issues associated with the existing ICAP markets are eliminated.
+ 
+ I kept the distribution of this proposal to a limited number to get a feel for this type of proposal.  If you are in general agreement with the concept, I can formalize it and send it to a larger distribution including the commercial folks.  I would, of course, be interested in any comments or feedback you may have and would incorporate those into the document to be distributed to the larger group.  I think a concept of this could be sold to other participants and, after we are satisfied with it, I would solicit it to others outside of Enron to get their support.  

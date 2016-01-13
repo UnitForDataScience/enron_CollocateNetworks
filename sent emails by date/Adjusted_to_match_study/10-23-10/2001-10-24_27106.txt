@@ -1,0 +1,16 @@
+
+ 
+ 
+ 
+ 
+ http://mospublic.ercot.com/ercot/jsp/balancing_services_mcp.jsp
+ 
+ 
+ This is the public Ercot ISO site.    You can query for prices.    We have an internal site,  the East Power Portal site,  which has a section for Price and Load. 
+ This scrapes info from the Ercot website.   I would think that you need special access to use the link below.
+ 
+ 
+ http://eastpower.test.corp.enron.com/portal/basic_page.aspx?mod=35&url=/portal/modules/regions/ercot/priceload.aspx
+ 
+ 
+ JMF

@@ -1,0 +1,28 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Richey, Cooper\Sent Items
+ X-Origin: RICHEY-C
+ X-FileName: cooper richey 6-26-02.PST
+ 
+ no problems here.  everything is fine.  
+ 
+  
+
+
+ 
+
+ 
+   
+ A new denial of service worm program, - like "sadmind", "nimda", etc. - has been discovered by the staff of SecurityFocus. This new program attacks Microsoft SQL servers that do not have a password set on their administrator accounts (named "sa"). Strange as it may seem, I know from experience that we have had a number of SQL servers at Enron that would be vulnerable to this (i.e., they don't have passwords on their "sa" accounts).
+ 
+ I am running a scan now on port 1433 only (where SQL server runs) to try to identify all vulnerable servers we may have. I will be providing this list to Eddie Ray and the EEL IT Security team for coordination of the remediation work.
+ 
+ Details on the worm can be found at <http://www.securityfocus.com/> on the front page. 
+ 
+ Mark Thibodeaux 
+ Enron Corp. - IT Compliance 
+ 713-853-9373 
+ 713-826-4738 (cell) 

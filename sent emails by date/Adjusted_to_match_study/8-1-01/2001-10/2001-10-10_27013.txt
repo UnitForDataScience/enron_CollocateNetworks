@@ -1,0 +1,18 @@
+
+ 
+ Per my conversation with Eloise Williams the proceeds of $138,475,829 were never recorded on 33R but were recorded on 33Q.  Since this is a sale of inventory I'm assuming that the gain will be ordinary and should be reduced by the tax basis in the credits of $104.8 million.
+ 
+  
+    Cc:	Murphy, Carla
+  
+ Jeff,
+ 
+ The SO2 entry was booked to the following accounts:
+ 
+ Debit to 19999995             $138,475,829.50
+ Credit to 20011000            $138,475,829.50
+ 
+ 
+ Eloise Williams
+ Enron Global Markets
+ 713-345-1667

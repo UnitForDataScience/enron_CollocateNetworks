@@ -1,0 +1,24 @@
+
+ 
+ I cannot view this request in eRequest.  Please approve on my behalf or remedy the problem of seeing the request and I will approve myself.
+ 
+ Stacey
+ 
+  
+
+  
+ 
+ You have received this email because the requester specified you as their Manager's alternate. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000071080&Page=Approval to review and act upon this request.
+ 
+ 
+ 
+ 
+ Request ID          : 000000000071080
+
+ Request Create Date : 10/25/01 1:04:31 PM
+
+ Resource Name       : Enpower North America West Production Table_Edit
+ Resource Type       : Applications
+ 
+ 
+ 

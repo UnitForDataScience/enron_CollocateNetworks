@@ -1,0 +1,12 @@
+
+ 
+ Please delete the first total row in gray and the row below it that says "Western Canada Region Notional."  Then have the bottom total row sum all of the positions.
+ 
+ Thanks,
+ Mike
+ 
+  
+     
+  << File: HS_WESTall1108.xls >> 
+ 
+  << File: HS_WESTminusPA1108.xls >> 

@@ -1,0 +1,30 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Zufferli, John\Sent Items
+ X-Origin: ZUFFERLI-J
+ X-FileName: john zufferli 6-26-02.PST
+ 
+ John Disturnal read/write, the others just read
+ 
+ 
+     
+ 
+ Hi John,
+  
+ There's some reorganization taking place for drive access approval right now, and although I have you listed as the approver for the Traders directory, the requests for access came through to me (I'll get that fixed so that they go to you). 
+  
+ Meantime, could you please confirm that the following individuals can have read/write access to the I:\secure\Trading directory:
+  
+ John Disturnal
+ Michael Taylor
+ Murray Fichten
+ Tyler Seminuk
+  
+ Thanks!
+  
+ Karen Maskwa
+ (403) 974-6799
+  

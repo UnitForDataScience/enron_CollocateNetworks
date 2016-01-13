@@ -1,0 +1,19 @@
+
+ 
+ SEE ATTACHMENT FOR CHANGES. 
+ 
+  
+    Cc:	Victorio, Tom
+  
+ Phil,
+ 
+ Please see the attached file with the current structure for Central Gas desk by trader.  For each trader, these are the books that he/she trades.  I am assuming that this list by trader has all books whether active / inactive.  Please review and ensure that all books with or without positions are being captured by traders.  Can you respond by Friday, Oct. 12th.   Thanks.
+ 
+ 
+ Burton
+ (x57197)
+ 
+ 
+ 
+ 
+  << File: GAS-CENTRAL BOOKS.xls >> 

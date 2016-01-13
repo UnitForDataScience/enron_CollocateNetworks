@@ -1,0 +1,186 @@
+
+ 
+ FYI.  Wasn't sure if you saw this?  Thanks. Lynn
+ 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Begley, Mark; Coburn, Scott; Homan, Rita; Johnson, Robert; Miller, Paul; Ne=
+ ppl, Ray; Shade, Marge; Strom, Colin; Wakefield, Karen; Willimon, Ted; Fond=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Johnson, Robert; Strom, Colin; Willimon, Ted
+  
+ 
+ Borderline
+ No.  2001-22
+ October 30, 2001<?xml:namespace prefix =3D o ns =3D "urn:schemas-microsoft-=
+ com:office:office" />
+ 
+ =20
+ 
+ November 1 Tariff Change
+ 
+ Tariff revisions detailing and addressing the use of an Operational Flow Or=
+ der (OFO) on Northern Border, which were part of Northern Border's approved=
+  Park and Loan (PAL) filing, will become effective on November 1.   Here is=
+  a brief overview of the upcoming changes.
+ 
+ =20
+ Purpose of an OFO
+ =20
+ An OFO will be used by Northern Border to 1) alleviate conditions that thre=
+ aten the integrity of the system, 2) maintain pipeline operations at pressu=
+ res required to provide efficient and reliable transportation service, 3) a=
+ ssure adequate system line pack, and 4) maintain service for all of Norther=
+ n Border's firm shippers.  =20
+ =20
+ An OFO will be treated as a tool of last resort.  Northern Border will firs=
+ t attempt to utilize its system, its services (transportation and PAL), and=
+  if necessary, assistance of interconnecting systems to alleviate operation=
+ al problems before invoking its OFO tariff provisions.
+ =20
+ =20
+ Posting of an OFO Watch
+ =20
+ If resolution of an operational problem is unlikely, such as when a daily o=
+ r cumulative OBA imbalance with an interconnected party is outside of a def=
+ ined tolerance range, Northern Border will post an OFO watch.  Similar to a=
+  severe weather notice, the purpose of an OFO watch is to pre-alert shipper=
+ s and interconnecting systems to a location or area on Northern Border's sy=
+ stem in which underlying operational conditions could prompt the issuance o=
+ f an OFO.
+ =20
+ 
+ 
+ OFO Issuance
+ =20
+ Northern Border will issue an OFO if it is determined that an OFO watch has=
+  failed to serve as a catalyst for corrective action.=20
+ =20
+ A Northern Border OFO will be as localized as is reasonably possible.  Furt=
+ hermore, each OFO will be tailored to match the severity of the known or an=
+ ticipated problem being addressed.
+ =20
+ =20
+ OFO Impact
+ =20
+ An OFO can result in either the curtailment of interruptible services and/o=
+ r the forced balancing of nominations and actual flows through the confirma=
+ tion process.  =20
+ =20
+ If service is reduced or interrupted due to an OFO, Northern Border will di=
+ rectly provide affected shippers, as soon as possible, a summary of the ser=
+ vice interruption that will include the operational variables that prompted=
+  such action.  In addition, affected shippers will be notified of any imbal=
+ ances that require immediate resolution.
+ =20
+ Routine status updates will be posted throughout the period in which the OF=
+ O is in effect.
+ =20
+ =20
+ Failure to Comply
+ =20
+ When an OFO is issued, it is the responsibility of the affected shippers to=
+  make a good faith effort to comply.  If such shippers fail to respond to t=
+ he OFO, or their response is insufficient to correct the problem, Northern =
+ Border may take further action including the curtailment of firm service or=
+  the immediate cash out of cumulative imbalances that are in excess of 10% =
+ of the Historical Flow Quantity.
+ =20
+ Northern Border will not be liable for any costs incurred by a shipper in c=
+ omplying with or be exposed to any damages that result from an interruption=
+  in service due to an OFO.
+ =20
+ =20
+ Impact of OFO Tariff Changes on Interconnects
+ =20
+ FERC Order No. 637 requires that pipelines "take all reasonable actions to =
+ minimize the issuance and adverse impact of Operational Flow Orders (OFOs).=
+ "  Northern Border recognizes that maintaining daily and cumulative OBA imb=
+ alances with its interconnected parties within reasonable tolerances levels=
+  is critical in meeting such obligation across the grid.  Consequently, the=
+  November 1 tariff changes includes language which define what is an accept=
+ able tolerance range on a Northern Border OBA imbalance.
+ =20
+ To serve as a benchmark, Northern Border has already begun calculating a Hi=
+ storical Flow Quantity (HFQ) for each point of interconnection on Northern =
+ Border's system.  The HFQ is the lesser of the average daily scheduled quan=
+ tity for the previous 15 consecutive Gas Days or the actual daily flow quan=
+ tity for such time period.  =20
+ =20
+ On November 1, the default cumulative OBA imbalance tolerance level for a g=
+ iven interconnect on Northern Border's system will be +/- 10% of the point'=
+ s HFQ.   If such approach fails to meet the needs of an interconnected part=
+ y, Northern Border's tariff does permit the use of an alternative tolerance=
+  level at a given point of interconnect as long as it has been mutually agr=
+ eed to both OBA parties.
+ =20
+ Furthermore, the daily OBA swings at interconnects on Northern Border that =
+ are on pressure control will also be monitored more closely; the default da=
+ ily OBA imbalance tolerance level will be +/- 5% of the daily scheduled qua=
+ ntity.  Once again, Northern Border's tariff does permit deviation from thi=
+ s "standardized" daily tolerance if an alternative method is mutually accep=
+ table to the OBA parties.=20
+ =20
+ For those who would like to initiate discussions on establishing OBA imbala=
+ nce tolerance levels with Northern Border that deviate from the defaults de=
+ scribed above, please contact Scott Coburn at (402) 398.7760.
+ =20
+ =20

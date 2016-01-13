@@ -1,0 +1,5 @@
+
+ 
+ Here is data format.  This is for time period 10/1/00-9/30/01.  Now I'm looking for calendar years 1997, 1998, 199 & 2000
+ 
+  

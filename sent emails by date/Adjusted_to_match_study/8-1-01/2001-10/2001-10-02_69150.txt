@@ -1,0 +1,4 @@
+
+ 
+ According to our benchmark guys up here, it looks like the Central Transport GDL book did not make it into risktrac under souad.  The book is named FT-Central-opt-gdl.  I also should have asked you to send the FT-Peoples-GDI book over to Souad.  It appears that the remaining FT-Central-Opt- books (PRC,BAS,IDX) are under Martin Cuilla, these should be under Geoff Storey.  Can you please make these changes.  Thanks for all of your help.
+ PL 

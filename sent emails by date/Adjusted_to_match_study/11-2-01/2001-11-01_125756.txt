@@ -1,0 +1,10 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Zufferli, John\Sent Items
+ X-Origin: ZUFFERLI-J
+ X-FileName: john zufferli 6-26-02.PST
+ 
+ can you explain to me what data you are pulling for canadian fixed price positions in the report, it showed chris lambie selling 1200 contracts yesterday.   my records indicate chris sold 145 nymex contracts yesterday.  in general the data (i.e including the var calc) is questionable relative to my reports.

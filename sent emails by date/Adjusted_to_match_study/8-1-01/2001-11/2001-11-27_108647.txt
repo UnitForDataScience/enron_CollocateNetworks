@@ -1,0 +1,18 @@
+
+ 
+ please take care of this.
+ 
+  
+
+    
+ The following expense report is ready for approval:
+ 
+ Employee Name: Mark R. Tawney
+ Status last changed by:  Automated Administrator
+ Expense Report Name: Tawney1
+ Report Total: $190.06
+ Amount Due Employee: $190.06
+ 
+ 
+ To approve this expense report, click on the following link for Concur Expense.
+ http://expensexms.enron.com

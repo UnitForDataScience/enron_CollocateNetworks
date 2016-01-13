@@ -1,0 +1,34 @@
+
+ 
+
+
+
+
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X-
+ X- X-b X-Folder: \ExMerge - Williams III, Bill\Sent Items
+ X-Origin: WILLIAMS-W3
+ X-FileName: 
+ 
+ After yesterdays cuts there have been some changes in the Colstrip Cut Procedures.
+ 
+   specifically, Ashgrove,Conocpil, Energywesr, Louisiana Pacific, and Smurfit Stone, etc.
+ 	(these enpower deal numbers can be located under the counterparties name in lotus notes.)
+ 
+
+ 
+ 6.) Finally link the deals.
+ 
+ 7.) Check real time postion manager, make sure you are flat.
+ 
+ 8.) Make cuts in Lotus Notes Cuts Database (this is the most time consuming portion of this procedure).
+ 
+ 9.) Make notes in Discussion Forum
+ 
+ 10.) Email appropriate groups, Kate Symes, and myself.
+ 
+ If you have questions regarding this procedure please let me know.
+ Thanks,
+ Bill

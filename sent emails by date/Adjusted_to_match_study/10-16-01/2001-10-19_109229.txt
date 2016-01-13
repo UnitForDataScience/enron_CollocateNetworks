@@ -1,0 +1,18 @@
+
+ 
+ please print
+ 
+  
+
+    
+ The following expense report is ready for approval:
+ 
+ Employee Name: Kevin  . Ruscitti
+ Status last changed by:  Automated Administrator
+ Expense Report Name: Kevin Ruscitti
+ Report Total: $159.31
+ Amount Due Employee: $159.31
+ 
+ 
+ To approve this expense report, click on the following link for Concur Expense.
+ http://expensexms.enron.com

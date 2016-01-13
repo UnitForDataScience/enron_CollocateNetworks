@@ -1,0 +1,13 @@
+
+ 
+ Veronica:
+ 
+ There shouldn't be a legal reason why we can't do this, however, we will need copies of all the Enron Corp. guaranties (and any amendments thereto), together with details of all contracts that will be covered.  Also, has Oneok Energy Marketing and Trading Company, L.P. provided any incoming guaranties and, if so, do we want to consolidate those?
+ 
+ Marie
+ 
+  we're currently avoiding posting cash on a Margin call as ONEOK will accept a higher Gty amount to cover their exposure.
+ 
+ Thanks,
+ 
+ Veronica

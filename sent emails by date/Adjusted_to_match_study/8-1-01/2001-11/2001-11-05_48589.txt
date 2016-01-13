@@ -1,0 +1,20 @@
+
+ 
+ Branches:  only relates to those branches of a multibranch party, which under ISDA can ONLY be a bank.
+ 
+ Restrictions:  Things put in the restrictions column should be those things so critical to trading, payment/settlement or contract formation that you should not enter into a trade unless you read it.  It is not a place to dump general legal negotiation stuff.  Examples would be:  "masters limited to natural gas or crude oil trading only", "no payment netting between energy commodity and interest rate and currency transactions", "no oral trades allowed", "only the treasurer can enter to trades for the company", "all agreements for this counterparty require two signatures".  You can do a sort on the PENDING SWAP UPDATE - EXECUTED, which will then show you all the restrictions, then scroll down and look at the type of restrictions entered into for the different companies to get a flavor for these types of restrictions.  But we don't want to junk it up with general legal negotiation stuff.  Just critical, DON'T TRADE UNLESS YOU LOOK AT THIS STUFF.
+ 
+  
+     
+ Hi Tana
+ 
+ I am entering my first ISDA on the database and have a couple of questions and because the database is your baby I thought it best to ask you.
+ 
+ Branches: does that mean Enron branches and/or counterparty branches?
+ Restrictions: does that mean whether we have included for example FX and Currency provisions?
+ 
+ Kind regards,
+ Anna Fox
+ Enron
+ Ph.  +4420 778 36403
+ Fax. +4420 778 31850

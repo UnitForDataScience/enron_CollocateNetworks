@@ -1,0 +1,29 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: quoted-printable
+ X- X- X- X-b X-Folder: \ExMerge - Crandall, Sean\Sent Items
+ X-Origin: CRANDELL-S
+ X-FileName: 
+ 
+ You are right.  There are no delivery/scheduling obligations on the day ahe=
+ ad DART product (unlike the regular day-ahead).  Yes.  A DART onpeak would =
+ mean delivery on all onpeak hours for the corresponding day, and a DART off=
+ peak would mean delivery on all offpeak hours for the corresponding day.
+ 
+  it is to be settled real time.  If we fast forwar=
+ d to real-time, Morgan Stanley has two options.  They can buy from us on EO=
+ L, whereby this transaction books out, or they can deliver us physical powe=
+ r, whereby we have to sell the power to a third party real time.  The nice =
+ thing about this product is it provides any party the ability to take a pos=
+ ition to real time, even if they are not a control area.  In addition, it w=
+ ould provide utilities and generators the ability to hedge a day-ahead posi=
+ tion.
+ 
+ Kevin, I'm not sure if it's you I need to talk to about this, but I would a=
+ ppreciate some direction if it's somebody else.  Once we identify who we ne=
+ ed to look at this, I'd like to set up a conference call to discuss contrac=
+ t language and EOL mechanics.
+ 
+ Thanks.

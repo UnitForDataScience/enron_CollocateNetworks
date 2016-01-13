@@ -1,0 +1,32 @@
+
+ 
+ Hey team.  I think I have everyone but feel free to forward this message on to others that may need it.  Brenda Fletcher was asking me 
+ 
+ Enron has the following deals with AEC at Niagara and Leidy.
+ 
+ Deal #		Vol	Buy/Sale	Location	End Term	Book
+ 592845		9189	Buy		Tenn Niagara	10/31/2008	New England
+ 223854		9189	Sale		Tenn Niagara	10/31/2008	New England
+ 
+ 415547		9000	Buy		Nful Niagara	10/31/2002	East TP1
+ 415547		6000	Buy		Nful Leidy	10/31/2002	East TP1
+ 1131708	6000	Sale		Nful Leidy	10/31/2008	East TP1
+ 
+ When this deal was done 2 years ago, AEC agreed to give Enron the NFUL transport (I don't know who at Enron agreed to this).  Enron pays NFUL max demand for the space.  I believe the contract price on deal 415547 is a NFUL Leidy price, and part of it should be adjusted for demand, commodity, and fuel.  Also the net delivered volume at Leidy is 9005 dth ( = 9189 at Niagara).
+ 
+ 
+ Kam, I'm not sure which firm book this is in.  Over the last few months, I would calculate the transfer price from the firm book to TP1 (or TP3).  As TP1, I take any NFUL length at a CNG equivalent price.  I also created deal 1147662 at 0 price to balance out Niagara.
+ 
+ Also, I believe we need to bill AEC for the demand charges for the last 2 years of this deal.  That's around $1,340,000.  I'm sure AEC is not expecting that.  Does anyone here talk to AEC?
+ 
+ 
+  
+     
+ Brenda, I am going to put the National Fuel demand charge on deal 241639.  I will enter it as a negative demand charge.
+ 
+ 
+ Elizabeth, would you get me a copy of the contract or confirm for deal 241639 please?
+ 
+ 
+ 
+ Thanks

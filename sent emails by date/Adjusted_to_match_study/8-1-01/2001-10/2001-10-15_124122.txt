@@ -1,0 +1,22 @@
+
+ 
+ I understand all the following except the Index-Option.  Why would it be treated as a Spread-Option?
+ 
+ Stacey
+ 
+  
+    Cc:	Ramesh, Ganapathy
+  
+ Frank,
+ 
+ We were just informed by Norman Lee's group that ENPower is going to put out a new instrument type code called 'TRANSMISSION' and it basically is a kind of SPREADOPTION, so we will modify the code and capture them as SPREADOPTION.
+ 
+ Also we were told that we should handle one existing instrument type code INDEX-OPTION as SPREADOPTION too.  INDEX-OPTION has been captured as OPTION so far.  We will also make the code change for this.
+ 
+ Anytime when ENPower introduces new instrument type code in the future, we need to be informed because there are 15 - 20 instruemnt type codes existing in ENPower system and we need to convert them into one of the six instrument type codes in RisktRAC.
+ 
+ I am going to make the changes tomorrow.
+ 
+ Regards,
+ 
+ Wei

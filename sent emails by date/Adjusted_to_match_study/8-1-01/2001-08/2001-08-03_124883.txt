@@ -1,0 +1,20 @@
+
+ 
+
+
+
+
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X-
+ X- X-b X-Folder: \ExMerge - Williams III, Bill\Sent Items
+ X-Origin: WILLIAMS-W3
+ X-FileName: 
+ 
+ Group,
+ 
+ When doing imports and exports at tie points for other desks, be sure to put the other desk as the Customer in CAPS.  This prevents inappopriate charges going against the real-time book.  Import and Export fees are typically in the nature of $5 per mm on a wheel.
+ 
+ Thanks,
+ Bill

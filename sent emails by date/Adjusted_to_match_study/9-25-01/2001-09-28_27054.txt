@@ -1,0 +1,20 @@
+
+ 
+ Michelle,
+ Facundo is going to need his companies unlocked because an OTP was not created for any of the companies that he is now responsible for.
+ 
+ Thanks,
+ Mary
+ 
+  
+    Cc:	Wilcott, Robert; Lewis, Robbie; Earnest, Lanette; MacCallon, James; Burgess, Jay; Lee, Patricia; Swafford, John; Seelig, Sally
+  
+ The attached query lists companies that used plugs in TIS Period 0012 to correct income on their returns.  These plugs to income do not pull thru to the Management Summary Report or Provision Window in TIS, and thus the plugged income is not included in the Period 0012 tax calculations.  
+ 
+ To correct Period 0012 taxes in TIS, you must manually calculate the taxes related to the missing income in TIS and create an OTP (M Class Code 431 100 100/105 for CFIT, and 431 100 120/125 for CSIT) in Period 0012.  Do not include the federal benefit on state taxes when calculating your Federal OTP.  TIS will calculate the benefit on the State OTP automatically.  The OTP's should have already been done when the return was completed and the RTA was analyzed.  Please contact me if you still need to make these entries, and we will get these companies unlocked in 0012.  
+ 
+ Please contact me if you have any questions.
+  << File: Income Plugs.xls >> 
+ Thanks,
+ Michelle
+ x57357

@@ -1,0 +1,44 @@
+
+ 
+ FYI
+ 
+  
+
+    
+                                           AGENT AA/MC BOOKING REF Y6ABH8
+ 
+                                           TAYLOR/MARK E
+                                           EB 3889
+                                           ETKT RECEIPT
+   ENRON CORP
+ 
+ 
+ 
+ 
+ 
+   DATE:  SEP 27 2001
+ 
+ SERVICE               DATE  FROM           TO             DEPART  ARRIVE
+ 
+ CONTINENTAL AIRLINES  14NOV HOUSTON TX     SAN ANT TX     332P    428P
+ CO 1522    T          WED   G.BUSH INTERCO SAN ANTONIO IN
+                             TERMINAL C     TERMINAL 2
+                                                           NON STOP
+                             RESERVATION CONFIRMED         0:56 DURATION
+                   AIRCRAFT: MCDONNELL DOUGLAS MD-80 ALL SERIES
+                             SEAT 08C NO SMOKING CONFIRMED TAYLOR/MARK E(I
+ 
+ CONTINENTAL AIRLINES  16NOV SAN ANT TX     HOUSTON TX     355P    449P
+ CO 678     T          FRI   SAN ANTONIO IN G.BUSH INTERCO
+                             TERMINAL 2     TERMINAL C
+                                                           NON STOP
+                             RESERVATION CONFIRMED         0:54 DURATION
+                   AIRCRAFT: BOEING 737-800
+                             SEAT 11C NO SMOKING CONFIRMED TAYLOR/MARK E(I
+                 YOUR ETKT CONFIRMATION NUMBER IS: UFN233
+                THIS IS A NON-REFUNDABLE FARE THAT REQUIRES
+                TRAVEL ON THESE SPECIFIC DATES AND FLIGHTS.
+                ANY CHANGES WILL RESULT IN A PENALTY AND/OR
+                          ADDITIONAL COLLECTION.
+            
+ E-TICKET 005-7034506273 ISSUED 26SEP01 - $55.28.

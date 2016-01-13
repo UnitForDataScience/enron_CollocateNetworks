@@ -1,0 +1,12 @@
+
+ 
+ I extended the term date on the following park and loan contracts from Oct 31 to Nov 30.
+ 
+ Deal		k#
+ 1075382	37874
+ 1075388	37875
+ 1075391	37876
+ 1075393	37877
+ 1075407	37878
+ 1075408	37879
+ 

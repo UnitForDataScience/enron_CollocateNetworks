@@ -1,0 +1,3 @@
+
+ 
+ select REF_PERIOD_ENGLISH_SHORT_DESC,BUY_SELL_CD,reference_period_end_dtm,sum(transaction_qty)  from eol.TRADING_TRANSACTIONS  WHERE TO_CHAR(transaction_dtm,'DD-MON-YYYY') = TO_CHAR(SYSDATE,'DD-MON-YYYY') and ref_period_english_short_desc like 'US Gas Swap%Nymex%'  GROUP BY REF_PERIOD_ENGLISH_SHORT_DESC,BUY_SELL_CD,reference_period_end_dtm  order by reference_period_end_dtm,BUY_SELL_CD 

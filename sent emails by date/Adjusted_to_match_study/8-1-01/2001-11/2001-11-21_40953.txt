@@ -1,0 +1,15 @@
+
+ 
+ The data is actually aggregated and netted, the specific deal data is not provided.   The detail he described might be the aggregate of 40 deals at that point none of which may directly relate to transportation deals.   See the bolded data below.   The example given basically says I am in a position of having more gas at Ventura in January 2002
+ than I have commitments to sell by 10 MMCF/d.     Did you understand that?    
+  
+     
+ Rod and Joe,
+ 
+ Here is a proposed write up of the procedures we use to protect the data that we send to RAC.
+ Please take a look and give me your comments.
+ Thanks!
+ 
+ Frazier
+ 
+  << File: PROCEDURES FOR CREDIT AND RISK DATA.doc >> 

@@ -1,0 +1,23 @@
+
+ 
+ Thanks, Kam
+ 
+ Susan
+ 
+ 
+ 
+  
+    Cc:	Pereira, Susan W.; Chavez, Alejandra
+  
+ Russ,
+ 
+ Can you please remap KOCH/Zone 4 Area 3/000464 to IF-Tetco/ELA and GDP-Tetco/ELA?
+ 
+ This meter was remapped to this curve last month but there were many changes on the KOCH pipeline between zones on October 1st, could that be why the mapping was changed back to the original curve?
+ 
+ Kam
+ 
+ x3-5781
+ 
+ 
+ Susan, this fix can't be done until tonight as it takes overnight to take effect.  You should see the impact in tomorrow night's P&L.

@@ -1,0 +1,13 @@
+
+ 
+ We spoke with Roger Yang.  They don't have anything on the shelf.  I started to look at the PG&E web site and figured out that you'd have to have a PhD in Oper Research to re-compute the PX Credit on an hourly basis.
+ 
+ Jim
+ 
+  
+     
+ Jim,
+ 
+ Other than doing it in house, I would recommend MRW to compute the PX credit, which is a function of market purchases, CAISO charges, losses, load shape effects, etc.
+ 
+ GAC

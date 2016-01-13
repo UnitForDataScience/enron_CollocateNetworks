@@ -1,0 +1,13 @@
+
+ 
+ Please release the new version of PL Desk to production.
+ 
+ Thanks,
+ Stacey
+ 
+  
+     
+ Nikolay- 
+ How did you get the column Deal Cat-Code to show up when you ran the PL Desk Report?  This was the column that separated the lines into Commodity and Capacity.  I don't see that column when I run this report.
+ 
+ J.P.

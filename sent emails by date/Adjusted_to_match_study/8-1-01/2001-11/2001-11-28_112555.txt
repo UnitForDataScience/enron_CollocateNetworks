@@ -1,0 +1,18 @@
+
+ 
+ Pls pay.
+ 
+  
+
+    
+ The following expense report is ready for approval:
+ 
+ Employee Name: Charles H. Yeung
+ Status last changed by:  Automated Administrator
+ Expense Report Name: CY 11/27/01
+ Report Total: $2,230.28
+ Amount Due Employee: $2,230.28
+ 
+ 
+ To approve this expense report, click on the following link for Concur Expense.
+ http://expensexms.enron.com

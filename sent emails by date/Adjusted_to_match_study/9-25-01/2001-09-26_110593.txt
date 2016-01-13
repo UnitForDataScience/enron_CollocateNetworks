@@ -1,0 +1,22 @@
+
+ 
+ Maria,
+ 
+ Try these...
+ 
+ GDP-ELPO/SANJUA
+ GDP-ELPO/PERM2
+ GDP-SOCAL
+ 
+ I'm still working on those other curves.
+ 
+ Mat
+ 
+ 
+ 
+  
+     
+ Hi Matt,
+ I need to pull some daily gas settlement prices from the Oracle database in Houston.  I'm looking for El-Paso San Juan, El-Paso Permian and Topock.  Do you know the codes those for those points?  
+ Thanks,
+ Maria

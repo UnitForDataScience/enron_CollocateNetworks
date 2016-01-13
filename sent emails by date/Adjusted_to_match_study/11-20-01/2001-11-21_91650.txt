@@ -1,0 +1,39 @@
+
+ 
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Richey, Cooper\Sent Items
+ X-Origin: RICHEY-C
+ X-FileName: cooper richey 6-26-02.PST
+ 
+ ok.  by the way, there is no model.  i just pull these numbers out of the air.  
+ 
+ thu
+ p	30
+ o	20
+ 
+ fri
+ p	30
+ o	20
+ 
+ sat
+ p	28
+ o	20
+ 
+ sun
+ p	28
+ o	20
+ 
+ mon
+ p	45
+ o	20
+ 
+ 
+ 
+  
+     
+ Cooper,
+ After you run your model later this morning, can you provide me with its outputs for Thursday, Friday, Saturday, Sunday, and Monday?
+ Thanks,
+ MW

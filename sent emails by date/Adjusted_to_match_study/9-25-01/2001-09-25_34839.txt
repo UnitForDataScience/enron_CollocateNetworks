@@ -1,0 +1,12 @@
+
+ 
+ FYI
+ 
+  
+    Cc:	Halstead, Lia; Fletcher, Brenda H.; Wukasch, Jeanne
+  
+ I moved the sale to NYPA at Mamou from TP3 to TP1 effective 10/1/2001.  The old deal number is 815952.  The new deal number is 1063956.
+ 
+ Kimat, I just took the volumes to 0 effective 10/1/2001 on deal 815952.  Should we just delete the lines on the deal ticket for dates after 10/1/2001?
+ 
+ Effective 10/1/2001, the primary desk for transport on TGT will be TP1.

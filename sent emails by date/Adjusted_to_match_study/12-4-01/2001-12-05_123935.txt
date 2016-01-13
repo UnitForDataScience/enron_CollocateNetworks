@@ -1,0 +1,15 @@
+
+ 
+ I was comparing the 'Position by Trader PRINT' tab in WestPos to the VaR report (Nov. 26 for example).
+ 
+ I would hope the rules for carrying over a week will still apply, but I have not heard anything concrete.  I'll see what I can find out.
+ 
+ Stacey
+ 
+  
+     
+ Stacey, I have checked the VaR numbers in the DPR against the date specific VaR reports for several days and they tie out. Can you tell me which reports you were looking at.
+ 
+ Any news on running the DPR's? Do you know what happens with unused vacation time?
+ 
+ John
