@@ -1,9 +1,0 @@
-
- 
- Your calculation looks correct to me.  The deferred tax variance is because current month's income has not been tax effected and has not been recorded in your deferred tax liability balance.  There was a big flucuation in mark to market income for Pronghorn in September.
- 
-  
-
- 
-  
-  - Raptor DFITDSIT2 9-31-01.xls << File: Raptor DFITDSIT2 9-31-01.xls >> 

@@ -1,8 +1,0 @@
-
- 
- NYMEX fees are the same regardless of the Broker correct
- 
-  
-     
- So on the EDF Man acct if we executed and cleared throught them the total cost paid to EDF is  what ?
- with the Floor rate 1.25 & clearing 0.90

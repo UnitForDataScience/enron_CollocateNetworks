@@ -1,5 +1,0 @@
-
- 
- It,s an entity set up to handle nng's and TW's cash.   Through this account cash flows to corp.  Joel will handle this.
- 
- Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)

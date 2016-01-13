@@ -1,3 +1,0 @@
-
- 
- Prepays - although they do not terminate they do drop to zero collateral on a further downgrade.

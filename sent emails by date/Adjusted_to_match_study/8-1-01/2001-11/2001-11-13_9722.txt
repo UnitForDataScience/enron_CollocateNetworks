@@ -1,9 +1,0 @@
-
- 
- This problem is a result of the lack an automated interface between GCP and RPS and RGS.  My understanding is that Todd Taylor on your team is working on this interface.  What is the expected completion of this interface, and if is later than today, what can be done to deliver this ASAP.  With the large number of Mass Market deals being done, it is imperative to have an automated solution to this problem.  Can you call me today with an update?  Thanks. -Sally 
- 
-  
-     
- Big jump in the number of New Counterparties.  Up by 5,420 new counterparties.
- 
-  << File: EES Cpty Stats.xls >> 

@@ -1,5 +1,0 @@
-
- 
- I have Lotus Notes emails which I can't forward since we've migrated to Outlook.
- 
- Kay

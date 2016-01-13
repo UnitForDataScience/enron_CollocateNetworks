@@ -1,9 +1,0 @@
-
- 
- thank you
- 
-  
-      <<JArnold.pdf>>  <<JohnArnold.jpg>> 
- 
-  - JArnold.pdf << File: JArnold.pdf >> 
-  - JohnArnold.jpg << File: JohnArnold.jpg >> 

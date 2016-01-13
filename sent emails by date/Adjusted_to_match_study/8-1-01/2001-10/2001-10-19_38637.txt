@@ -1,5 +1,0 @@
-
- 
- The Intra month position total in NCD is not matching the total intra position on the reports going to Lavo and deskheads each morning.  Please reconcile.
-  
- Mike

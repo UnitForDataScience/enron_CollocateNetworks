@@ -1,8 +1,0 @@
-
- 
- Christi  
-     
- Sorry I was delayed with an other hot item.  Bill didn't like tying anything to prices derived in a different market (day ahead).  I'm leaning toward just using the shaped Dow Jones Non-Firm MC Index as published after the fact in the Wall street Journal.  Shaped hourly using our actual system load with the corresponding Index Price.  Attached is a spread sheet detailing the calculation with an example and a scan of how it is published.  Let me know what you think.
- 
- >>> MICHELE FARRELL 10/03/01 05:01PM >>>
- Any new thoughts on what we should be proposing to FERC?   I think you were going to look at a method of shaping the Mid-C index and I was wondering how that was coming.

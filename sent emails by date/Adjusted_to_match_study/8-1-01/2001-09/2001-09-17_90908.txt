@@ -1,4 +1,0 @@
-
- 
- Workbooks.Open Filename:= _
-         "\\enehou\houston\common\Global_Trading\Financial_Trading\Book\ExchangeFile.xls"

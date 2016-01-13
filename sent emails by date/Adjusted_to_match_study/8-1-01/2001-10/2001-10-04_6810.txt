@@ -1,3 +1,0 @@
-
- 
- http://maps.yahoo.com/py/maps.py?BFCat=&Pyt=Tmap&newFL=Use+Address+Below&addr=2201+Stemmons&csz=Dallas%2C+TX+75207&country=us&Get%A0Map=Get+Map
