@@ -1,0 +1,35 @@
+
+ 
+
+ 
+
+
+
+
+ Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+
+
+
+
+
+ X- X-
+ X-b X-Folder: \ExMerge - Williams III, Bill\Sent Items
+ X-Origin: WILLIAMS-W3
+ X-FileName: 
+ 
+ 
+ Bert,
+ When buying from any desk on the floor, you should have a sale from that desk (say ST-CALI) to either WHourly or WBOM, then do enpower as normal. The interdesk sale will not pull up in scheduling and you will have to route the sale in Enpower to the physical buy by the other desk (another words...ST-CALI buys from imbalance, sells to WHourly/WBOM, then WHourly/WBOM sells to EPMICALPOOL, then WHourly/WBOM sells to EPE.
+ Please let me know if you have questions.
+ 
+ Bill
+  
+     
+ Bill:
+ 
+
+ 
+ Regards,
+ 
+ Bert Meyers

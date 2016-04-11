@@ -1,0 +1,33 @@
+
+ 
+ Lindon,
+  
+ It looks like we need to add 9908 to the list.  After that i think we're done.  Thanks.
+  
+ Mat
+ 
+ 
+     
+ 
+ Matt,
+  
+ Here is the list of counterparties that I have excluded.  Please feel free to edit.
+  
+ 9803
+ 9084
+ 9805
+ 9806
+ 9807
+ 9909
+ 9911
+ 9914
+ 9916
+ 
+ <?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" />
+ 
+ Lindon Chiu 
+ Technologist 
+ Enron Corp 
+ (800)973-6766 x 57758 
+ 
+  

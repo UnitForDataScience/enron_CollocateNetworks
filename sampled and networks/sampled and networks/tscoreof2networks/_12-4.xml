@@ -1,0 +1,543 @@
+<?xml version="1.0" standalone="yes"?>
+
+<DynamicMetaNetwork id="_12-4">
+<MetaNetwork id="_12-4">
+<nodes>
+<nodeclass type="Unknown" id="concept">
+<node id="Power"/>
+<node id="day"/>
+<node id="business"/>
+<node id="enron"/>
+<node id="call"/>
+<node id="today"/>
+<node id="time"/>
+<node id="contracts"/>
+<node id="more"/>
+<node id="West"/>
+<node id="desk"/>
+<node id="options"/>
+<node id="positions"/>
+<node id="year"/>
+<node id="ID"/>
+<node id="Houston"/>
+<node id="party"/>
+<node id="immediately"/>
+<node id="sender"/>
+<node id="report"/>
+<node id="working"/>
+<node id="list"/>
+<node id="customer"/>
+<node id="Lisa"/>
+<node id="appropriate"/>
+<node id="some"/>
+<node id="use"/>
+<node id="back"/>
+<node id="review"/>
+<node id="work"/>
+<node id="still"/>
+<node id="Wireless"/>
+<node id="Handheld"/>
+<node id="think"/>
+<node id="going"/>
+<node id="days"/>
+<node id="email"/>
+<node id="know"/>
+<node id="information"/>
+<node id="last"/>
+<node id="week"/>
+<node id="deal"/>
+<node id="make"/>
+<node id="delivery"/>
+<node id="via"/>
+<node id="Friday"/>
+<node id="Let"/>
+<node id="want"/>
+<node id="give"/>
+<node id="anyone"/>
+<node id="without"/>
+<node id="Thank"/>
+<node id="next"/>
+<node id="energy"/>
+<node id="book"/>
+<node id="Price"/>
+<node id="trade"/>
+<node id="markets"/>
+<node id="need"/>
+<node id="then"/>
+<node id="Gas"/>
+<node id="good"/>
+<node id="said"/>
+<node id="under"/>
+<node id="off"/>
+<node id="weeks"/>
+<node id="sell"/>
+<node id="number"/>
+<node id="received"/>
+<node id="morning"/>
+<node id="like"/>
+<node id="changed"/>
+<node id="account"/>
+<node id="made"/>
+<node id="issues"/>
+<node id="take"/>
+<node id="change"/>
+<node id="given"/>
+<node id="called"/>
+<node id="send"/>
+<node id="office"/>
+<node id="Company"/>
+<node id="services"/>
+<node id="utility"/>
+<node id="people"/>
+<node id="delete"/>
+<node id="Commission"/>
+<node id="following"/>
+<node id="did"/>
+<node id="using"/>
+<node id="discussed"/>
+<node id="meeting"/>
+<node id="well"/>
+<node id="Items"/>
+<node id="prices"/>
+<node id="North"/>
+<node id="love"/>
+<node id="notify"/>
+<node id="status"/>
+<node id="copy"/>
+<node id="York"/>
+<node id="requested"/>
+<node id="help"/>
+<node id="plan"/>
+<node id="making"/>
+<node id="big"/>
+<node id="questions"/>
+<node id="future"/>
+<node id="understand"/>
+<node id="December"/>
+<node id="system"/>
+<node id="transmission"/>
+<node id="East"/>
+<node id="notice"/>
+<node id="line"/>
+<node id="error"/>
+<node id="date"/>
+<node id="job"/>
+<node id="having"/>
+<node id="Nov"/>
+<node id="Management"/>
+<node id="contract"/>
+<node id="confidential"/>
+<node id="message"/>
+<node id="contact"/>
+<node id="changes"/>
+<node id="Canada"/>
+<node id="intended"/>
+<node id="Trading"/>
+<node id="bit"/>
+<node id="past"/>
+<node id="Saturday"/>
+<node id="yet"/>
+<node id="basis"/>
+<node id="through"/>
+<node id="way"/>
+<node id="cows"/>
+<node id="cash"/>
+<node id="daily"/>
+<node id="Agreement"/>
+<node id="sure"/>
+<node id="term"/>
+<node id="right"/>
+<node id="always"/>
+<node id="California"/>
+<node id="State"/>
+<node id="couple"/>
+<node id="problems"/>
+<node id="why"/>
+<node id="agreed"/>
+<node id="pretty"/>
+<node id="original"/>
+<node id="start"/>
+<node id="times"/>
+<node id="Texas"/>
+<node id="game"/>
+<node id="process"/>
+<node id="provide"/>
+<node id="sale"/>
+<node id="against"/>
+<node id="parties"/>
+<node id="transaction"/>
+<node id="down"/>
+<node id="scheduled"/>
+<node id="November"/>
+<node id="approval"/>
+<node id="thing"/>
+<node id="least"/>
+<node id="every"/>
+<node id="EOL"/>
+<node id="America"/>
+<node id="hard"/>
+<node id="available"/>
+<node id="add"/>
+<node id="Monday"/>
+<node id="total"/>
+<node id="download"/>
+<node id="msn"/>
+<node id="tomorrow"/>
+<node id="issue"/>
+<node id="later"/>
+<node id="trades"/>
+<node id="market"/>
+<node id="info"/>
+<node id="final"/>
+<node id="file"/>
+<node id="specific"/>
+<node id="law"/>
+<node id="hear"/>
+<node id="lot"/>
+<node id="own"/>
+<node id="went"/>
+<node id="Corp"/>
+<node id="share"/>
+<node id="mail"/>
+<node id="looks"/>
+<node id="net"/>
+<node id="appreciate"/>
+<node id="old"/>
+<node id="ever"/>
+<node id="proposal"/>
+<node id="problem"/>
+<node id="hours"/>
+<node id="house"/>
+<node id="run"/>
+<node id="required"/>
+<node id="order"/>
+<node id="taking"/>
+<node id="says"/>
+<node id="prior"/>
+<node id="access"/>
+<node id="value"/>
+<node id="ask"/>
+<node id="CEO"/>
+<node id="coming"/>
+<node id="never"/>
+<node id="Sunday"/>
+<node id="short"/>
+<node id="agreements"/>
+<node id="Hey"/>
+<node id="distribution"/>
+<node id="currently"/>
+<node id="paid"/>
+<node id="individual"/>
+<node id="several"/>
+<node id="discuss"/>
+<node id="amount"/>
+<node id="October"/>
+<node id="tell"/>
+<node id="demand"/>
+<node id="load"/>
+<node id="customers"/>
+<node id="physical"/>
+<node id="necessary"/>
+<node id="firm"/>
+<node id="executed"/>
+<node id="correct"/>
+<node id="comments"/>
+<node id="Stacey"/>
+<node id="proposed"/>
+<node id="Center"/>
+<node id="filing"/>
+<node id="room"/>
+<node id="payment"/>
+<node id="Wholesale"/>
+<node id="world"/>
+<node id="copies"/>
+<node id="purchase"/>
+<node id="High"/>
+<node id="responsible"/>
+<node id="Dynegy"/>
+<node id="points"/>
+<node id="story"/>
+<node id="related"/>
+<node id="afternoon"/>
+<node id="program"/>
+<node id="addition"/>
+<node id="lunch"/>
+<node id="traders"/>
+<node id="pipeline"/>
+<node id="early"/>
+<node id="provided"/>
+<node id="document"/>
+<node id="BlackBerry"/>
+<node id="question"/>
+<node id="index"/>
+<node id="area"/>
+<node id="open"/>
+<node id="needed"/>
+<node id="level"/>
+<node id="response"/>
+<node id="different"/>
+<node id="period"/>
+<node id="money"/>
+<node id="capacity"/>
+<node id="FERC"/>
+<node id="hour"/>
+<node id="Oct"/>
+<node id="prohibited"/>
+<node id="July"/>
+<node id="disclosure"/>
+<node id="Importance"/>
+<node id="signed"/></nodeclass>
+<nodeclass type="Agent" id="agent">
+<node id="Chris"/>
+<node id="Bill"/>
+<node id="Dave"/>
+<node id="Jim"/>
+<node id="Mike"/>
+<node id="Bob"/>
+<node id="Mark"/>
+<node id="Jeff"/>
+<node id="Louise"/>
+<node id="James"/>
+<node id="Steve"/>
+<node id="Smith"/>
+<node id="Joe"/>
+<node id="Susan"/>
+<node id="Tom"/>
+<node id="Ken"/>
+<node id="John"/>
+<node id="Karen"/>
+<node id="Kim"/>
+<node id="Lay"/>
+<node id="Frank"/>
+<node id="Richard"/>
+<node id="Mary"/>
+<node id="Dan"/>
+<node id="Sara"/>
+<node id="Greg"/>
+<node id="Michelle"/></nodeclass>
+</nodes>
+<networks>
+<network sourceType="Unknown" source="concept" targetType="Unknown" target="concept" id="concept x concept" isDirected="true" allowSelfLoops="true" isBinary="false">
+<link source="past" target="weeks" value="5.0"/>
+<link source="house" target="right" value="12.0"/>
+<link source="back" target="enron" value="9.0"/>
+<link source="next" target="week" value="34.0"/>
+<link source="next" target="weeks" value="9.0"/>
+<link source="next" target="days" value="5.0"/>
+<link source="next" target="year" value="5.0"/>
+<link source="BlackBerry" target="Wireless" value="48.0"/>
+<link source="BlackBerry" target="Handheld" value="48.0"/>
+<link source="Trading" target="business" value="7.0"/>
+<link source="Trading" target="energy" value="7.0"/>
+<link source="want" target="Let" value="5.0"/>
+<link source="want" target="know" value="8.0"/>
+<link source="several" target="weeks" value="6.0"/>
+<link source="contact" target="time" value="5.0"/>
+<link source="contact" target="information" value="12.0"/>
+<link source="contact" target="contact" value="5.0"/>
+<link source="contact" target="info" value="9.0"/>
+<link source="contact" target="area" value="8.0"/>
+<link source="prior" target="day" value="6.0"/>
+<link source="prior" target="firm" value="8.0"/>
+<link source="prior" target="load" value="6.0"/>
+<link source="use" target="money" value="9.0"/>
+<link source="requested" target="prior" value="8.0"/>
+<link source="requested" target="system" value="8.0"/>
+<link source="sell" target="sell" value="20.0"/>
+<link source="couple" target="weeks" value="8.0"/>
+<link source="going" target="well" value="12.0"/>
+<link source="going" target="enron" value="6.0"/>
+<link source="going" target="through" value="5.0"/>
+<link source="going" target="know" value="5.0"/>
+<link source="need" target="help" value="5.0"/>
+<link source="need" target="send" value="10.0"/>
+<link source="need" target="information" value="7.0"/>
+<link source="need" target="more" value="5.0"/>
+<link source="need" target="call" value="5.0"/>
+<link source="need" target="list" value="6.0"/>
+<link source="tomorrow" target="morning" value="5.0"/>
+<link source="provide" target="information" value="5.0"/>
+<link source="December" target="December" value="9.0"/>
+<link source="December" target="through" value="6.0"/>
+<link source="think" target="good" value="5.0"/>
+<link source="think" target="correct" value="9.0"/>
+<link source="make" target="sure" value="31.0"/>
+<link source="questions" target="call" value="11.0"/>
+<link source="questions" target="contact" value="11.0"/>
+<link source="Friday" target="December" value="5.0"/>
+<link source="North" target="America" value="5.0"/>
+<link source="every" target="day" value="5.0"/>
+<link source="Houston" target="Texas" value="7.0"/>
+<link source="received" target="call" value="5.0"/>
+<link source="Company" target="prior" value="6.0"/>
+<link source="email" target="send" value="10.0"/>
+<link source="email" target="program" value="5.0"/>
+<link source="email" target="information" value="5.0"/>
+<link source="email" target="list" value="6.0"/>
+<link source="last" target="enron" value="18.0"/>
+<link source="last" target="week" value="8.0"/>
+<link source="last" target="day" value="6.0"/>
+<link source="last" target="days" value="7.0"/>
+<link source="last" target="Friday" value="6.0"/>
+<link source="last" target="year" value="9.0"/>
+<link source="order" target="like" value="12.0"/>
+<link source="Wholesale" target="Houston" value="6.0"/>
+<link source="enron" target="Trading" value="5.0"/>
+<link source="enron" target="Corp" value="27.0"/>
+<link source="enron" target="Houston" value="12.0"/>
+<link source="enron" target="Gas" value="5.0"/>
+<link source="enron" target="enron" value="26.0"/>
+<link source="enron" target="business" value="6.0"/>
+<link source="enron" target="energy" value="8.0"/>
+<link source="enron" target="Canada" value="9.0"/>
+<link source="enron" target="North" value="8.0"/>
+<link source="enron" target="net" value="5.0"/>
+<link source="enron" target="services" value="6.0"/>
+<link source="enron" target="available" value="12.0"/>
+<link source="enron" target="work" value="5.0"/>
+<link source="enron" target="Wholesale" value="7.0"/>
+<link source="enron" target="Power" value="6.0"/>
+<link source="amount" target="well" value="6.0"/>
+<link source="access" target="account" value="6.0"/>
+<link source="access" target="through" value="6.0"/>
+<link source="download" target="msn" value="20.0"/>
+<link source="Gas" target="Trading" value="10.0"/>
+<link source="Gas" target="Company" value="8.0"/>
+<link source="Gas" target="Power" value="9.0"/>
+<link source="give" target="options" value="5.0"/>
+<link source="give" target="call" value="29.0"/>
+<link source="give" target="need" value="11.0"/>
+<link source="Thank" target="help" value="5.0"/>
+<link source="firm" target="load" value="16.0"/>
+<link source="energy" target="Trading" value="12.0"/>
+<link source="energy" target="services" value="10.0"/>
+<link source="energy" target="Gas" value="6.0"/>
+<link source="energy" target="market" value="8.0"/>
+<link source="energy" target="Management" value="5.0"/>
+<link source="energy" target="energy" value="8.0"/>
+<link source="energy" target="business" value="5.0"/>
+<link source="under" target="Agreement" value="5.0"/>
+<link source="issue" target="time" value="5.0"/>
+<link source="issue" target="contact" value="8.0"/>
+<link source="sure" target="going" value="8.0"/>
+<link source="thing" target="morning" value="5.0"/>
+<link source="term" target="off" value="5.0"/>
+<link source="then" target="send" value="5.0"/>
+<link source="still" target="know" value="5.0"/>
+<link source="still" target="need" value="6.0"/>
+<link source="lunch" target="tomorrow" value="5.0"/>
+<link source="world" target="hard" value="12.0"/>
+<link source="world" target="some" value="12.0"/>
+<link source="West" target="desk" value="5.0"/>
+<link source="way" target="take" value="12.0"/>
+<link source="know" target="enron" value="10.0"/>
+<link source="know" target="help" value="9.0"/>
+<link source="know" target="time" value="7.0"/>
+<link source="know" target="week" value="9.0"/>
+<link source="know" target="want" value="8.0"/>
+<link source="know" target="information" value="6.0"/>
+<link source="know" target="make" value="5.0"/>
+<link source="know" target="today" value="5.0"/>
+<link source="know" target="questions" value="12.0"/>
+<link source="know" target="like" value="5.0"/>
+<link source="know" target="coming" value="5.0"/>
+<link source="know" target="more" value="8.0"/>
+<link source="know" target="work" value="7.0"/>
+<link source="know" target="going" value="8.0"/>
+<link source="know" target="need" value="15.0"/>
+<link source="Power" target="Trading" value="6.0"/>
+<link source="Power" target="Gas" value="5.0"/>
+<link source="yet" target="working" value="5.0"/>
+<link source="following" target="information" value="5.0"/>
+<link source="money" target="Company" value="6.0"/>
+<link source="later" target="today" value="6.0"/>
+<link source="list" target="send" value="5.0"/>
+<link source="list" target="trades" value="5.0"/>
+<link source="plan" target="yet" value="5.0"/>
+<link source="plan" target="working" value="5.0"/>
+<link source="message" target="intended" value="6.0"/>
+<link source="some" target="hard" value="12.0"/>
+<link source="some" target="issues" value="5.0"/>
+<link source="some" target="sale" value="9.0"/>
+<link source="some" target="people" value="11.0"/>
+<link source="some" target="enron" value="5.0"/>
+<link source="some" target="time" value="16.0"/>
+<link source="send" target="information" value="7.0"/>
+<link source="send" target="way" value="7.0"/>
+<link source="trade" target="date" value="5.0"/>
+<link source="trade" target="enron" value="5.0"/>
+<link source="through" target="December" value="5.0"/>
+<link source="year" target="old" value="14.0"/>
+<link source="anyone" target="like" value="5.0"/>
+<link source="right" target="take" value="12.0"/>
+<link source="line" target="line" value="7.0"/>
+<link source="line" target="need" value="5.0"/>
+<link source="Wireless" target="Handheld" value="48.0"/>
+<link source="Monday" target="December" value="13.0"/>
+<link source="take" target="right" value="13.0"/>
+<link source="take" target="off" value="6.0"/>
+<link source="take" target="take" value="12.0"/>
+<link source="take" target="days" value="5.0"/>
+<link source="like" target="help" value="5.0"/>
+<link source="like" target="call" value="5.0"/>
+<link source="did" target="some" value="7.0"/>
+<link source="more" target="information" value="14.0"/>
+<link source="more" target="more" value="6.0"/>
+<link source="looks" target="like" value="9.0"/>
+<link source="good" target="time" value="5.0"/>
+<link source="good" target="morning" value="11.0"/>
+<link source="good" target="days" value="5.0"/>
+<link source="notify" target="sender" value="8.0"/>
+<link source="system" target="prior" value="8.0"/>
+<link source="system" target="firm" value="10.0"/>
+<link source="system" target="load" value="8.0"/>
+<link source="information" target="email" value="6.0"/>
+<link source="information" target="well" value="5.0"/>
+<link source="information" target="Company" value="6.0"/>
+<link source="information" target="intended" value="6.0"/>
+<link source="information" target="need" value="5.0"/>
+<link source="account" target="through" value="6.0"/>
+<link source="day" target="December" value="5.0"/>
+<link source="day" target="enron" value="7.0"/>
+<link source="appreciate" target="help" value="6.0"/>
+<link source="error" target="sender" value="9.0"/>
+<link source="error" target="notify" value="7.0"/>
+<link source="error" target="immediately" value="7.0"/>
+<link source="error" target="delete" value="7.0"/>
+<link source="report" target="report" value="9.0"/>
+<link source="hard" target="down" value="12.0"/>
+<link source="hard" target="copy" value="5.0"/>
+<link source="time" target="enron" value="5.0"/>
+<link source="time" target="time" value="5.0"/>
+<link source="time" target="off" value="11.0"/>
+<link source="immediately" target="sender" value="5.0"/>
+<link source="immediately" target="notify" value="5.0"/>
+<link source="today" target="tomorrow" value="6.0"/>
+<link source="today" target="last" value="13.0"/>
+<link source="Let" target="coming" value="5.0"/>
+<link source="Let" target="think" value="5.0"/>
+<link source="Let" target="help" value="5.0"/>
+<link source="Let" target="want" value="6.0"/>
+<link source="Let" target="information" value="5.0"/>
+<link source="Let" target="questions" value="12.0"/>
+<link source="Let" target="know" value="216.0"/>
+<link source="Let" target="going" value="5.0"/>
+<link source="Let" target="need" value="14.0"/>
+<link source="call" target="questions" value="12.0"/>
+<link source="call" target="morning" value="5.0"/>
+<link source="call" target="later" value="5.0"/></network>
+<network sourceType="Agent" source="agent" targetType="Agent" target="agent" id="agent x agent" isDirected="true" allowSelfLoops="true" isBinary="false">
+<link source="Sara" target="Smith" value="6.0"/></network>
+<network sourceType="Agent" source="agent" targetType="Unknown" target="concept" id="agent x concept" isDirected="true" allowSelfLoops="true" isBinary="false">
+<link source="Bob" target="call" value="5.0"/>
+<link source="Smith" target="Houston" value="7.0"/>
+<link source="Louise" target="enron" value="9.0"/>
+<link source="Sara" target="enron" value="6.0"/>
+<link source="Sara" target="Wholesale" value="6.0"/></network>
+<network sourceType="Unknown" source="concept" targetType="Agent" target="agent" id="concept x agent" isDirected="true" allowSelfLoops="true" isBinary="false">
+<link source="Wholesale" target="Smith" value="6.0"/>
+<link source="enron" target="Smith" value="7.0"/></network>
+</networks>
+</MetaNetwork>
+</DynamicMetaNetwork>
+

@@ -1,0 +1,21 @@
+
+ 
+ Who is Bruce Golden?
+ 
+  
+
+  
+ 
+ You have received this email because the requester specified you as their VP. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000062420&Page=Approval to review and act upon this request.
+ 
+ 
+ 
+ 
+ Request ID          : 000000000062420
+ Request Create Date : 9/25/01 2:01:56 PM
+
+ Resource Name       : Global Messaging North America Additional Mailbox Space (25 Meg Increase)
+ Resource Type       : Applications
+ 
+ 
+ 

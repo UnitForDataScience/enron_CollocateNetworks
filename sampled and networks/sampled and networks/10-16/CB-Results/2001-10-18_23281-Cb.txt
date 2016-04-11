@@ -1,0 +1,21 @@
+
+ 
+ ```
+ 
+  
+
+    
+ ``` payment status ``` ``````` `` ``` following report:
+ 
+ status last ``````` ``:  system
+ ``````` report ````: ``` ``````````
+ report total: ``,```.``
+ amount ``` employee: ``,```.``
+ amount approved: ``,```.``
+ amount paid: ``.``
+ approval status: approved
+ payment status: `````````
+ 
+ 
+ `` review ```` ``````` report, click `` ``` following ```` ``` `````` ```````.
+ ````:````````````.enron.```

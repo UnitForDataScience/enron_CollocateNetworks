@@ -1,0 +1,17 @@
+
+ 
+ As I suggested several months ago you need to get access to TDS with a total position view.  I am well within my VAR.  If I need to be responsible 
+ for total gas floor VAR let me know.
+ 
+  
+    Cc:	Port, David
+  
+ 
+ 
+ East	-1100	
+ Texas	-800	
+ West	-100	
+ Central	-700	
+ Fin	2500	
+ East Power	1500	
+ Total	1300	

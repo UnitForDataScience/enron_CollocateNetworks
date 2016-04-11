@@ -1,0 +1,16 @@
+
+ 
+
+  mime-version: `.`
+  content-transfer-encoding: ````
+ `` `` `` ``` ````````: `exmerge ` zufferli, john````` items
+ ````````: zufferli``
+ ``````````: john zufferli ```````.```
+ 
+ 
+ ```` ``` ```` `` ```` ``` ``` ``
+  
+     
+ john,
+ ` ````` ```````` ```` ``` `` ``` comments ``` made `` `` performance review, ``` ````` still like `` ```` ```` ```. ``` like `` discuss some ````` ```````` `` `````` development, ``` ` ``` ```````, some ```````` ``````````, ```. ``` `` ``` ````` ` ```` hour ```````` ```` week `` early next week? `````` ``mail `` ``` times ```` ````` work ```` ``` ```.
+ ``````

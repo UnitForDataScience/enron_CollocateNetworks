@@ -1,0 +1,17 @@
+
+ 
+
+ 
+ Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+
+ X- X- X- X-b X-Folder: \ExMerge - Williams III, Bill\Sent Items
+ X-Origin: WILLIAMS-W3
+ X-FileName: 
+ 
+ Jim and Darren,
+ 
+ We relieved Path 15 congestion for HE 7 on Saturday morning.  We flowed 10 mws from Malin to FC345. This resulted in the 10 mw "variance" in the report. I have added deals to Enpower to flatten the report, these deals are only necessary for the sake of the report. The identical variance in the north and south indicates a wheel or load shift. I prefer to not enter these extra deals. Please see me with questions if you do not understand why the report variance exists.
+ 
+ Thanks,
+ Bill

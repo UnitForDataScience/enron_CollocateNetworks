@@ -1,0 +1,63 @@
+
+ 
+
+
+
+
+
+
+  Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X-
+ X- X-b X-Folder: \ExMerge - Williams III, Bill\Sent Items
+ X-Origin: WILLIAMS-W3
+ X-FileName: 
+ 
+ Group,
+ Here is some input from Tony at EPE regarding running their system. I think the EPE system was run very well on October 18th, but aside from that, this email shows how closely they are watching our performance and what they expect. Let's do our best to continue to provide them with good service.
+ 
+ Thanks,
+ Bill
+ 
+ 
+ 
+
+  
+
+  
+ 
+  Bill,  thanks for the visit we enjoyed it.  It is always helpful to talk
+ face to face and have some frank discussion regarding   our current
+ business relationship.  Hopefully, we'll be able to reciprocate with a
+ visit in the near future.
+ 
+ On a different matter, I was going over some recent historical data and
+ have come across some instances where I believe we have room to displace
+ gas-fired generation with inexpensive purchased power.  In order to do
+ this, we need to tighten up our real-time operations.  By this, I mean to
+ start putting all our gas-fired generation down to their minimums and
+ replacing it with purchased power (this would apply to the early morning
+ hours only, since we have some take or pay gas we still have to burn some
+ base gas but this can be done during the day when prices are higher and our
+ loss will be less).
+ 
+ For example,  Thursday October 18, the unit commitment called for purchases
+ of around 330 MW during the early hours (see attached unit commitment for
+ amounts and times).  We only purchased 130 MW net during this time frame.
+ So we ended up generating around 200 mwh at around $44/mwh when purchase
+ power  was available for $19/mwh.  Furthermore, there was a sale for HE
+ 06:00 to ENRON/CAISO for $22/mwh.  When we enter this sale into our costing
+ model, the sale will result in a loss of approximately $1,000 for EPE Power
+ Marketing since the model will use marginal cost (gas-fired generation) to
+ cost this sale.
+ 
+ Please look into this matter and  call me if you have any questions or wish
+ to discuss it further.
+ 
+ 
+ (See attached file: dispatch.xls)
+ 
+ Tony Soto
+ Power Marketing
+ 543-4181
+ 

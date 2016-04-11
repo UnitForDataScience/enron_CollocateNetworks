@@ -1,0 +1,28 @@
+
+ 
+
+ 
+ Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+
+ X- X- X- X-b X-Folder: \ExMerge - Williams III, Bill\Sent Items
+ X-Origin: WILLIAMS-W3
+ X-FileName: 
+ 
+ Leslie,
+ This looks good to me.  Thanks for the update.
+ Bill
+ 
+  
+    Cc:	Lozano, Melba; Meredith, Kevin; Cass, Robert B.
+  
+ Leslie,
+ 
+ Bill Williams in Portland has requested hourly products on EnronOnline for the hours ending 12-20.  Attached is the proposed loadshape language.  Please let us know if these look OK.
+ 
+ Thanks,
+ 
+ CW
+ 3-7533
+ 
+  << File: West Pwr Hourly loadshapes.doc >> 

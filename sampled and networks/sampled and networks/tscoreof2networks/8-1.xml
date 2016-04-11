@@ -1,0 +1,3581 @@
+<?xml version="1.0" standalone="yes"?>
+
+<DynamicMetaNetwork id="8-1">
+<MetaNetwork id="8-1">
+<nodes>
+<nodeclass type="Unknown" id="concept">
+<node id="intended"/>
+<node id="ID"/>
+<node id="time"/>
+<node id="Sunday"/>
+<node id="email"/>
+<node id="customer"/>
+<node id="want"/>
+<node id="America"/>
+<node id="prices"/>
+<node id="list"/>
+<node id="customers"/>
+<node id="order"/>
+<node id="sender"/>
+<node id="copies"/>
+<node id="Price"/>
+<node id="immediately"/>
+<node id="still"/>
+<node id="work"/>
+<node id="proposal"/>
+<node id="business"/>
+<node id="discuss"/>
+<node id="morning"/>
+<node id="report"/>
+<node id="know"/>
+<node id="need"/>
+<node id="Agreement"/>
+<node id="take"/>
+<node id="short"/>
+<node id="term"/>
+<node id="information"/>
+<node id="West"/>
+<node id="Trading"/>
+<node id="services"/>
+<node id="deal"/>
+<node id="problems"/>
+<node id="transmission"/>
+<node id="coming"/>
+<node id="delivery"/>
+<node id="points"/>
+<node id="State"/>
+<node id="Gas"/>
+<node id="traders"/>
+<node id="energy"/>
+<node id="download"/>
+<node id="msn"/>
+<node id="review"/>
+<node id="use"/>
+<node id="way"/>
+<node id="currently"/>
+<node id="Commission"/>
+<node id="Center"/>
+<node id="lunch"/>
+<node id="call"/>
+<node id="some"/>
+<node id="like"/>
+<node id="more"/>
+<node id="make"/>
+<node id="Texas"/>
+<node id="appreciate"/>
+<node id="meeting"/>
+<node id="next"/>
+<node id="going"/>
+<node id="then"/>
+<node id="back"/>
+<node id="Houston"/>
+<node id="think"/>
+<node id="copy"/>
+<node id="Power"/>
+<node id="Saturday"/>
+<node id="help"/>
+<node id="day"/>
+<node id="says"/>
+<node id="prior"/>
+<node id="down"/>
+<node id="made"/>
+<node id="November"/>
+<node id="daily"/>
+<node id="basis"/>
+<node id="well"/>
+<node id="issue"/>
+<node id="paid"/>
+<node id="agreements"/>
+<node id="Monday"/>
+<node id="give"/>
+<node id="received"/>
+<node id="message"/>
+<node id="sure"/>
+<node id="making"/>
+<node id="trades"/>
+<node id="provide"/>
+<node id="today"/>
+<node id="good"/>
+<node id="working"/>
+<node id="purchase"/>
+<node id="people"/>
+<node id="last"/>
+<node id="said"/>
+<node id="proposed"/>
+<node id="without"/>
+<node id="enron"/>
+<node id="North"/>
+<node id="Items"/>
+<node id="office"/>
+<node id="system"/>
+<node id="original"/>
+<node id="Let"/>
+<node id="changes"/>
+<node id="week"/>
+<node id="available"/>
+<node id="change"/>
+<node id="year"/>
+<node id="period"/>
+<node id="transaction"/>
+<node id="days"/>
+<node id="signed"/>
+<node id="questions"/>
+<node id="notice"/>
+<node id="discussed"/>
+<node id="info"/>
+<node id="Friday"/>
+<node id="off"/>
+<node id="afternoon"/>
+<node id="under"/>
+<node id="send"/>
+<node id="hours"/>
+<node id="contact"/>
+<node id="demand"/>
+<node id="status"/>
+<node id="July"/>
+<node id="market"/>
+<node id="using"/>
+<node id="required"/>
+<node id="access"/>
+<node id="having"/>
+<node id="Edison"/>
+<node id="markets"/>
+<node id="sell"/>
+<node id="specific"/>
+<node id="cash"/>
+<node id="desk"/>
+<node id="area"/>
+<node id="right"/>
+<node id="distribution"/>
+<node id="contracts"/>
+<node id="process"/>
+<node id="error"/>
+<node id="tomorrow"/>
+<node id="approval"/>
+<node id="following"/>
+<node id="issues"/>
+<node id="Company"/>
+<node id="FERC"/>
+<node id="needed"/>
+<node id="law"/>
+<node id="against"/>
+<node id="document"/>
+<node id="big"/>
+<node id="comments"/>
+<node id="California"/>
+<node id="different"/>
+<node id="weeks"/>
+<node id="yet"/>
+<node id="Thank"/>
+<node id="question"/>
+<node id="firm"/>
+<node id="appropriate"/>
+<node id="taking"/>
+<node id="delete"/>
+<node id="through"/>
+<node id="room"/>
+<node id="did"/>
+<node id="add"/>
+<node id="love"/>
+<node id="hear"/>
+<node id="net"/>
+<node id="pipeline"/>
+<node id="bit"/>
+<node id="never"/>
+<node id="book"/>
+<node id="looks"/>
+<node id="number"/>
+<node id="plan"/>
+<node id="Canada"/>
+<node id="Corp"/>
+<node id="anyone"/>
+<node id="tell"/>
+<node id="contract"/>
+<node id="scheduled"/>
+<node id="York"/>
+<node id="times"/>
+<node id="East"/>
+<node id="line"/>
+<node id="via"/>
+<node id="least"/>
+<node id="lot"/>
+<node id="options"/>
+<node id="job"/>
+<node id="pretty"/>
+<node id="understand"/>
+<node id="confidential"/>
+<node id="open"/>
+<node id="addition"/>
+<node id="utility"/>
+<node id="notify"/>
+<node id="date"/>
+<node id="own"/>
+<node id="High"/>
+<node id="trade"/>
+<node id="capacity"/>
+<node id="individual"/>
+<node id="account"/>
+<node id="final"/>
+<node id="money"/>
+<node id="future"/>
+<node id="went"/>
+<node id="several"/>
+<node id="past"/>
+<node id="related"/>
+<node id="later"/>
+<node id="requested"/>
+<node id="given"/>
+<node id="start"/>
+<node id="called"/>
+<node id="early"/>
+<node id="thing"/>
+<node id="why"/>
+<node id="executed"/>
+<node id="parties"/>
+<node id="response"/>
+<node id="amount"/>
+<node id="filing"/>
+<node id="story"/>
+<node id="prohibited"/>
+<node id="file"/>
+<node id="share"/>
+<node id="world"/>
+<node id="physical"/>
+<node id="sale"/>
+<node id="value"/>
+<node id="problem"/>
+<node id="party"/>
+<node id="old"/>
+<node id="positions"/>
+<node id="BlackBerry"/>
+<node id="correct"/>
+<node id="mail"/>
+<node id="total"/>
+<node id="ask"/>
+<node id="disclosure"/>
+<node id="necessary"/>
+<node id="changed"/>
+<node id="responsible"/>
+<node id="load"/>
+<node id="html"/>
+<node id="Management"/>
+<node id="house"/>
+<node id="program"/>
+<node id="ever"/>
+<node id="run"/>
+<node id="always"/>
+<node id="hour"/>
+<node id="index"/>
+<node id="provided"/>
+<node id="EOL"/>
+<node id="Hey"/>
+<node id="Wholesale"/>
+<node id="couple"/>
+<node id="hard"/>
+<node id="every"/>
+<node id="level"/>
+<node id="agreed"/>
+<node id="game"/>
+<node id="CEO"/>
+<node id="Lisa"/></nodeclass>
+<nodeclass type="Agent" id="agent">
+<node id="Steve"/>
+<node id="Smith"/>
+<node id="Tom"/>
+<node id="Joe"/>
+<node id="Chris"/>
+<node id="Susan"/>
+<node id="Kim"/>
+<node id="John"/>
+<node id="Jeff"/>
+<node id="Dan"/>
+<node id="Jim"/>
+<node id="Ken"/>
+<node id="Michelle"/>
+<node id="Mark"/>
+<node id="Mike"/>
+<node id="Greg"/>
+<node id="Sara"/>
+<node id="Frank"/>
+<node id="Dave"/>
+<node id="Bill"/>
+<node id="James"/>
+<node id="Mary"/>
+<node id="Bob"/>
+<node id="Louise"/>
+<node id="Karen"/></nodeclass>
+</nodes>
+<networks>
+<network sourceType="Unknown" source="concept" targetType="Unknown" target="concept" id="concept x concept" isDirected="true" allowSelfLoops="true" isBinary="false">
+<link source="help" target="York"/>
+<link source="help" target="desk"/>
+<link source="help" target="physical" value="2.0"/>
+<link source="help" target="delivery" value="2.0"/>
+<link source="help" target="California" value="2.0"/>
+<link source="help" target="purchase" value="2.0"/>
+<link source="help" target="want"/>
+<link source="help" target="State"/>
+<link source="help" target="make" value="2.0"/>
+<link source="delete" target="email"/>
+<link source="delete" target="copy"/>
+<link source="delete" target="right"/>
+<link source="delete" target="received"/>
+<link source="delete" target="message" value="4.0"/>
+<link source="delete" target="system" value="3.0"/>
+<link source="transmission" target="transaction" value="2.0"/>
+<link source="transmission" target="utility" value="2.0"/>
+<link source="transmission" target="information" value="2.0"/>
+<link source="transmission" target="system"/>
+<link source="room" target="today"/>
+<link source="room" target="Let" value="2.0"/>
+<link source="room" target="provided"/>
+<link source="room" target="know" value="2.0"/>
+<link source="room" target="working"/>
+<link source="room" target="Houston" value="2.0"/>
+<link source="room" target="tomorrow"/>
+<link source="room" target="Texas" value="2.0"/>
+<link source="room" target="lunch"/>
+<link source="Houston" target="today"/>
+<link source="Houston" target="physical"/>
+<link source="Houston" target="Power" value="2.0"/>
+<link source="Houston" target="Lisa"/>
+<link source="Houston" target="like"/>
+<link source="Houston" target="Houston"/>
+<link source="Houston" target="afternoon"/>
+<link source="Houston" target="Sunday" value="6.0"/>
+<link source="Houston" target="sure" value="2.0"/>
+<link source="Houston" target="Price" value="2.0"/>
+<link source="Houston" target="Texas" value="20.0"/>
+<link source="East" target="off"/>
+<link source="East" target="coming"/>
+<link source="East" target="Power"/>
+<link source="East" target="markets"/>
+<link source="copy" target="copy"/>
+<link source="copy" target="send"/>
+<link source="copy" target="appreciate"/>
+<link source="copy" target="Agreement" value="2.0"/>
+<link source="copy" target="received"/>
+<link source="copy" target="document"/>
+<link source="copy" target="meeting"/>
+<link source="copy" target="executed"/>
+<link source="copy" target="report"/>
+<link source="copy" target="make"/>
+<link source="yet" target="Let"/>
+<link source="yet" target="need" value="2.0"/>
+<link source="yet" target="know"/>
+<link source="yet" target="received"/>
+<link source="yet" target="week"/>
+<link source="yet" target="meeting" value="4.0"/>
+<link source="yet" target="last"/>
+<link source="yet" target="Price"/>
+<link source="yet" target="problems" value="2.0"/>
+<link source="yet" target="under"/>
+<link source="yet" target="Agreement"/>
+<link source="yet" target="like"/>
+<link source="yet" target="work" value="2.0"/>
+<link source="West" target="Power" value="2.0"/>
+<link source="West" target="related"/>
+<link source="West" target="made"/>
+<link source="West" target="short" value="4.0"/>
+<link source="West" target="going"/>
+<link source="West" target="North"/>
+<link source="West" target="desk"/>
+<link source="West" target="term" value="4.0"/>
+<link source="West" target="West"/>
+<link source="West" target="Gas"/>
+<link source="West" target="work"/>
+<link source="West" target="Texas"/>
+<link source="West" target="status"/>
+<link source="West" target="system" value="4.0"/>
+<link source="prices" target="York"/>
+<link source="prices" target="demand" value="2.0"/>
+<link source="prices" target="day"/>
+<link source="prices" target="Power" value="2.0"/>
+<link source="prices" target="energy" value="2.0"/>
+<link source="prices" target="business" value="2.0"/>
+<link source="prices" target="without"/>
+<link source="prices" target="down" value="4.0"/>
+<link source="prices" target="paid" value="2.0"/>
+<link source="prices" target="State" value="2.0"/>
+<link source="prices" target="traders"/>
+<link source="prices" target="July" value="2.0"/>
+<link source="prices" target="sell" value="2.0"/>
+<link source="prices" target="back" value="3.0"/>
+<link source="prices" target="market" value="2.0"/>
+<link source="prices" target="contracts" value="2.0"/>
+<link source="prices" target="times"/>
+<link source="prices" target="prices" value="4.0"/>
+<link source="prices" target="system"/>
+<link source="next" target="Let" value="2.0"/>
+<link source="next" target="change" value="2.0"/>
+<link source="next" target="weeks" value="2.0"/>
+<link source="next" target="day"/>
+<link source="next" target="coming"/>
+<link source="next" target="level"/>
+<link source="next" target="year" value="4.0"/>
+<link source="next" target="Thank"/>
+<link source="next" target="several" value="3.0"/>
+<link source="next" target="know" value="2.0"/>
+<link source="next" target="provide"/>
+<link source="next" target="week" value="18.0"/>
+<link source="next" target="Saturday"/>
+<link source="next" target="prior" value="2.0"/>
+<link source="next" target="meeting"/>
+<link source="next" target="order"/>
+<link source="next" target="back" value="2.0"/>
+<link source="next" target="Monday"/>
+<link source="next" target="Gas"/>
+<link source="next" target="work" value="3.0"/>
+<link source="next" target="time" value="5.0"/>
+<link source="next" target="days"/>
+<link source="next" target="through"/>
+<link source="next" target="Friday"/>
+<link source="energy" target="demand" value="2.0"/>
+<link source="energy" target="Let"/>
+<link source="energy" target="Trading" value="4.0"/>
+<link source="energy" target="least" value="2.0"/>
+<link source="energy" target="Power" value="5.0"/>
+<link source="energy" target="plan" value="5.0"/>
+<link source="energy" target="California" value="4.0"/>
+<link source="energy" target="FERC"/>
+<link source="energy" target="services"/>
+<link source="energy" target="Houston" value="2.0"/>
+<link source="energy" target="said" value="6.0"/>
+<link source="energy" target="down"/>
+<link source="energy" target="give"/>
+<link source="energy" target="State" value="4.0"/>
+<link source="energy" target="traders" value="3.0"/>
+<link source="energy" target="July" value="4.0"/>
+<link source="energy" target="Commission" value="14.0"/>
+<link source="energy" target="daily" value="4.0"/>
+<link source="energy" target="market" value="6.0"/>
+<link source="energy" target="contracts" value="2.0"/>
+<link source="energy" target="against" value="2.0"/>
+<link source="energy" target="under" value="2.0"/>
+<link source="energy" target="well"/>
+<link source="energy" target="prices" value="2.0"/>
+<link source="energy" target="deal" value="2.0"/>
+<link source="energy" target="enron" value="4.0"/>
+<link source="energy" target="story" value="2.0"/>
+<link source="energy" target="book"/>
+<link source="energy" target="Company" value="3.0"/>
+<link source="energy" target="energy" value="4.0"/>
+<link source="energy" target="sale" value="2.0"/>
+<link source="energy" target="know"/>
+<link source="energy" target="Management"/>
+<link source="energy" target="related" value="2.0"/>
+<link source="energy" target="Price" value="3.0"/>
+<link source="energy" target="information"/>
+<link source="energy" target="Monday" value="2.0"/>
+<link source="energy" target="contract" value="2.0"/>
+<link source="energy" target="Gas"/>
+<link source="energy" target="purchase" value="2.0"/>
+<link source="energy" target="filing" value="2.0"/>
+<link source="energy" target="problem" value="2.0"/>
+<link source="several" target="more" value="2.0"/>
+<link source="several" target="weeks" value="3.0"/>
+<link source="several" target="energy" value="2.0"/>
+<link source="several" target="California" value="2.0"/>
+<link source="several" target="FERC"/>
+<link source="several" target="hours"/>
+<link source="several" target="last"/>
+<link source="several" target="traders"/>
+<link source="several" target="people"/>
+<link source="several" target="back"/>
+<link source="several" target="questions"/>
+<link source="several" target="agreements"/>
+<link source="several" target="days" value="3.0"/>
+<link source="short" target="trade"/>
+<link source="short" target="help"/>
+<link source="short" target="sell"/>
+<link source="short" target="appreciate" value="2.0"/>
+<link source="short" target="term" value="10.0"/>
+<link source="short" target="West" value="3.0"/>
+<link source="short" target="short" value="5.0"/>
+<link source="short" target="tomorrow" value="2.0"/>
+<link source="short" target="time"/>
+<link source="short" target="next" value="3.0"/>
+<link source="paid" target="said"/>
+<link source="paid" target="process"/>
+<link source="paid" target="State" value="4.0"/>
+<link source="paid" target="July" value="4.0"/>
+<link source="paid" target="hour" value="2.0"/>
+<link source="paid" target="back"/>
+<link source="paid" target="market"/>
+<link source="paid" target="High"/>
+<link source="paid" target="under"/>
+<link source="paid" target="prices"/>
+<link source="paid" target="agreements"/>
+<link source="paid" target="then"/>
+<link source="paid" target="lot"/>
+<link source="paid" target="through" value="2.0"/>
+<link source="prior" target="back" value="2.0"/>
+<link source="prior" target="market" value="2.0"/>
+<link source="prior" target="call"/>
+<link source="prior" target="date"/>
+<link source="prior" target="transaction"/>
+<link source="prior" target="Friday"/>
+<link source="email" target="notify" value="2.0"/>
+<link source="email" target="original"/>
+<link source="email" target="review"/>
+<link source="email" target="delete" value="2.0"/>
+<link source="email" target="office" value="3.0"/>
+<link source="email" target="received" value="2.0"/>
+<link source="email" target="comments"/>
+<link source="email" target="distribution"/>
+<link source="email" target="some"/>
+<link source="email" target="today"/>
+<link source="email" target="copy"/>
+<link source="email" target="use"/>
+<link source="email" target="like"/>
+<link source="email" target="enron"/>
+<link source="email" target="time"/>
+<link source="email" target="confidential" value="2.0"/>
+<link source="email" target="need"/>
+<link source="email" target="later" value="3.0"/>
+<link source="email" target="error" value="3.0"/>
+<link source="email" target="America"/>
+<link source="email" target="intended" value="3.0"/>
+<link source="email" target="North"/>
+<link source="email" target="tomorrow" value="2.0"/>
+<link source="email" target="want"/>
+<link source="email" target="message" value="3.0"/>
+<link source="email" target="last" value="2.0"/>
+<link source="email" target="information" value="2.0"/>
+<link source="email" target="back"/>
+<link source="email" target="copies"/>
+<link source="email" target="email" value="3.0"/>
+<link source="email" target="called"/>
+<link source="email" target="send"/>
+<link source="email" target="questions" value="3.0"/>
+<link source="email" target="thing"/>
+<link source="email" target="individual"/>
+<link source="email" target="sender"/>
+<link source="email" target="immediately" value="2.0"/>
+<link source="email" target="Friday" value="2.0"/>
+<link source="email" target="system" value="2.0"/>
+<link source="went" target="Power"/>
+<link source="went" target="against"/>
+<link source="went" target="then"/>
+<link source="went" target="good"/>
+<link source="period" target="day"/>
+<link source="period" target="Power" value="2.0"/>
+<link source="period" target="transaction"/>
+<link source="period" target="currently"/>
+<link source="sender" target="email" value="3.0"/>
+<link source="sender" target="copies"/>
+<link source="sender" target="delete" value="3.0"/>
+<link source="sender" target="message" value="2.0"/>
+<link source="sender" target="immediately" value="2.0"/>
+<link source="says" target="purchase" value="2.0"/>
+<link source="says" target="prior" value="2.0"/>
+<link source="says" target="order" value="2.0"/>
+<link source="Edison" target="Company"/>
+<link source="Edison" target="Trading"/>
+<link source="Edison" target="energy"/>
+<link source="Edison" target="never" value="2.0"/>
+<link source="Edison" target="FERC"/>
+<link source="Edison" target="said" value="3.0"/>
+<link source="Edison" target="utility" value="3.0"/>
+<link source="Edison" target="State" value="2.0"/>
+<link source="Edison" target="share"/>
+<link source="Edison" target="sell"/>
+<link source="Edison" target="back" value="2.0"/>
+<link source="Edison" target="provided" value="2.0"/>
+<link source="Edison" target="Edison" value="2.0"/>
+<link source="morning" target="need" value="2.0"/>
+<link source="morning" target="day" value="2.0"/>
+<link source="morning" target="discuss" value="2.0"/>
+<link source="morning" target="access"/>
+<link source="morning" target="going" value="2.0"/>
+<link source="morning" target="meeting"/>
+<link source="morning" target="tomorrow"/>
+<link source="morning" target="July" value="2.0"/>
+<link source="morning" target="make" value="3.0"/>
+<link source="morning" target="order"/>
+<link source="morning" target="back"/>
+<link source="morning" target="market"/>
+<link source="morning" target="call"/>
+<link source="morning" target="Gas"/>
+<link source="morning" target="afternoon"/>
+<link source="morning" target="sure" value="3.0"/>
+<link source="morning" target="time" value="2.0"/>
+<link source="executed" target="business" value="3.0"/>
+<link source="executed" target="Agreement" value="2.0"/>
+<link source="executed" target="parties"/>
+<link source="executed" target="document"/>
+<link source="executed" target="order" value="3.0"/>
+<link source="least" target="day" value="3.0"/>
+<link source="least" target="High"/>
+<link source="least" target="changes" value="2.0"/>
+<link source="least" target="give" value="2.0"/>
+<link source="least" target="State"/>
+<link source="least" target="days" value="2.0"/>
+<link source="office" target="different" value="2.0"/>
+<link source="office" target="plan"/>
+<link source="office" target="said" value="2.0"/>
+<link source="office" target="made" value="2.0"/>
+<link source="office" target="give"/>
+<link source="office" target="meeting"/>
+<link source="office" target="distribution" value="3.0"/>
+<link source="office" target="traders" value="2.0"/>
+<link source="office" target="today"/>
+<link source="office" target="people" value="2.0"/>
+<link source="office" target="positions"/>
+<link source="office" target="via" value="2.0"/>
+<link source="office" target="next" value="2.0"/>
+<link source="office" target="through"/>
+<link source="office" target="weeks" value="2.0"/>
+<link source="office" target="year" value="2.0"/>
+<link source="office" target="several" value="2.0"/>
+<link source="office" target="job" value="2.0"/>
+<link source="office" target="approval"/>
+<link source="office" target="week"/>
+<link source="office" target="tomorrow" value="2.0"/>
+<link source="office" target="last"/>
+<link source="office" target="mail"/>
+<link source="office" target="given"/>
+<link source="office" target="purchase" value="2.0"/>
+<link source="office" target="days"/>
+<link source="office" target="Friday" value="2.0"/>
+<link source="access" target="need"/>
+<link source="access" target="email"/>
+<link source="access" target="run" value="2.0"/>
+<link source="access" target="Power"/>
+<link source="access" target="contract"/>
+<link source="access" target="later"/>
+<link source="access" target="access"/>
+<link source="access" target="system"/>
+<link source="access" target="order"/>
+<link source="give" target="more"/>
+<link source="give" target="Let" value="2.0"/>
+<link source="give" target="day" value="2.0"/>
+<link source="give" target="amount"/>
+<link source="give" target="original"/>
+<link source="give" target="number" value="2.0"/>
+<link source="give" target="changes" value="2.0"/>
+<link source="give" target="provide"/>
+<link source="give" target="said" value="2.0"/>
+<link source="give" target="some"/>
+<link source="give" target="anyone"/>
+<link source="give" target="copy"/>
+<link source="give" target="sure"/>
+<link source="give" target="work" value="3.0"/>
+<link source="give" target="next" value="2.0"/>
+<link source="give" target="issues"/>
+<link source="give" target="net"/>
+<link source="give" target="info"/>
+<link source="give" target="later"/>
+<link source="give" target="discuss" value="2.0"/>
+<link source="give" target="couple"/>
+<link source="give" target="week" value="3.0"/>
+<link source="give" target="money" value="2.0"/>
+<link source="give" target="make"/>
+<link source="give" target="back"/>
+<link source="give" target="send"/>
+<link source="give" target="call" value="10.0"/>
+<link source="give" target="questions" value="2.0"/>
+<link source="give" target="days"/>
+<link source="value" target="contract"/>
+<link source="value" target="times" value="2.0"/>
+<link source="value" target="time" value="2.0"/>
+<link source="report" target="send"/>
+<link source="report" target="call"/>
+<link source="report" target="positions" value="2.0"/>
+<link source="report" target="date"/>
+<link source="report" target="Gas"/>
+<link source="report" target="State"/>
+<link source="report" target="status"/>
+<link source="report" target="system"/>
+<link source="report" target="report"/>
+<link source="people" target="desk"/>
+<link source="people" target="Trading" value="2.0"/>
+<link source="people" target="Power" value="2.0"/>
+<link source="people" target="use"/>
+<link source="people" target="process"/>
+<link source="people" target="understand"/>
+<link source="people" target="want" value="2.0"/>
+<link source="people" target="good" value="2.0"/>
+<link source="High" target="line"/>
+<link source="High" target="level"/>
+<link source="High" target="market"/>
+<link source="High" target="business" value="2.0"/>
+<link source="High" target="prices" value="5.0"/>
+<link source="High" target="story"/>
+<link source="High" target="July"/>
+<link source="positions" target="meeting"/>
+<link source="program" target="story"/>
+<link source="program" target="July"/>
+<link source="need" target="York"/>
+<link source="need" target="more" value="5.0"/>
+<link source="need" target="help" value="3.0"/>
+<link source="need" target="cash"/>
+<link source="need" target="some"/>
+<link source="need" target="ID"/>
+<link source="need" target="work" value="2.0"/>
+<link source="need" target="sure"/>
+<link source="need" target="time" value="2.0"/>
+<link source="need" target="signed"/>
+<link source="need" target="info" value="2.0"/>
+<link source="need" target="know" value="7.0"/>
+<link source="need" target="several"/>
+<link source="need" target="contact" value="4.0"/>
+<link source="need" target="add"/>
+<link source="need" target="discussed" value="4.0"/>
+<link source="need" target="discuss" value="2.0"/>
+<link source="need" target="short"/>
+<link source="need" target="Saturday"/>
+<link source="need" target="process"/>
+<link source="need" target="desk" value="2.0"/>
+<link source="need" target="physical" value="2.0"/>
+<link source="need" target="call" value="2.0"/>
+<link source="need" target="contract"/>
+<link source="need" target="given"/>
+<link source="need" target="date"/>
+<link source="need" target="EOL"/>
+<link source="need" target="Gas" value="2.0"/>
+<link source="need" target="morning" value="2.0"/>
+<link source="need" target="executed" value="3.0"/>
+<link source="need" target="Let" value="2.0"/>
+<link source="need" target="access" value="2.0"/>
+<link source="need" target="give"/>
+<link source="need" target="report"/>
+<link source="need" target="July" value="2.0"/>
+<link source="need" target="people" value="2.0"/>
+<link source="need" target="run" value="2.0"/>
+<link source="need" target="under"/>
+<link source="need" target="use" value="4.0"/>
+<link source="need" target="like" value="2.0"/>
+<link source="need" target="enron"/>
+<link source="need" target="issues"/>
+<link source="need" target="change"/>
+<link source="need" target="business" value="3.0"/>
+<link source="need" target="later"/>
+<link source="need" target="response"/>
+<link source="need" target="Center"/>
+<link source="need" target="tomorrow"/>
+<link source="need" target="make" value="5.0"/>
+<link source="need" target="order" value="6.0"/>
+<link source="need" target="information" value="4.0"/>
+<link source="need" target="hour"/>
+<link source="need" target="right" value="4.0"/>
+<link source="need" target="Monday"/>
+<link source="need" target="delivery" value="2.0"/>
+<link source="need" target="Agreement"/>
+<link source="need" target="thing"/>
+<link source="need" target="future"/>
+<link source="need" target="start"/>
+<link source="change" target="off" value="2.0"/>
+<link source="change" target="more" value="4.0"/>
+<link source="change" target="Trading" value="2.0"/>
+<link source="change" target="day" value="4.0"/>
+<link source="change" target="least" value="2.0"/>
+<link source="change" target="like"/>
+<link source="change" target="FERC" value="4.0"/>
+<link source="change" target="week"/>
+<link source="change" target="give" value="2.0"/>
+<link source="changed" target="Power"/>
+<link source="changed" target="Price"/>
+<link source="business" target="off" value="2.0"/>
+<link source="business" target="Let"/>
+<link source="business" target="Power"/>
+<link source="business" target="big" value="2.0"/>
+<link source="business" target="take"/>
+<link source="business" target="provide"/>
+<link source="business" target="State" value="2.0"/>
+<link source="business" target="distribution" value="2.0"/>
+<link source="business" target="traders" value="2.0"/>
+<link source="business" target="July"/>
+<link source="business" target="under" value="2.0"/>
+<link source="business" target="use" value="2.0"/>
+<link source="business" target="story"/>
+<link source="business" target="need"/>
+<link source="business" target="energy" value="2.0"/>
+<link source="business" target="year" value="2.0"/>
+<link source="business" target="know"/>
+<link source="business" target="business"/>
+<link source="business" target="customers" value="2.0"/>
+<link source="business" target="hours"/>
+<link source="business" target="intended" value="2.0"/>
+<link source="business" target="information" value="2.0"/>
+<link source="business" target="contract" value="2.0"/>
+<link source="business" target="questions"/>
+<link source="business" target="way" value="2.0"/>
+<link source="Management" target="Let"/>
+<link source="Management" target="know"/>
+<link source="Management" target="office"/>
+<link source="Management" target="State" value="2.0"/>
+<link source="disclosure" target="prohibited"/>
+<link source="disclosure" target="several"/>
+<link source="disclosure" target="know" value="2.0"/>
+<link source="disclosure" target="distribution"/>
+<link source="disclosure" target="days"/>
+<link source="disclosure" target="information" value="2.0"/>
+<link source="job" target="change"/>
+<link source="job" target="Gas" value="3.0"/>
+<link source="job" target="Houston"/>
+<link source="job" target="week"/>
+<link source="job" target="next"/>
+<link source="customer" target="today"/>
+<link source="customer" target="customer"/>
+<link source="customer" target="access"/>
+<link source="customer" target="meeting" value="2.0"/>
+<link source="customer" target="morning"/>
+<link source="customer" target="status"/>
+<link source="customer" target="Price" value="2.0"/>
+<link source="customer" target="July"/>
+<link source="intended" target="Power" value="3.0"/>
+<link source="intended" target="review"/>
+<link source="intended" target="contact"/>
+<link source="intended" target="received" value="3.0"/>
+<link source="intended" target="error"/>
+<link source="intended" target="intended" value="3.0"/>
+<link source="intended" target="information"/>
+<link source="intended" target="email" value="2.0"/>
+<link source="intended" target="use" value="5.0"/>
+<link source="intended" target="individual" value="3.0"/>
+<link source="intended" target="future" value="3.0"/>
+<link source="intended" target="sender"/>
+<link source="intended" target="past" value="3.0"/>
+<link source="intended" target="way" value="2.0"/>
+<link source="intended" target="responsible" value="2.0"/>
+<link source="intended" target="confidential"/>
+<link source="requested" target="send"/>
+<link source="requested" target="Agreement"/>
+<link source="requested" target="hours" value="2.0"/>
+<link source="requested" target="information"/>
+<link source="hour" target="party"/>
+<link source="hour" target="day" value="2.0"/>
+<link source="hour" target="info"/>
+<link source="hour" target="then"/>
+<link source="hour" target="State" value="2.0"/>
+<link source="hour" target="some" value="4.0"/>
+<link source="html" target="under"/>
+<link source="thing" target="today"/>
+<link source="thing" target="access"/>
+<link source="thing" target="morning" value="2.0"/>
+<link source="thing" target="good"/>
+<link source="individual" target="copies" value="2.0"/>
+<link source="individual" target="agreements" value="2.0"/>
+<link source="individual" target="account"/>
+<link source="taking" target="more"/>
+<link source="taking" target="still"/>
+<link source="taking" target="without"/>
+<link source="taking" target="account"/>
+<link source="taking" target="time"/>
+<link source="taking" target="available"/>
+<link source="taking" target="Friday"/>
+<link source="taking" target="system"/>
+<link source="pipeline" target="need"/>
+<link source="pipeline" target="Company" value="2.0"/>
+<link source="pipeline" target="least"/>
+<link source="pipeline" target="take" value="3.0"/>
+<link source="pipeline" target="Gas" value="3.0"/>
+<link source="pipeline" target="prior"/>
+<link source="pipeline" target="Texas"/>
+<link source="available" target="today" value="3.0"/>
+<link source="available" target="day" value="2.0"/>
+<link source="available" target="market"/>
+<link source="available" target="plan"/>
+<link source="available" target="call" value="2.0"/>
+<link source="available" target="California"/>
+<link source="available" target="said"/>
+<link source="available" target="love"/>
+<link source="available" target="purchase" value="2.0"/>
+<link source="available" target="State"/>
+<link source="available" target="order"/>
+<link source="available" target="lunch" value="5.0"/>
+<link source="system" target="day"/>
+<link source="system" target="problems"/>
+<link source="system" target="Power" value="2.0"/>
+<link source="system" target="customers"/>
+<link source="system" target="transmission"/>
+<link source="system" target="enron" value="3.0"/>
+<link source="system" target="State" value="2.0"/>
+<link source="system" target="time"/>
+<link source="system" target="next"/>
+<link source="system" target="last"/>
+<link source="system" target="order"/>
+<link source="more" target="more"/>
+<link source="more" target="Trading" value="2.0"/>
+<link source="more" target="Power" value="2.0"/>
+<link source="more" target="scheduled" value="4.0"/>
+<link source="more" target="California" value="2.0"/>
+<link source="more" target="FERC" value="4.0"/>
+<link source="more" target="going" value="3.0"/>
+<link source="more" target="utility"/>
+<link source="more" target="give"/>
+<link source="more" target="State" value="4.0"/>
+<link source="more" target="East"/>
+<link source="more" target="Wholesale" value="2.0"/>
+<link source="more" target="July" value="2.0"/>
+<link source="more" target="like" value="2.0"/>
+<link source="more" target="work"/>
+<link source="more" target="next" value="2.0"/>
+<link source="more" target="story"/>
+<link source="more" target="time" value="4.0"/>
+<link source="more" target="change" value="2.0"/>
+<link source="more" target="energy" value="3.0"/>
+<link source="more" target="info"/>
+<link source="more" target="know" value="2.0"/>
+<link source="more" target="contact" value="2.0"/>
+<link source="more" target="without"/>
+<link source="more" target="discuss"/>
+<link source="more" target="week" value="2.0"/>
+<link source="more" target="money" value="2.0"/>
+<link source="more" target="last" value="2.0"/>
+<link source="more" target="Price" value="2.0"/>
+<link source="more" target="information" value="9.0"/>
+<link source="more" target="needed"/>
+<link source="more" target="email"/>
+<link source="more" target="send"/>
+<link source="more" target="call"/>
+<link source="more" target="questions"/>
+<link source="more" target="future"/>
+<link source="more" target="Edison" value="2.0"/>
+<link source="more" target="system"/>
+<link source="day" target="more" value="3.0"/>
+<link source="day" target="Trading" value="4.0"/>
+<link source="day" target="day" value="3.0"/>
+<link source="day" target="least"/>
+<link source="day" target="number"/>
+<link source="day" target="changes" value="2.0"/>
+<link source="day" target="Houston"/>
+<link source="day" target="going" value="4.0"/>
+<link source="day" target="July"/>
+<link source="day" target="Commission" value="2.0"/>
+<link source="day" target="like"/>
+<link source="day" target="work" value="2.0"/>
+<link source="day" target="Sunday"/>
+<link source="day" target="energy" value="3.0"/>
+<link source="day" target="know" value="2.0"/>
+<link source="day" target="hours" value="2.0"/>
+<link source="day" target="Saturday"/>
+<link source="day" target="process"/>
+<link source="day" target="order" value="3.0"/>
+<link source="day" target="back"/>
+<link source="day" target="Monday"/>
+<link source="day" target="date"/>
+<link source="day" target="still"/>
+<link source="day" target="purchase" value="2.0"/>
+<link source="day" target="says" value="2.0"/>
+<link source="day" target="Friday" value="2.0"/>
+<link source="coming" target="off"/>
+<link source="coming" target="back"/>
+<link source="coming" target="coming"/>
+<link source="coming" target="California"/>
+<link source="coming" target="lot"/>
+<link source="coming" target="through"/>
+<link source="amount" target="coming"/>
+<link source="amount" target="like"/>
+<link source="amount" target="State" value="4.0"/>
+<link source="amount" target="some"/>
+<link source="amount" target="through"/>
+<link source="review" target="Let" value="2.0"/>
+<link source="review" target="scheduled"/>
+<link source="review" target="said"/>
+<link source="review" target="give"/>
+<link source="review" target="distribution" value="2.0"/>
+<link source="review" target="report"/>
+<link source="review" target="July" value="2.0"/>
+<link source="review" target="contracts" value="2.0"/>
+<link source="review" target="list"/>
+<link source="review" target="use"/>
+<link source="review" target="past"/>
+<link source="review" target="next" value="2.0"/>
+<link source="review" target="energy" value="2.0"/>
+<link source="review" target="know" value="2.0"/>
+<link source="review" target="disclosure"/>
+<link source="review" target="discuss"/>
+<link source="review" target="file"/>
+<link source="review" target="process"/>
+<link source="review" target="prior" value="2.0"/>
+<link source="review" target="make"/>
+<link source="review" target="prohibited" value="2.0"/>
+<link source="review" target="email"/>
+<link source="review" target="send" value="2.0"/>
+<link source="review" target="call"/>
+<link source="review" target="Agreement" value="2.0"/>
+<link source="proposed" target="change" value="2.0"/>
+<link source="proposed" target="right"/>
+<link source="proposed" target="customers"/>
+<link source="proposed" target="changes"/>
+<link source="proposed" target="without"/>
+<link source="proposed" target="made"/>
+<link source="proposed" target="way"/>
+<link source="going" target="office"/>
+<link source="going" target="Houston"/>
+<link source="going" target="going"/>
+<link source="going" target="down"/>
+<link source="going" target="give"/>
+<link source="going" target="meeting"/>
+<link source="going" target="some"/>
+<link source="going" target="good" value="2.0"/>
+<link source="going" target="people" value="2.0"/>
+<link source="going" target="tell" value="3.0"/>
+<link source="going" target="question"/>
+<link source="going" target="well" value="2.0"/>
+<link source="going" target="like" value="2.0"/>
+<link source="going" target="need"/>
+<link source="going" target="pretty" value="2.0"/>
+<link source="going" target="discuss"/>
+<link source="going" target="Center"/>
+<link source="going" target="week"/>
+<link source="going" target="Saturday" value="3.0"/>
+<link source="going" target="world" value="2.0"/>
+<link source="going" target="making"/>
+<link source="going" target="email"/>
+<link source="going" target="back" value="3.0"/>
+<link source="going" target="right"/>
+<link source="going" target="working"/>
+<link source="going" target="every"/>
+<link source="going" target="thing" value="2.0"/>
+<link source="going" target="lunch"/>
+<link source="going" target="Friday" value="2.0"/>
+<link source="State" target="more" value="4.0"/>
+<link source="State" target="Power" value="14.0"/>
+<link source="State" target="never" value="2.0"/>
+<link source="State" target="office" value="2.0"/>
+<link source="State" target="California" value="2.0"/>
+<link source="State" target="said" value="4.0"/>
+<link source="State" target="utility" value="2.0"/>
+<link source="State" target="State" value="7.0"/>
+<link source="State" target="cash" value="2.0"/>
+<link source="State" target="meeting"/>
+<link source="State" target="July" value="4.0"/>
+<link source="State" target="Commission" value="6.0"/>
+<link source="State" target="contracts" value="10.0"/>
+<link source="State" target="through" value="4.0"/>
+<link source="State" target="signed" value="6.0"/>
+<link source="State" target="law" value="2.0"/>
+<link source="State" target="energy" value="13.0"/>
+<link source="State" target="sale" value="2.0"/>
+<link source="State" target="year" value="2.0"/>
+<link source="State" target="business" value="2.0"/>
+<link source="State" target="customers" value="3.0"/>
+<link source="State" target="related" value="2.0"/>
+<link source="State" target="approval" value="2.0"/>
+<link source="State" target="paid" value="2.0"/>
+<link source="State" target="file" value="2.0"/>
+<link source="State" target="last" value="2.0"/>
+<link source="State" target="contract" value="2.0"/>
+<link source="State" target="Gas"/>
+<link source="State" target="required" value="2.0"/>
+<link source="State" target="purchase" value="2.0"/>
+<link source="State" target="days" value="2.0"/>
+<link source="State" target="issue" value="2.0"/>
+<link source="traders" target="making" value="2.0"/>
+<link source="traders" target="list"/>
+<link source="traders" target="under" value="2.0"/>
+<link source="traders" target="contract" value="2.0"/>
+<link source="traders" target="use"/>
+<link source="traders" target="said" value="2.0"/>
+<link source="traders" target="access"/>
+<link source="traders" target="week" value="2.0"/>
+<link source="traders" target="traders" value="2.0"/>
+<link source="some" target="off"/>
+<link source="some" target="more" value="2.0"/>
+<link source="some" target="Let"/>
+<link source="some" target="Power" value="4.0"/>
+<link source="some" target="review"/>
+<link source="some" target="changes" value="2.0"/>
+<link source="some" target="provide"/>
+<link source="some" target="California"/>
+<link source="some" target="comments" value="2.0"/>
+<link source="some" target="meeting"/>
+<link source="some" target="some" value="2.0"/>
+<link source="some" target="following"/>
+<link source="some" target="under" value="2.0"/>
+<link source="some" target="index"/>
+<link source="some" target="well"/>
+<link source="some" target="like" value="3.0"/>
+<link source="some" target="past"/>
+<link source="some" target="enron"/>
+<link source="some" target="work"/>
+<link source="some" target="next"/>
+<link source="some" target="time" value="10.0"/>
+<link source="some" target="issues"/>
+<link source="some" target="weeks"/>
+<link source="some" target="hours"/>
+<link source="some" target="discuss" value="4.0"/>
+<link source="some" target="week"/>
+<link source="some" target="short"/>
+<link source="some" target="tomorrow"/>
+<link source="some" target="money"/>
+<link source="some" target="always"/>
+<link source="some" target="information"/>
+<link source="some" target="send"/>
+<link source="some" target="working" value="2.0"/>
+<link source="some" target="call"/>
+<link source="some" target="future"/>
+<link source="some" target="morning" value="2.0"/>
+<link source="some" target="available"/>
+<link source="some" target="status"/>
+<link source="some" target="problem"/>
+<link source="currently" target="working"/>
+<link source="currently" target="like"/>
+<link source="currently" target="way"/>
+<link source="currently" target="says" value="2.0"/>
+<link source="currently" target="prior" value="2.0"/>
+<link source="currently" target="available" value="2.0"/>
+<link source="currently" target="order"/>
+<link source="did" target="making" value="2.0"/>
+<link source="did" target="day" value="2.0"/>
+<link source="did" target="hear" value="2.0"/>
+<link source="did" target="know"/>
+<link source="did" target="review"/>
+<link source="did" target="take"/>
+<link source="did" target="received"/>
+<link source="did" target="ever"/>
+<link source="did" target="file"/>
+<link source="did" target="want" value="3.0"/>
+<link source="did" target="message"/>
+<link source="did" target="some" value="2.0"/>
+<link source="download" target="msn" value="3.0"/>
+<link source="ID" target="did"/>
+<link source="ID" target="ID"/>
+<link source="ID" target="time"/>
+<link source="points" target="capacity"/>
+<link source="points" target="contracts"/>
+<link source="points" target="like"/>
+<link source="points" target="way"/>
+<link source="points" target="currently"/>
+<link source="Sunday" target="back" value="2.0"/>
+<link source="Sunday" target="energy"/>
+<link source="Sunday" target="Monday"/>
+<link source="Sunday" target="did"/>
+<link source="Sunday" target="Houston" value="2.0"/>
+<link source="Sunday" target="taking"/>
+<link source="Sunday" target="Sunday" value="3.0"/>
+<link source="Sunday" target="last"/>
+<link source="Sunday" target="July"/>
+<link source="sure" target="send"/>
+<link source="sure" target="job"/>
+<link source="sure" target="still"/>
+<link source="sure" target="well" value="2.0"/>
+<link source="sure" target="work" value="2.0"/>
+<link source="sure" target="message"/>
+<link source="sure" target="good"/>
+<link source="sure" target="Friday"/>
+<link source="sure" target="report" value="2.0"/>
+<link source="time" target="least" value="2.0"/>
+<link source="time" target="take"/>
+<link source="time" target="services"/>
+<link source="time" target="said"/>
+<link source="time" target="going" value="2.0"/>
+<link source="time" target="meeting" value="4.0"/>
+<link source="time" target="some"/>
+<link source="time" target="traders"/>
+<link source="time" target="July" value="2.0"/>
+<link source="time" target="people" value="2.0"/>
+<link source="time" target="list"/>
+<link source="time" target="yet" value="4.0"/>
+<link source="time" target="market"/>
+<link source="time" target="tell"/>
+<link source="time" target="like"/>
+<link source="time" target="prices"/>
+<link source="time" target="past"/>
+<link source="time" target="work"/>
+<link source="time" target="enron" value="2.0"/>
+<link source="time" target="time"/>
+<link source="time" target="through" value="2.0"/>
+<link source="time" target="capacity"/>
+<link source="time" target="Company"/>
+<link source="time" target="change" value="2.0"/>
+<link source="time" target="specific"/>
+<link source="time" target="year"/>
+<link source="time" target="add"/>
+<link source="time" target="discuss" value="4.0"/>
+<link source="time" target="week"/>
+<link source="time" target="tomorrow"/>
+<link source="time" target="money"/>
+<link source="time" target="Price"/>
+<link source="time" target="back"/>
+<link source="time" target="right"/>
+<link source="time" target="date"/>
+<link source="time" target="questions"/>
+<link source="time" target="future"/>
+<link source="time" target="Gas"/>
+<link source="time" target="way"/>
+<link source="time" target="account"/>
+<link source="time" target="Friday"/>
+<link source="story" target="more"/>
+<link source="story" target="total"/>
+<link source="story" target="sale"/>
+<link source="story" target="FERC"/>
+<link source="story" target="week" value="2.0"/>
+<link source="story" target="July" value="16.0"/>
+<link source="story" target="following"/>
+<link source="story" target="today"/>
+<link source="story" target="market"/>
+<link source="story" target="prices"/>
+<link source="story" target="Gas"/>
+<link source="story" target="Sunday"/>
+<link source="story" target="next"/>
+<link source="story" target="issues"/>
+<link source="appropriate" target="against"/>
+<link source="net" target="enron" value="6.0"/>
+<link source="net" target="North" value="2.0"/>
+<link source="signed" target="need"/>
+<link source="signed" target="copy"/>
+<link source="signed" target="Power" value="2.0"/>
+<link source="signed" target="contracts" value="8.0"/>
+<link source="signed" target="Agreement"/>
+<link source="signed" target="office" value="2.0"/>
+<link source="signed" target="parties"/>
+<link source="signed" target="purchase" value="2.0"/>
+<link source="signed" target="meeting"/>
+<link source="line" target="run"/>
+<link source="line" target="via"/>
+<link source="line" target="said" value="2.0"/>
+<link source="line" target="past"/>
+<link source="line" target="Friday"/>
+<link source="pretty" target="still"/>
+<link source="pretty" target="like"/>
+<link source="pretty" target="way"/>
+<link source="pretty" target="sure" value="2.0"/>
+<link source="pretty" target="good" value="3.0"/>
+<link source="customers" target="change" value="2.0"/>
+<link source="customers" target="day" value="2.0"/>
+<link source="customers" target="Trading" value="2.0"/>
+<link source="customers" target="energy" value="2.0"/>
+<link source="customers" target="parties"/>
+<link source="customers" target="distribution" value="2.0"/>
+<link source="customers" target="traders"/>
+<link source="customers" target="needed"/>
+<link source="customers" target="call"/>
+<link source="customers" target="prices"/>
+<link source="customers" target="time"/>
+<link source="customers" target="through"/>
+<link source="customers" target="system" value="2.0"/>
+<link source="discuss" target="more" value="2.0"/>
+<link source="discuss" target="Power" value="2.0"/>
+<link source="discuss" target="bit"/>
+<link source="discuss" target="plan"/>
+<link source="discuss" target="changes"/>
+<link source="discuss" target="provide"/>
+<link source="discuss" target="services"/>
+<link source="discuss" target="meeting"/>
+<link source="discuss" target="tomorrow"/>
+<link source="discuss" target="some"/>
+<link source="discuss" target="July" value="2.0"/>
+<link source="discuss" target="order"/>
+<link source="discuss" target="market"/>
+<link source="discuss" target="call"/>
+<link source="discuss" target="like"/>
+<link source="discuss" target="morning"/>
+<link source="discuss" target="issues"/>
+<link source="process" target="signed"/>
+<link source="process" target="having"/>
+<link source="process" target="access"/>
+<link source="process" target="going"/>
+<link source="process" target="points" value="4.0"/>
+<link source="process" target="paid" value="2.0"/>
+<link source="process" target="enron" value="2.0"/>
+<link source="process" target="East" value="2.0"/>
+<link source="money" target="off"/>
+<link source="money" target="Let" value="2.0"/>
+<link source="money" target="book"/>
+<link source="money" target="Power" value="2.0"/>
+<link source="money" target="year"/>
+<link source="money" target="know" value="2.0"/>
+<link source="money" target="said" value="2.0"/>
+<link source="money" target="week" value="2.0"/>
+<link source="money" target="enron"/>
+<link source="money" target="State" value="2.0"/>
+<link source="money" target="next" value="2.0"/>
+<link source="world" target="start"/>
+<link source="sell" target="back"/>
+<link source="sell" target="Power" value="6.0"/>
+<link source="sell" target="prices" value="4.0"/>
+<link source="sell" target="week" value="2.0"/>
+<link source="sell" target="short"/>
+<link source="sell" target="some"/>
+<link source="final" target="day" value="2.0"/>
+<link source="final" target="proposal"/>
+<link source="final" target="original"/>
+<link source="final" target="working" value="2.0"/>
+<link source="final" target="term"/>
+<link source="final" target="changes"/>
+<link source="final" target="Agreement"/>
+<link source="final" target="Gas"/>
+<link source="final" target="days" value="2.0"/>
+<link source="notice" target="sell" value="2.0"/>
+<link source="notice" target="sale"/>
+<link source="notice" target="office" value="3.0"/>
+<link source="notice" target="proposed" value="2.0"/>
+<link source="notice" target="purchase"/>
+<link source="notice" target="filing"/>
+<link source="notice" target="message" value="2.0"/>
+<link source="notice" target="distribution" value="3.0"/>
+<link source="notice" target="July" value="2.0"/>
+<link source="call" target="more" value="2.0"/>
+<link source="call" target="necessary"/>
+<link source="call" target="scheduled"/>
+<link source="call" target="number"/>
+<link source="call" target="July"/>
+<link source="call" target="today" value="2.0"/>
+<link source="call" target="people"/>
+<link source="call" target="transaction"/>
+<link source="call" target="well"/>
+<link source="call" target="afternoon"/>
+<link source="call" target="work"/>
+<link source="call" target="sure"/>
+<link source="call" target="time" value="2.0"/>
+<link source="call" target="next"/>
+<link source="call" target="issues"/>
+<link source="call" target="need"/>
+<link source="call" target="Management"/>
+<link source="call" target="later" value="3.0"/>
+<link source="call" target="Center" value="2.0"/>
+<link source="call" target="discuss" value="3.0"/>
+<link source="call" target="week" value="2.0"/>
+<link source="call" target="Saturday"/>
+<link source="call" target="tomorrow"/>
+<link source="call" target="make"/>
+<link source="call" target="email" value="4.0"/>
+<link source="call" target="back" value="2.0"/>
+<link source="call" target="called"/>
+<link source="call" target="send"/>
+<link source="call" target="Monday"/>
+<link source="call" target="call"/>
+<link source="call" target="questions" value="11.0"/>
+<link source="call" target="status"/>
+<link source="call" target="issue"/>
+<link source="call" target="Friday"/>
+<link source="contract" target="need"/>
+<link source="contract" target="signed" value="2.0"/>
+<link source="contract" target="send"/>
+<link source="contract" target="contract"/>
+<link source="contract" target="like"/>
+<link source="contract" target="without"/>
+<link source="contract" target="prices"/>
+<link source="contract" target="said" value="2.0"/>
+<link source="contract" target="discuss"/>
+<link source="contract" target="think"/>
+<link source="contract" target="program" value="2.0"/>
+<link source="contract" target="issues"/>
+<link source="times" target="York" value="2.0"/>
+<link source="times" target="signed" value="2.0"/>
+<link source="times" target="Power" value="4.0"/>
+<link source="times" target="trades"/>
+<link source="times" target="value" value="2.0"/>
+<link source="times" target="July"/>
+<link source="times" target="making"/>
+<link source="times" target="run"/>
+<link source="times" target="Monday"/>
+<link source="times" target="contracts" value="2.0"/>
+<link source="times" target="given" value="2.0"/>
+<link source="times" target="next"/>
+<link source="times" target="time" value="2.0"/>
+<link source="given" target="plan"/>
+<link source="given" target="changes"/>
+<link source="given" target="date"/>
+<link source="given" target="approval"/>
+<link source="given" target="said"/>
+<link source="given" target="using"/>
+<link source="given" target="comments"/>
+<link source="given" target="load"/>
+<link source="given" target="open"/>
+<link source="purchase" target="specific" value="2.0"/>
+<link source="purchase" target="energy" value="2.0"/>
+<link source="purchase" target="sale" value="2.0"/>
+<link source="purchase" target="amount" value="2.0"/>
+<link source="purchase" target="transmission" value="2.0"/>
+<link source="purchase" target="California" value="2.0"/>
+<link source="purchase" target="utility" value="2.0"/>
+<link source="purchase" target="State" value="4.0"/>
+<link source="purchase" target="prior"/>
+<link source="purchase" target="order" value="2.0"/>
+<link source="purchase" target="contracts" value="2.0"/>
+<link source="purchase" target="contract"/>
+<link source="purchase" target="Agreement"/>
+<link source="purchase" target="transaction"/>
+<link source="purchase" target="enron" value="2.0"/>
+<link source="notify" target="trade"/>
+<link source="notify" target="email" value="2.0"/>
+<link source="notify" target="Monday"/>
+<link source="notify" target="delete" value="3.0"/>
+<link source="notify" target="sender" value="3.0"/>
+<link source="notify" target="Gas"/>
+<link source="notify" target="taking"/>
+<link source="notify" target="message" value="2.0"/>
+<link source="notify" target="immediately" value="3.0"/>
+<link source="Let" target="help"/>
+<link source="Let" target="more"/>
+<link source="Let" target="Items"/>
+<link source="Let" target="changes"/>
+<link source="Let" target="received"/>
+<link source="Let" target="going" value="2.0"/>
+<link source="Let" target="comments"/>
+<link source="Let" target="meeting"/>
+<link source="Let" target="today" value="2.0"/>
+<link source="Let" target="run"/>
+<link source="Let" target="yet"/>
+<link source="Let" target="like" value="4.0"/>
+<link source="Let" target="well"/>
+<link source="Let" target="think" value="2.0"/>
+<link source="Let" target="work"/>
+<link source="Let" target="time"/>
+<link source="Let" target="open"/>
+<link source="Let" target="need" value="7.0"/>
+<link source="Let" target="capacity"/>
+<link source="Let" target="change"/>
+<link source="Let" target="know" value="101.0"/>
+<link source="Let" target="contact"/>
+<link source="Let" target="later" value="2.0"/>
+<link source="Let" target="information"/>
+<link source="Let" target="back" value="2.0"/>
+<link source="Let" target="final" value="3.0"/>
+<link source="Let" target="email" value="2.0"/>
+<link source="Let" target="problems"/>
+<link source="Let" target="hear"/>
+<link source="Let" target="questions" value="15.0"/>
+<link source="Let" target="date"/>
+<link source="Let" target="thing"/>
+<link source="Thank" target="help" value="3.0"/>
+<link source="Thank" target="email"/>
+<link source="Thank" target="received"/>
+<link source="Thank" target="proposed"/>
+<link source="Thank" target="taking"/>
+<link source="number" target="net"/>
+<link source="number" target="need"/>
+<link source="number" target="more"/>
+<link source="number" target="looks"/>
+<link source="number" target="response"/>
+<link source="number" target="week"/>
+<link source="number" target="last"/>
+<link source="number" target="always"/>
+<link source="number" target="right"/>
+<link source="number" target="use"/>
+<link source="number" target="questions" value="2.0"/>
+<link source="number" target="think"/>
+<link source="number" target="then"/>
+<link source="markets" target="people"/>
+<link source="markets" target="EOL"/>
+<link source="markets" target="want"/>
+<link source="markets" target="sure"/>
+<link source="markets" target="Price"/>
+<link source="markets" target="make"/>
+<link source="July" target="more"/>
+<link source="July" target="Power" value="2.0"/>
+<link source="July" target="Thank"/>
+<link source="July" target="review"/>
+<link source="July" target="California" value="3.0"/>
+<link source="July" target="following" value="3.0"/>
+<link source="July" target="July" value="4.0"/>
+<link source="July" target="today"/>
+<link source="July" target="market"/>
+<link source="July" target="like"/>
+<link source="July" target="story" value="12.0"/>
+<link source="July" target="next"/>
+<link source="July" target="issues"/>
+<link source="July" target="through" value="5.0"/>
+<link source="July" target="signed"/>
+<link source="July" target="energy" value="2.0"/>
+<link source="July" target="year"/>
+<link source="July" target="business"/>
+<link source="July" target="without"/>
+<link source="July" target="week" value="2.0"/>
+<link source="July" target="order" value="2.0"/>
+<link source="July" target="hour" value="2.0"/>
+<link source="July" target="sell" value="2.0"/>
+<link source="July" target="went"/>
+<link source="July" target="Gas"/>
+<link source="July" target="days" value="2.0"/>
+<link source="anyone" target="Trading"/>
+<link source="anyone" target="right"/>
+<link source="anyone" target="know" value="2.0"/>
+<link source="anyone" target="questions"/>
+<link source="anyone" target="like"/>
+<link source="anyone" target="Gas"/>
+<link source="anyone" target="going"/>
+<link source="anyone" target="information"/>
+<link source="anyone" target="problem"/>
+<link source="trade" target="today"/>
+<link source="trade" target="sell" value="2.0"/>
+<link source="trade" target="Monday" value="3.0"/>
+<link source="trade" target="necessary"/>
+<link source="trade" target="use"/>
+<link source="trade" target="through"/>
+<link source="trade" target="July"/>
+<link source="area" target="area"/>
+<link source="area" target="morning"/>
+<link source="daily" target="email" value="2.0"/>
+<link source="daily" target="basis"/>
+<link source="daily" target="energy"/>
+<link source="daily" target="market" value="2.0"/>
+<link source="daily" target="Agreement"/>
+<link source="daily" target="Gas"/>
+<link source="daily" target="said" value="2.0"/>
+<link source="daily" target="week"/>
+<link source="daily" target="work"/>
+<link source="daily" target="next"/>
+<link source="daily" target="information"/>
+<link source="daily" target="executed"/>
+<link source="appreciate" target="help"/>
+<link source="appreciate" target="review"/>
+<link source="appreciate" target="date"/>
+<link source="appreciate" target="received"/>
+<link source="via" target="different"/>
+<link source="via" target="time"/>
+<link source="via" target="Price"/>
+<link source="like" target="off"/>
+<link source="like" target="more"/>
+<link source="like" target="day"/>
+<link source="like" target="review"/>
+<link source="like" target="going" value="5.0"/>
+<link source="like" target="East"/>
+<link source="like" target="some" value="2.0"/>
+<link source="like" target="today"/>
+<link source="like" target="did"/>
+<link source="like" target="time"/>
+<link source="like" target="next"/>
+<link source="like" target="story"/>
+<link source="like" target="book"/>
+<link source="like" target="know" value="3.0"/>
+<link source="like" target="add" value="3.0"/>
+<link source="like" target="discussed"/>
+<link source="like" target="discuss" value="4.0"/>
+<link source="like" target="process" value="2.0"/>
+<link source="like" target="Saturday"/>
+<link source="like" target="prior"/>
+<link source="like" target="last"/>
+<link source="like" target="always"/>
+<link source="like" target="email"/>
+<link source="like" target="hear"/>
+<link source="like" target="working"/>
+<link source="like" target="call"/>
+<link source="like" target="Edison" value="2.0"/>
+<link source="like" target="morning"/>
+<link source="like" target="take"/>
+<link source="like" target="access" value="3.0"/>
+<link source="like" target="give"/>
+<link source="like" target="meeting" value="6.0"/>
+<link source="like" target="value"/>
+<link source="like" target="good" value="3.0"/>
+<link source="like" target="daily"/>
+<link source="like" target="run"/>
+<link source="like" target="use"/>
+<link source="like" target="having"/>
+<link source="like" target="deal"/>
+<link source="like" target="enron"/>
+<link source="like" target="issues"/>
+<link source="like" target="need"/>
+<link source="like" target="early"/>
+<link source="like" target="later"/>
+<link source="like" target="approval"/>
+<link source="like" target="North"/>
+<link source="like" target="tomorrow"/>
+<link source="like" target="Price"/>
+<link source="like" target="information"/>
+<link source="like" target="making"/>
+<link source="like" target="right" value="2.0"/>
+<link source="like" target="send"/>
+<link source="like" target="Monday"/>
+<link source="like" target="Agreement"/>
+<link source="like" target="thing"/>
+<link source="like" target="way"/>
+<link source="like" target="love"/>
+<link source="having" target="help"/>
+<link source="having" target="signed"/>
+<link source="having" target="Power" value="2.0"/>
+<link source="having" target="went"/>
+<link source="having" target="call"/>
+<link source="having" target="Gas"/>
+<link source="having" target="hours" value="2.0"/>
+<link source="having" target="pipeline"/>
+<link source="having" target="morning"/>
+<link source="having" target="good"/>
+<link source="having" target="some" value="2.0"/>
+<link source="Canada" target="Corp"/>
+<link source="ask" target="delivery"/>
+<link source="capacity" target="sell"/>
+<link source="capacity" target="proposal" value="2.0"/>
+<link source="capacity" target="know"/>
+<link source="capacity" target="changes"/>
+<link source="capacity" target="comments"/>
+<link source="capacity" target="time"/>
+<link source="capacity" target="always"/>
+<link source="capacity" target="through"/>
+<link source="capacity" target="system"/>
+<link source="early" target="call"/>
+<link source="early" target="week" value="2.0"/>
+<link source="early" target="time"/>
+<link source="early" target="morning" value="2.0"/>
+<link source="early" target="days" value="2.0"/>
+<link source="later" target="today" value="3.0"/>
+<link source="later" target="signed" value="2.0"/>
+<link source="later" target="plan"/>
+<link source="later" target="like"/>
+<link source="later" target="week"/>
+<link source="later" target="tomorrow"/>
+<link source="later" target="work"/>
+<link source="later" target="status"/>
+<link source="later" target="Friday"/>
+<link source="related" target="questions"/>
+<link source="related" target="status"/>
+<link source="related" target="issues"/>
+<link source="tomorrow" target="market"/>
+<link source="tomorrow" target="via" value="2.0"/>
+<link source="tomorrow" target="call"/>
+<link source="tomorrow" target="services"/>
+<link source="tomorrow" target="discuss" value="3.0"/>
+<link source="tomorrow" target="proposed"/>
+<link source="tomorrow" target="morning" value="3.0"/>
+<link source="tomorrow" target="status"/>
+<link source="Price" target="Power"/>
+<link source="Price" target="said" value="2.0"/>
+<link source="Price" target="markets"/>
+<link source="Price" target="Wholesale" value="2.0"/>
+<link source="Price" target="report"/>
+<link source="Price" target="currently" value="2.0"/>
+<link source="Price" target="market" value="3.0"/>
+<link source="Price" target="contracts"/>
+<link source="Price" target="via"/>
+<link source="Price" target="well"/>
+<link source="Price" target="prices"/>
+<link source="Price" target="index"/>
+<link source="Price" target="deal"/>
+<link source="Price" target="book"/>
+<link source="Price" target="specific"/>
+<link source="Price" target="year" value="2.0"/>
+<link source="Price" target="hours"/>
+<link source="Price" target="week"/>
+<link source="Price" target="last" value="3.0"/>
+<link source="Price" target="Price" value="2.0"/>
+<link source="Price" target="hour" value="2.0"/>
+<link source="Price" target="right"/>
+<link source="Price" target="EOL" value="2.0"/>
+<link source="Price" target="thing"/>
+<link source="Price" target="morning"/>
+<link source="Price" target="options"/>
+<link source="Price" target="available" value="3.0"/>
+<link source="information" target="day"/>
+<link source="information" target="least"/>
+<link source="information" target="Power" value="2.0"/>
+<link source="information" target="Items"/>
+<link source="information" target="received"/>
+<link source="information" target="going"/>
+<link source="information" target="give"/>
+<link source="information" target="July"/>
+<link source="information" target="following"/>
+<link source="information" target="report" value="2.0"/>
+<link source="information" target="today"/>
+<link source="information" target="use" value="3.0"/>
+<link source="information" target="like"/>
+<link source="information" target="prices"/>
+<link source="information" target="deal"/>
+<link source="information" target="confidential" value="3.0"/>
+<link source="information" target="contact" value="2.0"/>
+<link source="information" target="discuss"/>
+<link source="information" target="week"/>
+<link source="information" target="intended" value="5.0"/>
+<link source="information" target="tomorrow"/>
+<link source="information" target="message" value="3.0"/>
+<link source="information" target="Price"/>
+<link source="information" target="requested" value="2.0"/>
+<link source="information" target="make" value="2.0"/>
+<link source="information" target="prohibited"/>
+<link source="information" target="email" value="3.0"/>
+<link source="information" target="provided" value="2.0"/>
+<link source="information" target="send"/>
+<link source="information" target="call"/>
+<link source="information" target="purchase" value="2.0"/>
+<link source="information" target="status"/>
+<link source="making" target="trades"/>
+<link source="making" target="available"/>
+<link source="making" target="some"/>
+<link source="problems" target="Let"/>
+<link source="problems" target="know"/>
+<link source="problems" target="transmission"/>
+<link source="problems" target="think" value="3.0"/>
+<link source="problems" target="enron"/>
+<link source="problems" target="State" value="2.0"/>
+<link source="Monday" target="final"/>
+<link source="Monday" target="Monday"/>
+<link source="Monday" target="necessary"/>
+<link source="Monday" target="working"/>
+<link source="Monday" target="changes"/>
+<link source="Monday" target="Agreement"/>
+<link source="Monday" target="Corp"/>
+<link source="Monday" target="afternoon" value="2.0"/>
+<link source="Monday" target="morning"/>
+<link source="Monday" target="time"/>
+<link source="Monday" target="through"/>
+<link source="Monday" target="July" value="3.0"/>
+<link source="why" target="enron"/>
+<link source="house" target="need"/>
+<link source="questions" target="need" value="3.0"/>
+<link source="questions" target="Let" value="4.0"/>
+<link source="questions" target="more"/>
+<link source="questions" target="know" value="4.0"/>
+<link source="questions" target="contact"/>
+<link source="questions" target="discuss"/>
+<link source="questions" target="give"/>
+<link source="questions" target="comments" value="9.0"/>
+<link source="questions" target="order"/>
+<link source="questions" target="call" value="7.0"/>
+<link source="questions" target="questions"/>
+<link source="questions" target="enron"/>
+<link source="questions" target="issues"/>
+<link source="future" target="Power" value="3.0"/>
+<link source="future" target="said"/>
+<link source="future" target="time"/>
+<link source="future" target="issues" value="2.0"/>
+<link source="way" target="plan"/>
+<link source="way" target="approval"/>
+<link source="way" target="office"/>
+<link source="way" target="down" value="2.0"/>
+<link source="way" target="currently"/>
+<link source="way" target="Commission"/>
+<link source="way" target="people"/>
+<link source="way" target="back"/>
+<link source="way" target="question"/>
+<link source="way" target="under"/>
+<link source="way" target="like"/>
+<link source="way" target="points"/>
+<link source="way" target="work"/>
+<link source="way" target="time" value="2.0"/>
+<link source="way" target="issue" value="2.0"/>
+<link source="filing" target="copies" value="2.0"/>
+<link source="filing" target="notice" value="2.0"/>
+<link source="filing" target="FERC"/>
+<link source="filing" target="services" value="2.0"/>
+<link source="filing" target="individual" value="2.0"/>
+<link source="filing" target="proposed" value="2.0"/>
+<link source="filing" target="agreements" value="4.0"/>
+<link source="status" target="need"/>
+<link source="status" target="Power"/>
+<link source="status" target="know"/>
+<link source="status" target="related"/>
+<link source="status" target="meeting"/>
+<link source="status" target="tomorrow"/>
+<link source="status" target="State"/>
+<link source="status" target="requested"/>
+<link source="status" target="July"/>
+<link source="status" target="information"/>
+<link source="status" target="today"/>
+<link source="status" target="call"/>
+<link source="status" target="Gas"/>
+<link source="issue" target="today"/>
+<link source="issue" target="discussed"/>
+<link source="issue" target="meeting"/>
+<link source="issue" target="State" value="2.0"/>
+<link source="Friday" target="off"/>
+<link source="Friday" target="day"/>
+<link source="Friday" target="energy" value="2.0"/>
+<link source="Friday" target="plan" value="2.0"/>
+<link source="Friday" target="times" value="2.0"/>
+<link source="Friday" target="like" value="2.0"/>
+<link source="Friday" target="give"/>
+<link source="Friday" target="morning"/>
+<link source="Friday" target="report" value="2.0"/>
+<link source="Friday" target="July" value="3.0"/>
+<link source="York" target="final"/>
+<link source="York" target="Monday"/>
+<link source="York" target="working"/>
+<link source="York" target="changes"/>
+<link source="York" target="last"/>
+<link source="York" target="Price"/>
+<link source="York" target="through"/>
+<link source="York" target="Friday"/>
+<link source="York" target="system"/>
+<link source="Power" target="York" value="2.0"/>
+<link source="Power" target="off"/>
+<link source="Power" target="more" value="3.0"/>
+<link source="Power" target="coming"/>
+<link source="Power" target="Power" value="14.0"/>
+<link source="Power" target="transmission" value="4.0"/>
+<link source="Power" target="California" value="6.0"/>
+<link source="Power" target="Houston"/>
+<link source="Power" target="utility" value="7.0"/>
+<link source="Power" target="State" value="8.0"/>
+<link source="Power" target="traders" value="2.0"/>
+<link source="Power" target="today"/>
+<link source="Power" target="contracts" value="16.0"/>
+<link source="Power" target="market" value="7.0"/>
+<link source="Power" target="prices" value="4.0"/>
+<link source="Power" target="transaction" value="2.0"/>
+<link source="Power" target="agreements" value="2.0"/>
+<link source="Power" target="responsible" value="2.0"/>
+<link source="Power" target="sure"/>
+<link source="Power" target="open"/>
+<link source="Power" target="signed" value="2.0"/>
+<link source="Power" target="Company" value="12.0"/>
+<link source="Power" target="energy" value="4.0"/>
+<link source="Power" target="several" value="2.0"/>
+<link source="Power" target="without"/>
+<link source="Power" target="parties"/>
+<link source="Power" target="hours" value="4.0"/>
+<link source="Power" target="paid"/>
+<link source="Power" target="want"/>
+<link source="Power" target="share" value="2.0"/>
+<link source="Power" target="needed"/>
+<link source="Power" target="sell"/>
+<link source="Power" target="working"/>
+<link source="Power" target="times" value="2.0"/>
+<link source="Power" target="given" value="2.0"/>
+<link source="Power" target="Gas"/>
+<link source="Power" target="days" value="2.0"/>
+<link source="Power" target="demand"/>
+<link source="Power" target="Trading" value="4.0"/>
+<link source="Power" target="said"/>
+<link source="Power" target="down"/>
+<link source="Power" target="markets"/>
+<link source="Power" target="July" value="2.0"/>
+<link source="Power" target="High" value="2.0"/>
+<link source="Power" target="under" value="7.0"/>
+<link source="Power" target="Corp" value="2.0"/>
+<link source="Power" target="enron" value="4.0"/>
+<link source="Power" target="through"/>
+<link source="Power" target="year" value="3.0"/>
+<link source="Power" target="business" value="2.0"/>
+<link source="Power" target="North"/>
+<link source="Power" target="Price"/>
+<link source="Power" target="information" value="2.0"/>
+<link source="Power" target="make" value="2.0"/>
+<link source="Power" target="back"/>
+<link source="Power" target="delivery"/>
+<link source="Power" target="love"/>
+<link source="Power" target="available"/>
+<link source="Items" target="Let"/>
+<link source="Items" target="discussed"/>
+<link source="Items" target="like"/>
+<link source="never" target="Company"/>
+<link source="never" target="energy" value="2.0"/>
+<link source="never" target="enron" value="2.0"/>
+<link source="never" target="July"/>
+<link source="California" target="need"/>
+<link source="California" target="day" value="2.0"/>
+<link source="California" target="energy" value="2.0"/>
+<link source="California" target="law" value="2.0"/>
+<link source="California" target="Power" value="2.0"/>
+<link source="California" target="scheduled"/>
+<link source="California" target="said" value="4.0"/>
+<link source="California" target="utility" value="2.0"/>
+<link source="California" target="State" value="6.0"/>
+<link source="California" target="markets"/>
+<link source="California" target="Wholesale" value="2.0"/>
+<link source="California" target="July"/>
+<link source="California" target="today"/>
+<link source="California" target="back"/>
+<link source="California" target="market" value="2.0"/>
+<link source="California" target="every" value="2.0"/>
+<link source="California" target="call" value="2.0"/>
+<link source="California" target="West" value="2.0"/>
+<link source="California" target="Corp" value="2.0"/>
+<link source="California" target="purchase" value="2.0"/>
+<link source="California" target="enron" value="2.0"/>
+<link source="California" target="Edison" value="7.0"/>
+<link source="services" target="Power" value="6.0"/>
+<link source="services" target="energy"/>
+<link source="services" target="plan"/>
+<link source="services" target="transmission" value="2.0"/>
+<link source="services" target="still"/>
+<link source="services" target="Agreement"/>
+<link source="services" target="provide"/>
+<link source="services" target="like" value="2.0"/>
+<link source="services" target="story"/>
+<link source="services" target="time"/>
+<link source="services" target="July" value="2.0"/>
+<link source="comments" target="ask"/>
+<link source="comments" target="today"/>
+<link source="comments" target="Let"/>
+<link source="comments" target="need"/>
+<link source="comments" target="Power" value="3.0"/>
+<link source="comments" target="send"/>
+<link source="comments" target="working" value="2.0"/>
+<link source="comments" target="Agreement"/>
+<link source="comments" target="transaction" value="3.0"/>
+<link source="comments" target="issues" value="2.0"/>
+<link source="following" target="need"/>
+<link source="following" target="Let"/>
+<link source="following" target="Items"/>
+<link source="following" target="never"/>
+<link source="following" target="provide"/>
+<link source="following" target="Houston" value="2.0"/>
+<link source="following" target="short" value="2.0"/>
+<link source="following" target="traders"/>
+<link source="following" target="back" value="3.0"/>
+<link source="following" target="list" value="2.0"/>
+<link source="following" target="against"/>
+<link source="following" target="did"/>
+<link source="following" target="term" value="2.0"/>
+<link source="following" target="West"/>
+<link source="following" target="then"/>
+<link source="following" target="Sunday" value="4.0"/>
+<link source="today" target="signed"/>
+<link source="today" target="plan"/>
+<link source="today" target="job"/>
+<link source="today" target="proposed"/>
+<link source="today" target="tomorrow"/>
+<link source="today" target="good"/>
+<link source="today" target="some"/>
+<link source="today" target="July" value="2.0"/>
+<link source="today" target="email"/>
+<link source="today" target="hear"/>
+<link source="today" target="did" value="2.0"/>
+<link source="today" target="mail"/>
+<link source="today" target="call"/>
+<link source="today" target="Agreement"/>
+<link source="today" target="prices"/>
+<link source="today" target="think"/>
+<link source="today" target="work"/>
+<link source="today" target="status"/>
+<link source="Commission" target="Trading"/>
+<link source="Commission" target="Power" value="3.0"/>
+<link source="Commission" target="energy" value="4.0"/>
+<link source="Commission" target="plan" value="2.0"/>
+<link source="Commission" target="proposed"/>
+<link source="Commission" target="utility"/>
+<link source="Commission" target="down"/>
+<link source="Commission" target="State" value="4.0"/>
+<link source="Commission" target="Price" value="2.0"/>
+<link source="Commission" target="make"/>
+<link source="Commission" target="Commission" value="2.0"/>
+<link source="Commission" target="use"/>
+<link source="Commission" target="prices" value="2.0"/>
+<link source="Commission" target="index" value="2.0"/>
+<link source="Commission" target="individual" value="2.0"/>
+<link source="Commission" target="filing" value="2.0"/>
+<link source="contracts" target="hour" value="2.0"/>
+<link source="contracts" target="signed" value="2.0"/>
+<link source="contracts" target="energy" value="2.0"/>
+<link source="contracts" target="Power" value="2.0"/>
+<link source="contracts" target="necessary" value="2.0"/>
+<link source="contracts" target="delivery"/>
+<link source="contracts" target="FERC"/>
+<link source="contracts" target="points"/>
+<link source="contracts" target="some" value="2.0"/>
+<link source="tell" target="need"/>
+<link source="tell" target="correct" value="3.0"/>
+<link source="tell" target="said"/>
+<link source="tell" target="week"/>
+<link source="tell" target="last"/>
+<link source="tell" target="program"/>
+<link source="tell" target="some"/>
+<link source="term" target="trade"/>
+<link source="term" target="off"/>
+<link source="term" target="sell"/>
+<link source="term" target="help"/>
+<link source="term" target="physical"/>
+<link source="term" target="proposal"/>
+<link source="term" target="appreciate" value="2.0"/>
+<link source="term" target="looks"/>
+<link source="term" target="term" value="5.0"/>
+<link source="term" target="West" value="3.0"/>
+<link source="term" target="Gas" value="2.0"/>
+<link source="term" target="short" value="5.0"/>
+<link source="well" target="weeks"/>
+<link source="well" target="info"/>
+<link source="well" target="changed"/>
+<link source="well" target="take" value="2.0"/>
+<link source="well" target="via"/>
+<link source="well" target="job" value="3.0"/>
+<link source="well" target="use"/>
+<link source="well" target="last"/>
+<link source="well" target="next"/>
+<link source="well" target="issue" value="2.0"/>
+<link source="index" target="customers" value="2.0"/>
+<link source="index" target="prices"/>
+<link source="open" target="market"/>
+<link source="open" target="said"/>
+<link source="open" target="past"/>
+<link source="open" target="file" value="3.0"/>
+<link source="open" target="markets"/>
+<link source="open" target="order"/>
+<link source="proposal" target="proposal" value="2.0"/>
+<link source="proposal" target="Gas"/>
+<link source="proposal" target="filing"/>
+<link source="proposal" target="appropriate"/>
+<link source="trades" target="York" value="2.0"/>
+<link source="info" target="via"/>
+<link source="info" target="afternoon"/>
+<link source="know" target="help" value="2.0"/>
+<link source="know" target="more" value="2.0"/>
+<link source="know" target="Items"/>
+<link source="know" target="necessary"/>
+<link source="know" target="made" value="2.0"/>
+<link source="know" target="going" value="4.0"/>
+<link source="know" target="comments" value="4.0"/>
+<link source="know" target="some"/>
+<link source="know" target="today" value="3.0"/>
+<link source="know" target="yet"/>
+<link source="know" target="well"/>
+<link source="know" target="work"/>
+<link source="know" target="time"/>
+<link source="know" target="energy"/>
+<link source="know" target="info"/>
+<link source="know" target="know"/>
+<link source="know" target="contact"/>
+<link source="know" target="short"/>
+<link source="know" target="world" value="2.0"/>
+<link source="know" target="message"/>
+<link source="know" target="last"/>
+<link source="know" target="email" value="2.0"/>
+<link source="know" target="hear"/>
+<link source="know" target="date"/>
+<link source="know" target="Gas"/>
+<link source="know" target="problem"/>
+<link source="know" target="Let" value="2.0"/>
+<link source="know" target="Trading"/>
+<link source="know" target="changes"/>
+<link source="know" target="received" value="2.0"/>
+<link source="know" target="give" value="2.0"/>
+<link source="know" target="meeting" value="4.0"/>
+<link source="know" target="good"/>
+<link source="know" target="anyone"/>
+<link source="know" target="report"/>
+<link source="know" target="people"/>
+<link source="know" target="run"/>
+<link source="know" target="use" value="2.0"/>
+<link source="know" target="like" value="5.0"/>
+<link source="know" target="having"/>
+<link source="know" target="think" value="2.0"/>
+<link source="know" target="capacity"/>
+<link source="know" target="need" value="11.0"/>
+<link source="know" target="change"/>
+<link source="know" target="weeks"/>
+<link source="know" target="Management"/>
+<link source="know" target="later" value="2.0"/>
+<link source="know" target="customer"/>
+<link source="know" target="couple"/>
+<link source="know" target="Price"/>
+<link source="know" target="information" value="2.0"/>
+<link source="know" target="problems"/>
+<link source="know" target="right" value="2.0"/>
+<link source="know" target="questions" value="15.0"/>
+<link source="know" target="thing"/>
+<link source="know" target="start"/>
+<link source="know" target="system"/>
+<link source="discussed" target="trade"/>
+<link source="discussed" target="today"/>
+<link source="discussed" target="notify"/>
+<link source="discussed" target="need"/>
+<link source="discussed" target="Gas"/>
+<link source="discussed" target="using"/>
+<link source="discussed" target="comments" value="2.0"/>
+<link source="discussed" target="meeting" value="5.0"/>
+<link source="discussed" target="tomorrow" value="3.0"/>
+<link source="discussed" target="morning" value="2.0"/>
+<link source="discussed" target="time"/>
+<link source="discussed" target="order"/>
+<link source="using" target="today"/>
+<link source="using" target="Power"/>
+<link source="using" target="contract" value="2.0"/>
+<link source="using" target="required"/>
+<link source="using" target="time"/>
+<link source="America" target="Houston" value="13.0"/>
+<link source="America" target="Corp" value="9.0"/>
+<link source="America" target="issues"/>
+<link source="America" target="Texas" value="13.0"/>
+<link source="file" target="Commission" value="2.0"/>
+<link source="file" target="more"/>
+<link source="file" target="Let"/>
+<link source="file" target="know"/>
+<link source="file" target="looks"/>
+<link source="file" target="disclosure" value="6.0"/>
+<link source="file" target="like"/>
+<link source="file" target="room"/>
+<link source="file" target="required" value="2.0"/>
+<link source="want" target="Let"/>
+<link source="want" target="know" value="3.0"/>
+<link source="want" target="game"/>
+<link source="want" target="received" value="2.0"/>
+<link source="want" target="down" value="2.0"/>
+<link source="want" target="comments"/>
+<link source="want" target="message"/>
+<link source="want" target="some"/>
+<link source="want" target="make" value="3.0"/>
+<link source="want" target="making" value="2.0"/>
+<link source="want" target="physical" value="3.0"/>
+<link source="want" target="copies"/>
+<link source="want" target="copy"/>
+<link source="want" target="call"/>
+<link source="want" target="Agreement" value="2.0"/>
+<link source="want" target="use"/>
+<link source="want" target="Gas" value="2.0"/>
+<link source="want" target="having"/>
+<link source="want" target="points"/>
+<link source="want" target="sure"/>
+<link source="want" target="work" value="2.0"/>
+<link source="want" target="through" value="2.0"/>
+<link source="needed" target="demand"/>
+<link source="needed" target="Power" value="2.0"/>
+<link source="needed" target="under"/>
+<link source="needed" target="process"/>
+<link source="needed" target="deal"/>
+<link source="needed" target="time"/>
+<link source="needed" target="some"/>
+<link source="needed" target="through"/>
+<link source="desk" target="need"/>
+<link source="desk" target="Let"/>
+<link source="desk" target="related"/>
+<link source="desk" target="work"/>
+<link source="party" target="Saturday"/>
+<link source="party" target="process"/>
+<link source="party" target="agreements"/>
+<link source="party" target="enron"/>
+<link source="party" target="story"/>
+<link source="party" target="July"/>
+<link source="physical" target="need" value="2.0"/>
+<link source="physical" target="capacity"/>
+<link source="physical" target="delivery" value="2.0"/>
+<link source="physical" target="Agreement" value="12.0"/>
+<link source="physical" target="EOL"/>
+<link source="physical" target="Houston"/>
+<link source="physical" target="agreements" value="2.0"/>
+<link source="physical" target="points" value="2.0"/>
+<link source="physical" target="markets"/>
+<link source="physical" target="last" value="4.0"/>
+<link source="physical" target="Price"/>
+<link source="physical" target="information" value="2.0"/>
+<link source="copies" target="energy" value="2.0"/>
+<link source="copies" target="original"/>
+<link source="copies" target="Houston"/>
+<link source="copies" target="agreements"/>
+<link source="copies" target="message"/>
+<link source="hear" target="today"/>
+<link source="hear" target="ask"/>
+<link source="hear" target="more"/>
+<link source="hear" target="back"/>
+<link source="hear" target="later"/>
+<link source="hear" target="tomorrow" value="2.0"/>
+<link source="hear" target="information"/>
+<link source="working" target="more" value="2.0"/>
+<link source="working" target="day"/>
+<link source="working" target="year" value="2.0"/>
+<link source="working" target="big"/>
+<link source="working" target="customers"/>
+<link source="working" target="changes"/>
+<link source="working" target="California"/>
+<link source="working" target="hours"/>
+<link source="working" target="week" value="3.0"/>
+<link source="working" target="State" value="2.0"/>
+<link source="working" target="some"/>
+<link source="working" target="needed"/>
+<link source="working" target="final"/>
+<link source="working" target="provided"/>
+<link source="working" target="Agreement" value="2.0"/>
+<link source="working" target="transaction" value="2.0"/>
+<link source="working" target="enron"/>
+<link source="working" target="next" value="5.0"/>
+<link source="working" target="through"/>
+<link source="working" target="lunch"/>
+<link source="every" target="day" value="2.0"/>
+<link source="every" target="week"/>
+<link source="still" target="off" value="2.0"/>
+<link source="still" target="coming" value="2.0"/>
+<link source="still" target="provide"/>
+<link source="still" target="FERC"/>
+<link source="still" target="going" value="2.0"/>
+<link source="still" target="down" value="3.0"/>
+<link source="still" target="meeting"/>
+<link source="still" target="comments"/>
+<link source="still" target="under"/>
+<link source="still" target="like"/>
+<link source="still" target="having"/>
+<link source="still" target="Corp"/>
+<link source="still" target="lot"/>
+<link source="still" target="work"/>
+<link source="still" target="time"/>
+<link source="still" target="signed"/>
+<link source="still" target="several"/>
+<link source="still" target="response"/>
+<link source="still" target="Center"/>
+<link source="still" target="process"/>
+<link source="still" target="last" value="2.0"/>
+<link source="still" target="back"/>
+<link source="still" target="email" value="2.0"/>
+<link source="still" target="right"/>
+<link source="still" target="questions"/>
+<link source="still" target="way"/>
+<link source="still" target="then" value="2.0"/>
+<link source="account" target="Agreement"/>
+<link source="account" target="value"/>
+<link source="days" target="back"/>
+<link source="days" target="weeks"/>
+<link source="days" target="change" value="2.0"/>
+<link source="days" target="signed" value="2.0"/>
+<link source="days" target="energy" value="2.0"/>
+<link source="days" target="working" value="2.0"/>
+<link source="days" target="later" value="2.0"/>
+<link source="days" target="State" value="2.0"/>
+<link source="days" target="work" value="2.0"/>
+<link source="days" target="last"/>
+<link source="addition" target="desk"/>
+<link source="addition" target="prohibited"/>
+<link source="addition" target="State" value="2.0"/>
+<link source="addition" target="Price" value="2.0"/>
+<link source="addition" target="traders"/>
+<link source="problem" target="Let"/>
+<link source="problem" target="sell" value="2.0"/>
+<link source="problem" target="know"/>
+<link source="problem" target="way"/>
+<link source="problem" target="State" value="2.0"/>
+<link source="problem" target="issues"/>
+<link source="problem" target="lunch"/>
+<link source="lunch" target="day"/>
+<link source="lunch" target="provided"/>
+<link source="Trading" target="day" value="2.0"/>
+<link source="Trading" target="copy"/>
+<link source="Trading" target="energy" value="2.0"/>
+<link source="Trading" target="year" value="2.0"/>
+<link source="Trading" target="against" value="2.0"/>
+<link source="Trading" target="business" value="2.0"/>
+<link source="Trading" target="Agreement" value="2.0"/>
+<link source="Trading" target="customer"/>
+<link source="Trading" target="Gas" value="2.0"/>
+<link source="Trading" target="said" value="3.0"/>
+<link source="Trading" target="services"/>
+<link source="Trading" target="State" value="4.0"/>
+<link source="total" target="proposal"/>
+<link source="total" target="sale"/>
+<link source="total" target="market" value="2.0"/>
+<link source="total" target="still" value="2.0"/>
+<link source="total" target="story"/>
+<link source="total" target="July"/>
+<link source="original" target="back"/>
+<link source="original" target="send"/>
+<link source="original" target="Houston"/>
+<link source="original" target="way"/>
+<link source="original" target="message"/>
+<link source="big" target="off"/>
+<link source="big" target="party"/>
+<link source="big" target="line" value="3.0"/>
+<link source="big" target="energy" value="2.0"/>
+<link source="big" target="right"/>
+<link source="big" target="like"/>
+<link source="big" target="California" value="2.0"/>
+<link source="big" target="said" value="2.0"/>
+<link source="big" target="way" value="2.0"/>
+<link source="big" target="going"/>
+<link source="scheduled" target="discussed" value="2.0"/>
+<link source="scheduled" target="discuss"/>
+<link source="scheduled" target="meeting" value="2.0"/>
+<link source="scheduled" target="tomorrow"/>
+<link source="scheduled" target="morning"/>
+<link source="scheduled" target="July"/>
+<link source="changes" target="need"/>
+<link source="changes" target="day"/>
+<link source="changes" target="least" value="3.0"/>
+<link source="changes" target="necessary"/>
+<link source="changes" target="provide"/>
+<link source="changes" target="discussed"/>
+<link source="changes" target="office"/>
+<link source="changes" target="made" value="4.0"/>
+<link source="changes" target="document" value="2.0"/>
+<link source="changes" target="hours" value="2.0"/>
+<link source="changes" target="comments"/>
+<link source="changes" target="last" value="6.0"/>
+<link source="changes" target="information" value="2.0"/>
+<link source="changes" target="physical" value="4.0"/>
+<link source="changes" target="back"/>
+<link source="changes" target="against" value="6.0"/>
+<link source="changes" target="working"/>
+<link source="changes" target="Agreement" value="7.0"/>
+<link source="changes" target="morning" value="2.0"/>
+<link source="take" target="more" value="2.0"/>
+<link source="take" target="coming"/>
+<link source="take" target="business"/>
+<link source="take" target="State"/>
+<link source="take" target="some"/>
+<link source="take" target="make"/>
+<link source="take" target="back"/>
+<link source="take" target="still"/>
+<link source="take" target="like" value="2.0"/>
+<link source="take" target="love" value="2.0"/>
+<link source="take" target="Sunday"/>
+<link source="take" target="time" value="2.0"/>
+<link source="take" target="morning"/>
+<link source="take" target="open" value="3.0"/>
+<link source="said" target="demand"/>
+<link source="said" target="more" value="2.0"/>
+<link source="said" target="day"/>
+<link source="said" target="different" value="2.0"/>
+<link source="said" target="Power" value="3.0"/>
+<link source="said" target="never" value="4.0"/>
+<link source="said" target="looks"/>
+<link source="said" target="provide"/>
+<link source="said" target="office" value="2.0"/>
+<link source="said" target="access"/>
+<link source="said" target="made" value="2.0"/>
+<link source="said" target="services" value="2.0"/>
+<link source="said" target="State" value="3.0"/>
+<link source="said" target="meeting"/>
+<link source="said" target="today"/>
+<link source="said" target="against" value="2.0"/>
+<link source="said" target="Corp" value="3.0"/>
+<link source="said" target="think"/>
+<link source="said" target="past"/>
+<link source="said" target="sure"/>
+<link source="said" target="enron" value="6.0"/>
+<link source="said" target="work"/>
+<link source="said" target="time"/>
+<link source="said" target="capacity"/>
+<link source="said" target="sale"/>
+<link source="said" target="several"/>
+<link source="said" target="job" value="2.0"/>
+<link source="said" target="money" value="2.0"/>
+<link source="said" target="order" value="3.0"/>
+<link source="said" target="needed"/>
+<link source="said" target="called" value="2.0"/>
+<link source="said" target="Monday" value="4.0"/>
+<link source="said" target="contract"/>
+<link source="said" target="individual"/>
+<link source="received" target="notify" value="3.0"/>
+<link source="received" target="energy"/>
+<link source="received" target="review"/>
+<link source="received" target="delete" value="2.0"/>
+<link source="received" target="error" value="8.0"/>
+<link source="received" target="week"/>
+<link source="received" target="comments"/>
+<link source="received" target="want"/>
+<link source="received" target="message" value="7.0"/>
+<link source="received" target="last"/>
+<link source="received" target="July" value="2.0"/>
+<link source="received" target="sell" value="2.0"/>
+<link source="received" target="email" value="3.0"/>
+<link source="received" target="daily"/>
+<link source="received" target="notice" value="2.0"/>
+<link source="received" target="under"/>
+<link source="received" target="call"/>
+<link source="received" target="date"/>
+<link source="received" target="Agreement"/>
+<link source="received" target="sender" value="2.0"/>
+<link source="meeting" target="Power" value="2.0"/>
+<link source="meeting" target="review"/>
+<link source="meeting" target="scheduled"/>
+<link source="meeting" target="access"/>
+<link source="meeting" target="Houston"/>
+<link source="meeting" target="services"/>
+<link source="meeting" target="down"/>
+<link source="meeting" target="some"/>
+<link source="meeting" target="July" value="3.0"/>
+<link source="meeting" target="today" value="5.0"/>
+<link source="meeting" target="run"/>
+<link source="meeting" target="market" value="2.0"/>
+<link source="meeting" target="did"/>
+<link source="meeting" target="like"/>
+<link source="meeting" target="deal"/>
+<link source="meeting" target="afternoon"/>
+<link source="meeting" target="enron"/>
+<link source="meeting" target="sure"/>
+<link source="meeting" target="next"/>
+<link source="meeting" target="time"/>
+<link source="meeting" target="issues"/>
+<link source="meeting" target="need"/>
+<link source="meeting" target="weeks"/>
+<link source="meeting" target="discussed"/>
+<link source="meeting" target="add"/>
+<link source="meeting" target="discuss" value="3.0"/>
+<link source="meeting" target="week" value="2.0"/>
+<link source="meeting" target="tomorrow" value="3.0"/>
+<link source="meeting" target="prior" value="2.0"/>
+<link source="meeting" target="last"/>
+<link source="meeting" target="information"/>
+<link source="meeting" target="make"/>
+<link source="meeting" target="order"/>
+<link source="meeting" target="called"/>
+<link source="meeting" target="call"/>
+<link source="meeting" target="morning" value="4.0"/>
+<link source="BlackBerry" target="way"/>
+<link source="distribution" target="prohibited" value="2.0"/>
+<link source="distribution" target="email" value="3.0"/>
+<link source="distribution" target="Power" value="2.0"/>
+<link source="distribution" target="list" value="10.0"/>
+<link source="distribution" target="contact" value="3.0"/>
+<link source="distribution" target="customer"/>
+<link source="distribution" target="Gas"/>
+<link source="distribution" target="State" value="2.0"/>
+<link source="distribution" target="information" value="3.0"/>
+<link source="distribution" target="system" value="2.0"/>
+<link source="under" target="law"/>
+<link source="under" target="said" value="3.0"/>
+<link source="under" target="State"/>
+<link source="under" target="order"/>
+<link source="under" target="desk"/>
+<link source="under" target="hour" value="2.0"/>
+<link source="under" target="contracts" value="8.0"/>
+<link source="under" target="market"/>
+<link source="under" target="under" value="2.0"/>
+<link source="under" target="contract" value="2.0"/>
+<link source="under" target="transaction" value="2.0"/>
+<link source="under" target="agreements"/>
+<link source="under" target="open"/>
+<link source="think" target="help"/>
+<link source="think" target="take"/>
+<link source="think" target="going"/>
+<link source="think" target="down"/>
+<link source="think" target="comments"/>
+<link source="think" target="good" value="2.0"/>
+<link source="think" target="trade"/>
+<link source="think" target="own"/>
+<link source="think" target="yet" value="2.0"/>
+<link source="think" target="use"/>
+<link source="think" target="prices"/>
+<link source="think" target="having"/>
+<link source="think" target="deal"/>
+<link source="think" target="sure"/>
+<link source="think" target="work"/>
+<link source="think" target="time"/>
+<link source="think" target="need" value="2.0"/>
+<link source="think" target="game"/>
+<link source="think" target="want" value="2.0"/>
+<link source="think" target="last"/>
+<link source="think" target="Price"/>
+<link source="think" target="make" value="3.0"/>
+<link source="think" target="sell"/>
+<link source="think" target="back"/>
+<link source="think" target="right"/>
+<link source="think" target="call" value="2.0"/>
+<link source="think" target="Gas" value="2.0"/>
+<link source="think" target="ever"/>
+<link source="think" target="start" value="2.0"/>
+<link source="past" target="own" value="2.0"/>
+<link source="past" target="party"/>
+<link source="past" target="problems" value="2.0"/>
+<link source="past" target="Power" value="3.0"/>
+<link source="past" target="several"/>
+<link source="past" target="High"/>
+<link source="past" target="prices"/>
+<link source="past" target="future" value="3.0"/>
+<link source="past" target="paid"/>
+<link source="enron" target="Power" value="3.0"/>
+<link source="enron" target="transmission"/>
+<link source="enron" target="California" value="2.0"/>
+<link source="enron" target="Houston"/>
+<link source="enron" target="firm" value="2.0"/>
+<link source="enron" target="made"/>
+<link source="enron" target="received" value="2.0"/>
+<link source="enron" target="down"/>
+<link source="enron" target="comments" value="2.0"/>
+<link source="enron" target="Wholesale" value="7.0"/>
+<link source="enron" target="some"/>
+<link source="enron" target="East" value="2.0"/>
+<link source="enron" target="transaction"/>
+<link source="enron" target="index"/>
+<link source="enron" target="like" value="2.0"/>
+<link source="enron" target="Canada"/>
+<link source="enron" target="Corp" value="25.0"/>
+<link source="enron" target="past"/>
+<link source="enron" target="deal" value="3.0"/>
+<link source="enron" target="enron" value="52.0"/>
+<link source="enron" target="work" value="2.0"/>
+<link source="enron" target="through"/>
+<link source="enron" target="net" value="6.0"/>
+<link source="enron" target="energy" value="6.0"/>
+<link source="enron" target="law"/>
+<link source="enron" target="year"/>
+<link source="enron" target="several"/>
+<link source="enron" target="business" value="2.0"/>
+<link source="enron" target="Management"/>
+<link source="enron" target="Center"/>
+<link source="enron" target="America" value="24.0"/>
+<link source="enron" target="North" value="31.0"/>
+<link source="enron" target="last"/>
+<link source="enron" target="share"/>
+<link source="enron" target="order"/>
+<link source="enron" target="making"/>
+<link source="enron" target="right" value="2.0"/>
+<link source="enron" target="mail" value="2.0"/>
+<link source="enron" target="working"/>
+<link source="enron" target="available"/>
+<link source="issues" target="need"/>
+<link source="issues" target="right"/>
+<link source="issues" target="business"/>
+<link source="issues" target="contact" value="2.0"/>
+<link source="issues" target="use"/>
+<link source="issues" target="Agreement"/>
+<link source="issues" target="like" value="3.0"/>
+<link source="issues" target="California"/>
+<link source="issues" target="discuss"/>
+<link source="issues" target="lot" value="4.0"/>
+<link source="issues" target="meeting"/>
+<link source="issues" target="issues" value="2.0"/>
+<link source="confidential" target="off"/>
+<link source="confidential" target="business" value="2.0"/>
+<link source="confidential" target="use" value="3.0"/>
+<link source="confidential" target="intended" value="5.0"/>
+<link source="confidential" target="information" value="4.0"/>
+<link source="weeks" target="Commission"/>
+<link source="weeks" target="energy"/>
+<link source="weeks" target="questions"/>
+<link source="weeks" target="California" value="2.0"/>
+<link source="weeks" target="meeting"/>
+<link source="specific" target="signed" value="2.0"/>
+<link source="specific" target="contract" value="2.0"/>
+<link source="specific" target="want"/>
+<link source="year" target="final"/>
+<link source="year" target="weeks"/>
+<link source="year" target="law"/>
+<link source="year" target="contracts" value="2.0"/>
+<link source="year" target="High"/>
+<link source="year" target="several"/>
+<link source="year" target="under" value="2.0"/>
+<link source="year" target="date"/>
+<link source="year" target="way" value="2.0"/>
+<link source="year" target="story"/>
+<link source="year" target="available" value="2.0"/>
+<link source="year" target="July"/>
+<link source="game" target="know" value="2.0"/>
+<link source="response" target="received"/>
+<link source="response" target="week"/>
+<link source="response" target="next"/>
+<link source="Center" target="called"/>
+<link source="Center" target="right"/>
+<link source="Center" target="working"/>
+<link source="Center" target="Houston"/>
+<link source="Center" target="deal" value="2.0"/>
+<link source="Center" target="sure"/>
+<link source="Center" target="Friday"/>
+<link source="Center" target="make"/>
+<link source="Center" target="lunch"/>
+<link source="North" target="Houston" value="15.0"/>
+<link source="North" target="Gas"/>
+<link source="North" target="Corp" value="9.0"/>
+<link source="North" target="America" value="25.0"/>
+<link source="North" target="enron" value="4.0"/>
+<link source="North" target="story"/>
+<link source="North" target="Texas" value="2.0"/>
+<link source="North" target="July"/>
+<link source="order" target="day"/>
+<link source="order" target="least"/>
+<link source="order" target="know"/>
+<link source="order" target="business" value="3.0"/>
+<link source="order" target="without" value="2.0"/>
+<link source="order" target="made"/>
+<link source="order" target="document"/>
+<link source="order" target="said"/>
+<link source="order" target="process"/>
+<link source="order" target="State"/>
+<link source="order" target="always"/>
+<link source="order" target="some"/>
+<link source="order" target="order" value="2.0"/>
+<link source="order" target="July"/>
+<link source="order" target="run"/>
+<link source="order" target="market"/>
+<link source="order" target="agreements" value="2.0"/>
+<link source="order" target="enron"/>
+<link source="order" target="executed" value="3.0"/>
+<link source="order" target="immediately"/>
+<link source="make" target="York"/>
+<link source="make" target="off"/>
+<link source="make" target="day"/>
+<link source="make" target="Trading"/>
+<link source="make" target="big"/>
+<link source="make" target="Houston"/>
+<link source="make" target="proposed" value="2.0"/>
+<link source="make" target="State" value="2.0"/>
+<link source="make" target="comments"/>
+<link source="make" target="some"/>
+<link source="make" target="July"/>
+<link source="make" target="following"/>
+<link source="make" target="report" value="2.0"/>
+<link source="make" target="well" value="2.0"/>
+<link source="make" target="like"/>
+<link source="make" target="having" value="3.0"/>
+<link source="make" target="work"/>
+<link source="make" target="sure" value="16.0"/>
+<link source="make" target="time"/>
+<link source="make" target="change" value="2.0"/>
+<link source="make" target="later"/>
+<link source="make" target="message"/>
+<link source="make" target="physical" value="2.0"/>
+<link source="make" target="copies" value="2.0"/>
+<link source="make" target="right"/>
+<link source="make" target="send"/>
+<link source="make" target="delivery" value="2.0"/>
+<link source="make" target="Agreement" value="2.0"/>
+<link source="make" target="purchase" value="2.0"/>
+<link source="make" target="Friday"/>
+<link source="send" target="plan"/>
+<link source="send" target="contact"/>
+<link source="send" target="customer"/>
+<link source="send" target="Houston"/>
+<link source="send" target="last"/>
+<link source="send" target="message"/>
+<link source="send" target="some"/>
+<link source="send" target="Price"/>
+<link source="send" target="information"/>
+<link source="send" target="today"/>
+<link source="send" target="copy"/>
+<link source="send" target="email" value="6.0"/>
+<link source="send" target="list"/>
+<link source="send" target="Agreement"/>
+<link source="send" target="Corp"/>
+<link source="send" target="love"/>
+<link source="send" target="deal"/>
+<link source="send" target="morning"/>
+<link source="mail" target="week"/>
+<link source="delivery" target="points"/>
+<link source="delivery" target="message"/>
+<link source="love" target="York"/>
+<link source="love" target="hear"/>
+<link source="love" target="morning"/>
+<link source="love" target="good"/>
+<link source="love" target="make"/>
+<link source="November" target="customer"/>
+<link source="November" target="July" value="2.0"/>
+<link source="November" target="through" value="2.0"/>
+<link source="immediately" target="notify"/>
+<link source="immediately" target="copy"/>
+<link source="immediately" target="email" value="2.0"/>
+<link source="immediately" target="delete" value="4.0"/>
+<link source="immediately" target="sender"/>
+<link source="immediately" target="file"/>
+<link source="immediately" target="message" value="2.0"/>
+<link source="immediately" target="available"/>
+<link source="immediately" target="Price"/>
+<link source="immediately" target="currently"/>
+<link source="off" target="coming"/>
+<link source="off" target="line"/>
+<link source="off" target="Houston" value="2.0"/>
+<link source="off" target="State" value="2.0"/>
+<link source="off" target="Price"/>
+<link source="off" target="back"/>
+<link source="off" target="right"/>
+<link source="off" target="term"/>
+<link source="off" target="EOL"/>
+<link source="off" target="Gas"/>
+<link source="off" target="think"/>
+<link source="off" target="past"/>
+<link source="off" target="then" value="4.0"/>
+<link source="off" target="enron"/>
+<link source="off" target="time"/>
+<link source="off" target="system"/>
+<link source="necessary" target="energy" value="2.0"/>
+<link source="necessary" target="market" value="3.0"/>
+<link source="necessary" target="information"/>
+<link source="necessary" target="order"/>
+<link source="FERC" target="need"/>
+<link source="FERC" target="Trading"/>
+<link source="FERC" target="Power"/>
+<link source="FERC" target="coming"/>
+<link source="FERC" target="energy" value="2.0"/>
+<link source="FERC" target="least"/>
+<link source="FERC" target="plan"/>
+<link source="FERC" target="scheduled" value="4.0"/>
+<link source="FERC" target="California" value="2.0"/>
+<link source="FERC" target="approval"/>
+<link source="FERC" target="services"/>
+<link source="FERC" target="said" value="2.0"/>
+<link source="FERC" target="State"/>
+<link source="FERC" target="Price" value="3.0"/>
+<link source="FERC" target="order"/>
+<link source="FERC" target="report" value="2.0"/>
+<link source="FERC" target="July"/>
+<link source="FERC" target="prices"/>
+<link source="hard" target="amount"/>
+<link source="hard" target="deal"/>
+<link source="hard" target="give"/>
+<link source="hard" target="issues"/>
+<link source="hard" target="information"/>
+<link source="made" target="off"/>
+<link source="made" target="more"/>
+<link source="made" target="energy" value="2.0"/>
+<link source="made" target="Power"/>
+<link source="made" target="number"/>
+<link source="made" target="changes" value="2.0"/>
+<link source="made" target="transmission"/>
+<link source="made" target="office"/>
+<link source="made" target="document" value="2.0"/>
+<link source="made" target="money"/>
+<link source="made" target="some" value="3.0"/>
+<link source="made" target="people" value="2.0"/>
+<link source="made" target="back" value="4.0"/>
+<link source="made" target="future"/>
+<link source="made" target="purchase" value="2.0"/>
+<link source="made" target="November"/>
+<link source="made" target="enron"/>
+<link source="made" target="morning" value="2.0"/>
+<link source="made" target="available" value="2.0"/>
+<link source="document" target="changes"/>
+<link source="document" target="discussed"/>
+<link source="document" target="program"/>
+<link source="document" target="order"/>
+<link source="understand" target="off"/>
+<link source="understand" target="coming"/>
+<link source="understand" target="Power"/>
+<link source="understand" target="why" value="2.0"/>
+<link source="understand" target="transaction" value="2.0"/>
+<link source="understand" target="East"/>
+<link source="utility" target="more" value="2.0"/>
+<link source="utility" target="Power" value="4.0"/>
+<link source="utility" target="necessary" value="2.0"/>
+<link source="utility" target="transmission" value="2.0"/>
+<link source="utility" target="proposed" value="2.0"/>
+<link source="utility" target="paid" value="3.0"/>
+<link source="utility" target="file" value="2.0"/>
+<link source="utility" target="State" value="2.0"/>
+<link source="utility" target="Commission" value="2.0"/>
+<link source="utility" target="hour" value="2.0"/>
+<link source="utility" target="sell" value="3.0"/>
+<link source="utility" target="notice" value="2.0"/>
+<link source="utility" target="under" value="5.0"/>
+<link source="utility" target="Agreement" value="2.0"/>
+<link source="utility" target="prices"/>
+<link source="utility" target="agreements" value="3.0"/>
+<link source="utility" target="filing" value="4.0"/>
+<link source="utility" target="through" value="2.0"/>
+<link source="cash" target="desk"/>
+<link source="cash" target="Let"/>
+<link source="cash" target="required" value="2.0"/>
+<link source="Hey" target="back" value="2.0"/>
+<link source="Hey" target="going" value="3.0"/>
+<link source="Hey" target="anyone"/>
+<link source="CEO" target="Gas"/>
+<link source="CEO" target="pipeline"/>
+<link source="list" target="need"/>
+<link source="list" target="final"/>
+<link source="list" target="email" value="4.0"/>
+<link source="list" target="send"/>
+<link source="list" target="customers"/>
+<link source="list" target="use"/>
+<link source="list" target="access"/>
+<link source="list" target="discuss"/>
+<link source="list" target="traders"/>
+<link source="list" target="information"/>
+<link source="list" target="make"/>
+<link source="market" target="change" value="2.0"/>
+<link source="market" target="specific"/>
+<link source="market" target="Power" value="7.0"/>
+<link source="market" target="customers"/>
+<link source="market" target="changes"/>
+<link source="market" target="customer"/>
+<link source="market" target="services"/>
+<link source="market" target="said" value="2.0"/>
+<link source="market" target="State"/>
+<link source="market" target="Price" value="5.0"/>
+<link source="market" target="order"/>
+<link source="market" target="today"/>
+<link source="market" target="run"/>
+<link source="market" target="did" value="2.0"/>
+<link source="market" target="via"/>
+<link source="market" target="still" value="2.0"/>
+<link source="market" target="index"/>
+<link source="market" target="West"/>
+<link source="market" target="prices" value="4.0"/>
+<link source="market" target="past"/>
+<link source="market" target="immediately"/>
+<link source="old" target="room"/>
+<link source="old" target="file"/>
+<link source="transaction" target="physical" value="2.0"/>
+<link source="transaction" target="Power" value="2.0"/>
+<link source="transaction" target="Management"/>
+<link source="transaction" target="customers"/>
+<link source="transaction" target="using"/>
+<link source="transaction" target="information" value="2.0"/>
+<link source="transaction" target="system"/>
+<link source="responsible" target="future"/>
+<link source="responsible" target="intended" value="2.0"/>
+<link source="responsible" target="comments"/>
+<link source="responsible" target="message" value="2.0"/>
+<link source="agreements" target="copies" value="2.0"/>
+<link source="agreements" target="Power" value="2.0"/>
+<link source="agreements" target="customers"/>
+<link source="agreements" target="Agreement" value="2.0"/>
+<link source="agreements" target="services" value="6.0"/>
+<link source="agreements" target="America" value="2.0"/>
+<link source="agreements" target="North" value="2.0"/>
+<link source="agreements" target="enron" value="2.0"/>
+<link source="agreements" target="time"/>
+<link source="work" target="Let"/>
+<link source="work" target="more"/>
+<link source="work" target="day" value="3.0"/>
+<link source="work" target="Power"/>
+<link source="work" target="plan" value="4.0"/>
+<link source="work" target="review"/>
+<link source="work" target="number" value="2.0"/>
+<link source="work" target="necessary"/>
+<link source="work" target="State" value="6.0"/>
+<link source="work" target="some"/>
+<link source="work" target="like"/>
+<link source="work" target="work" value="3.0"/>
+<link source="work" target="confidential" value="2.0"/>
+<link source="work" target="through" value="2.0"/>
+<link source="work" target="business" value="2.0"/>
+<link source="work" target="contact"/>
+<link source="work" target="related"/>
+<link source="work" target="intended" value="2.0"/>
+<link source="work" target="make"/>
+<link source="work" target="information" value="2.0"/>
+<link source="work" target="order"/>
+<link source="work" target="needed"/>
+<link source="work" target="back"/>
+<link source="work" target="contract"/>
+<link source="work" target="future"/>
+<link source="work" target="days"/>
+<link source="Texas" target="party"/>
+<link source="Texas" target="Company"/>
+<link source="Texas" target="agreements"/>
+<link source="load" target="capacity"/>
+<link source="load" target="hour"/>
+<link source="load" target="under"/>
+<link source="load" target="paid"/>
+<link source="load" target="system"/>
+<link source="book" target="room"/>
+<link source="book" target="like"/>
+<link source="book" target="lunch"/>
+<link source="Company" target="approval" value="2.0"/>
+<link source="Company" target="FERC"/>
+<link source="Company" target="Gas" value="2.0"/>
+<link source="Company" target="State" value="2.0"/>
+<link source="law" target="Trading"/>
+<link source="law" target="under"/>
+<link source="law" target="use" value="2.0"/>
+<link source="law" target="job"/>
+<link source="law" target="Houston"/>
+<link source="law" target="anyone"/>
+<link source="contact" target="help"/>
+<link source="contact" target="Let"/>
+<link source="contact" target="different"/>
+<link source="contact" target="info"/>
+<link source="contact" target="review" value="2.0"/>
+<link source="contact" target="know"/>
+<link source="contact" target="Center"/>
+<link source="contact" target="comments" value="2.0"/>
+<link source="contact" target="information" value="3.0"/>
+<link source="contact" target="desk"/>
+<link source="contact" target="people"/>
+<link source="contact" target="email" value="2.0"/>
+<link source="contact" target="list"/>
+<link source="contact" target="call"/>
+<link source="contact" target="Agreement"/>
+<link source="contact" target="questions" value="4.0"/>
+<link source="contact" target="sender"/>
+<link source="add" target="more"/>
+<link source="add" target="list"/>
+<link source="add" target="prices"/>
+<link source="add" target="future"/>
+<link source="add" target="time"/>
+<link source="add" target="traders"/>
+<link source="add" target="following"/>
+<link source="without" target="need"/>
+<link source="without" target="proposal"/>
+<link source="without" target="total"/>
+<link source="without" target="Power" value="2.0"/>
+<link source="without" target="discussed"/>
+<link source="without" target="think"/>
+<link source="without" target="enron"/>
+<link source="without" target="story"/>
+<link source="without" target="time" value="3.0"/>
+<link source="without" target="July"/>
+<link source="without" target="system"/>
+<link source="agreed" target="says" value="2.0"/>
+<link source="agreed" target="currently" value="2.0"/>
+<link source="hours" target="more" value="3.0"/>
+<link source="hours" target="back"/>
+<link source="hours" target="Power" value="2.0"/>
+<link source="hours" target="bit"/>
+<link source="hours" target="contracts" value="2.0"/>
+<link source="hours" target="market"/>
+<link source="hours" target="under" value="2.0"/>
+<link source="hours" target="week"/>
+<link source="hours" target="Price" value="2.0"/>
+<link source="hours" target="through"/>
+<link source="Saturday" target="afternoon"/>
+<link source="Saturday" target="lot"/>
+<link source="Saturday" target="Sunday" value="2.0"/>
+<link source="Saturday" target="time"/>
+<link source="Saturday" target="morning"/>
+<link source="Saturday" target="July"/>
+<link source="message" target="notify" value="2.0"/>
+<link source="message" target="using"/>
+<link source="message" target="error" value="4.0"/>
+<link source="message" target="intended" value="6.0"/>
+<link source="message" target="information" value="3.0"/>
+<link source="message" target="given"/>
+<link source="message" target="use"/>
+<link source="message" target="like"/>
+<link source="message" target="sender" value="2.0"/>
+<link source="message" target="confidential"/>
+<link source="message" target="immediately" value="2.0"/>
+<link source="message" target="Friday"/>
+<link source="message" target="system" value="2.0"/>
+<link source="last" target="off" value="2.0"/>
+<link source="last" target="day" value="3.0"/>
+<link source="last" target="Power" value="2.0"/>
+<link source="last" target="looks"/>
+<link source="last" target="said"/>
+<link source="last" target="down" value="2.0"/>
+<link source="last" target="some"/>
+<link source="last" target="Commission"/>
+<link source="last" target="today"/>
+<link source="last" target="people"/>
+<link source="last" target="area"/>
+<link source="last" target="market"/>
+<link source="last" target="tell"/>
+<link source="last" target="under" value="2.0"/>
+<link source="last" target="having" value="2.0"/>
+<link source="last" target="sure"/>
+<link source="last" target="time" value="2.0"/>
+<link source="last" target="change"/>
+<link source="last" target="weeks"/>
+<link source="last" target="law"/>
+<link source="last" target="year" value="6.0"/>
+<link source="last" target="business" value="2.0"/>
+<link source="last" target="without"/>
+<link source="last" target="couple" value="2.0"/>
+<link source="last" target="week" value="14.0"/>
+<link source="last" target="file" value="2.0"/>
+<link source="last" target="prior"/>
+<link source="last" target="right"/>
+<link source="last" target="contract"/>
+<link source="last" target="date"/>
+<link source="last" target="way"/>
+<link source="last" target="then" value="5.0"/>
+<link source="last" target="morning" value="2.0"/>
+<link source="always" target="sell"/>
+<link source="always" target="take"/>
+<link source="share" target="State" value="2.0"/>
+<link source="called" target="Commission" value="2.0"/>
+<link source="called" target="today"/>
+<link source="called" target="energy" value="2.0"/>
+<link source="called" target="know"/>
+<link source="called" target="customer" value="2.0"/>
+<link source="called" target="going"/>
+<link source="called" target="meeting"/>
+<link source="called" target="order"/>
+<link source="called" target="Friday"/>
+<link source="date" target="capacity"/>
+<link source="date" target="year"/>
+<link source="date" target="big"/>
+<link source="date" target="changes"/>
+<link source="date" target="discussed"/>
+<link source="date" target="trade"/>
+<link source="date" target="party"/>
+<link source="date" target="needed"/>
+<link source="date" target="Agreement"/>
+<link source="date" target="purchase"/>
+<link source="date" target="time"/>
+<link source="date" target="through"/>
+<link source="date" target="open"/>
+<link source="EOL" target="specific"/>
+<link source="EOL" target="market"/>
+<link source="EOL" target="info"/>
+<link source="EOL" target="then"/>
+<link source="EOL" target="time"/>
+<link source="EOL" target="Price"/>
+<link source="Gas" target="off" value="2.0"/>
+<link source="Gas" target="day" value="3.0"/>
+<link source="Gas" target="Power" value="4.0"/>
+<link source="Gas" target="least"/>
+<link source="Gas" target="take" value="3.0"/>
+<link source="Gas" target="good"/>
+<link source="Gas" target="July" value="3.0"/>
+<link source="Gas" target="today"/>
+<link source="Gas" target="market"/>
+<link source="Gas" target="yet" value="2.0"/>
+<link source="Gas" target="prices"/>
+<link source="Gas" target="work" value="2.0"/>
+<link source="Gas" target="enron"/>
+<link source="Gas" target="story"/>
+<link source="Gas" target="next" value="2.0"/>
+<link source="Gas" target="time"/>
+<link source="Gas" target="open" value="3.0"/>
+<link source="Gas" target="need" value="4.0"/>
+<link source="Gas" target="energy"/>
+<link source="Gas" target="customer"/>
+<link source="Gas" target="Saturday"/>
+<link source="Gas" target="America" value="2.0"/>
+<link source="Gas" target="tomorrow"/>
+<link source="Gas" target="North" value="2.0"/>
+<link source="Gas" target="information" value="3.0"/>
+<link source="Gas" target="needed"/>
+<link source="Gas" target="physical" value="2.0"/>
+<link source="Gas" target="back"/>
+<link source="Gas" target="went"/>
+<link source="Gas" target="right" value="2.0"/>
+<link source="Gas" target="Monday"/>
+<link source="Gas" target="Agreement" value="2.0"/>
+<link source="Gas" target="EOL"/>
+<link source="Gas" target="Gas" value="2.0"/>
+<link source="Gas" target="pipeline" value="2.0"/>
+<link source="Gas" target="taking"/>
+<link source="Gas" target="morning" value="2.0"/>
+<link source="demand" target="Commission" value="2.0"/>
+<link source="demand" target="energy" value="2.0"/>
+<link source="demand" target="State"/>
+<link source="demand" target="July"/>
+<link source="basis" target="options"/>
+<link source="different" target="people"/>
+<link source="different" target="business"/>
+<link source="different" target="did"/>
+<link source="different" target="provide"/>
+<link source="different" target="ID"/>
+<link source="different" target="State"/>
+<link source="different" target="time"/>
+<link source="plan" target="sell" value="2.0"/>
+<link source="plan" target="Power"/>
+<link source="plan" target="sale" value="2.0"/>
+<link source="plan" target="review" value="2.0"/>
+<link source="plan" target="call"/>
+<link source="plan" target="office"/>
+<link source="plan" target="California"/>
+<link source="plan" target="said"/>
+<link source="plan" target="Corp"/>
+<link source="plan" target="State" value="2.0"/>
+<link source="plan" target="afternoon"/>
+<link source="plan" target="following"/>
+<link source="looks" target="day"/>
+<link source="looks" target="different"/>
+<link source="looks" target="pretty"/>
+<link source="looks" target="like" value="9.0"/>
+<link source="looks" target="thing"/>
+<link source="looks" target="approval"/>
+<link source="looks" target="going" value="4.0"/>
+<link source="looks" target="way"/>
+<link source="looks" target="give"/>
+<link source="looks" target="North"/>
+<link source="looks" target="last"/>
+<link source="looks" target="good" value="2.0"/>
+<link source="provide" target="demand"/>
+<link source="provide" target="Power" value="2.0"/>
+<link source="provide" target="business"/>
+<link source="provide" target="contact"/>
+<link source="provide" target="State" value="6.0"/>
+<link source="provide" target="report"/>
+<link source="provide" target="information" value="2.0"/>
+<link source="provide" target="today"/>
+<link source="provide" target="needed" value="2.0"/>
+<link source="provide" target="against"/>
+<link source="provide" target="under"/>
+<link source="provide" target="times"/>
+<link source="provide" target="call"/>
+<link source="provide" target="prices"/>
+<link source="provide" target="period"/>
+<link source="firm" target="Agreement"/>
+<link source="firm" target="America" value="2.0"/>
+<link source="firm" target="agreements" value="2.0"/>
+<link source="firm" target="North" value="2.0"/>
+<link source="firm" target="enron" value="2.0"/>
+<link source="down" target="off" value="2.0"/>
+<link source="down" target="day"/>
+<link source="down" target="energy"/>
+<link source="down" target="plan"/>
+<link source="down" target="several"/>
+<link source="down" target="early" value="2.0"/>
+<link source="down" target="customers"/>
+<link source="down" target="FERC"/>
+<link source="down" target="Center"/>
+<link source="down" target="said"/>
+<link source="down" target="hours"/>
+<link source="down" target="anyone"/>
+<link source="down" target="information"/>
+<link source="down" target="back" value="3.0"/>
+<link source="down" target="list"/>
+<link source="down" target="High" value="2.0"/>
+<link source="down" target="prices" value="3.0"/>
+<link source="down" target="then" value="4.0"/>
+<link source="down" target="time" value="2.0"/>
+<link source="down" target="status"/>
+<link source="down" target="lunch"/>
+<link source="Wholesale" target="year" value="2.0"/>
+<link source="Wholesale" target="market" value="2.0"/>
+<link source="Wholesale" target="last" value="2.0"/>
+<link source="good" target="Let"/>
+<link source="good" target="day" value="2.0"/>
+<link source="good" target="Power"/>
+<link source="good" target="said" value="2.0"/>
+<link source="good" target="access"/>
+<link source="good" target="going" value="2.0"/>
+<link source="good" target="meeting"/>
+<link source="good" target="markets" value="2.0"/>
+<link source="good" target="today"/>
+<link source="good" target="own"/>
+<link source="good" target="afternoon"/>
+<link source="good" target="time"/>
+<link source="good" target="energy"/>
+<link source="good" target="know"/>
+<link source="good" target="Management"/>
+<link source="good" target="job"/>
+<link source="good" target="week"/>
+<link source="good" target="want" value="2.0"/>
+<link source="good" target="hear"/>
+<link source="good" target="went"/>
+<link source="good" target="thing"/>
+<link source="good" target="Gas" value="2.0"/>
+<link source="good" target="way"/>
+<link source="good" target="love"/>
+<link source="good" target="morning" value="3.0"/>
+<link source="good" target="start"/>
+<link source="own" target="trade"/>
+<link source="own" target="more"/>
+<link source="own" target="problems" value="2.0"/>
+<link source="own" target="energy" value="2.0"/>
+<link source="own" target="Monday" value="2.0"/>
+<link source="own" target="contract" value="2.0"/>
+<link source="own" target="term"/>
+<link source="own" target="said" value="3.0"/>
+<link source="own" target="short"/>
+<link source="run" target="problems"/>
+<link source="run" target="provide"/>
+<link source="run" target="using"/>
+<link source="run" target="process"/>
+<link source="run" target="message"/>
+<link source="run" target="July"/>
+<link source="against" target="physical" value="4.0"/>
+<link source="against" target="Company" value="2.0"/>
+<link source="against" target="High"/>
+<link source="against" target="Agreement" value="6.0"/>
+<link source="against" target="short" value="3.0"/>
+<link source="against" target="last" value="6.0"/>
+<link source="against" target="next" value="3.0"/>
+<link source="question" target="day" value="2.0"/>
+<link source="question" target="why"/>
+<link source="question" target="know"/>
+<link source="question" target="down"/>
+<link source="question" target="want"/>
+<link source="question" target="work"/>
+<link source="question" target="next"/>
+<link source="question" target="some"/>
+<link source="use" target="Let"/>
+<link source="use" target="disclosure"/>
+<link source="use" target="customer"/>
+<link source="use" target="process"/>
+<link source="use" target="intended" value="3.0"/>
+<link source="use" target="message" value="2.0"/>
+<link source="use" target="distribution" value="3.0"/>
+<link source="use" target="some"/>
+<link source="use" target="make"/>
+<link source="use" target="desk"/>
+<link source="use" target="prohibited"/>
+<link source="use" target="daily"/>
+<link source="use" target="right"/>
+<link source="use" target="index"/>
+<link source="use" target="West"/>
+<link source="use" target="individual" value="2.0"/>
+<link source="use" target="work"/>
+<link source="use" target="time"/>
+<link source="use" target="confidential"/>
+<link source="use" target="system"/>
+<link source="Corp" target="mail" value="2.0"/>
+<link source="deal" target="signed" value="2.0"/>
+<link source="deal" target="change" value="2.0"/>
+<link source="deal" target="Power" value="2.0"/>
+<link source="deal" target="level"/>
+<link source="deal" target="changed"/>
+<link source="deal" target="California" value="2.0"/>
+<link source="deal" target="meeting"/>
+<link source="deal" target="Price"/>
+<link source="deal" target="July" value="2.0"/>
+<link source="deal" target="report"/>
+<link source="deal" target="sell" value="2.0"/>
+<link source="deal" target="market" value="2.0"/>
+<link source="deal" target="every" value="2.0"/>
+<link source="deal" target="still"/>
+<link source="deal" target="Gas"/>
+<link source="deal" target="pipeline"/>
+<link source="deal" target="deal"/>
+<link source="deal" target="afternoon"/>
+<link source="deal" target="morning"/>
+<link source="deal" target="issues"/>
+<link source="afternoon" target="Let"/>
+<link source="afternoon" target="know"/>
+<link source="afternoon" target="Sunday"/>
+<link source="afternoon" target="morning"/>
+<link source="afternoon" target="Friday"/>
+<link source="lot" target="right"/>
+<link source="lot" target="yet"/>
+<link source="lot" target="changes" value="2.0"/>
+<link source="lot" target="questions"/>
+<link source="lot" target="related"/>
+<link source="lot" target="made" value="2.0"/>
+<link source="lot" target="document" value="2.0"/>
+<link source="lot" target="Gas"/>
+<link source="lot" target="going"/>
+<link source="lot" target="process"/>
+<link source="lot" target="work"/>
+<link source="lot" target="time"/>
+<link source="through" target="book"/>
+<link source="through" target="energy" value="2.0"/>
+<link source="through" target="year"/>
+<link source="through" target="changes"/>
+<link source="through" target="add"/>
+<link source="through" target="transmission" value="2.0"/>
+<link source="through" target="utility" value="2.0"/>
+<link source="through" target="process"/>
+<link source="through" target="State" value="2.0"/>
+<link source="through" target="share"/>
+<link source="through" target="order"/>
+<link source="through" target="today"/>
+<link source="through" target="sell"/>
+<link source="through" target="final"/>
+<link source="through" target="contract" value="2.0"/>
+<link source="through" target="Agreement"/>
+<link source="through" target="like"/>
+<link source="through" target="purchase" value="2.0"/>
+<link source="through" target="program" value="2.0"/>
+<link source="through" target="system"/>
+<link source="through" target="Friday"/>
+<link source="sale" target="physical" value="2.0"/>
+<link source="sale" target="against" value="2.0"/>
+<link source="sale" target="contract"/>
+<link source="sale" target="changes" value="2.0"/>
+<link source="sale" target="Agreement" value="8.0"/>
+<link source="sale" target="agreements" value="2.0"/>
+<link source="sale" target="prior"/>
+<link source="sale" target="story"/>
+<link source="sale" target="make" value="2.0"/>
+<link source="sale" target="July"/>
+<link source="bit" target="more" value="2.0"/>
+<link source="approval" target="plan"/>
+<link source="approval" target="intended" value="3.0"/>
+<link source="couple" target="people"/>
+<link source="couple" target="back"/>
+<link source="couple" target="know"/>
+<link source="couple" target="times"/>
+<link source="couple" target="next"/>
+<link source="couple" target="days" value="2.0"/>
+<link source="week" target="Let" value="2.0"/>
+<link source="week" target="more"/>
+<link source="week" target="Thank"/>
+<link source="week" target="looks"/>
+<link source="week" target="necessary"/>
+<link source="week" target="access"/>
+<link source="week" target="some"/>
+<link source="week" target="following"/>
+<link source="week" target="Commission"/>
+<link source="week" target="market"/>
+<link source="week" target="did"/>
+<link source="week" target="Corp" value="2.0"/>
+<link source="week" target="deal"/>
+<link source="week" target="work" value="2.0"/>
+<link source="week" target="time"/>
+<link source="week" target="issues"/>
+<link source="week" target="know" value="3.0"/>
+<link source="week" target="business" value="2.0"/>
+<link source="week" target="discussed"/>
+<link source="week" target="hours"/>
+<link source="week" target="file" value="2.0"/>
+<link source="week" target="want"/>
+<link source="week" target="information"/>
+<link source="week" target="back"/>
+<link source="week" target="right" value="2.0"/>
+<link source="week" target="called" value="2.0"/>
+<link source="week" target="then"/>
+<link source="error" target="notify" value="4.0"/>
+<link source="error" target="email" value="2.0"/>
+<link source="error" target="review"/>
+<link source="error" target="delete" value="4.0"/>
+<link source="error" target="use" value="2.0"/>
+<link source="error" target="sender" value="3.0"/>
+<link source="error" target="distribution"/>
+<link source="error" target="message" value="2.0"/>
+<link source="error" target="immediately" value="4.0"/>
+<link source="error" target="system" value="2.0"/>
+<link source="back" target="off"/>
+<link source="back" target="line"/>
+<link source="back" target="changes"/>
+<link source="back" target="office"/>
+<link source="back" target="Houston" value="3.0"/>
+<link source="back" target="made"/>
+<link source="back" target="said"/>
+<link source="back" target="down"/>
+<link source="back" target="process"/>
+<link source="back" target="Saturday"/>
+<link source="back" target="want"/>
+<link source="back" target="State"/>
+<link source="back" target="some"/>
+<link source="back" target="right" value="2.0"/>
+<link source="back" target="yet"/>
+<link source="back" target="mail"/>
+<link source="back" target="working"/>
+<link source="back" target="term"/>
+<link source="back" target="Gas"/>
+<link source="back" target="Sunday" value="2.0"/>
+<link source="back" target="Edison"/>
+<link source="back" target="next"/>
+<link source="back" target="Friday"/>
+<link source="right" target="off" value="2.0"/>
+<link source="right" target="line"/>
+<link source="right" target="looks"/>
+<link source="right" target="term"/>
+<link source="right" target="like"/>
+<link source="right" target="Gas"/>
+<link source="right" target="future"/>
+<link source="right" target="way" value="3.0"/>
+<link source="right" target="then"/>
+<link source="right" target="enron" value="2.0"/>
+<link source="right" target="Price"/>
+<link source="provided" target="sell"/>
+<link source="provided" target="Power"/>
+<link source="provided" target="utility"/>
+<link source="Agreement" target="big"/>
+<link source="Agreement" target="changes" value="7.0"/>
+<link source="Agreement" target="take"/>
+<link source="Agreement" target="access"/>
+<link source="Agreement" target="copy"/>
+<link source="Agreement" target="against" value="6.0"/>
+<link source="Agreement" target="under" value="3.0"/>
+<link source="Agreement" target="use" value="2.0"/>
+<link source="Agreement" target="like"/>
+<link source="Agreement" target="transaction" value="3.0"/>
+<link source="Agreement" target="agreements" value="2.0"/>
+<link source="Agreement" target="points"/>
+<link source="Agreement" target="need" value="2.0"/>
+<link source="Agreement" target="sale" value="2.0"/>
+<link source="Agreement" target="customer"/>
+<link source="Agreement" target="approval"/>
+<link source="Agreement" target="agreed" value="2.0"/>
+<link source="Agreement" target="discuss"/>
+<link source="Agreement" target="hours"/>
+<link source="Agreement" target="last" value="6.0"/>
+<link source="Agreement" target="information" value="2.0"/>
+<link source="Agreement" target="physical" value="4.0"/>
+<link source="Agreement" target="Agreement" value="4.0"/>
+<link source="Agreement" target="options" value="2.0"/>
+<link source="Agreement" target="executed"/>
+<link source="required" target="Commission" value="2.0"/>
+<link source="required" target="law" value="2.0"/>
+<link source="required" target="amount" value="2.0"/>
+<link source="required" target="disclosure" value="2.0"/>
+<link source="required" target="State" value="2.0"/>
+<link source="required" target="some" value="2.0"/>
+<link source="required" target="Price"/>
+<link source="ever" target="Let"/>
+<link source="ever" target="need"/>
+<link source="ever" target="send"/>
+<link source="ever" target="know"/>
+<link source="ever" target="contact"/>
+<link source="ever" target="take"/>
+<link source="then" target="Let"/>
+<link source="then" target="need"/>
+<link source="then" target="signed" value="2.0"/>
+<link source="then" target="Company"/>
+<link source="then" target="looks"/>
+<link source="then" target="never"/>
+<link source="then" target="file"/>
+<link source="then" target="then" value="3.0"/>
+<link source="then" target="State" value="2.0"/>
+<link source="then" target="open" value="2.0"/>
+<link source="then" target="report"/>
+<link source="options" target="want"/>
+<link source="options" target="days" value="2.0"/>
+<link source="start" target="need" value="2.0"/>
+<link source="start" target="back"/>
+<link source="start" target="yet" value="2.0"/>
+<link source="start" target="call"/>
+<link source="start" target="date"/>
+<link source="start" target="Gas" value="2.0"/>
+<link source="start" target="then"/>
+<link source="start" target="work" value="2.0"/>
+<link source="start" target="sure"/></network>
+<network sourceType="Agent" source="agent" targetType="Agent" target="agent" id="agent x agent" isDirected="true" allowSelfLoops="true" isBinary="false">
+<link source="Jim" target="Jim"/>
+<link source="Jim" target="Joe"/>
+<link source="John" target="John" value="11.0"/>
+<link source="John" target="Jeff"/>
+<link source="John" target="Ken"/>
+<link source="Kim" target="Joe" value="2.0"/>
+<link source="Frank" target="Mark" value="2.0"/>
+<link source="Frank" target="Steve" value="2.0"/>
+<link source="Dan" target="Dan"/>
+<link source="Dan" target="Dave" value="2.0"/>
+<link source="Joe" target="John" value="2.0"/>
+<link source="Joe" target="Jeff" value="2.0"/>
+<link source="Joe" target="Joe"/>
+<link source="Joe" target="Bob"/>
+<link source="Joe" target="Steve"/>
+<link source="Mark" target="Mark" value="2.0"/>
+<link source="Bob" target="Chris"/>
+<link source="Mike" target="Mike"/>
+<link source="Chris" target="Chris" value="3.0"/>
+<link source="Chris" target="Smith"/>
+<link source="Ken" target="Ken"/>
+<link source="Steve" target="John"/>
+<link source="Steve" target="Jeff"/>
+<link source="Steve" target="Frank" value="2.0"/>
+<link source="Steve" target="Kim" value="3.0"/>
+<link source="Steve" target="Joe" value="3.0"/>
+<link source="Steve" target="Tom"/>
+<link source="Steve" target="Steve" value="7.0"/>
+<link source="Smith" target="James"/></network>
+<network sourceType="Unknown" source="concept" targetType="Agent" target="agent" id="concept x agent" isDirected="true" allowSelfLoops="true" isBinary="false">
+<link source="help" target="Kim" value="2.0"/>
+<link source="help" target="Karen"/>
+<link source="day" target="Kim"/>
+<link source="Trading" target="Bill" value="2.0"/>
+<link source="different" target="Joe"/>
+<link source="Power" target="Mike"/>
+<link source="looks" target="James"/>
+<link source="review" target="Kim"/>
+<link source="changes" target="Bill"/>
+<link source="changes" target="Frank"/>
+<link source="changes" target="Mark"/>
+<link source="take" target="Kim" value="2.0"/>
+<link source="received" target="Bill"/>
+<link source="received" target="Smith"/>
+<link source="said" target="Jim" value="2.0"/>
+<link source="said" target="Joe"/>
+<link source="said" target="Mike"/>
+<link source="proposed" target="Frank"/>
+<link source="proposed" target="Mark"/>
+<link source="going" target="Frank" value="2.0"/>
+<link source="going" target="James"/>
+<link source="State" target="Bill" value="3.0"/>
+<link source="comments" target="Dave" value="2.0"/>
+<link source="meeting" target="Mary"/>
+<link source="meeting" target="Chris" value="2.0"/>
+<link source="some" target="John"/>
+<link source="July" target="Steve"/>
+<link source="following" target="Jim"/>
+<link source="following" target="Frank"/>
+<link source="today" target="Mary" value="2.0"/>
+<link source="copy" target="Steve" value="3.0"/>
+<link source="did" target="Mary"/>
+<link source="did" target="Susan"/>
+<link source="tell" target="Michelle"/>
+<link source="via" target="Greg" value="2.0"/>
+<link source="under" target="Bill"/>
+<link source="like" target="James"/>
+<link source="well" target="Kim" value="2.0"/>
+<link source="think" target="Kim" value="3.0"/>
+<link source="think" target="Mike"/>
+<link source="think" target="Susan"/>
+<link source="enron" target="Smith" value="14.0"/>
+<link source="work" target="Tom"/>
+<link source="ask" target="Bill"/>
+<link source="ask" target="Michelle"/>
+<link source="need" target="Joe"/>
+<link source="info" target="Joe"/>
+<link source="know" target="Kim" value="2.0"/>
+<link source="know" target="Joe"/>
+<link source="know" target="Mike"/>
+<link source="contact" target="Sara"/>
+<link source="job" target="Frank"/>
+<link source="hours" target="Steve"/>
+<link source="Saturday" target="Frank" value="2.0"/>
+<link source="America" target="Smith" value="13.0"/>
+<link source="world" target="Joe"/>
+<link source="world" target="Bob"/>
+<link source="North" target="Smith" value="14.0"/>
+<link source="message" target="Steve"/>
+<link source="back" target="Kim"/>
+<link source="email" target="John"/>
+<link source="final" target="Bill"/>
+<link source="hear" target="Mary"/>
+<link source="call" target="Frank"/>
+<link source="call" target="Steve"/>
+<link source="call" target="Smith"/>
+<link source="still" target="Bob"/>
+<link source="questions" target="Frank"/>
+<link source="Agreement" target="Bill"/>
+<link source="Gas" target="Mike"/>
+<link source="Edison" target="Louise" value="2.0"/>
+<link source="available" target="Kim" value="4.0"/>
+<link source="lunch" target="Kim" value="4.0"/></network>
+<network sourceType="Agent" source="agent" targetType="Unknown" target="concept" id="agent x concept" isDirected="true" allowSelfLoops="true" isBinary="false">
+<link source="John" target="energy" value="2.0"/>
+<link source="John" target="info"/>
+<link source="John" target="office"/>
+<link source="John" target="discuss"/>
+<link source="John" target="week"/>
+<link source="John" target="going"/>
+<link source="John" target="comments"/>
+<link source="John" target="tomorrow"/>
+<link source="John" target="always"/>
+<link source="John" target="some"/>
+<link source="John" target="like"/>
+<link source="John" target="deal"/>
+<link source="John" target="responsible"/>
+<link source="John" target="time"/>
+<link source="Bill" target="yet"/>
+<link source="Bill" target="week"/>
+<link source="Bill" target="enron"/>
+<link source="Bill" target="last"/>
+<link source="Bill" target="requested" value="2.0"/>
+<link source="Frank" target="back"/>
+<link source="Frank" target="made"/>
+<link source="Frank" target="week"/>
+<link source="Frank" target="work"/>
+<link source="Frank" target="next"/>
+<link source="Dan" target="Agreement"/>
+<link source="Dan" target="says" value="2.0"/>
+<link source="Dan" target="issues"/>
+<link source="Mark" target="sale"/>
+<link source="Mark" target="made"/>
+<link source="Mark" target="said"/>
+<link source="Mark" target="enron" value="7.0"/>
+<link source="Mark" target="Wholesale" value="7.0"/>
+<link source="Dave" target="going"/>
+<link source="Mike" target="Let"/>
+<link source="Mike" target="Power"/>
+<link source="Mike" target="scheduled"/>
+<link source="Mike" target="know"/>
+<link source="Mike" target="discussed"/>
+<link source="Mike" target="response"/>
+<link source="Mike" target="using"/>
+<link source="Mike" target="Gas" value="3.0"/>
+<link source="Mike" target="received"/>
+<link source="Mike" target="time"/>
+<link source="Chris" target="Thank"/>
+<link source="Chris" target="meeting" value="2.0"/>
+<link source="Chris" target="enron"/>
+<link source="Chris" target="North"/>
+<link source="Chris" target="morning" value="2.0"/>
+<link source="Greg" target="called"/>
+<link source="Greg" target="call"/>
+<link source="Greg" target="Center"/>
+<link source="Greg" target="made"/>
+<link source="Greg" target="Price"/>
+<link source="Greg" target="Friday"/>
+<link source="Susan" target="yet"/>
+<link source="Susan" target="call"/>
+<link source="Susan" target="enron"/>
+<link source="Steve" target="Let"/>
+<link source="Steve" target="Monday"/>
+<link source="Steve" target="know" value="5.0"/>
+<link source="Steve" target="contract"/>
+<link source="Steve" target="responsible"/>
+<link source="Steve" target="issues"/>
+<link source="Smith" target="today"/>
+<link source="Smith" target="room" value="2.0"/>
+<link source="Smith" target="Houston" value="19.0"/>
+<link source="Smith" target="said" value="2.0"/>
+<link source="Smith" target="America"/>
+<link source="Smith" target="Texas" value="18.0"/>
+<link source="Jim" target="changes"/>
+<link source="Jim" target="provide"/>
+<link source="Jim" target="California" value="2.0"/>
+<link source="Jim" target="discuss"/>
+<link source="Jim" target="said" value="2.0"/>
+<link source="Jim" target="utility"/>
+<link source="Mary" target="called"/>
+<link source="Mary" target="date"/>
+<link source="Mary" target="office"/>
+<link source="Mary" target="going"/>
+<link source="Mary" target="down"/>
+<link source="Mary" target="status"/>
+<link source="Jeff" target="need"/>
+<link source="Jeff" target="more"/>
+<link source="Jeff" target="add"/>
+<link source="Jeff" target="following"/>
+<link source="Jeff" target="open"/>
+<link source="Michelle" target="need"/>
+<link source="Michelle" target="info"/>
+<link source="Michelle" target="discussed"/>
+<link source="Michelle" target="received"/>
+<link source="Michelle" target="meeting"/>
+<link source="Michelle" target="information"/>
+<link source="Sara" target="questions"/>
+<link source="Kim" target="review"/>
+<link source="Kim" target="know"/>
+<link source="Kim" target="going" value="2.0"/>
+<link source="Kim" target="comments" value="2.0"/>
+<link source="Kim" target="issues"/>
+<link source="Kim" target="some"/>
+<link source="Joe" target="need"/>
+<link source="Joe" target="copies"/>
+<link source="Joe" target="world"/>
+<link source="Joe" target="last"/>
+<link source="Tom" target="Price"/>
+<link source="Bob" target="energy"/>
+<link source="Bob" target="Agreement"/>
+<link source="Bob" target="Gas" value="6.0"/></network>
+</networks>
+</MetaNetwork>
+</DynamicMetaNetwork>
+

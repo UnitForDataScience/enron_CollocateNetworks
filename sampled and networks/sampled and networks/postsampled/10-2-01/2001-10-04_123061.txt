@@ -1,0 +1,7 @@
+
+ 
+ Cash P&L is now saved in Charlie directory on that path you gave me..
+ 
+  
+     
+  << File: Cash P&L.xls >> 
