@@ -1,0 +1,1120 @@
+<?xml version="1.0" standalone="yes"?>
+
+<DynamicMetaNetwork id="11-2-01 -modified">
+<MetaNetwork id="11-2-01 -modified">
+<propertyIdentities>
+<propertyIdentity id="Auto-Calculated-componentStatistics-dyadCount" type="number" singleValued="false"/>
+<propertyIdentity id="Auto-Calculated-componentStatistics-isolateCount" type="number" singleValued="false"/>
+<propertyIdentity id="Auto-Calculated-componentStatistics-triadCount" type="number" singleValued="false"/>
+<propertyIdentity id="Auto-Calculated-density" type="number" singleValued="false"/>
+<propertyIdentity id="Auto-Calculated-densityAutoDetect" type="number" singleValued="false"/>
+<propertyIdentity id="Auto-Calculated-diagonalEdgeStatistics-binary" type="number" singleValued="false"/>
+<propertyIdentity id="Auto-Calculated-diagonalEdgeStatistics-len" type="number" singleValued="false"/>
+<propertyIdentity id="Auto-Calculated-diagonalEdgeStatistics-max" type="number" singleValued="false"/>
+<propertyIdentity id="Auto-Calculated-diagonalEdgeStatistics-min" type="number" singleValued="false"/>
+<propertyIdentity id="Auto-Calculated-diagonalEdgeStatistics-sum" type="number" singleValued="false"/>
+<propertyIdentity id="Auto-Calculated-diagonalEdgeStatistics-sumOfSquares" type="number" singleValued="false"/>
+<propertyIdentity id="Auto-Calculated-largeComponentStats-binary" type="number" singleValued="false"/>
+<propertyIdentity id="Auto-Calculated-largeComponentStats-len" type="number" singleValued="false"/>
+<propertyIdentity id="Auto-Calculated-largeComponentStats-max" type="number" singleValued="false"/>
+<propertyIdentity id="Auto-Calculated-largeComponentStats-min" type="number" singleValued="false"/>
+<propertyIdentity id="Auto-Calculated-largeComponentStats-sum" type="number" singleValued="false"/>
+<propertyIdentity id="Auto-Calculated-largeComponentStats-sumOfSquares" type="number" singleValued="false"/>
+<propertyIdentity id="Auto-Calculated-nonDiagonalEdgeStatistics-binary" type="number" singleValued="false"/>
+<propertyIdentity id="Auto-Calculated-nonDiagonalEdgeStatistics-len" type="number" singleValued="false"/>
+<propertyIdentity id="Auto-Calculated-nonDiagonalEdgeStatistics-max" type="number" singleValued="false"/>
+<propertyIdentity id="Auto-Calculated-nonDiagonalEdgeStatistics-min" type="number" singleValued="false"/>
+<propertyIdentity id="Auto-Calculated-nonDiagonalEdgeStatistics-sum" type="number" singleValued="false"/>
+<propertyIdentity id="Auto-Calculated-nonDiagonalEdgeStatistics-sumOfSquares" type="number" singleValued="false"/>
+<propertyIdentity id="Auto-Calculated-symmetric" type="number" singleValued="false"/>
+<propertyIdentity id="Image Folder" type="text" singleValued="false"/></propertyIdentities>
+<properties>
+<property id="Auto-Calculated-symmetric" value="0.0"/>
+<property id="Auto-Calculated-density" value="0.018092105263157895"/>
+<property id="Auto-Calculated-densityAutoDetect" value="0.018092105263157895"/>
+<property id="Auto-Calculated-nonDiagonalEdgeStatistics-len" value="359"/>
+<property id="Auto-Calculated-nonDiagonalEdgeStatistics-binary" value="0.0"/>
+<property id="Auto-Calculated-nonDiagonalEdgeStatistics-min" value="8.000083923339844"/>
+<property id="Auto-Calculated-nonDiagonalEdgeStatistics-max" value="12.078246116638184"/>
+<property id="Auto-Calculated-nonDiagonalEdgeStatistics-sum" value="3196.0396614074707"/>
+<property id="Auto-Calculated-nonDiagonalEdgeStatistics-sumOfSquares" value="28668.309313227088"/>
+<property id="Auto-Calculated-diagonalEdgeStatistics-len" value="59"/>
+<property id="Auto-Calculated-diagonalEdgeStatistics-binary" value="0.0"/>
+<property id="Auto-Calculated-diagonalEdgeStatistics-min" value="8.006678581237793"/>
+<property id="Auto-Calculated-diagonalEdgeStatistics-max" value="12.188974380493164"/>
+<property id="Auto-Calculated-diagonalEdgeStatistics-sum" value="538.3183269500732"/>
+<property id="Auto-Calculated-diagonalEdgeStatistics-sumOfSquares" value="4948.6930166128"/>
+<property id="Auto-Calculated-componentStatistics-isolateCount" value="0"/>
+<property id="Auto-Calculated-componentStatistics-dyadCount" value="0"/>
+<property id="Auto-Calculated-componentStatistics-triadCount" value="0"/>
+<property id="Auto-Calculated-largeComponentStats-len" value="2"/>
+<property id="Auto-Calculated-largeComponentStats-binary" value="0.0"/>
+<property id="Auto-Calculated-largeComponentStats-min" value="4.0"/>
+<property id="Auto-Calculated-largeComponentStats-max" value="148.0"/>
+<property id="Auto-Calculated-largeComponentStats-sum" value="152.0"/>
+<property id="Auto-Calculated-largeComponentStats-sumOfSquares" value="21920.0"/>
+<property id="Image Folder" value="11-2-01 -modified images"/></properties>
+<nodes>
+<nodeclass type="Agent" id="Agent">
+<propertyIdentities>
+<propertyIdentity id="Centrality, Total-Degree" type="number" singleValued="true"/>
+<propertyIdentity id="newman" type="categoryNumber" singleValued="true"/>
+<propertyIdentity id="Type" type="categoryText" singleValued="false"/></propertyIdentities>
+<node id="prohibited">
+<property id="newman" value="1.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.036816224"/></node>
+<node id="exmerge">
+<property id="newman" value="2.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0076234117"/></node>
+<node id="short">
+<property id="newman" value="3.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.009485359"/></node>
+<node id="handheld">
+<property id="newman" value="4.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.011435249"/></node>
+<node id="utility">
+<property id="newman" value="5.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.009497171"/></node>
+<node id="oct">
+<property id="newman" value="6.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.012240055"/></node>
+<node id="delete">
+<property id="newman" value="1.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.04551637"/></node>
+<node id="currently">
+<property id="newman" value="7.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0067268754"/></node>
+<node id="load">
+<property id="newman" value="5.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0143456785"/></node>
+<node id="commission">
+<property id="newman" value="5.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.016146977"/></node>
+<node id="early">
+<property id="newman" value="6.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.014154045"/></node>
+<node id="says">
+<property id="newman" value="8.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0092329355"/></node>
+<node id="services">
+<property id="newman" value="9.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.009888176"/></node>
+<node id="lay">
+<property id="newman" value="10.0"/>
+<property id="Type" value="agent"/>
+<property id="Centrality, Total-Degree" value="0.011219246"/></node>
+<node id="error">
+<property id="newman" value="1.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.032709505"/></node>
+<node id="least">
+<property id="newman" value="5.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.009102772"/></node>
+<node id="correct">
+<property id="newman" value="10.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0069381455"/></node>
+<node id="bill">
+<property id="newman" value="2.0"/>
+<property id="Type" value="agent"/>
+<property id="Centrality, Total-Degree" value="0.004650555"/></node>
+<node id="next">
+<property id="newman" value="6.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.004342697"/></node>
+<node id="wireless">
+<property id="newman" value="4.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.011406546"/></node>
+<node id="transmission">
+<property id="newman" value="5.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.013921083"/></node>
+<node id="appropriate">
+<property id="newman" value="6.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0045751124"/></node>
+<node id="california">
+<property id="newman" value="5.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.009510256"/></node>
+<node id="different">
+<property id="newman" value="5.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.009237543"/></node>
+<node id="account">
+<property id="newman" value="10.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.007054824"/></node>
+<node id="mm">
+<property id="newman" value="6.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.017032875"/></node>
+<node id="own">
+<property id="newman" value="5.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0044233254"/></node>
+<node id="every">
+<property id="newman" value="10.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.009180992"/></node>
+<node id="signed">
+<property id="newman" value="5.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0069498844"/></node>
+<node id="final">
+<property id="newman" value="6.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0069484157"/></node>
+<node id="message">
+<property id="newman" value="1.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.029702984"/></node>
+<node id="html">
+<property id="newman" value="7.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.010063104"/></node>
+<node id="delivery">
+<property id="newman" value="7.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.014243183"/></node>
+<node id="bit">
+<property id="newman" value="10.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.004748253"/></node>
+<node id="immediately">
+<property id="newman" value="1.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.034951173"/></node>
+<node id="louise">
+<property id="newman" value="5.0"/>
+<property id="Type" value="agent"/>
+<property id="Centrality, Total-Degree" value="0.01165493"/></node>
+<node id="msn">
+<property id="newman" value="10.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.018750984"/></node>
+<node id="disclosure">
+<property id="newman" value="1.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.018891057"/></node>
+<node id="level">
+<property id="newman" value="5.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0069077676"/></node>
+<node id="susan">
+<property id="newman" value="6.0"/>
+<property id="Type" value="agent"/>
+<property id="Centrality, Total-Degree" value="0.0075746016"/></node>
+<node id="specific">
+<property id="newman" value="1.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.02095625"/></node>
+<node id="smith">
+<property id="newman" value="9.0"/>
+<property id="Type" value="agent"/>
+<property id="Centrality, Total-Degree" value="0.019977238"/></node>
+<node id="intended">
+<property id="newman" value="1.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.034995854"/></node>
+<node id="contracts">
+<property id="newman" value="6.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.009599979"/></node>
+<node id="requested">
+<property id="newman" value="6.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0045297574"/></node>
+<node id="basis">
+<property id="newman" value="11.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.008875296"/></node>
+<node id="desk">
+<property id="newman" value="6.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0094135245"/></node>
+<node id="john">
+<property id="newman" value="2.0"/>
+<property id="Type" value="agent"/>
+<property id="Centrality, Total-Degree" value="0.004633549"/></node>
+<node id="discuss">
+<property id="newman" value="11.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0044381423"/></node>
+<node id="using">
+<property id="newman" value="8.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0070129232"/></node>
+<node id="total">
+<property id="newman" value="11.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.012036007"/></node>
+<node id="past">
+<property id="newman" value="10.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0067601358"/></node>
+<node id="cows">
+<property id="newman" value="8.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.017160032"/></node>
+<node id="december">
+<property id="newman" value="6.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0065533365"/></node>
+<node id="friday">
+<property id="newman" value="11.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.006680187"/></node>
+<node id="eol">
+<property id="newman" value="10.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.00931449"/></node>
+<node id="importance">
+<property id="newman" value="6.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0052832467"/></node>
+<node id="scheduled">
+<property id="newman" value="11.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.006579613"/></node>
+<node id="individual">
+<property id="newman" value="1.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.026007049"/></node>
+<node id="sara">
+<property id="newman" value="9.0"/>
+<property id="Type" value="agent"/>
+<property id="Centrality, Total-Degree" value="0.015351738"/></node>
+<node id="july">
+<property id="newman" value="6.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.023874326"/></node>
+<node id="provided">
+<property id="newman" value="10.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.008835138"/></node>
+<node id="parties">
+<property id="newman" value="5.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.009324787"/></node>
+<node id="value">
+<property id="newman" value="5.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.009412911"/></node>
+<node id="download">
+<property id="newman" value="10.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.020641254"/></node>
+<node id="sunday">
+<property id="newman" value="11.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.004499004"/></node>
+<node id="report">
+<property id="newman" value="10.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0092774"/></node>
+<node id="options">
+<property id="newman" value="3.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0069987075"/></node>
+<node id="understand">
+<property id="newman" value="3.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0074584647"/></node>
+<node id="story">
+<property id="newman" value="10.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.010248665"/></node>
+<node id="appreciate">
+<property id="newman" value="10.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0044150385"/></node>
+<node id="sale">
+<property id="newman" value="11.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.005230304"/></node>
+<node id="corp">
+<property id="newman" value="9.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.00917634"/></node>
+<node id="items">
+<property id="newman" value="2.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.005157636"/></node>
+<node id="november">
+<property id="newman" value="11.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0043864413"/></node>
+<node id="changed">
+<property id="newman" value="7.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.006978562"/></node>
+<node id="sender">
+<property id="newman" value="1.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.04453779"/></node>
+<node id="notify">
+<property id="newman" value="1.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.038102917"/></node>
+<node id="pretty">
+<property id="newman" value="10.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0096331285"/></node>
+<node id="open">
+<property id="newman" value="6.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0068307"/></node>
+<node id="houston">
+<property id="newman" value="9.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.016854944"/></node>
+<node id="email">
+<property id="newman" value="1.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.013800625"/></node>
+<node id="dan">
+<property id="newman" value="6.0"/>
+<property id="Type" value="agent"/>
+<property id="Centrality, Total-Degree" value="0.013549719"/></node>
+<node id="york">
+<property id="newman" value="7.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0067606904"/></node>
+<node id="status">
+<property id="newman" value="10.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0044215713"/></node>
+<node id="received">
+<property id="newman" value="1.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.017354934"/></node>
+<node id="north">
+<property id="newman" value="9.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0201769"/></node>
+<node id="couple">
+<property id="newman" value="10.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0048371283"/></node>
+<node id="index">
+<property id="newman" value="7.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.023817066"/></node>
+<node id="confidential">
+<property id="newman" value="1.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.029548293"/></node>
+<node id="paid">
+<property id="newman" value="5.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.009246271"/></node>
+<node id="prices">
+<property id="newman" value="7.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.014166107"/></node>
+<node id="payment">
+<property id="newman" value="5.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0135037"/></node>
+<node id="high">
+<property id="newman" value="6.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0052446187"/></node>
+<node id="east">
+<property id="newman" value="5.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.009454087"/></node>
+<node id="document">
+<property id="newman" value="5.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.013669455"/></node>
+<node id="daily">
+<property id="newman" value="11.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.014160216"/></node>
+<node id="making">
+<property id="newman" value="3.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.007515781"/></node>
+<node id="karen">
+<property id="newman" value="6.0"/>
+<property id="Type" value="agent"/>
+<property id="Centrality, Total-Degree" value="0.009119757"/></node>
+<node id="book">
+<property id="newman" value="10.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0071051107"/></node>
+<node id="texas">
+<property id="newman" value="9.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.012593641"/></node>
+<node id="ever">
+<property id="newman" value="10.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0043962123"/></node>
+<node id="net">
+<property id="newman" value="4.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.008441713"/></node>
+<node id="against">
+<property id="newman" value="6.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0068212617"/></node>
+<node id="taking">
+<property id="newman" value="1.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.013286609"/></node>
+<node id="hard">
+<property id="newman" value="1.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.019363284"/></node>
+<node id="center">
+<property id="newman" value="9.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.011113828"/></node>
+<node id="transaction">
+<property id="newman" value="7.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0117449295"/></node>
+<node id="stacey">
+<property id="newman" value="6.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.02148623"/></node>
+<node id="world">
+<property id="newman" value="10.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0069845365"/></node>
+<node id="required">
+<property id="newman" value="6.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.009230056"/></node>
+<node id="law">
+<property id="newman" value="1.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.02603035"/></node>
+<node id="job">
+<property id="newman" value="10.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0069840346"/></node>
+<node id="ceo">
+<property id="newman" value="10.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.016337613"/></node>
+<node id="system">
+<property id="newman" value="1.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.022833474"/></node>
+<node id="state">
+<property id="newman" value="5.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.00962282"/></node>
+<node id="via">
+<property id="newman" value="8.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.007101132"/></node>
+<node id="original">
+<property id="newman" value="1.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.027420344"/></node>
+<node id="price">
+<property id="newman" value="7.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0044835224"/></node>
+<node id="west">
+<property id="newman" value="6.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0047992906"/></node>
+<node id="anyone">
+<property id="newman" value="11.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.00921409"/></node>
+<node id="customers">
+<property id="newman" value="5.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.011224695"/></node>
+<node id="afternoon">
+<property id="newman" value="11.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0066396855"/></node>
+<node id="blackberry">
+<property id="newman" value="4.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.016423302"/></node>
+<node id="use">
+<property id="newman" value="1.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.013709203"/></node>
+<node id="weeks">
+<property id="newman" value="10.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.009387899"/></node>
+<node id="hours">
+<property id="newman" value="7.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.011566917"/></node>
+<node id="copies">
+<property id="newman" value="1.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.026437419"/></node>
+<node id="purchase">
+<property id="newman" value="11.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.007387741"/></node>
+<node id="old">
+<property id="newman" value="10.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0044779945"/></node>
+<node id="wholesale">
+<property id="newman" value="9.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.013254677"/></node>
+<node id="saturday">
+<property id="newman" value="11.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0067893458"/></node>
+<node id="needed">
+<property id="newman" value="9.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0046152486"/></node>
+<node id="information">
+<property id="newman" value="1.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.009180944"/></node>
+<node id="responsible">
+<property id="newman" value="1.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.013828364"/></node>
+<node id="sell">
+<property id="newman" value="8.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.009424716"/></node>
+<node id="period">
+<property id="newman" value="7.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.01686538"/></node>
+<node id="edison">
+<property id="newman" value="5.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.018731654"/></node>
+<node id="hear">
+<property id="newman" value="10.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0043645445"/></node>
+<node id="amount">
+<property id="newman" value="11.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.016632522"/></node>
+<node id="proposal">
+<property id="newman" value="5.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.01890402"/></node>
+<node id="distribution">
+<property id="newman" value="1.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.018036587"/></node>
+<node id="company">
+<property id="newman" value="8.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.0044764783"/></node>
+<node id="trade">
+<property id="newman" value="10.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.006922107"/></node>
+<node id="lunch">
+<property id="newman" value="10.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.004415819"/></node>
+<node id="america">
+<property id="newman" value="9.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.012470881"/></node>
+<node id="asp">
+<property id="newman" value="10.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.020541785"/></node>
+<node id="dave">
+<property id="newman" value="5.0"/>
+<property id="Type" value="agent"/>
+<property id="Centrality, Total-Degree" value="0.004667737"/></node>
+<node id="joe">
+<property id="newman" value="10.0"/>
+<property id="Type" value="agent"/>
+<property id="Centrality, Total-Degree" value="0.013751841"/></node>
+<node id="party">
+<property id="newman" value="7.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.009823937"/></node>
+<node id="lisa">
+<property id="newman" value="6.0"/>
+<property id="Type" value="concept"/>
+<property id="Centrality, Total-Degree" value="0.00917644"/></node>
+<node id="bob">
+<property id="newman" value="6.0"/>
+<property id="Type" value="agent"/>
+<property id="Centrality, Total-Degree" value="0.0067950385"/></node>
+</nodeclass>
+</nodes>
+<networks>
+<network sourceType="Agent" source="Agent" targetType="Agent" target="Agent" id="Agent x Agent" isDirected="true" allowSelfLoops="true" isBinary="false" dynetmlUndirectedCompressed="false">
+<property id="Auto-Calculated-symmetric" value="0.0"/>
+<property id="Auto-Calculated-density" value="0.018092105263157895"/>
+<property id="Auto-Calculated-densityAutoDetect" value="0.018092105263157895"/>
+<property id="Auto-Calculated-nonDiagonalEdgeStatistics-len" value="359"/>
+<property id="Auto-Calculated-nonDiagonalEdgeStatistics-binary" value="0.0"/>
+<property id="Auto-Calculated-nonDiagonalEdgeStatistics-min" value="8.000083923339844"/>
+<property id="Auto-Calculated-nonDiagonalEdgeStatistics-max" value="12.078246116638184"/>
+<property id="Auto-Calculated-nonDiagonalEdgeStatistics-sum" value="3196.0396614074707"/>
+<property id="Auto-Calculated-nonDiagonalEdgeStatistics-sumOfSquares" value="28668.309313227088"/>
+<property id="Auto-Calculated-diagonalEdgeStatistics-len" value="59"/>
+<property id="Auto-Calculated-diagonalEdgeStatistics-binary" value="0.0"/>
+<property id="Auto-Calculated-diagonalEdgeStatistics-min" value="8.006678581237793"/>
+<property id="Auto-Calculated-diagonalEdgeStatistics-max" value="12.188974380493164"/>
+<property id="Auto-Calculated-diagonalEdgeStatistics-sum" value="538.3183269500732"/>
+<property id="Auto-Calculated-diagonalEdgeStatistics-sumOfSquares" value="4948.6930166128"/>
+<property id="Auto-Calculated-componentStatistics-isolateCount" value="0"/>
+<property id="Auto-Calculated-componentStatistics-dyadCount" value="0"/>
+<property id="Auto-Calculated-componentStatistics-triadCount" value="0"/>
+<property id="Auto-Calculated-largeComponentStats-len" value="2"/>
+<property id="Auto-Calculated-largeComponentStats-binary" value="0.0"/>
+<property id="Auto-Calculated-largeComponentStats-min" value="4.0"/>
+<property id="Auto-Calculated-largeComponentStats-max" value="148.0"/>
+<property id="Auto-Calculated-largeComponentStats-sum" value="152.0"/>
+<property id="Auto-Calculated-largeComponentStats-sumOfSquares" value="21920.0"/>
+<link source="lay" target="says" value="8.384349"/>
+<link source="lay" target="dan" value="8.199924"/>
+<link source="lay" target="ceo" value="8.199924"/>
+<link source="lay" target="lay" value="8.451464"/>
+<link source="trade" target="trade" value="8.535659"/>
+<link source="trade" target="eol" value="8.469569"/>
+<link source="trade" target="account" value="8.559906"/>
+<link source="scheduled" target="november" value="8.189093"/>
+<link source="scheduled" target="scheduled" value="8.024453"/>
+<link source="scheduled" target="different" value="8.086669"/>
+<link source="email" target="error" value="8.7016735"/>
+<link source="different" target="correct" value="8.768493"/>
+<link source="least" target="own" value="8.007279"/>
+<link source="least" target="commission" value="8.628768"/>
+<link source="least" target="load" value="8.592242"/>
+<link source="john" target="louise" value="8.463289"/>
+<link source="own" target="transmission" value="8.329207"/>
+<link source="book" target="correct" value="8.728304"/>
+<link source="book" target="mm" value="8.2047415"/>
+<link source="book" target="book" value="9.307972"/>
+<link source="disclosure" target="distribution" value="10.983848"/>
+<link source="disclosure" target="message" value="8.57543"/>
+<link source="disclosure" target="taking" value="10.694454"/>
+<link source="louise" target="louise" value="8.726323"/>
+<link source="changed" target="prices" value="8.010891"/>
+<link source="changed" target="changed" value="9.088893"/>
+<link source="load" target="parties" value="8.809834"/>
+<link source="load" target="load" value="9.91417"/>
+<link source="load" target="commission" value="8.476765"/>
+<link source="america" target="corp" value="8.864539"/>
+<link source="america" target="smith" value="8.960379"/>
+<link source="america" target="texas" value="9.332819"/>
+<link source="america" target="houston" value="8.326141"/>
+<link source="hours" target="period" value="8.692679"/>
+<link source="hours" target="delivery" value="8.2047415"/>
+<link source="hours" target="hours" value="8.920949"/>
+<link source="options" target="short" value="8.6499405"/>
+<link source="options" target="understand" value="8.716284"/>
+<link source="couple" target="hear" value="8.082969"/>
+<link source="couple" target="weeks" value="9.781799"/>
+<link source="early" target="open" value="8.08128"/>
+<link source="early" target="stacey" value="10.4223175"/>
+<link source="early" target="next" value="8.019353"/>
+<link source="early" target="december" value="8.159283"/>
+<link source="early" target="july" value="9.329207"/>
+<link source="document" target="signed" value="8.745104"/>
+<link source="document" target="proposal" value="8.542611"/>
+<link source="document" target="original" value="8.291073"/>
+<link source="document" target="document" value="8.604012"/>
+<link source="document" target="dave" value="8.196836"/>
+<link source="dan" target="importance" value="8.390608"/>
+<link source="dan" target="past" value="8.319223"/>
+<link source="dan" target="stacey" value="8.685351"/>
+<link source="dan" target="karen" value="8.177205"/>
+<link source="required" target="appropriate" value="8.896991"/>
+<link source="required" target="needed" value="8.155725"/>
+<link source="required" target="requested" value="8.18172"/>
+<link source="proposal" target="changed" value="8.673856"/>
+<link source="proposal" target="past" value="8.378118"/>
+<link source="proposal" target="edison" value="8.585047"/>
+<link source="lunch" target="download" value="8.171355"/>
+<link source="lunch" target="provided" value="8.137408"/>
+<link source="amount" target="daily" value="8.307898"/>
+<link source="amount" target="total" value="8.507206"/>
+<link source="amount" target="paid" value="8.062421"/>
+<link source="amount" target="amount" value="9.480734"/>
+<link source="mm" target="hard" value="8.372686"/>
+<link source="mm" target="mm" value="12.188974"/>
+<link source="mm" target="sell" value="8.44575"/>
+<link source="mm" target="july" value="8.712537"/>
+<link source="mm" target="required" value="8.854555"/>
+<link source="responsible" target="desk" value="8.517052"/>
+<link source="responsible" target="responsible" value="8.006679"/>
+<link source="responsible" target="delivery" value="9.360861"/>
+<link source="responsible" target="intended" value="8.260641"/>
+<link source="distribution" target="message" value="8.252573"/>
+<link source="distribution" target="prohibited" value="9.364136"/>
+<link source="distribution" target="taking" value="10.243842"/>
+<link source="december" target="final" value="8.043805"/>
+<link source="december" target="appropriate" value="8.000084"/>
+<link source="wireless" target="net" value="10.376642"/>
+<link source="wireless" target="blackberry" value="10.210349"/>
+<link source="wireless" target="handheld" value="11.281902"/>
+<link source="html" target="index" value="8.689204"/>
+<link source="html" target="html" value="9.761612"/>
+<link source="karen" target="karen" value="9.043453"/>
+<link source="karen" target="stacey" value="8.329207"/>
+<link source="discuss" target="proposal" value="8.381675"/>
+<link source="state" target="level" value="8.66941"/>
+<link source="anyone" target="via" value="8.143341"/>
+<link source="anyone" target="notify" value="8.920949"/>
+<link source="anyone" target="sender" value="8.71548"/>
+<link source="past" target="weeks" value="8.269593"/>
+<link source="total" target="amount" value="9.654047"/>
+<link source="total" target="total" value="9.185755"/>
+<link source="total" target="daily" value="8.986446"/>
+<link source="desk" target="karen" value="8.131762"/>
+<link source="delete" target="prohibited" value="9.035766"/>
+<link source="delete" target="disclosure" value="10.604956"/>
+<link source="delete" target="hard" value="8.928429"/>
+<link source="delete" target="system" value="8.317318"/>
+<link source="delete" target="email" value="8.051533"/>
+<link source="delete" target="taking" value="9.302494"/>
+<link source="delete" target="copies" value="9.477533"/>
+<link source="delete" target="use" value="8.093353"/>
+<link source="delete" target="original" value="9.237399"/>
+<link source="delete" target="distribution" value="10.127377"/>
+<link source="delete" target="message" value="8.725364"/>
+<link source="individual" target="law" value="10.579775"/>
+<link source="individual" target="state" value="8.673856"/>
+<link source="individual" target="sender" value="9.615228"/>
+<link source="individual" target="intended" value="9.705426"/>
+<link source="corp" target="report" value="8.150294"/>
+<link source="delivery" target="party" value="8.950036"/>
+<link source="delivery" target="period" value="9.354984"/>
+<link source="delivery" target="transaction" value="8.16454"/>
+<link source="west" target="desk" value="9.201024"/>
+<link source="contracts" target="contracts" value="9.427241"/>
+<link source="contracts" target="july" value="8.644472"/>
+<link source="contracts" target="oct" value="8.587022"/>
+<link source="period" target="period" value="9.105957"/>
+<link source="period" target="prices" value="9.630619"/>
+<link source="period" target="york" value="8.580866"/>
+<link source="period" target="index" value="8.571117"/>
+<link source="job" target="pretty" value="8.720399"/>
+<link source="job" target="july" value="8.066174"/>
+<link source="houston" target="texas" value="9.500905"/>
+<link source="customers" target="amount" value="8.008482"/>
+<link source="customers" target="customers" value="8.159162"/>
+<link source="specific" target="intended" value="9.627423"/>
+<link source="specific" target="law" value="10.764807"/>
+<link source="specific" target="individual" value="10.639276"/>
+<link source="copies" target="hard" value="8.814454"/>
+<link source="copies" target="notify" value="9.539595"/>
+<link source="copies" target="system" value="8.120881"/>
+<link source="copies" target="sender" value="8.3341255"/>
+<link source="copies" target="copies" value="8.78229"/>
+<link source="parties" target="parties" value="8.705497"/>
+<link source="hard" target="sender" value="8.98296"/>
+<link source="hard" target="notify" value="9.188429"/>
+<link source="hard" target="copies" value="9.608004"/>
+<link source="ever" target="hear" value="8.036426"/>
+<link source="ever" target="ceo" value="8.199924"/>
+<link source="prohibited" target="intended" value="9.062283"/>
+<link source="prohibited" target="specific" value="10.030206"/>
+<link source="prohibited" target="notify" value="8.476338"/>
+<link source="prohibited" target="immediately" value="8.243767"/>
+<link source="prohibited" target="sender" value="8.47732"/>
+<link source="prohibited" target="individual" value="9.845174"/>
+<link source="prohibited" target="confidential" value="9.468144"/>
+<link source="prohibited" target="error" value="8.740355"/>
+<link source="sale" target="oct" value="8.85672"/>
+<link source="pretty" target="msn" value="9.025253"/>
+<link source="pretty" target="pretty" value="8.696551"/>
+<link source="pretty" target="download" value="9.135436"/>
+<link source="status" target="appreciate" value="8.071192"/>
+<link source="status" target="old" value="8.258819"/>
+<link source="making" target="making" value="8.910895"/>
+<link source="taking" target="prohibited" value="10.152744"/>
+<link source="signed" target="louise" value="8.291387"/>
+<link source="story" target="story" value="10.520994"/>
+<link source="story" target="asp" value="10.340126"/>
+<link source="ceo" target="job" value="9.007279"/>
+<link source="ceo" target="ceo" value="8.948386"/>
+<link source="ceo" target="world" value="8.891803"/>
+<link source="ceo" target="lay" value="8.199924"/>
+<link source="price" target="prices" value="8.206811"/>
+<link source="price" target="period" value="8.352"/>
+<link source="index" target="delivery" value="8.568606"/>
+<link source="index" target="hours" value="8.420876"/>
+<link source="index" target="html" value="10.163135"/>
+<link source="index" target="index" value="8.78474"/>
+<link source="center" target="north" value="10.527015"/>
+<link source="center" target="center" value="11.424567"/>
+<link source="sara" target="wholesale" value="10.704717"/>
+<link source="sara" target="services" value="9.471227"/>
+<link source="sara" target="sara" value="8.891803"/>
+<link source="sara" target="smith" value="9.888155"/>
+<link source="sara" target="houston" value="9.241037"/>
+<link source="basis" target="story" value="8.23469"/>
+<link source="basis" target="basis" value="8.1003895"/>
+<link source="transaction" target="transmission" value="8.202675"/>
+<link source="transaction" target="transaction" value="9.213647"/>
+<link source="transaction" target="party" value="8.276676"/>
+<link source="appreciate" target="joe" value="8.23469"/>
+<link source="msn" target="download" value="9.419283"/>
+<link source="msn" target="msn" value="10.733598"/>
+<link source="msn" target="asp" value="11.025253"/>
+<link source="sunday" target="anyone" value="8.250257"/>
+<link source="short" target="making" value="8.827479"/>
+<link source="short" target="short" value="8.744063"/>
+<link source="short" target="understand" value="8.810406"/>
+<link source="understand" target="making" value="10.019353"/>
+<link source="exmerge" target="items" value="10.689204"/>
+<link source="exmerge" target="john" value="8.649609"/>
+<link source="exmerge" target="bill" value="8.816422"/>
+<link source="needed" target="center" value="8.889585"/>
+<link source="information" target="individual" value="8.454543"/>
+<link source="information" target="specific" value="8.406376"/>
+<link source="information" target="law" value="8.32134"/>
+<link source="account" target="account" value="8.994374"/>
+<link source="account" target="sara" value="8.501013"/>
+<link source="daily" target="amount" value="9.407433"/>
+<link source="daily" target="daily" value="8.912668"/>
+<link source="daily" target="index" value="8.4599"/>
+<link source="daily" target="basis" value="8.223008"/>
+<link source="weeks" target="old" value="8.279577"/>
+<link source="currently" target="html" value="8.551701"/>
+<link source="currently" target="index" value="8.2728405"/>
+<link source="download" target="download" value="9.281538"/>
+<link source="download" target="asp" value="10.882669"/>
+<link source="download" target="msn" value="12.078246"/>
+<link source="sell" target="sell" value="8.287488"/>
+<link source="sell" target="using" value="8.898922"/>
+<link source="company" target="utility" value="8.278835"/>
+<link source="sender" target="original" value="9.859526"/>
+<link source="sender" target="email" value="8.789137"/>
+<link source="sender" target="sender" value="8.502631"/>
+<link source="sender" target="use" value="8.720774"/>
+<link source="sender" target="immediately" value="10.046685"/>
+<link source="sender" target="copies" value="8.514697"/>
+<link source="sender" target="state" value="9.608564"/>
+<link source="sender" target="delete" value="9.682565"/>
+<link source="system" target="stacey" value="8.880747"/>
+<link source="system" target="copies" value="8.120881"/>
+<link source="system" target="hard" value="8.769716"/>
+<link source="system" target="sender" value="8.289387"/>
+<link source="system" target="notify" value="8.494856"/>
+<link source="law" target="intended" value="9.514483"/>
+<link source="law" target="delete" value="10.27938"/>
+<link source="law" target="message" value="8.249854"/>
+<link source="law" target="disclosure" value="10.390424"/>
+<link source="world" target="every" value="8.012096"/>
+<link source="world" target="ceo" value="8.891803"/>
+<link source="july" target="signed" value="8.631236"/>
+<link source="july" target="contracts" value="8.796475"/>
+<link source="july" target="july" value="9.821061"/>
+<link source="july" target="oct" value="9.026645"/>
+<link source="july" target="open" value="8.573133"/>
+<link source="afternoon" target="discuss" value="8.009536"/>
+<link source="afternoon" target="joe" value="8.442495"/>
+<link source="open" target="july" value="8.573133"/>
+<link source="eol" target="provided" value="8.328707"/>
+<link source="eol" target="eol" value="9.273845"/>
+<link source="eol" target="parties" value="8.328707"/>
+<link source="via" target="system" value="8.617713"/>
+<link source="lisa" target="stacey" value="8.08128"/>
+<link source="lisa" target="lisa" value="9.647134"/>
+<link source="paid" target="different" value="8.961138"/>
+<link source="paid" target="paid" value="9.036426"/>
+<link source="bob" target="lisa" value="8.08128"/>
+<link source="bob" target="bob" value="8.744246"/>
+<link source="bob" target="dan" value="8.270314"/>
+<link source="east" target="desk" value="8.916749"/>
+<link source="east" target="transmission" value="8.950696"/>
+<link source="east" target="east" value="8.835218"/>
+<link source="east" target="load" value="8.213731"/>
+<link source="bill" target="items" value="8.3592825"/>
+<link source="provided" target="payment" value="8.054946"/>
+<link source="provided" target="bit" value="8.109394"/>
+<link source="smith" target="texas" value="9.721384"/>
+<link source="smith" target="smith" value="8.064848"/>
+<link source="smith" target="houston" value="9.420646"/>
+<link source="blackberry" target="blackberry" value="9.258443"/>
+<link source="blackberry" target="wireless" value="10.258443"/>
+<link source="blackberry" target="net" value="10.388817"/>
+<link source="blackberry" target="handheld" value="10.2937765"/>
+<link source="received" target="delete" value="9.051533"/>
+<link source="received" target="immediately" value="9.152619"/>
+<link source="received" target="original" value="9.095227"/>
+<link source="received" target="sender" value="9.009103"/>
+<link source="received" target="notify" value="9.4921055"/>
+<link source="received" target="error" value="10.052171"/>
+<link source="every" target="bit" value="9.4271345"/>
+<link source="every" target="weeks" value="8.340978"/>
+<link source="every" target="correct" value="8.127574"/>
+<link source="north" target="texas" value="9.0465145"/>
+<link source="north" target="houston" value="8.004213"/>
+<link source="north" target="center" value="10.205087"/>
+<link source="north" target="smith" value="8.638451"/>
+<link source="north" target="america" value="10.57432"/>
+<link source="north" target="north" value="8.980312"/>
+<link source="north" target="corp" value="8.542611"/>
+<link source="use" target="prohibited" value="8.303145"/>
+<link source="level" target="parties" value="8.594821"/>
+<link source="handheld" target="net" value="10.411976"/>
+<link source="handheld" target="blackberry" value="10.245682"/>
+<link source="final" target="final" value="9.51329"/>
+<link source="final" target="document" value="8.1052065"/>
+<link source="says" target="cows" value="8.813192"/>
+<link source="edison" target="customers" value="8.20918"/>
+<link source="edison" target="value" value="8.964894"/>
+<link source="edison" target="early" value="8.263119"/>
+<link source="edison" target="edison" value="9.425848"/>
+<link source="edison" target="commission" value="8.147641"/>
+<link source="edison" target="proposal" value="9.585047"/>
+<link source="dave" target="proposal" value="9.042327"/>
+<link source="commission" target="commission" value="8.191362"/>
+<link source="commission" target="customers" value="8.767474"/>
+<link source="commission" target="proposal" value="8.628768"/>
+<link source="against" target="index" value="8.410344"/>
+<link source="against" target="against" value="8.258342"/>
+<link source="against" target="west" value="8.524001"/>
+<link source="intended" target="law" value="9.514483"/>
+<link source="intended" target="delete" value="9.218617"/>
+<link source="intended" target="disclosure" value="9.945028"/>
+<link source="intended" target="responsible" value="8.260641"/>
+<link source="intended" target="individual" value="9.810779"/>
+<link source="intended" target="distribution" value="9.389447"/>
+<link source="intended" target="specific" value="9.573984"/>
+<link source="stacey" target="susan" value="10.30684"/>
+<link source="stacey" target="lisa" value="8.08128"/>
+<link source="stacey" target="requested" value="8.547848"/>
+<link source="error" target="use" value="8.083344"/>
+<link source="error" target="original" value="9.981517"/>
+<link source="error" target="immediately" value="10.368613"/>
+<link source="error" target="system" value="8.382496"/>
+<link source="error" target="copies" value="8.749163"/>
+<link source="error" target="sender" value="9.843668"/>
+<link source="error" target="delete" value="10.267528"/>
+<link source="error" target="notify" value="10.293062"/>
+<link source="payment" target="edison" value="8.000084"/>
+<link source="payment" target="louise" value="8.726323"/>
+<link source="payment" target="payment" value="8.311286"/>
+<link source="payment" target="paid" value="8.088893"/>
+<link source="york" target="currently" value="8.019554"/>
+<link source="importance" target="high" value="11.121792"/>
+<link source="asp" target="msn" value="8.465826"/>
+<link source="asp" target="asp" value="8.834055"/>
+<link source="asp" target="report" value="8.913044"/>
+<link source="asp" target="story" value="8.755164"/>
+<link source="asp" target="download" value="8.650009"/>
+<link source="oct" target="corp" value="8.333158"/>
+<link source="oct" target="oct" value="10.402154"/>
+<link source="message" target="prohibited" value="8.188443"/>
+<link source="message" target="taking" value="8.677359"/>
+<link source="message" target="specific" value="8.309355"/>
+<link source="message" target="intended" value="8.03155"/>
+<link source="message" target="disclosure" value="8.57543"/>
+<link source="message" target="individual" value="8.736253"/>
+<link source="message" target="responsible" value="8.665863"/>
+<link source="message" target="distribution" value="8.252573"/>
+<link source="message" target="confidential" value="8.460773"/>
+<link source="cows" target="says" value="8.813192"/>
+<link source="cows" target="using" value="8.465269"/>
+<link source="cows" target="cows" value="10.389808"/>
+<link source="cows" target="via" value="9.465269"/>
+<link source="cows" target="sell" value="9.175762"/>
+<link source="cows" target="company" value="8.253961"/>
+<link source="utility" target="load" value="8.975571"/>
+<link source="utility" target="least" value="8.390608"/>
+<link source="wholesale" target="services" value="9.771328"/>
+<link source="wholesale" target="texas" value="8.909962"/>
+<link source="wholesale" target="houston" value="9.450843"/>
+<link source="wholesale" target="smith" value="10.116107"/>
+<link source="notify" target="sender" value="10.845604"/>
+<link source="notify" target="email" value="8.714498"/>
+<link source="notify" target="original" value="10.186986"/>
+<link source="notify" target="immediately" value="10.42208"/>
+<link source="notify" target="delete" value="9.775559"/>
+<link source="notify" target="use" value="8.926243"/>
+<link source="high" target="level" value="8.247946"/>
+<link source="transmission" target="transmission" value="9.388102"/>
+<link source="transmission" target="error" value="8.415919"/>
+<link source="transmission" target="mm" value="8.127574"/>
+<link source="next" target="stacey" value="8.019353"/>
+<link source="original" target="prohibited" value="9.447192"/>
+<link source="original" target="email" value="8.337428"/>
+<link source="original" target="options" value="8.481818"/>
+<link source="original" target="use" value="8.504779"/>
+<link source="immediately" target="original" value="9.847499"/>
+<link source="immediately" target="hard" value="8.848943"/>
+<link source="immediately" target="notify" value="8.474547"/>
+<link source="immediately" target="system" value="8.335942"/>
+<link source="immediately" target="prohibited" value="9.136851"/>
+<link source="immediately" target="delete" value="9.927059"/>
+<link source="immediately" target="email" value="8.375011"/>
+<link source="immediately" target="copies" value="9.57862"/>
+<link source="california" target="commission" value="8.794191"/>
+<link source="california" target="state" value="8.587741"/>
+<link source="california" target="utility" value="9.430501"/>
+<link source="california" target="customers" value="8.31141"/>
+<link source="services" target="smith" value="8.971153"/>
+<link source="services" target="houston" value="8.305889"/>
+<link source="report" target="says" value="8.088893"/>
+<link source="report" target="report" value="9.111613"/>
+<link source="friday" target="afternoon" value="8.070049"/>
+<link source="friday" target="saturday" value="8.59044"/>
+<link source="friday" target="november" value="8.011173"/>
+<link source="party" target="transaction" value="9.519532"/>
+<link source="party" target="party" value="9.536102"/>
+<link source="confidential" target="individual" value="9.990463"/>
+<link source="confidential" target="notify" value="8.9731"/>
+<link source="confidential" target="immediately" value="8.325491"/>
+<link source="confidential" target="law" value="9.985934"/>
+<link source="confidential" target="sender" value="8.652154"/>
+<link source="confidential" target="received" value="8.243514"/>
+<link source="confidential" target="error" value="8.925172"/>
+<link source="confidential" target="information" value="8.72535"/>
+<link source="confidential" target="specific" value="10.045435"/>
+<link source="confidential" target="intended" value="9.333978"/>
+<link source="using" target="law" value="8.536352"/>
+<link source="susan" target="susan" value="9.51329"/>
+<link source="purchase" target="sale" value="10.460149"/>
+<link source="purchase" target="purchase" value="8.604012"/>
+<link source="purchase" target="basis" value="8.220683"/>
+<link source="saturday" target="total" value="8.118641"/>
+<link source="saturday" target="sunday" value="8.365733"/>
+<link source="prices" target="york" value="8.368562"/>
+<link source="prices" target="hours" value="8.480376"/>
+<link source="prices" target="index" value="9.621848"/>
+<link source="joe" target="louise" value="8.837355"/>
+<link source="joe" target="msn" value="8.504779"/>
+<link source="joe" target="download" value="8.614963"/>
+<link source="joe" target="susan" value="8.154837"/>
+<link source="value" target="different" value="8.3003435"/>
+<link source="value" target="value" value="8.807947"/>
+<link source="value" target="payment" value="8.6911335"/></network>
+</networks>
+</MetaNetwork>
+</DynamicMetaNetwork>
+
