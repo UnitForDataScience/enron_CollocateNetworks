@@ -1,0 +1,3319 @@
+<?xml version="1.0" standalone="yes"?>
+
+<DynamicMetaNetwork id="2007">
+<MetaNetwork id="2007">
+<nodes>
+<nodeclass type="Agent" id="Agent">
+<propertyIdentities>
+<propertyIdentity id="Centrality, Total-Degree" type="number" singleValued="true"/>
+<propertyIdentity id="newman" type="categoryNumber" singleValued="true"/></propertyIdentities>
+<node id="human">
+<property id="Centrality, Total-Degree" value="0.11128"/>
+<property id="newman" value="1.0"/></node>
+<node id="gut">
+<property id="Centrality, Total-Degree" value="0.11471"/>
+<property id="newman" value="2.0"/></node>
+<node id="distal">
+<property id="Centrality, Total-Degree" value="0.01831"/>
+<property id="newman" value="2.0"/></node>
+<node id="genomes">
+<property id="Centrality, Total-Degree" value="0.06336"/>
+<property id="newman" value="2.0"/></node>
+<node id="gnotobiotic">
+<property id="Centrality, Total-Degree" value="0.01892"/>
+<property id="newman" value="2.0"/></node>
+<node id="mice">
+<property id="Centrality, Total-Degree" value="0.05166"/>
+<property id="newman" value="2.0"/></node>
+<node id="sequenced">
+<property id="Centrality, Total-Degree" value="0.03828"/>
+<property id="newman" value="2.0"/></node>
+<node id="metabolism">
+<property id="Centrality, Total-Degree" value="0.04487"/>
+<property id="newman" value="3.0"/></node>
+<node id="analysis">
+<property id="Centrality, Total-Degree" value="0.08059"/>
+<property id="newman" value="4.0"/></node>
+<node id="data">
+<property id="Centrality, Total-Degree" value="0.07847"/>
+<property id="newman" value="4.0"/></node>
+<node id="gastrointestinal">
+<property id="Centrality, Total-Degree" value="0.0169"/>
+<property id="newman" value="1.0"/></node>
+<node id="tract">
+<property id="Centrality, Total-Degree" value="0.0267"/>
+<property id="newman" value="1.0"/></node>
+<node id="disease">
+<property id="Centrality, Total-Degree" value="0.06747"/>
+<property id="newman" value="3.0"/></node>
+<node id="host">
+<property id="Centrality, Total-Degree" value="0.07388"/>
+<property id="newman" value="3.0"/></node>
+<node id="immune">
+<property id="Centrality, Total-Degree" value="0.03314"/>
+<property id="newman" value="3.0"/></node>
+<node id="intestinal">
+<property id="Centrality, Total-Degree" value="0.05781"/>
+<property id="newman" value="3.0"/></node>
+<node id="metagenomic">
+<property id="Centrality, Total-Degree" value="0.04284"/>
+<property id="newman" value="2.0"/></node>
+<node id="within">
+<property id="Centrality, Total-Degree" value="0.06033"/>
+<property id="newman" value="4.0"/></node>
+<node id="set">
+<property id="Centrality, Total-Degree" value="0.03295"/>
+<property id="newman" value="2.0"/></node>
+<node id="bacterial">
+<property id="Centrality, Total-Degree" value="0.07454"/>
+<property id="newman" value="2.0"/></node>
+<node id="system">
+<property id="Centrality, Total-Degree" value="0.03929"/>
+<property id="newman" value="3.0"/></node>
+<node id="diversity">
+<property id="Centrality, Total-Degree" value="0.05057"/>
+<property id="newman" value="4.0"/></node>
+<node id="environmental">
+<property id="Centrality, Total-Degree" value="0.05598"/>
+<property id="newman" value="4.0"/></node>
+<node id="health">
+<property id="Centrality, Total-Degree" value="0.03567"/>
+<property id="newman" value="3.0"/></node>
+<node id="chronic">
+<property id="Centrality, Total-Degree" value="0.01786"/>
+<property id="newman" value="3.0"/></node>
+<node id="inflammation">
+<property id="Centrality, Total-Degree" value="0.0222"/>
+<property id="newman" value="3.0"/></node>
+<node id="energy">
+<property id="Centrality, Total-Degree" value="0.02625"/>
+<property id="newman" value="2.0"/></node>
+<node id="different">
+<property id="Centrality, Total-Degree" value="0.06153"/>
+<property id="newman" value="4.0"/></node>
+<node id="metabolic">
+<property id="Centrality, Total-Degree" value="0.0637"/>
+<property id="newman" value="3.0"/></node>
+<node id="figure">
+<property id="Centrality, Total-Degree" value="0.05129"/>
+<property id="newman" value="2.0"/></node>
+<node id="shotgun">
+<property id="Centrality, Total-Degree" value="0.01468"/>
+<property id="newman" value="4.0"/></node>
+<node id="sequencing">
+<property id="Centrality, Total-Degree" value="0.04386"/>
+<property id="newman" value="4.0"/></node>
+<node id="reference">
+<property id="Centrality, Total-Degree" value="0.02698"/>
+<property id="newman" value="2.0"/></node>
+<node id="community">
+<property id="Centrality, Total-Degree" value="0.0575"/>
+<property id="newman" value="2.0"/></node>
+<node id="structure">
+<property id="Centrality, Total-Degree" value="0.03283"/>
+<property id="newman" value="4.0"/></node>
+<node id="composition">
+<property id="Centrality, Total-Degree" value="0.04238"/>
+<property id="newman" value="4.0"/></node>
+<node id="more">
+<property id="Centrality, Total-Degree" value="0.06409"/>
+<property id="newman" value="4.0"/></node>
+<node id="infected">
+<property id="Centrality, Total-Degree" value="0.01342"/>
+<property id="newman" value="5.0"/></node>
+<node id="involved">
+<property id="Centrality, Total-Degree" value="0.03355"/>
+<property id="newman" value="3.0"/></node>
+<node id="into">
+<property id="Centrality, Total-Degree" value="0.04966"/>
+<property id="newman" value="4.0"/></node>
+<node id="both">
+<property id="Centrality, Total-Degree" value="0.04752"/>
+<property id="newman" value="2.0"/></node>
+<node id="functional">
+<property id="Centrality, Total-Degree" value="0.05305"/>
+<property id="newman" value="2.0"/></node>
+<node id="increased">
+<property id="Centrality, Total-Degree" value="0.03159"/>
+<property id="newman" value="2.0"/></node>
+<node id="capacity">
+<property id="Centrality, Total-Degree" value="0.02102"/>
+<property id="newman" value="2.0"/></node>
+<node id="mammalian">
+<property id="Centrality, Total-Degree" value="0.02063"/>
+<property id="newman" value="3.0"/></node>
+<node id="genomics">
+<property id="Centrality, Total-Degree" value="0.03112"/>
+<property id="newman" value="2.0"/></node>
+<node id="molecular">
+<property id="Centrality, Total-Degree" value="0.04098"/>
+<property id="newman" value="3.0"/></node>
+<node id="mouse">
+<property id="Centrality, Total-Degree" value="0.02363"/>
+<property id="newman" value="2.0"/></node>
+<node id="model">
+<property id="Centrality, Total-Degree" value="0.03468"/>
+<property id="newman" value="3.0"/></node>
+<node id="lean">
+<property id="Centrality, Total-Degree" value="0.01069"/>
+<property id="newman" value="2.0"/></node>
+<node id="interactions">
+<property id="Centrality, Total-Degree" value="0.03306"/>
+<property id="newman" value="3.0"/></node>
+<node id="project">
+<property id="Centrality, Total-Degree" value="0.01746"/>
+<property id="newman" value="4.0"/></node>
+<node id="obesity">
+<property id="Centrality, Total-Degree" value="0.0194"/>
+<property id="newman" value="2.0"/></node>
+<node id="obese">
+<property id="Centrality, Total-Degree" value="0.01672"/>
+<property id="newman" value="2.0"/></node>
+<node id="members">
+<property id="Centrality, Total-Degree" value="0.03128"/>
+<property id="newman" value="2.0"/></node>
+<node id="complex">
+<property id="Centrality, Total-Degree" value="0.04682"/>
+<property id="newman" value="3.0"/></node>
+<node id="risk">
+<property id="Centrality, Total-Degree" value="0.02181"/>
+<property id="newman" value="5.0"/></node>
+<node id="developing">
+<property id="Centrality, Total-Degree" value="0.01187"/>
+<property id="newman" value="5.0"/></node>
+<node id="revealed">
+<property id="Centrality, Total-Degree" value="0.0319"/>
+<property id="newman" value="2.0"/></node>
+<node id="well">
+<property id="Centrality, Total-Degree" value="0.0486"/>
+<property id="newman" value="3.0"/></node>
+<node id="differences">
+<property id="Centrality, Total-Degree" value="0.0425"/>
+<property id="newman" value="4.0"/></node>
+<node id="body">
+<property id="Centrality, Total-Degree" value="0.02157"/>
+<property id="newman" value="1.0"/></node>
+<node id="fecal">
+<property id="Centrality, Total-Degree" value="0.02293"/>
+<property id="newman" value="2.0"/></node>
+<node id="variation">
+<property id="Centrality, Total-Degree" value="0.0363"/>
+<property id="newman" value="4.0"/></node>
+<node id="normal">
+<property id="Centrality, Total-Degree" value="0.02658"/>
+<property id="newman" value="2.0"/></node>
+<node id="factors">
+<property id="Centrality, Total-Degree" value="0.03853"/>
+<property id="newman" value="3.0"/></node>
+<node id="analyses">
+<property id="Centrality, Total-Degree" value="0.03506"/>
+<property id="newman" value="2.0"/></node>
+<node id="provide">
+<property id="Centrality, Total-Degree" value="0.03527"/>
+<property id="newman" value="4.0"/></node>
+<node id="sampling">
+<property id="Centrality, Total-Degree" value="0.02683"/>
+<property id="newman" value="4.0"/></node>
+<node id="hmp">
+<property id="Centrality, Total-Degree" value="0.0155"/>
+<property id="newman" value="3.0"/></node>
+<node id="individual">
+<property id="Centrality, Total-Degree" value="0.04115"/>
+<property id="newman" value="4.0"/></node>
+<node id="humans">
+<property id="Centrality, Total-Degree" value="0.02572"/>
+<property id="newman" value="2.0"/></node>
+<node id="tools">
+<property id="Centrality, Total-Degree" value="0.01827"/>
+<property id="newman" value="4.0"/></node>
+<node id="nutrient">
+<property id="Centrality, Total-Degree" value="0.02079"/>
+<property id="newman" value="3.0"/></node>
+<node id="environment">
+<property id="Centrality, Total-Degree" value="0.03479"/>
+<property id="newman" value="3.0"/></node>
+<node id="core">
+<property id="Centrality, Total-Degree" value="0.01834"/>
+<property id="newman" value="4.0"/></node>
+<node id="component">
+<property id="Centrality, Total-Degree" value="0.01594"/>
+<property id="newman" value="3.0"/></node>
+<node id="patients">
+<property id="Centrality, Total-Degree" value="0.02538"/>
+<property id="newman" value="5.0"/></node>
+<node id="reveals">
+<property id="Centrality, Total-Degree" value="0.00951"/>
+<property id="newman" value="4.0"/></node>
+<node id="role">
+<property id="Centrality, Total-Degree" value="0.04094"/>
+<property id="newman" value="3.0"/></node>
+<node id="development">
+<property id="Centrality, Total-Degree" value="0.03863"/>
+<property id="newman" value="3.0"/></node>
+<node id="individuals">
+<property id="Centrality, Total-Degree" value="0.02794"/>
+<property id="newman" value="4.0"/></node>
+<node id="features">
+<property id="Centrality, Total-Degree" value="0.02081"/>
+<property id="newman" value="2.0"/></node>
+<node id="metagenomics">
+<property id="Centrality, Total-Degree" value="0.03152"/>
+<property id="newman" value="4.0"/></node>
+<node id="many">
+<property id="Centrality, Total-Degree" value="0.04811"/>
+<property id="newman" value="3.0"/></node>
+<node id="work">
+<property id="Centrality, Total-Degree" value="0.02165"/>
+<property id="newman" value="4.0"/></node>
+<node id="supported">
+<property id="Centrality, Total-Degree" value="0.0084"/>
+<property id="newman" value="4.0"/></node>
+<node id="impact">
+<property id="Centrality, Total-Degree" value="0.02068"/>
+<property id="newman" value="2.0"/></node>
+<node id="healthy">
+<property id="Centrality, Total-Degree" value="0.02122"/>
+<property id="newman" value="2.0"/></node>
+<node id="metagenome">
+<property id="Centrality, Total-Degree" value="0.0162"/>
+<property id="newman" value="4.0"/></node>
+<node id="approaches">
+<property id="Centrality, Total-Degree" value="0.02862"/>
+<property id="newman" value="4.0"/></node>
+<node id="ecology">
+<property id="Centrality, Total-Degree" value="0.02689"/>
+<property id="newman" value="3.0"/></node>
+<node id="level">
+<property id="Centrality, Total-Degree" value="0.03658"/>
+<property id="newman" value="4.0"/></node>
+<node id="generated">
+<property id="Centrality, Total-Degree" value="0.01754"/>
+<property id="newman" value="2.0"/></node>
+<node id="characterization">
+<property id="Centrality, Total-Degree" value="0.01805"/>
+<property id="newman" value="1.0"/></node>
+<node id="infant">
+<property id="Centrality, Total-Degree" value="0.01574"/>
+<property id="newman" value="2.0"/></node>
+<node id="should">
+<property id="Centrality, Total-Degree" value="0.02835"/>
+<property id="newman" value="2.0"/></node>
+<node id="skin">
+<property id="Centrality, Total-Degree" value="0.01375"/>
+<property id="newman" value="1.0"/></node>
+<node id="important">
+<property id="Centrality, Total-Degree" value="0.04002"/>
+<property id="newman" value="3.0"/></node>
+<node id="could">
+<property id="Centrality, Total-Degree" value="0.04513"/>
+<property id="newman" value="4.0"/></node>
+<node id="adult">
+<property id="Centrality, Total-Degree" value="0.01155"/>
+<property id="newman" value="2.0"/></node>
+<node id="function">
+<property id="Centrality, Total-Degree" value="0.03983"/>
+<property id="newman" value="3.0"/></node>
+<node id="likely">
+<property id="Centrality, Total-Degree" value="0.02853"/>
+<property id="newman" value="4.0"/></node>
+<node id="sites">
+<property id="Centrality, Total-Degree" value="0.01718"/>
+<property id="newman" value="4.0"/></node>
+<node id="comprehensive">
+<property id="Centrality, Total-Degree" value="0.01163"/>
+<property id="newman" value="1.0"/></node>
+<node id="suggest">
+<property id="Centrality, Total-Degree" value="0.02028"/>
+<property id="newman" value="2.0"/></node>
+<node id="us">
+<property id="Centrality, Total-Degree" value="0.02036"/>
+<property id="newman" value="1.0"/></node>
+<node id="populations">
+<property id="Centrality, Total-Degree" value="0.02991"/>
+<property id="newman" value="4.0"/></node>
+<node id="through">
+<property id="Centrality, Total-Degree" value="0.03655"/>
+<property id="newman" value="3.0"/></node>
+<node id="whether">
+<property id="Centrality, Total-Degree" value="0.02143"/>
+<property id="newman" value="4.0"/></node>
+<node id="changes">
+<property id="Centrality, Total-Degree" value="0.02886"/>
+<property id="newman" value="3.0"/></node>
+<node id="primary">
+<property id="Centrality, Total-Degree" value="0.01301"/>
+<property id="newman" value="3.0"/></node>
+<node id="there">
+<property id="Centrality, Total-Degree" value="0.03865"/>
+<property id="newman" value="4.0"/></node>
+<node id="specific">
+<property id="Centrality, Total-Degree" value="0.0304"/>
+<property id="newman" value="4.0"/></node>
+<node id="identify">
+<property id="Centrality, Total-Degree" value="0.02869"/>
+<property id="newman" value="4.0"/></node>
+<node id="effects">
+<property id="Centrality, Total-Degree" value="0.03597"/>
+<property id="newman" value="3.0"/></node>
+<node id="taxonomic">
+<property id="Centrality, Total-Degree" value="0.0224"/>
+<property id="newman" value="4.0"/></node>
+<node id="relationships">
+<property id="Centrality, Total-Degree" value="0.02354"/>
+<property id="newman" value="2.0"/></node>
+<node id="affect">
+<property id="Centrality, Total-Degree" value="0.0171"/>
+<property id="newman" value="3.0"/></node>
+<node id="would">
+<property id="Centrality, Total-Degree" value="0.03299"/>
+<property id="newman" value="4.0"/></node>
+<node id="diet">
+<property id="Centrality, Total-Degree" value="0.02223"/>
+<property id="newman" value="3.0"/></node>
+<node id="population">
+<property id="Centrality, Total-Degree" value="0.02115"/>
+<property id="newman" value="4.0"/></node>
+<node id="major">
+<property id="Centrality, Total-Degree" value="0.02832"/>
+<property id="newman" value="2.0"/></node>
+<node id="dynamics">
+<property id="Centrality, Total-Degree" value="0.01164"/>
+<property id="newman" value="2.0"/></node>
+<node id="recent">
+<property id="Centrality, Total-Degree" value="0.03216"/>
+<property id="newman" value="4.0"/></node>
+<node id="relationship">
+<property id="Centrality, Total-Degree" value="0.02254"/>
+<property id="newman" value="2.0"/></node>
+<node id="profiles">
+<property id="Centrality, Total-Degree" value="0.00962"/>
+<property id="newman" value="3.0"/></node>
+<node id="framework">
+<property id="Centrality, Total-Degree" value="0.01071"/>
+<property id="newman" value="4.0"/></node>
+<node id="understanding">
+<property id="Centrality, Total-Degree" value="0.03122"/>
+<property id="newman" value="3.0"/></node>
+<node id="contribute">
+<property id="Centrality, Total-Degree" value="0.01646"/>
+<property id="newman" value="3.0"/></node>
+<node id="early">
+<property id="Centrality, Total-Degree" value="0.01933"/>
+<property id="newman" value="3.0"/></node>
+<node id="understand">
+<property id="Centrality, Total-Degree" value="0.01406"/>
+<property id="newman" value="1.0"/></node>
+<node id="provides">
+<property id="Centrality, Total-Degree" value="0.0211"/>
+<property id="newman" value="4.0"/></node>
+<node id="potential">
+<property id="Centrality, Total-Degree" value="0.0272"/>
+<property id="newman" value="3.0"/></node>
+<node id="might">
+<property id="Centrality, Total-Degree" value="0.02699"/>
+<property id="newman" value="3.0"/></node>
+<node id="implications">
+<property id="Centrality, Total-Degree" value="0.01417"/>
+<property id="newman" value="3.0"/></node>
+<node id="life">
+<property id="Centrality, Total-Degree" value="0.02833"/>
+<property id="newman" value="4.0"/></node>
+<node id="during">
+<property id="Centrality, Total-Degree" value="0.02699"/>
+<property id="newman" value="3.0"/></node>
+<node id="whereas">
+<property id="Centrality, Total-Degree" value="0.01772"/>
+<property id="newman" value="2.0"/></node>
+<node id="characterized">
+<property id="Centrality, Total-Degree" value="0.01798"/>
+<property id="newman" value="2.0"/></node>
+<node id="following">
+<property id="Centrality, Total-Degree" value="0.01349"/>
+<property id="newman" value="2.0"/></node>
+<node id="unique">
+<property id="Centrality, Total-Degree" value="0.01475"/>
+<property id="newman" value="2.0"/></node>
+<node id="components">
+<property id="Centrality, Total-Degree" value="0.02513"/>
+<property id="newman" value="3.0"/></node>
+<node id="directly">
+<property id="Centrality, Total-Degree" value="0.01579"/>
+<property id="newman" value="3.0"/></node>
+<node id="potentially">
+<property id="Centrality, Total-Degree" value="0.01352"/>
+<property id="newman" value="4.0"/></node>
+<node id="across">
+<property id="Centrality, Total-Degree" value="0.01455"/>
+<property id="newman" value="4.0"/></node>
+<node id="international">
+<property id="Centrality, Total-Degree" value="0.00613"/>
+<property id="newman" value="1.0"/></node>
+<node id="affects">
+<property id="Centrality, Total-Degree" value="0.01057"/>
+<property id="newman" value="2.0"/></node>
+<node id="characterize">
+<property id="Centrality, Total-Degree" value="0.0129"/>
+<property id="newman" value="4.0"/></node>
+<node id="association">
+<property id="Centrality, Total-Degree" value="0.01711"/>
+<property id="newman" value="4.0"/></node>
+<node id="change">
+<property id="Centrality, Total-Degree" value="0.01143"/>
+<property id="newman" value="1.0"/></node>
+<node id="application">
+<property id="Centrality, Total-Degree" value="0.01571"/>
+<property id="newman" value="1.0"/></node>
+<node id="collective">
+<property id="Centrality, Total-Degree" value="0.00567"/>
+<property id="newman" value="2.0"/></node>
+<node id="define">
+<property id="Centrality, Total-Degree" value="0.00818"/>
+<property id="newman" value="3.0"/></node>
+<node id="activity">
+<property id="Centrality, Total-Degree" value="0.0193"/>
+<property id="newman" value="3.0"/></node>
+<node id="children">
+<property id="Centrality, Total-Degree" value="0.01502"/>
+<property id="newman" value="5.0"/></node>
+<node id="colonic">
+<property id="Centrality, Total-Degree" value="0.00785"/>
+<property id="newman" value="4.0"/></node>
+<node id="nutrition">
+<property id="Centrality, Total-Degree" value="0.01515"/>
+<property id="newman" value="3.0"/></node>
+<node id="influence">
+<property id="Centrality, Total-Degree" value="0.01103"/>
+<property id="newman" value="4.0"/></node>
+<node id="better">
+<property id="Centrality, Total-Degree" value="0.01301"/>
+<property id="newman" value="4.0"/></node>
+<node id="particular">
+<property id="Centrality, Total-Degree" value="0.02141"/>
+<property id="newman" value="4.0"/></node>
+<node id="genetics">
+<property id="Centrality, Total-Degree" value="0.0098"/>
+<property id="newman" value="1.0"/></node>
+<node id="consortium">
+<property id="Centrality, Total-Degree" value="0.00626"/>
+<property id="newman" value="1.0"/></node>
+<node id="age">
+<property id="Centrality, Total-Degree" value="0.01156"/>
+<property id="newman" value="2.0"/></node>
+<node id="part">
+<property id="Centrality, Total-Degree" value="0.02397"/>
+<property id="newman" value="4.0"/></node>
+<node id="oral">
+<property id="Centrality, Total-Degree" value="0.00531"/>
+<property id="newman" value="1.0"/></node>
+<node id="possible">
+<property id="Centrality, Total-Degree" value="0.0224"/>
+<property id="newman" value="4.0"/></node>
+<node id="future">
+<property id="Centrality, Total-Degree" value="0.01523"/>
+<property id="newman" value="4.0"/></node>
+<node id="being">
+<property id="Centrality, Total-Degree" value="0.02181"/>
+<property id="newman" value="4.0"/></node>
+<node id="current">
+<property id="Centrality, Total-Degree" value="0.02147"/>
+<property id="newman" value="1.0"/></node>
+<node id="genotype">
+<property id="Centrality, Total-Degree" value="0.00996"/>
+<property id="newman" value="3.0"/></node>
+<node id="resource">
+<property id="Centrality, Total-Degree" value="0.00713"/>
+<property id="newman" value="3.0"/></node>
+<node id="subjects">
+<property id="Centrality, Total-Degree" value="0.01199"/>
+<property id="newman" value="4.0"/></node>
+<node id="effect">
+<property id="Centrality, Total-Degree" value="0.01941"/>
+<property id="newman" value="3.0"/></node>
+<node id="probiotics">
+<property id="Centrality, Total-Degree" value="0.0083"/>
+<property id="newman" value="3.0"/></node>
+<node id="taxa">
+<property id="Centrality, Total-Degree" value="0.0106"/>
+<property id="newman" value="2.0"/></node>
+<node id="alter">
+<property id="Centrality, Total-Degree" value="0.00405"/>
+<property id="newman" value="4.0"/></node>
+<node id="lung">
+<property id="Centrality, Total-Degree" value="0.00384"/>
+<property id="newman" value="1.0"/></node>
+<node id="knowledge">
+<property id="Centrality, Total-Degree" value="0.01158"/>
+<property id="newman" value="1.0"/></node>
+<node id="murine">
+<property id="Centrality, Total-Degree" value="0.00841"/>
+<property id="newman" value="3.0"/></node>
+<node id="altered">
+<property id="Centrality, Total-Degree" value="0.00647"/>
+<property id="newman" value="1.0"/></node>
+<node id="antibiotics">
+<property id="Centrality, Total-Degree" value="0.01523"/>
+<property id="newman" value="3.0"/></node>
+</nodeclass>
+</nodes>
+<networks>
+<network sourceType="Agent" source="Agent" targetType="Agent" target="Agent" id="Agent x Agent" isDirected="true" allowSelfLoops="true" isBinary="false" dynetmlUndirectedCompressed="false">
+<link source="could" target="potentially" value="2.81869"/>
+<link source="could" target="system" value="2.16568"/>
+<link source="could" target="health" value="2.41238"/>
+<link source="could" target="immune" value="2.18938"/>
+<link source="could" target="individual" value="2.59667"/>
+<link source="could" target="identify" value="2.41726"/>
+<link source="could" target="likely" value="2.96918"/>
+<link source="could" target="impact" value="2.21911"/>
+<link source="could" target="whether" value="2.20517"/>
+<link source="could" target="host" value="3.91689"/>
+<link source="could" target="many" value="2.15523"/>
+<link source="could" target="provide" value="2.96485"/>
+<link source="could" target="involved" value="2.94529"/>
+<link source="could" target="reference" value="2.18845"/>
+<link source="could" target="capacity" value="2.21168"/>
+<link source="could" target="effects" value="2.60747"/>
+<link source="could" target="human" value="2.39819"/>
+<link source="could" target="sampling" value="2.61297"/>
+<link source="could" target="populations" value="2.19751"/>
+<link source="could" target="metabolic" value="2.74854"/>
+<link source="could" target="into" value="3.54145"/>
+<link source="could" target="relationships" value="2.6218"/>
+<link source="could" target="more" value="3.5194"/>
+<link source="could" target="should" value="2.79445"/>
+<link source="could" target="bacterial" value="2.86582"/>
+<link source="could" target="particular" value="2.62317"/>
+<link source="could" target="members" value="2.18148"/>
+<link source="could" target="factors" value="3.27779"/>
+<link source="environment" target="immune" value="2.2021"/>
+<link source="environment" target="interactions" value="2.20835"/>
+<link source="environment" target="genomics" value="2.41462"/>
+<link source="environment" target="human" value="3.17293"/>
+<link source="environment" target="sequenced" value="2.9544"/>
+<link source="environment" target="many" value="2.78193"/>
+<link source="environment" target="environmental" value="2.57904"/>
+<link source="environment" target="involved" value="2.60061"/>
+<link source="environment" target="genomes" value="2.5379"/>
+<link source="environment" target="data" value="3.05269"/>
+<link source="environment" target="sequencing" value="2.16035"/>
+<link source="environment" target="bacterial" value="2.72487"/>
+<link source="environment" target="different" value="2.56562"/>
+<link source="environment" target="analysis" value="3.19891"/>
+<link source="environment" target="relationships" value="2.21545"/>
+<link source="environment" target="gut" value="2.22978"/>
+<link source="framework" target="could" value="2.22724"/>
+<link source="framework" target="human" value="2.19454"/>
+<link source="recent" target="sequencing" value="2.17044"/>
+<link source="recent" target="there" value="2.61604"/>
+<link source="recent" target="metabolic" value="3.42297"/>
+<link source="recent" target="role" value="2.79403"/>
+<link source="recent" target="obesity" value="2.43425"/>
+<link source="recent" target="identify" value="2.2138"/>
+<link source="recent" target="analysis" value="2.88722"/>
+<link source="recent" target="host" value="2.56652"/>
+<link source="recent" target="mice" value="2.56528"/>
+<link source="recent" target="bacterial" value="2.34586"/>
+<link source="recent" target="gut" value="2.25908"/>
+<link source="recent" target="understanding" value="2.21571"/>
+<link source="oral" target="gastrointestinal" value="2.2341"/>
+<link source="oral" target="tract" value="2.23289"/>
+<link source="energy" target="sequenced" value="2.40137"/>
+<link source="energy" target="immune" value="2.42277"/>
+<link source="energy" target="gut" value="3.01566"/>
+<link source="energy" target="diet" value="3.45414"/>
+<link source="energy" target="affect" value="2.22675"/>
+<link source="energy" target="into" value="2.7772"/>
+<link source="energy" target="metabolism" value="3.57729"/>
+<link source="energy" target="capacity" value="2.43553"/>
+<link source="energy" target="human" value="3.03244"/>
+<link source="energy" target="nutrient" value="2.81703"/>
+<link source="energy" target="energy" value="7.06333"/>
+<link source="energy" target="obese" value="3.15383"/>
+<link source="energy" target="host" value="2.56699"/>
+<link source="adult" target="human" value="3.56014"/>
+<link source="adult" target="sequenced" value="2.4303"/>
+<link source="adult" target="mice" value="3.9789"/>
+<link source="adult" target="infant" value="2.82402"/>
+<link source="adult" target="gut" value="3.69224"/>
+<link source="immune" target="host" value="3.39213"/>
+<link source="immune" target="immune" value="2.61616"/>
+<link source="immune" target="gut" value="4.11189"/>
+<link source="immune" target="function" value="2.60408"/>
+<link source="immune" target="development" value="2.60909"/>
+<link source="immune" target="effects" value="2.41848"/>
+<link source="immune" target="interactions" value="2.42341"/>
+<link source="immune" target="likely" value="2.20506"/>
+<link source="immune" target="association" value="2.21899"/>
+<link source="immune" target="system" value="7.66578"/>
+<link source="immune" target="during" value="2.20175"/>
+<link source="immune" target="intestinal" value="2.37649"/>
+<link source="immune" target="factors" value="2.41005"/>
+<link source="immune" target="community" value="2.16743"/>
+<link source="immune" target="nutrient" value="2.98714"/>
+<link source="immune" target="could" value="2.60629"/>
+<link source="immune" target="bacterial" value="2.32624"/>
+<link source="immune" target="patients" value="2.20349"/>
+<link source="immune" target="metabolic" value="2.16028"/>
+<link source="analyses" target="genomes" value="3.20809"/>
+<link source="analyses" target="functional" value="2.57836"/>
+<link source="analyses" target="metagenomic" value="2.17594"/>
+<link source="analyses" target="characterization" value="2.20536"/>
+<link source="analyses" target="ecology" value="3.13891"/>
+<link source="analyses" target="there" value="2.1849"/>
+<link source="analyses" target="within" value="2.75072"/>
+<link source="analyses" target="complex" value="2.77651"/>
+<link source="analyses" target="reference" value="2.60881"/>
+<link source="analyses" target="human" value="2.20405"/>
+<link source="analyses" target="analyses" value="3.28126"/>
+<link source="analyses" target="data" value="4.91256"/>
+<link source="analyses" target="understanding" value="2.20643"/>
+<link source="analyses" target="mice" value="3.22319"/>
+<link source="analyses" target="supported" value="2.22157"/>
+<link source="analyses" target="revealed" value="3.13182"/>
+<link source="analyses" target="tools" value="2.21112"/>
+<link source="analyses" target="mouse" value="3.13846"/>
+<link source="analyses" target="gut" value="2.58839"/>
+<link source="analyses" target="level" value="3.12866"/>
+<link source="analyses" target="analysis" value="3.61003"/>
+<link source="analyses" target="set" value="2.40317"/>
+<link source="analyses" target="differences" value="2.39966"/>
+<link source="analyses" target="diversity" value="2.15547"/>
+<link source="analyses" target="both" value="2.93802"/>
+<link source="analyses" target="gnotobiotic" value="2.42146"/>
+<link source="changes" target="metabolic" value="2.17235"/>
+<link source="changes" target="ecology" value="2.98308"/>
+<link source="changes" target="hmp" value="2.81951"/>
+<link source="changes" target="during" value="2.62136"/>
+<link source="changes" target="community" value="2.39681"/>
+<link source="changes" target="composition" value="3.2949"/>
+<link source="changes" target="gut" value="3.75256"/>
+<link source="changes" target="bacterial" value="2.73868"/>
+<link source="changes" target="components" value="2.21776"/>
+<link source="changes" target="host" value="2.56652"/>
+<link source="changes" target="populations" value="2.42729"/>
+<link source="changes" target="mice" value="2.36257"/>
+<link source="changes" target="early" value="2.63436"/>
+<link source="changes" target="changes" value="2.21131"/>
+<link source="changes" target="metabolism" value="3.28571"/>
+<link source="infant" target="intestinal" value="2.79823"/>
+<link source="infant" target="fecal" value="3.7336"/>
+<link source="infant" target="health" value="2.4362"/>
+<link source="infant" target="revealed" value="2.21926"/>
+<link source="infant" target="infant" value="3.86837"/>
+<link source="infant" target="gut" value="3.53207"/>
+<link source="sequencing" target="identify" value="2.17705"/>
+<link source="sequencing" target="fecal" value="2.17316"/>
+<link source="sequencing" target="sampling" value="2.17122"/>
+<link source="sequencing" target="analysis" value="2.51132"/>
+<link source="sequencing" target="project" value="3.97764"/>
+<link source="sequencing" target="data" value="4.05497"/>
+<link source="sequencing" target="within" value="2.86658"/>
+<link source="sequencing" target="community" value="2.08308"/>
+<link source="sequencing" target="sequencing" value="5.40621"/>
+<link source="sequencing" target="more" value="2.64485"/>
+<link source="sequencing" target="genomes" value="4.08813"/>
+<link source="sequencing" target="approaches" value="2.39419"/>
+<link source="sequencing" target="environmental" value="2.28395"/>
+<link source="sequencing" target="gnotobiotic" value="2.39845"/>
+<link source="sequencing" target="shotgun" value="2.205"/>
+<link source="sequencing" target="diversity" value="4.16528"/>
+<link source="sequencing" target="gut" value="3.26263"/>
+<link source="sequencing" target="metagenomics" value="3.11148"/>
+<link source="sequencing" target="metagenomic" value="2.55321"/>
+<link source="sequencing" target="well" value="2.33748"/>
+<link source="sequencing" target="would" value="2.1654"/>
+<link source="sequencing" target="many" value="2.32613"/>
+<link source="sequencing" target="individual" value="3.68364"/>
+<link source="sequencing" target="features" value="2.19025"/>
+<link source="sequencing" target="human" value="5.18185"/>
+<link source="sequencing" target="individuals" value="4.20908"/>
+<link source="sequencing" target="figure" value="2.46821"/>
+<link source="sequencing" target="particular" value="2.19141"/>
+<link source="sequencing" target="reference" value="2.57848"/>
+<link source="age" target="mouse" value="2.44174"/>
+<link source="development" target="system" value="2.95126"/>
+<link source="development" target="tools" value="2.21082"/>
+<link source="development" target="more" value="2.10701"/>
+<link source="development" target="inflammation" value="2.62204"/>
+<link source="development" target="gut" value="3.41496"/>
+<link source="development" target="analysis" value="2.24597"/>
+<link source="development" target="immune" value="2.96767"/>
+<link source="development" target="disease" value="3.24227"/>
+<link source="development" target="metagenomic" value="2.59431"/>
+<link source="development" target="community" value="2.15104"/>
+<link source="development" target="bacterial" value="2.87533"/>
+<link source="development" target="approaches" value="2.2024"/>
+<link source="development" target="many" value="2.38093"/>
+<link source="development" target="human" value="2.20105"/>
+<link source="development" target="chronic" value="2.98247"/>
+<link source="development" target="role" value="3.11695"/>
+<link source="development" target="development" value="3.28039"/>
+<link source="development" target="molecular" value="2.16528"/>
+<link source="development" target="sequencing" value="2.36123"/>
+<link source="development" target="environment" value="2.19398"/>
+<link source="likely" target="composition" value="2.41851"/>
+<link source="likely" target="into" value="2.94883"/>
+<link source="likely" target="more" value="2.75549"/>
+<link source="likely" target="important" value="2.80111"/>
+<link source="likely" target="energy" value="2.21015"/>
+<link source="likely" target="human" value="2.27189"/>
+<link source="likely" target="genomes" value="2.11959"/>
+<link source="likely" target="bacterial" value="2.1165"/>
+<link source="likely" target="community" value="2.17528"/>
+<link source="likely" target="us" value="2.81684"/>
+<link source="likely" target="gut" value="2.01637"/>
+<link source="likely" target="disease" value="2.57912"/>
+<link source="likely" target="intestinal" value="2.38485"/>
+<link source="likely" target="provide" value="2.20475"/>
+<link source="components" target="analysis" value="3.08314"/>
+<link source="components" target="could" value="2.20703"/>
+<link source="components" target="contribute" value="2.44296"/>
+<link source="components" target="human" value="2.32477"/>
+<link source="components" target="metabolic" value="2.40647"/>
+<link source="components" target="immune" value="2.42961"/>
+<link source="components" target="complex" value="2.41903"/>
+<link source="components" target="disease" value="2.59896"/>
+<link source="components" target="health" value="2.62973"/>
+<link source="components" target="system" value="2.61801"/>
+<link source="genotype" target="disease" value="2.22322"/>
+<link source="fecal" target="humans" value="2.63044"/>
+<link source="fecal" target="metagenomic" value="2.41334"/>
+<link source="fecal" target="different" value="3.10658"/>
+<link source="fecal" target="figure" value="2.38015"/>
+<link source="fecal" target="data" value="2.53693"/>
+<link source="fecal" target="fecal" value="3.44942"/>
+<link source="fecal" target="infant" value="4.1158"/>
+<link source="fecal" target="sequenced" value="2.40309"/>
+<link source="fecal" target="human" value="2.49611"/>
+<link source="fecal" target="healthy" value="4.23487"/>
+<link source="fecal" target="involved" value="2.79335"/>
+<link source="fecal" target="analysis" value="2.52316"/>
+<link source="fecal" target="gut" value="2.03612"/>
+<link source="fecal" target="individuals" value="2.81022"/>
+<link source="obese" target="more" value="2.96832"/>
+<link source="obese" target="lean" value="5.74332"/>
+<link source="obese" target="increased" value="4.35077"/>
+<link source="obese" target="mice" value="5.27198"/>
+<link source="obese" target="community" value="3.44603"/>
+<link source="obese" target="body" value="2.82281"/>
+<link source="obese" target="capacity" value="2.44268"/>
+<link source="obese" target="obese" value="3.46034"/>
+<link source="obese" target="humans" value="2.638"/>
+<link source="obese" target="revealed" value="2.43638"/>
+<link source="obese" target="gut" value="3.24839"/>
+<link source="obese" target="sequenced" value="2.426"/>
+<link source="contribute" target="disease" value="3.29692"/>
+<link source="contribute" target="gut" value="2.76403"/>
+<link source="impact" target="host" value="4.45189"/>
+<link source="impact" target="genomics" value="2.63367"/>
+<link source="impact" target="health" value="2.225"/>
+<link source="impact" target="likely" value="2.22481"/>
+<link source="impact" target="bacterial" value="2.18703"/>
+<link source="impact" target="disease" value="2.80287"/>
+<link source="impact" target="gut" value="3.54967"/>
+<link source="impact" target="human" value="3.55607"/>
+<link source="more" target="human" value="3.49563"/>
+<link source="more" target="variation" value="2.72476"/>
+<link source="more" target="role" value="2.70673"/>
+<link source="more" target="mice" value="2.14194"/>
+<link source="more" target="provides" value="2.78622"/>
+<link source="more" target="different" value="2.18405"/>
+<link source="more" target="genomes" value="3.05279"/>
+<link source="more" target="recent" value="3.25757"/>
+<link source="more" target="analyses" value="3.23066"/>
+<link source="more" target="factors" value="2.53711"/>
+<link source="more" target="into" value="3.16112"/>
+<link source="more" target="analysis" value="4.20443"/>
+<link source="more" target="metabolism" value="2.50864"/>
+<link source="more" target="environment" value="2.56033"/>
+<link source="more" target="many" value="4.02528"/>
+<link source="more" target="reference" value="2.35249"/>
+<link source="more" target="identify" value="3.55669"/>
+<link source="more" target="differences" value="2.53361"/>
+<link source="more" target="more" value="3.95501"/>
+<link source="more" target="work" value="2.40075"/>
+<link source="more" target="gut" value="6.06361"/>
+<link source="more" target="comprehensive" value="2.42205"/>
+<link source="more" target="approaches" value="3.41191"/>
+<link source="more" target="both" value="2.84933"/>
+<link source="more" target="within" value="3.59886"/>
+<link source="more" target="nutrition" value="2.19979"/>
+<link source="more" target="understanding" value="2.58486"/>
+<link source="more" target="relationship" value="2.60457"/>
+<link source="more" target="important" value="2.11997"/>
+<link source="more" target="sequenced" value="2.27821"/>
+<link source="more" target="figure" value="2.19351"/>
+<link source="more" target="body" value="3.43064"/>
+<link source="more" target="supported" value="2.20082"/>
+<link source="more" target="host" value="2.3654"/>
+<link source="more" target="specific" value="2.35533"/>
+<link source="more" target="metabolic" value="3.16462"/>
+<link source="more" target="environmental" value="2.63707"/>
+<link source="more" target="through" value="2.33215"/>
+<link source="more" target="sequencing" value="2.82693"/>
+<link source="more" target="functional" value="2.27253"/>
+<link source="more" target="intestinal" value="2.23231"/>
+<link source="more" target="likely" value="3.94843"/>
+<link source="more" target="lean" value="2.98262"/>
+<link source="more" target="could" value="2.71861"/>
+<link source="more" target="data" value="3.59857"/>
+<link source="more" target="complex" value="5.50365"/>
+<link source="more" target="individuals" value="3.25932"/>
+<link source="more" target="community" value="2.47316"/>
+<link source="more" target="diversity" value="2.48017"/>
+<link source="more" target="diet" value="2.18113"/>
+<link source="more" target="bacterial" value="3.64107"/>
+<link source="more" target="patients" value="2.36101"/>
+<link source="more" target="composition" value="2.73828"/>
+<link source="more" target="taxonomic" value="2.38609"/>
+<link source="more" target="disease" value="3.44129"/>
+<link source="reference" target="sequenced" value="2.17175"/>
+<link source="reference" target="differences" value="2.79247"/>
+<link source="reference" target="more" value="2.12981"/>
+<link source="reference" target="individuals" value="2.20693"/>
+<link source="reference" target="there" value="2.19342"/>
+<link source="reference" target="sequencing" value="2.7655"/>
+<link source="reference" target="genomes" value="6.43445"/>
+<link source="reference" target="environmental" value="3.26068"/>
+<link source="reference" target="comprehensive" value="2.22576"/>
+<link source="reference" target="set" value="3.71639"/>
+<link source="reference" target="should" value="2.41948"/>
+<link source="reference" target="analyses" value="2.40959"/>
+<link source="reference" target="metagenomic" value="2.96265"/>
+<link source="reference" target="complex" value="2.39953"/>
+<link source="reference" target="reference" value="3.44059"/>
+<link source="sequenced" target="set" value="2.38132"/>
+<link source="sequenced" target="gut" value="10.00058"/>
+<link source="sequenced" target="provide" value="2.17237"/>
+<link source="sequenced" target="there" value="3.41549"/>
+<link source="sequenced" target="genomes" value="9.53644"/>
+<link source="sequenced" target="environmental" value="2.31573"/>
+<link source="sequenced" target="bacterial" value="4.46392"/>
+<link source="sequenced" target="revealed" value="2.95276"/>
+<link source="sequenced" target="distal" value="3.12878"/>
+<link source="sequenced" target="should" value="2.78254"/>
+<link source="sequenced" target="analysis" value="2.37182"/>
+<link source="sequenced" target="into" value="2.09644"/>
+<link source="sequenced" target="more" value="3.0296"/>
+<link source="sequenced" target="generated" value="2.80511"/>
+<link source="sequenced" target="metagenomic" value="2.36872"/>
+<link source="sequenced" target="data" value="3.56971"/>
+<link source="sequenced" target="human" value="7.08842"/>
+<link source="sequenced" target="members" value="3.41651"/>
+<link source="system" target="well" value="2.37373"/>
+<link source="system" target="likely" value="2.18932"/>
+<link source="system" target="disease" value="2.32698"/>
+<link source="system" target="metabolic" value="2.12183"/>
+<link source="system" target="system" value="3.82704"/>
+<link source="system" target="gut" value="3.92029"/>
+<link source="system" target="environmental" value="2.33753"/>
+<link source="system" target="host" value="2.69555"/>
+<link source="system" target="component" value="3.13684"/>
+<link source="system" target="analysis" value="3.28898"/>
+<link source="system" target="level" value="2.1775"/>
+<link source="system" target="into" value="3.23783"/>
+<link source="system" target="involved" value="3.26067"/>
+<link source="system" target="human" value="2.36586"/>
+<link source="system" target="important" value="2.39579"/>
+<link source="system" target="both" value="2.74745"/>
+<link source="future" target="metagenomics" value="2.22645"/>
+<link source="future" target="environmental" value="2.42732"/>
+<link source="future" target="metagenomic" value="2.4361"/>
+<link source="future" target="functional" value="2.43173"/>
+<link source="within" target="through" value="2.562"/>
+<link source="within" target="sequenced" value="2.89219"/>
+<link source="within" target="tract" value="2.60151"/>
+<link source="within" target="distal" value="3.27595"/>
+<link source="within" target="complex" value="2.54174"/>
+<link source="within" target="reference" value="2.15416"/>
+<link source="within" target="functional" value="2.88861"/>
+<link source="within" target="during" value="2.15735"/>
+<link source="within" target="data" value="3.06959"/>
+<link source="within" target="bacterial" value="2.38404"/>
+<link source="within" target="taxonomic" value="2.96009"/>
+<link source="within" target="would" value="2.16335"/>
+<link source="within" target="within" value="5.01824"/>
+<link source="within" target="environmental" value="2.48805"/>
+<link source="within" target="different" value="5.09969"/>
+<link source="within" target="well" value="2.33423"/>
+<link source="within" target="immune" value="2.15575"/>
+<link source="within" target="variation" value="3.68124"/>
+<link source="within" target="metabolism" value="2.111"/>
+<link source="within" target="framework" value="3.30639"/>
+<link source="within" target="more" value="2.44381"/>
+<link source="within" target="revealed" value="2.57754"/>
+<link source="within" target="sampling" value="2.95026"/>
+<link source="within" target="differences" value="3.54211"/>
+<link source="within" target="figure" value="2.0199"/>
+<link source="within" target="intestinal" value="2.05267"/>
+<link source="within" target="body" value="2.61198"/>
+<link source="within" target="specific" value="2.3769"/>
+<link source="within" target="host" value="3.14422"/>
+<link source="within" target="disease" value="2.2631"/>
+<link source="within" target="many" value="2.09702"/>
+<link source="within" target="gut" value="8.02992"/>
+<link source="within" target="individual" value="4.85338"/>
+<link source="within" target="structure" value="2.38529"/>
+<link source="within" target="function" value="3.39111"/>
+<link source="within" target="affect" value="2.42615"/>
+<link source="within" target="analysis" value="3.76926"/>
+<link source="within" target="population" value="2.96664"/>
+<link source="within" target="environment" value="2.37836"/>
+<link source="within" target="human" value="5.07858"/>
+<link source="within" target="important" value="2.36778"/>
+<link source="within" target="set" value="4.53617"/>
+<link source="within" target="individuals" value="3.96337"/>
+<link source="within" target="there" value="2.14017"/>
+<link source="within" target="genomes" value="4.3213"/>
+<link source="within" target="likely" value="3.56144"/>
+<link source="within" target="diversity" value="4.61841"/>
+<link source="populations" target="human" value="2.28387"/>
+<link source="populations" target="differences" value="2.19923"/>
+<link source="populations" target="analysis" value="2.08744"/>
+<link source="populations" target="variation" value="2.19967"/>
+<link source="populations" target="sequenced" value="2.40194"/>
+<link source="populations" target="gut" value="3.0174"/>
+<link source="populations" target="well" value="2.1906"/>
+<link source="populations" target="different" value="3.1052"/>
+<link source="populations" target="more" value="2.93587"/>
+<link source="relationships" target="members" value="3.29987"/>
+<link source="relationships" target="within" value="2.18732"/>
+<link source="relationships" target="gut" value="3.51217"/>
+<link source="relationships" target="human" value="2.32777"/>
+<link source="relationships" target="bacterial" value="3.26137"/>
+<link source="relationships" target="analysis" value="2.12684"/>
+<link source="relationships" target="there" value="2.21069"/>
+<link source="relationships" target="distal" value="2.43491"/>
+<link source="relationships" target="data" value="2.92773"/>
+<link source="relationships" target="sequenced" value="2.79817"/>
+<link source="relationships" target="environmental" value="3.28333"/>
+<link source="relationships" target="host" value="2.58856"/>
+<link source="many" target="metabolic" value="2.32971"/>
+<link source="many" target="intestinal" value="2.71898"/>
+<link source="many" target="sequencing" value="2.32613"/>
+<link source="many" target="major" value="2.39883"/>
+<link source="many" target="health" value="2.18328"/>
+<link source="many" target="complex" value="3.09659"/>
+<link source="many" target="populations" value="2.186"/>
+<link source="many" target="host" value="2.4826"/>
+<link source="many" target="many" value="2.74544"/>
+<link source="many" target="more" value="3.34767"/>
+<link source="many" target="involved" value="3.40258"/>
+<link source="many" target="well" value="2.5652"/>
+<link source="many" target="analysis" value="2.5821"/>
+<link source="many" target="within" value="2.7185"/>
+<link source="many" target="environmental" value="2.09521"/>
+<link source="many" target="approaches" value="2.18901"/>
+<link source="many" target="important" value="2.1685"/>
+<link source="many" target="through" value="2.16126"/>
+<link source="many" target="likely" value="3.28043"/>
+<link source="many" target="bacterial" value="2.00231"/>
+<link source="many" target="data" value="2.41199"/>
+<link source="many" target="ecology" value="2.18932"/>
+<link source="many" target="human" value="3.51435"/>
+<link source="many" target="different" value="4.50001"/>
+<link source="many" target="part" value="2.19927"/>
+<link source="many" target="would" value="2.95908"/>
+<link source="many" target="antibiotics" value="2.21254"/>
+<link source="many" target="gut" value="3.75989"/>
+<link source="whereas" target="mice" value="2.57576"/>
+<link source="whereas" target="intestinal" value="2.3961"/>
+<link source="whereas" target="functional" value="2.18842"/>
+<link source="whereas" target="genomes" value="2.36168"/>
+<link source="whereas" target="more" value="2.58136"/>
+<link source="whereas" target="bacterial" value="2.13732"/>
+<link source="whereas" target="potential" value="2.43053"/>
+<link source="whereas" target="gut" value="2.49241"/>
+<link source="whereas" target="could" value="3.13813"/>
+<link source="members" target="more" value="2.73213"/>
+<link source="members" target="intestinal" value="3.09617"/>
+<link source="members" target="complex" value="3.27433"/>
+<link source="members" target="should" value="4.10267"/>
+<link source="members" target="could" value="2.78527"/>
+<link source="members" target="normal" value="2.62492"/>
+<link source="members" target="revealed" value="2.61098"/>
+<link source="members" target="environmental" value="2.14095"/>
+<link source="members" target="functional" value="2.37995"/>
+<link source="members" target="both" value="2.57861"/>
+<link source="members" target="metabolic" value="2.75838"/>
+<link source="members" target="metagenomic" value="2.17863"/>
+<link source="members" target="community" value="3.55578"/>
+<link source="members" target="distal" value="3.14053"/>
+<link source="members" target="analysis" value="3.32828"/>
+<link source="members" target="primary" value="2.43647"/>
+<link source="members" target="gut" value="5.5422"/>
+<link source="members" target="human" value="4.88513"/>
+<link source="members" target="different" value="2.1218"/>
+<link source="members" target="well" value="2.1717"/>
+<link source="members" target="affects" value="2.22914"/>
+<link source="members" target="members" value="3.4332"/>
+<link source="members" target="bacterial" value="2.70363"/>
+<link source="members" target="genomes" value="3.7842"/>
+<link source="members" target="environment" value="2.19635"/>
+<link source="diet" target="mice" value="2.39497"/>
+<link source="diet" target="gut" value="3.06977"/>
+<link source="diet" target="risk" value="2.22302"/>
+<link source="diet" target="host" value="3.27698"/>
+<link source="diet" target="more" value="2.18113"/>
+<link source="diet" target="obesity" value="2.6369"/>
+<link source="diet" target="genotype" value="2.44706"/>
+<link source="metabolic" target="role" value="2.55111"/>
+<link source="metabolic" target="there" value="2.36689"/>
+<link source="metabolic" target="community" value="2.5202"/>
+<link source="metabolic" target="profiles" value="3.30722"/>
+<link source="metabolic" target="gut" value="6.90129"/>
+<link source="metabolic" target="molecular" value="3.07483"/>
+<link source="metabolic" target="mice" value="2.98899"/>
+<link source="metabolic" target="potential" value="3.27519"/>
+<link source="metabolic" target="members" value="2.14746"/>
+<link source="metabolic" target="analysis" value="3.5089"/>
+<link source="metabolic" target="metabolic" value="4.82412"/>
+<link source="metabolic" target="obesity" value="3.43636"/>
+<link source="metabolic" target="energy" value="2.95279"/>
+<link source="metabolic" target="effects" value="2.58361"/>
+<link source="metabolic" target="variation" value="2.36241"/>
+<link source="metabolic" target="interactions" value="5.80724"/>
+<link source="metabolic" target="host" value="4.23511"/>
+<link source="metabolic" target="during" value="2.16179"/>
+<link source="metabolic" target="differences" value="3.25155"/>
+<link source="metabolic" target="involved" value="3.2363"/>
+<link source="metabolic" target="disease" value="5.21009"/>
+<link source="metabolic" target="model" value="3.94794"/>
+<link source="metabolic" target="figure" value="2.03209"/>
+<link source="metabolic" target="would" value="2.58776"/>
+<link source="metabolic" target="normal" value="2.40784"/>
+<link source="metabolic" target="should" value="3.2696"/>
+<link source="metabolic" target="mammalian" value="2.60974"/>
+<link source="metabolic" target="intestinal" value="2.06301"/>
+<link source="metabolic" target="define" value="2.22438"/>
+<link source="metabolic" target="health" value="2.95082"/>
+<link source="metabolic" target="many" value="3.37941"/>
+<link source="metabolic" target="could" value="2.13502"/>
+<link source="metabolic" target="functional" value="2.09506"/>
+<link source="metabolic" target="specific" value="2.58234"/>
+<link source="metabolic" target="data" value="3.08353"/>
+<link source="metabolic" target="metabolism" value="2.73513"/>
+<link source="metabolic" target="complex" value="2.34348"/>
+<link source="metabolic" target="human" value="4.78738"/>
+<link source="metabolic" target="important" value="2.37239"/>
+<link source="metabolic" target="function" value="2.55557"/>
+<link source="metabolic" target="different" value="2.84235"/>
+<link source="metabolic" target="revealed" value="2.37996"/>
+<link source="metabolic" target="contribute" value="2.21118"/>
+<link source="metabolic" target="features" value="2.19158"/>
+<link source="metabolic" target="individual" value="2.14181"/>
+<link source="metabolic" target="changes" value="3.56603"/>
+<link source="metabolic" target="well" value="2.34073"/>
+<link source="metabolic" target="directly" value="2.21043"/>
+<link source="metabolic" target="mouse" value="2.9556"/>
+<link source="core" target="variation" value="2.20888"/>
+<link source="core" target="metabolic" value="3.43392"/>
+<link source="core" target="data" value="2.75051"/>
+<link source="core" target="diversity" value="2.79631"/>
+<link source="core" target="could" value="2.4232"/>
+<link source="core" target="analysis" value="2.34814"/>
+<link source="core" target="core" value="4.57607"/>
+<link source="core" target="human" value="3.5215"/>
+<link source="core" target="individual" value="2.80719"/>
+<link source="core" target="set" value="4.67822"/>
+<link source="core" target="gut" value="2.88593"/>
+<link source="individual" target="diet" value="2.2131"/>
+<link source="individual" target="community" value="3.69064"/>
+<link source="individual" target="gut" value="4.31786"/>
+<link source="individual" target="within" value="3.68196"/>
+<link source="individual" target="disease" value="2.12534"/>
+<link source="individual" target="structure" value="2.19793"/>
+<link source="individual" target="individual" value="4.09373"/>
+<link source="individual" target="differences" value="2.1806"/>
+<link source="individual" target="potentially" value="2.22458"/>
+<link source="individual" target="metabolic" value="2.14181"/>
+<link source="individual" target="different" value="2.54301"/>
+<link source="individual" target="bacterial" value="2.87483"/>
+<link source="individual" target="host" value="2.32289"/>
+<link source="individual" target="environment" value="2.19381"/>
+<link source="individual" target="could" value="2.59667"/>
+<link source="individual" target="body" value="2.2144"/>
+<link source="individual" target="human" value="3.13241"/>
+<link source="individual" target="data" value="2.03737"/>
+<link source="individual" target="level" value="3.28405"/>
+<link source="individual" target="provides" value="2.42912"/>
+<link source="individual" target="current" value="2.21245"/>
+<link source="individual" target="being" value="2.20725"/>
+<link source="individual" target="sequencing" value="2.75168"/>
+<link source="individual" target="identify" value="2.41942"/>
+<link source="supported" target="mice" value="2.41452"/>
+<link source="intestinal" target="genomes" value="4.86567"/>
+<link source="intestinal" target="association" value="2.4139"/>
+<link source="intestinal" target="more" value="2.44468"/>
+<link source="intestinal" target="composition" value="2.93476"/>
+<link source="intestinal" target="environment" value="3.55744"/>
+<link source="intestinal" target="immune" value="3.26271"/>
+<link source="intestinal" target="structure" value="2.38557"/>
+<link source="intestinal" target="mice" value="4.34284"/>
+<link source="intestinal" target="community" value="3.21095"/>
+<link source="intestinal" target="could" value="2.55564"/>
+<link source="intestinal" target="infant" value="2.41463"/>
+<link source="intestinal" target="interactions" value="2.17082"/>
+<link source="intestinal" target="during" value="2.57951"/>
+<link source="intestinal" target="patients" value="2.16167"/>
+<link source="intestinal" target="both" value="3.05257"/>
+<link source="intestinal" target="sequenced" value="2.09205"/>
+<link source="intestinal" target="development" value="3.09223"/>
+<link source="intestinal" target="host" value="3.44765"/>
+<link source="intestinal" target="gut" value="4.53169"/>
+<link source="intestinal" target="through" value="2.56237"/>
+<link source="intestinal" target="system" value="3.07704"/>
+<link source="intestinal" target="inflammation" value="2.96145"/>
+<link source="intestinal" target="following" value="2.20185"/>
+<link source="intestinal" target="tract" value="3.97087"/>
+<link source="intestinal" target="human" value="4.10155"/>
+<link source="intestinal" target="individual" value="2.13661"/>
+<link source="intestinal" target="bacterial" value="4.75825"/>
+<link source="intestinal" target="figure" value="2.02084"/>
+<link source="intestinal" target="disease" value="2.03277"/>
+<link source="intestinal" target="role" value="2.73502"/>
+<link source="intestinal" target="characterized" value="3.1364"/>
+<link source="intestinal" target="health" value="2.94811"/>
+<link source="intestinal" target="implications" value="2.2114"/>
+<link source="intestinal" target="members" value="2.56674"/>
+<link source="intestinal" target="metabolism" value="2.54051"/>
+<link source="intestinal" target="important" value="2.14695"/>
+<link source="intestinal" target="intestinal" value="5.49443"/>
+<link source="intestinal" target="into" value="2.28788"/>
+<link source="gut" target="reference" value="3.30078"/>
+<link source="gut" target="system" value="2.1081"/>
+<link source="gut" target="functional" value="3.87276"/>
+<link source="gut" target="likely" value="2.83625"/>
+<link source="gut" target="involved" value="6.02294"/>
+<link source="gut" target="energy" value="5.48449"/>
+<link source="gut" target="human" value="7.29668"/>
+<link source="gut" target="important" value="2.19711"/>
+<link source="gut" target="during" value="2.44026"/>
+<link source="gut" target="mammalian" value="3.51906"/>
+<link source="gut" target="interactions" value="2.26471"/>
+<link source="gut" target="disease" value="2.89141"/>
+<link source="gut" target="molecular" value="3.20278"/>
+<link source="gut" target="healthy" value="2.10647"/>
+<link source="gut" target="collective" value="2.20768"/>
+<link source="gut" target="through" value="3.11026"/>
+<link source="gut" target="development" value="3.95643"/>
+<link source="gut" target="dynamics" value="2.95768"/>
+<link source="gut" target="bacterial" value="6.98631"/>
+<link source="gut" target="gastrointestinal" value="2.13609"/>
+<link source="gut" target="populations" value="2.03118"/>
+<link source="gut" target="genomics" value="3.12856"/>
+<link source="gut" target="nutrient" value="4.73886"/>
+<link source="gut" target="into" value="4.85816"/>
+<link source="gut" target="suggest" value="2.13116"/>
+<link source="gut" target="sites" value="2.11264"/>
+<link source="gut" target="relationships" value="2.88777"/>
+<link source="gut" target="gnotobiotic" value="5.31137"/>
+<link source="gut" target="metagenomics" value="2.00773"/>
+<link source="gut" target="role" value="3.37821"/>
+<link source="gut" target="community" value="4.5691"/>
+<link source="gut" target="body" value="3.52901"/>
+<link source="gut" target="host" value="8.03201"/>
+<link source="gut" target="revealed" value="5.37544"/>
+<link source="gut" target="lean" value="5.80965"/>
+<link source="gut" target="analysis" value="4.85576"/>
+<link source="gut" target="more" value="4.77535"/>
+<link source="gut" target="metabolism" value="6.8766"/>
+<link source="gut" target="impact" value="3.09857"/>
+<link source="gut" target="adult" value="2.374"/>
+<link source="gut" target="infant" value="2.11758"/>
+<link source="gut" target="complex" value="3.51448"/>
+<link source="gut" target="core" value="4.39561"/>
+<link source="gut" target="metabolic" value="5.96966"/>
+<link source="gut" target="ecology" value="3.48691"/>
+<link source="gut" target="provide" value="4.88795"/>
+<link source="gut" target="tract" value="2.87949"/>
+<link source="gut" target="members" value="4.97183"/>
+<link source="gut" target="could" value="3.94372"/>
+<link source="gut" target="across" value="2.36837"/>
+<link source="gut" target="sequenced" value="6.16659"/>
+<link source="gut" target="diet" value="2.53518"/>
+<link source="gut" target="metagenomic" value="3.67203"/>
+<link source="gut" target="should" value="3.46394"/>
+<link source="gut" target="mice" value="7.38022"/>
+<link source="gut" target="affects" value="2.96872"/>
+<link source="gut" target="capacity" value="5.42432"/>
+<link source="gut" target="specific" value="2.22528"/>
+<link source="gut" target="affect" value="2.76598"/>
+<link source="gut" target="features" value="4.04412"/>
+<link source="gut" target="model" value="2.3881"/>
+<link source="gut" target="data" value="3.06528"/>
+<link source="gut" target="relationship" value="2.73671"/>
+<link source="gut" target="intestinal" value="3.5459"/>
+<link source="gut" target="implications" value="3.10817"/>
+<link source="gut" target="gut" value="11.0118"/>
+<link source="gut" target="health" value="3.4716"/>
+<link source="gut" target="part" value="2.08549"/>
+<link source="gut" target="sequencing" value="3.10718"/>
+<link source="gut" target="environmental" value="7.17308"/>
+<link source="gut" target="analyses" value="2.38914"/>
+<link source="gut" target="characterized" value="2.12252"/>
+<link source="gut" target="potentially" value="2.77671"/>
+<link source="gut" target="primary" value="2.57273"/>
+<link source="gut" target="obesity" value="4.0468"/>
+<link source="gut" target="figure" value="6.48563"/>
+<link source="gut" target="obese" value="4.85278"/>
+<link source="gut" target="effects" value="2.22978"/>
+<link source="gut" target="mouse" value="3.33822"/>
+<link source="gut" target="activity" value="2.29175"/>
+<link source="gut" target="composition" value="4.33637"/>
+<link source="gut" target="set" value="3.56611"/>
+<link source="gut" target="children" value="2.12005"/>
+<link source="gut" target="both" value="3.30703"/>
+<link source="gut" target="increased" value="5.7254"/>
+<link source="gut" target="there" value="2.77921"/>
+<link source="gut" target="recent" value="2.25908"/>
+<link source="gut" target="individual" value="2.38497"/>
+<link source="gut" target="differences" value="2.16105"/>
+<link source="gut" target="humans" value="4.82631"/>
+<link source="gut" target="fecal" value="3.48155"/>
+<link source="gut" target="within" value="4.74554"/>
+<link source="gut" target="immune" value="3.98856"/>
+<link source="gut" target="genomes" value="8.53751"/>
+<link source="gut" target="many" value="4.25738"/>
+<link source="gut" target="provides" value="2.90525"/>
+<link source="gut" target="environment" value="4.68361"/>
+<link source="gut" target="well" value="5.318"/>
+<link source="being" target="both" value="2.40845"/>
+<link source="being" target="sequenced" value="2.19434"/>
+<link source="being" target="different" value="2.59109"/>
+<link source="being" target="part" value="2.222"/>
+<link source="individuals" target="human" value="4.26695"/>
+<link source="individuals" target="sampling" value="3.59083"/>
+<link source="individuals" target="differences" value="2.615"/>
+<link source="individuals" target="gut" value="4.13596"/>
+<link source="individuals" target="individuals" value="3.30091"/>
+<link source="individuals" target="infected" value="3.14951"/>
+<link source="individuals" target="normal" value="2.21887"/>
+<link source="individuals" target="being" value="2.43223"/>
+<link source="individuals" target="different" value="4.54366"/>
+<link source="individuals" target="risk" value="2.43106"/>
+<link source="individuals" target="association" value="2.81741"/>
+<link source="individuals" target="disease" value="3.11092"/>
+<link source="individuals" target="sequencing" value="3.423"/>
+<link source="individuals" target="more" value="2.93664"/>
+<link source="infected" target="children" value="2.44004"/>
+<link source="infected" target="infected" value="2.98958"/>
+<link source="infected" target="patients" value="3.98849"/>
+<link source="infected" target="individuals" value="2.81416"/>
+<link source="infected" target="mice" value="6.05646"/>
+<link source="infected" target="different" value="2.17431"/>
+<link source="infected" target="more" value="2.17024"/>
+<link source="infected" target="well" value="2.20128"/>
+<link source="specific" target="differences" value="2.60843"/>
+<link source="specific" target="taxa" value="2.2271"/>
+<link source="specific" target="likely" value="2.20537"/>
+<link source="specific" target="more" value="2.74688"/>
+<link source="specific" target="intestinal" value="2.37722"/>
+<link source="specific" target="gut" value="2.22528"/>
+<link source="specific" target="data" value="3.50746"/>
+<link source="specific" target="humans" value="2.21382"/>
+<link source="specific" target="within" value="2.94073"/>
+<link source="specific" target="could" value="2.96555"/>
+<link source="specific" target="metabolism" value="2.18208"/>
+<link source="specific" target="taxonomic" value="2.62622"/>
+<link source="specific" target="metabolic" value="2.16104"/>
+<link source="specific" target="association" value="2.43406"/>
+<link source="specific" target="bacterial" value="3.66177"/>
+<link source="specific" target="might" value="2.21451"/>
+<link source="specific" target="factors" value="2.79461"/>
+<link source="specific" target="environmental" value="2.37596"/>
+<link source="specific" target="specific" value="3.58426"/>
+<link source="specific" target="figure" value="2.36431"/>
+<link source="taxonomic" target="diversity" value="2.96728"/>
+<link source="taxonomic" target="genomes" value="2.93464"/>
+<link source="taxonomic" target="approaches" value="2.21795"/>
+<link source="taxonomic" target="sampling" value="2.98554"/>
+<link source="taxonomic" target="figure" value="2.17323"/>
+<link source="taxonomic" target="taxonomic" value="3.45406"/>
+<link source="taxonomic" target="specific" value="2.21296"/>
+<link source="taxonomic" target="within" value="3.12442"/>
+<link source="taxonomic" target="metagenomic" value="2.20332"/>
+<link source="taxonomic" target="data" value="3.39535"/>
+<link source="taxonomic" target="relationships" value="3.59676"/>
+<link source="taxonomic" target="analysis" value="3.07744"/>
+<link source="taxonomic" target="analyses" value="2.42341"/>
+<link source="influence" target="gut" value="2.40442"/>
+<link source="influence" target="within" value="2.81579"/>
+<link source="tract" target="tract" value="5.37899"/>
+<link source="tract" target="more" value="2.16817"/>
+<link source="tract" target="gastrointestinal" value="5.09499"/>
+<link source="tract" target="human" value="2.09289"/>
+<link source="tract" target="bacterial" value="3.2573"/>
+<link source="tract" target="intestinal" value="2.40191"/>
+<link source="genomics" target="community" value="2.76741"/>
+<link source="genomics" target="analysis" value="3.33349"/>
+<link source="genomics" target="environmental" value="2.14459"/>
+<link source="genomics" target="bacterial" value="2.08426"/>
+<link source="genomics" target="gut" value="4.87525"/>
+<link source="genomics" target="functional" value="2.58383"/>
+<link source="genomics" target="human" value="3.86192"/>
+<link source="genomics" target="sequenced" value="2.16516"/>
+<link source="genomics" target="mice" value="4.62972"/>
+<link source="genomics" target="metagenomic" value="2.18083"/>
+<link source="genomics" target="metabolic" value="2.57374"/>
+<link source="genomics" target="data" value="2.49394"/>
+<link source="genomics" target="genomics" value="4.56097"/>
+<link source="genomics" target="features" value="4.34704"/>
+<link source="genomics" target="metagenomics" value="2.79978"/>
+<link source="genomics" target="genomes" value="2.52076"/>
+<link source="genomics" target="gnotobiotic" value="4.34443"/>
+<link source="developing" target="there" value="2.22483"/>
+<link source="developing" target="risk" value="2.99505"/>
+<link source="molecular" target="bacterial" value="4.12652"/>
+<link source="molecular" target="ecology" value="2.192"/>
+<link source="molecular" target="disease" value="4.62116"/>
+<link source="molecular" target="host" value="2.49198"/>
+<link source="molecular" target="mammalian" value="3.29497"/>
+<link source="molecular" target="data" value="2.21151"/>
+<link source="molecular" target="analysis" value="5.26322"/>
+<link source="molecular" target="community" value="2.12406"/>
+<link source="molecular" target="human" value="5.8664"/>
+<link source="molecular" target="characterization" value="3.43768"/>
+<link source="molecular" target="many" value="2.13713"/>
+<link source="molecular" target="interactions" value="3.84607"/>
+<link source="molecular" target="complex" value="3.10036"/>
+<link source="molecular" target="approaches" value="2.19172"/>
+<link source="molecular" target="genetics" value="2.63061"/>
+<link source="molecular" target="gut" value="2.30361"/>
+<link source="molecular" target="different" value="2.51096"/>
+<link source="molecular" target="diversity" value="2.74347"/>
+<link source="molecular" target="metabolic" value="3.52886"/>
+<link source="molecular" target="structure" value="2.18603"/>
+<link source="molecular" target="level" value="2.95275"/>
+<link source="molecular" target="within" value="2.53499"/>
+<link source="molecular" target="molecular" value="4.07254"/>
+<link source="level" target="metagenomic" value="3.12374"/>
+<link source="level" target="community" value="3.26528"/>
+<link source="level" target="differences" value="2.96312"/>
+<link source="level" target="figure" value="2.1315"/>
+<link source="level" target="individual" value="3.12811"/>
+<link source="level" target="functional" value="2.58466"/>
+<link source="level" target="variation" value="2.96355"/>
+<link source="level" target="sequencing" value="2.14948"/>
+<link source="level" target="into" value="2.15006"/>
+<link source="level" target="recent" value="2.2034"/>
+<link source="level" target="major" value="2.61569"/>
+<link source="level" target="within" value="3.55029"/>
+<link source="level" target="more" value="2.34398"/>
+<link source="level" target="data" value="3.49563"/>
+<link source="level" target="diversity" value="2.584"/>
+<link source="level" target="tools" value="2.42885"/>
+<link source="level" target="structure" value="2.20205"/>
+<link source="level" target="level" value="4.21992"/>
+<link source="level" target="analyses" value="2.40608"/>
+<link source="level" target="composition" value="2.19355"/>
+<link source="level" target="metabolic" value="2.37274"/>
+<link source="level" target="would" value="2.80062"/>
+<link source="level" target="analysis" value="3.0211"/>
+<link source="level" target="revealed" value="2.61275"/>
+<link source="increased" target="analysis" value="2.26722"/>
+<link source="increased" target="more" value="2.12048"/>
+<link source="increased" target="developing" value="2.43996"/>
+<link source="increased" target="increased" value="2.60932"/>
+<link source="increased" target="bacterial" value="2.31275"/>
+<link source="increased" target="host" value="2.11237"/>
+<link source="increased" target="energy" value="5.90381"/>
+<link source="increased" target="activity" value="2.42479"/>
+<link source="increased" target="capacity" value="5.90841"/>
+<link source="increased" target="obese" value="2.43502"/>
+<link source="increased" target="risk" value="5.46602"/>
+<link source="increased" target="gut" value="2.41313"/>
+<link source="increased" target="inflammation" value="2.21094"/>
+<link source="increased" target="through" value="2.18813"/>
+<link source="increased" target="following" value="2.21945"/>
+<link source="increased" target="both" value="2.38068"/>
+<link source="possible" target="different" value="2.39356"/>
+<link source="possible" target="identify" value="2.43434"/>
+<link source="possible" target="role" value="2.61834"/>
+<link source="possible" target="into" value="2.40513"/>
+<link source="through" target="sequencing" value="2.7523"/>
+<link source="through" target="metabolic" value="2.36413"/>
+<link source="through" target="environment" value="2.19415"/>
+<link source="through" target="provide" value="2.40966"/>
+<link source="through" target="analysis" value="3.60896"/>
+<link source="through" target="into" value="2.36217"/>
+<link source="through" target="host" value="2.52948"/>
+<link source="through" target="gut" value="3.55873"/>
+<link source="through" target="role" value="2.77796"/>
+<link source="through" target="data" value="2.03896"/>
+<link source="through" target="metagenomic" value="2.17545"/>
+<link source="through" target="both" value="2.93752"/>
+<link source="through" target="genomes" value="2.70013"/>
+<link source="through" target="bacterial" value="2.06948"/>
+<link source="through" target="genomics" value="2.79002"/>
+<link source="through" target="functional" value="2.3761"/>
+<link source="through" target="intestinal" value="2.75043"/>
+<link source="directly" target="host" value="2.79861"/>
+<link source="directly" target="through" value="2.98911"/>
+<link source="mouse" target="metabolic" value="2.1765"/>
+<link source="mouse" target="host" value="2.93467"/>
+<link source="mouse" target="capacity" value="2.43636"/>
+<link source="mouse" target="revealed" value="2.42424"/>
+<link source="mouse" target="effects" value="3.44686"/>
+<link source="mouse" target="environmental" value="2.77787"/>
+<link source="mouse" target="mice" value="3.68846"/>
+<link source="mouse" target="mouse" value="2.62746"/>
+<link source="mouse" target="energy" value="2.42849"/>
+<link source="mouse" target="figure" value="2.38186"/>
+<link source="mouse" target="bacterial" value="2.12994"/>
+<link source="mouse" target="increased" value="2.42161"/>
+<link source="mouse" target="human" value="2.4998"/>
+<link source="mouse" target="model" value="5.81798"/>
+<link source="mouse" target="gut" value="5.66865"/>
+<link source="particular" target="disease" value="2.18513"/>
+<link source="particular" target="different" value="2.78422"/>
+<link source="particular" target="environmental" value="2.60641"/>
+<link source="particular" target="genomes" value="2.16081"/>
+<link source="skin" target="analysis" value="2.58294"/>
+<link source="skin" target="tract" value="2.22664"/>
+<link source="factors" target="host" value="4.0485"/>
+<link source="factors" target="interactions" value="2.80056"/>
+<link source="factors" target="bacterial" value="2.69673"/>
+<link source="factors" target="capacity" value="2.42889"/>
+<link source="factors" target="important" value="2.96411"/>
+<link source="factors" target="intestinal" value="2.56237"/>
+<link source="factors" target="contribute" value="2.63376"/>
+<link source="factors" target="into" value="2.36217"/>
+<link source="factors" target="environmental" value="2.13568"/>
+<link source="factors" target="role" value="3.42289"/>
+<link source="factors" target="diet" value="2.21328"/>
+<link source="factors" target="structure" value="2.19824"/>
+<link source="factors" target="populations" value="2.61559"/>
+<link source="factors" target="disease" value="3.24257"/>
+<link source="factors" target="affect" value="2.43693"/>
+<link source="factors" target="provide" value="2.19243"/>
+<link source="factors" target="immune" value="2.19286"/>
+<link source="factors" target="factors" value="4.21454"/>
+<link source="factors" target="system" value="2.17094"/>
+<link source="factors" target="many" value="2.76929"/>
+<link source="factors" target="influence" value="2.44164"/>
+<link source="factors" target="during" value="2.41083"/>
+<link source="factors" target="complex" value="2.5898"/>
+<link source="factors" target="activity" value="2.42202"/>
+<link source="characterize" target="data" value="2.79889"/>
+<link source="characterize" target="composition" value="2.22711"/>
+<link source="characterize" target="community" value="2.63219"/>
+<link source="characterize" target="human" value="2.1847"/>
+<link source="characterize" target="set" value="2.22637"/>
+<link source="characterized" target="figure" value="2.60929"/>
+<link source="characterized" target="intestinal" value="2.41608"/>
+<link source="mammalian" target="mouse" value="2.63267"/>
+<link source="mammalian" target="sequencing" value="2.19219"/>
+<link source="mammalian" target="interactions" value="5.18924"/>
+<link source="mammalian" target="metabolism" value="3.72334"/>
+<link source="mammalian" target="mammalian" value="2.225"/>
+<link source="mammalian" target="metabolic" value="5.89998"/>
+<link source="mammalian" target="model" value="2.98197"/>
+<link source="mammalian" target="gut" value="3.65831"/>
+<link source="mammalian" target="human" value="2.90794"/>
+<link source="mice" target="different" value="3.69051"/>
+<link source="mice" target="model" value="2.09691"/>
+<link source="mice" target="well" value="2.28697"/>
+<link source="mice" target="metagenomic" value="2.70283"/>
+<link source="mice" target="mice" value="9.86758"/>
+<link source="mice" target="revealed" value="5.43077"/>
+<link source="mice" target="mouse" value="4.07483"/>
+<link source="mice" target="provide" value="2.34509"/>
+<link source="mice" target="normal" value="2.94919"/>
+<link source="mice" target="effects" value="2.3492"/>
+<link source="mice" target="composition" value="2.33634"/>
+<link source="mice" target="important" value="2.10987"/>
+<link source="mice" target="affects" value="2.432"/>
+<link source="mice" target="infected" value="5.80351"/>
+<link source="mice" target="more" value="3.54032"/>
+<link source="mice" target="figure" value="4.43385"/>
+<link source="mice" target="obese" value="3.5769"/>
+<link source="mice" target="metabolic" value="2.98899"/>
+<link source="mice" target="host" value="3.79844"/>
+<link source="mice" target="human" value="5.73524"/>
+<link source="mice" target="age" value="2.4176"/>
+<link source="mice" target="diet" value="2.17635"/>
+<link source="mice" target="gut" value="7.77576"/>
+<link source="mice" target="intestinal" value="3.44518"/>
+<link source="mice" target="bacterial" value="4.48226"/>
+<link source="mice" target="lean" value="4.57021"/>
+<link source="mice" target="changes" value="2.92903"/>
+<link source="mice" target="analysis" value="4.18115"/>
+<link source="mice" target="activity" value="2.37749"/>
+<link source="mice" target="metabolism" value="2.68902"/>
+<link source="mice" target="increased" value="4.84164"/>
+<link source="mice" target="nutrient" value="2.18029"/>
+<link source="mice" target="sequenced" value="3.33246"/>
+<link source="mice" target="environment" value="2.12621"/>
+<link source="mice" target="community" value="2.24686"/>
+<link source="mice" target="whereas" value="2.37389"/>
+<link source="there" target="community" value="2.37467"/>
+<link source="there" target="different" value="2.91302"/>
+<link source="there" target="immune" value="2.79537"/>
+<link source="there" target="within" value="3.4022"/>
+<link source="there" target="data" value="3.18802"/>
+<link source="there" target="there" value="2.18614"/>
+<link source="there" target="differences" value="3.12462"/>
+<link source="there" target="many" value="3.26782"/>
+<link source="there" target="gut" value="3.11691"/>
+<link source="there" target="being" value="2.42423"/>
+<link source="there" target="composition" value="2.1903"/>
+<link source="there" target="genomes" value="2.51302"/>
+<link source="there" target="diversity" value="3.69467"/>
+<link source="there" target="variation" value="3.57291"/>
+<link source="there" target="core" value="2.98077"/>
+<link source="there" target="functional" value="3.10727"/>
+<link source="there" target="more" value="2.90728"/>
+<link source="there" target="metabolic" value="3.25562"/>
+<link source="there" target="changes" value="2.20091"/>
+<link source="there" target="possible" value="2.20986"/>
+<link source="there" target="disease" value="2.74439"/>
+<link source="there" target="association" value="2.62852"/>
+<link source="structure" target="host" value="2.13844"/>
+<link source="structure" target="genomes" value="2.91416"/>
+<link source="structure" target="sequenced" value="2.18085"/>
+<link source="structure" target="function" value="3.97587"/>
+<link source="structure" target="environment" value="2.20632"/>
+<link source="structure" target="metabolism" value="2.6054"/>
+<link source="structure" target="community" value="2.59495"/>
+<link source="structure" target="figure" value="2.37415"/>
+<link source="structure" target="human" value="2.04371"/>
+<link source="structure" target="through" value="2.41495"/>
+<link source="structure" target="sampling" value="2.21059"/>
+<link source="structure" target="populations" value="2.21075"/>
+<link source="structure" target="bacterial" value="2.54583"/>
+<link source="structure" target="data" value="3.37381"/>
+<link source="structure" target="there" value="2.19946"/>
+<link source="structure" target="diversity" value="2.39685"/>
+<link source="structure" target="analyses" value="2.41523"/>
+<link source="provides" target="analysis" value="2.14385"/>
+<link source="provides" target="individual" value="2.21375"/>
+<link source="provides" target="within" value="2.61097"/>
+<link source="provides" target="disease" value="2.40785"/>
+<link source="implications" target="gut" value="2.15954"/>
+<link source="implications" target="health" value="2.4409"/>
+<link source="implications" target="human" value="3.27094"/>
+<link source="implications" target="metabolism" value="2.21925"/>
+<link source="consortium" target="gut" value="2.18793"/>
+<link source="consortium" target="human" value="2.60973"/>
+<link source="into" target="mice" value="2.985"/>
+<link source="into" target="mouse" value="2.78025"/>
+<link source="into" target="whereas" value="2.7836"/>
+<link source="into" target="individual" value="3.25161"/>
+<link source="into" target="more" value="2.23894"/>
+<link source="into" target="would" value="2.16587"/>
+<link source="into" target="components" value="2.96406"/>
+<link source="into" target="into" value="2.69274"/>
+<link source="into" target="many" value="2.10184"/>
+<link source="into" target="identify" value="2.9563"/>
+<link source="into" target="composition" value="2.15121"/>
+<link source="into" target="different" value="3.32443"/>
+<link source="into" target="taxonomic" value="2.40231"/>
+<link source="into" target="human" value="3.30392"/>
+<link source="into" target="well" value="2.11419"/>
+<link source="into" target="important" value="2.37062"/>
+<link source="into" target="data" value="3.07817"/>
+<link source="into" target="metabolism" value="2.11534"/>
+<link source="into" target="increased" value="2.37097"/>
+<link source="into" target="structure" value="2.58838"/>
+<link source="into" target="factors" value="2.36217"/>
+<link source="into" target="disease" value="2.67261"/>
+<link source="into" target="variation" value="2.13849"/>
+<link source="into" target="intestinal" value="2.05903"/>
+<link source="into" target="sequenced" value="2.52775"/>
+<link source="into" target="figure" value="2.25901"/>
+<link source="into" target="community" value="2.0841"/>
+<link source="into" target="energy" value="3.27294"/>
+<link source="into" target="both" value="2.70951"/>
+<link source="into" target="could" value="3.54145"/>
+<link source="into" target="populations" value="2.39104"/>
+<link source="into" target="role" value="2.34492"/>
+<link source="into" target="lean" value="2.43365"/>
+<link source="into" target="functional" value="2.52384"/>
+<link source="into" target="effects" value="2.16086"/>
+<link source="into" target="host" value="3.59414"/>
+<link source="into" target="capacity" value="2.41252"/>
+<link source="children" target="more" value="2.18735"/>
+<link source="children" target="children" value="2.82237"/>
+<link source="children" target="age" value="2.64148"/>
+<link source="subjects" target="individuals" value="2.44106"/>
+<link source="subjects" target="more" value="2.20238"/>
+<link source="might" target="disease" value="3.12313"/>
+<link source="might" target="more" value="3.27294"/>
+<link source="might" target="changes" value="2.43278"/>
+<link source="might" target="intestinal" value="2.18634"/>
+<link source="might" target="affect" value="2.22913"/>
+<link source="might" target="recent" value="2.21776"/>
+<link source="might" target="host" value="2.16673"/>
+<link source="might" target="functional" value="2.61151"/>
+<link source="nutrient" target="environment" value="2.43422"/>
+<link source="nutrient" target="immune" value="2.81479"/>
+<link source="nutrient" target="resource" value="2.44628"/>
+<link source="nutrient" target="host" value="2.18115"/>
+<link source="nutrient" target="intestinal" value="2.41354"/>
+<link source="nutrient" target="development" value="2.2147"/>
+<link source="nutrient" target="metabolic" value="2.97218"/>
+<link source="nutrient" target="framework" value="2.44651"/>
+<link source="model" target="intestinal" value="2.75074"/>
+<link source="model" target="mice" value="4.04764"/>
+<link source="model" target="lung" value="2.23243"/>
+<link source="model" target="human" value="2.79878"/>
+<link source="model" target="host" value="3.92341"/>
+<link source="model" target="bacterial" value="2.29803"/>
+<link source="model" target="gut" value="2.94671"/>
+<link source="model" target="environmental" value="2.13609"/>
+<link source="model" target="members" value="2.40356"/>
+<link source="model" target="model" value="4.66521"/>
+<link source="model" target="inflammation" value="2.20824"/>
+<link source="model" target="analysis" value="2.65359"/>
+<link source="murine" target="model" value="2.22943"/>
+<link source="sites" target="sampling" value="2.22159"/>
+<link source="sites" target="different" value="2.4051"/>
+<link source="sites" target="individual" value="2.2144"/>
+<link source="sites" target="sites" value="2.2274"/>
+<link source="revealed" target="bacterial" value="3.22514"/>
+<link source="revealed" target="host" value="2.73984"/>
+<link source="revealed" target="many" value="2.95459"/>
+<link source="revealed" target="community" value="3.1135"/>
+<link source="revealed" target="intestinal" value="3.26244"/>
+<link source="revealed" target="increased" value="3.71832"/>
+<link source="revealed" target="both" value="2.58804"/>
+<link source="revealed" target="human" value="2.45916"/>
+<link source="revealed" target="obese" value="2.63362"/>
+<link source="revealed" target="analysis" value="2.05521"/>
+<link source="revealed" target="different" value="2.35983"/>
+<link source="revealed" target="gut" value="4.11124"/>
+<link source="revealed" target="metagenomic" value="4.09633"/>
+<link source="revealed" target="metabolism" value="2.39946"/>
+<link source="revealed" target="metabolic" value="2.58138"/>
+<link source="metabolism" target="host" value="2.69116"/>
+<link source="metabolism" target="energy" value="3.71442"/>
+<link source="metabolism" target="intestinal" value="2.90719"/>
+<link source="metabolism" target="metabolic" value="3.80485"/>
+<link source="metabolism" target="individuals" value="2.60815"/>
+<link source="metabolism" target="involved" value="2.5733"/>
+<link source="metabolism" target="gut" value="5.50415"/>
+<link source="metabolism" target="through" value="2.94985"/>
+<link source="metabolism" target="molecular" value="2.36826"/>
+<link source="metabolism" target="environmental" value="3.66594"/>
+<link source="metabolism" target="metabolism" value="9.14443"/>
+<link source="metabolism" target="complex" value="2.57513"/>
+<link source="metabolism" target="system" value="3.41104"/>
+<link source="metabolism" target="well" value="2.5733"/>
+<link source="metabolism" target="figure" value="3.0585"/>
+<link source="metabolism" target="analyses" value="2.58935"/>
+<link source="metabolism" target="both" value="2.13026"/>
+<link source="metabolism" target="functional" value="2.35687"/>
+<link source="metabolism" target="effects" value="2.18317"/>
+<link source="metabolism" target="mouse" value="2.1932"/>
+<link source="metabolism" target="implications" value="2.21925"/>
+<link source="metabolism" target="genomes" value="2.03124"/>
+<link source="metabolism" target="health" value="2.40615"/>
+<link source="metabolism" target="mice" value="2.68902"/>
+<link source="metabolism" target="important" value="2.59439"/>
+<link source="metabolism" target="human" value="3.08598"/>
+<link source="metabolism" target="more" value="2.07384"/>
+<link source="metabolism" target="bacterial" value="2.02582"/>
+<link source="host" target="mice" value="3.07353"/>
+<link source="host" target="role" value="4.15581"/>
+<link source="host" target="humans" value="2.58527"/>
+<link source="host" target="well" value="3.90201"/>
+<link source="host" target="could" value="2.31378"/>
+<link source="host" target="obesity" value="2.59231"/>
+<link source="host" target="development" value="3.65911"/>
+<link source="host" target="gnotobiotic" value="2.76528"/>
+<link source="host" target="community" value="2.01751"/>
+<link source="host" target="during" value="2.34973"/>
+<link source="host" target="environment" value="3.08579"/>
+<link source="host" target="genotype" value="2.21998"/>
+<link source="host" target="function" value="2.07908"/>
+<link source="host" target="bacterial" value="5.66609"/>
+<link source="host" target="immune" value="8.4559"/>
+<link source="host" target="analysis" value="2.16146"/>
+<link source="host" target="provides" value="3.2781"/>
+<link source="host" target="tract" value="2.38315"/>
+<link source="host" target="nutrient" value="3.9693"/>
+<link source="host" target="energy" value="2.75475"/>
+<link source="host" target="whereas" value="2.15452"/>
+<link source="host" target="more" value="4.06781"/>
+<link source="host" target="metagenomic" value="2.30669"/>
+<link source="host" target="complex" value="3.04147"/>
+<link source="host" target="factors" value="3.9231"/>
+<link source="host" target="genomes" value="2.49733"/>
+<link source="host" target="host" value="6.03563"/>
+<link source="host" target="model" value="2.89788"/>
+<link source="host" target="work" value="2.39733"/>
+<link source="host" target="system" value="6.18482"/>
+<link source="host" target="relationships" value="2.58856"/>
+<link source="host" target="diversity" value="2.02639"/>
+<link source="host" target="both" value="2.01973"/>
+<link source="host" target="should" value="2.92351"/>
+<link source="host" target="effects" value="2.55433"/>
+<link source="host" target="health" value="3.25118"/>
+<link source="host" target="functional" value="2.2601"/>
+<link source="host" target="analyses" value="2.32492"/>
+<link source="host" target="might" value="2.38619"/>
+<link source="host" target="metabolism" value="5.93529"/>
+<link source="host" target="specific" value="2.12568"/>
+<link source="host" target="altered" value="2.2161"/>
+<link source="host" target="different" value="2.5824"/>
+<link source="host" target="metabolic" value="4.23511"/>
+<link source="host" target="figure" value="2.77632"/>
+<link source="host" target="level" value="2.33657"/>
+<link source="host" target="gut" value="7.71472"/>
+<link source="host" target="important" value="2.33606"/>
+<link source="host" target="involved" value="2.68985"/>
+<link source="host" target="interactions" value="5.44009"/>
+<link source="host" target="human" value="5.56271"/>
+<link source="host" target="whether" value="2.16229"/>
+<link source="host" target="would" value="2.13511"/>
+<link source="host" target="many" value="2.85612"/>
+<link source="host" target="mammalian" value="2.77887"/>
+<link source="host" target="intestinal" value="4.34483"/>
+<link source="host" target="disease" value="3.28113"/>
+<link source="host" target="implications" value="2.80124"/>
+<link source="host" target="components" value="2.38619"/>
+<link source="host" target="there" value="2.53323"/>
+<link source="host" target="directly" value="2.61387"/>
+<link source="host" target="recent" value="2.14232"/>
+<link source="host" target="through" value="3.79356"/>
+<link source="host" target="diet" value="3.27698"/>
+<link source="metagenomic" target="mice" value="3.04994"/>
+<link source="metagenomic" target="environmental" value="3.39042"/>
+<link source="metagenomic" target="sampling" value="3.13341"/>
+<link source="metagenomic" target="metagenomic" value="3.27015"/>
+<link source="metagenomic" target="gut" value="7.1732"/>
+<link source="metagenomic" target="human" value="6.52935"/>
+<link source="metagenomic" target="project" value="2.21089"/>
+<link source="metagenomic" target="healthy" value="3.98565"/>
+<link source="metagenomic" target="figure" value="2.10384"/>
+<link source="metagenomic" target="fecal" value="2.97049"/>
+<link source="metagenomic" target="into" value="2.74244"/>
+<link source="metagenomic" target="metagenomics" value="2.60754"/>
+<link source="metagenomic" target="data" value="6.70844"/>
+<link source="metagenomic" target="approaches" value="2.79828"/>
+<link source="metagenomic" target="humans" value="3.13998"/>
+<link source="metagenomic" target="reference" value="2.96265"/>
+<link source="metagenomic" target="environment" value="2.40598"/>
+<link source="metagenomic" target="involved" value="2.58047"/>
+<link source="metagenomic" target="different" value="2.09895"/>
+<link source="metagenomic" target="community" value="2.56436"/>
+<link source="metagenomic" target="lean" value="2.81973"/>
+<link source="metagenomic" target="distal" value="5.36984"/>
+<link source="metagenomic" target="tools" value="2.42338"/>
+<link source="metagenomic" target="individual" value="2.39371"/>
+<link source="metagenomic" target="analysis" value="8.05454"/>
+<link source="metagenomic" target="should" value="2.40821"/>
+<link source="metagenomic" target="functional" value="2.75616"/>
+<link source="metagenomic" target="sequencing" value="3.67622"/>
+<link source="metagenomic" target="consortium" value="2.22654"/>
+<link source="metagenomic" target="analyses" value="2.17594"/>
+<link source="metagenomic" target="generated" value="2.81026"/>
+<link source="metagenomic" target="set" value="2.39639"/>
+<link source="metagenomic" target="obese" value="3.14811"/>
+<link source="define" target="disease" value="2.22234"/>
+<link source="define" target="different" value="2.22099"/>
+<link source="define" target="within" value="2.22368"/>
+<link source="define" target="host" value="2.43379"/>
+<link source="define" target="sequencing" value="2.22403"/>
+<link source="current" target="genomes" value="2.16474"/>
+<link source="current" target="human" value="2.34074"/>
+<link source="current" target="knowledge" value="2.2321"/>
+<link source="disease" target="both" value="2.69187"/>
+<link source="disease" target="more" value="2.80259"/>
+<link source="disease" target="hmp" value="3.44209"/>
+<link source="disease" target="normal" value="2.18248"/>
+<link source="disease" target="well" value="3.37376"/>
+<link source="disease" target="primary" value="2.42119"/>
+<link source="disease" target="individual" value="2.12534"/>
+<link source="disease" target="important" value="2.5619"/>
+<link source="disease" target="analysis" value="3.60883"/>
+<link source="disease" target="factors" value="3.9386"/>
+<link source="disease" target="bacterial" value="2.13614"/>
+<link source="disease" target="intestinal" value="2.47394"/>
+<link source="disease" target="host" value="2.60433"/>
+<link source="disease" target="model" value="2.34962"/>
+<link source="disease" target="project" value="2.40785"/>
+<link source="disease" target="revealed" value="2.1466"/>
+<link source="disease" target="functional" value="2.50575"/>
+<link source="disease" target="us" value="3.43694"/>
+<link source="disease" target="subjects" value="2.20728"/>
+<link source="disease" target="diet" value="2.18912"/>
+<link source="disease" target="there" value="2.12977"/>
+<link source="disease" target="gut" value="4.50177"/>
+<link source="disease" target="recent" value="2.16122"/>
+<link source="disease" target="during" value="2.14882"/>
+<link source="disease" target="through" value="2.12623"/>
+<link source="disease" target="inflammation" value="2.17849"/>
+<link source="disease" target="data" value="2.69728"/>
+<link source="disease" target="provide" value="2.56976"/>
+<link source="disease" target="metagenomic" value="2.11117"/>
+<link source="disease" target="differences" value="2.34598"/>
+<link source="disease" target="environmental" value="4.36872"/>
+<link source="disease" target="chronic" value="2.60495"/>
+<link source="disease" target="current" value="2.18779"/>
+<link source="disease" target="involved" value="2.52746"/>
+<link source="disease" target="potential" value="2.58474"/>
+<link source="disease" target="molecular" value="3.91879"/>
+<link source="disease" target="increased" value="2.35933"/>
+<link source="disease" target="human" value="3.94828"/>
+<link source="disease" target="individuals" value="2.16343"/>
+<link source="disease" target="disease" value="7.74545"/>
+<link source="disease" target="risk" value="3.56655"/>
+<link source="disease" target="could" value="2.11737"/>
+<link source="disease" target="development" value="2.12578"/>
+<link source="disease" target="patients" value="3.55419"/>
+<link source="disease" target="many" value="2.51549"/>
+<link source="disease" target="define" value="2.81757"/>
+<link source="work" target="health" value="2.22044"/>
+<link source="work" target="approaches" value="2.43678"/>
+<link source="work" target="genotype" value="2.23348"/>
+<link source="work" target="supported" value="4.4691"/>
+<link source="work" target="host" value="2.95741"/>
+<link source="work" target="complex" value="2.20857"/>
+<link source="work" target="human" value="2.34672"/>
+<link source="work" target="gut" value="3.92893"/>
+<link source="life" target="within" value="2.78136"/>
+<link source="life" target="host" value="2.15342"/>
+<link source="life" target="gut" value="2.05217"/>
+<link source="life" target="human" value="2.69968"/>
+<link source="life" target="life" value="2.81321"/>
+<link source="life" target="sequenced" value="2.18932"/>
+<link source="life" target="metagenomics" value="3.14538"/>
+<link source="role" target="bacterial" value="3.7578"/>
+<link source="role" target="gut" value="4.40371"/>
+<link source="role" target="inflammation" value="2.61747"/>
+<link source="role" target="role" value="2.58114"/>
+<link source="role" target="disease" value="4.51839"/>
+<link source="role" target="metabolism" value="2.93994"/>
+<link source="role" target="development" value="4.5513"/>
+<link source="role" target="community" value="2.9244"/>
+<link source="role" target="well" value="2.37523"/>
+<link source="role" target="both" value="2.13567"/>
+<link source="role" target="within" value="2.91155"/>
+<link source="role" target="intestinal" value="3.93395"/>
+<link source="role" target="genomes" value="2.04171"/>
+<link source="role" target="factors" value="2.39121"/>
+<link source="role" target="health" value="2.96642"/>
+<link source="role" target="energy" value="2.19282"/>
+<link source="role" target="many" value="2.14648"/>
+<link source="role" target="whether" value="2.41824"/>
+<link source="role" target="host" value="3.77786"/>
+<link source="role" target="distal" value="2.41401"/>
+<link source="role" target="functional" value="2.13979"/>
+<link source="role" target="individual" value="2.17171"/>
+<link source="role" target="human" value="4.42418"/>
+<link source="figure" target="analysis" value="3.30515"/>
+<link source="figure" target="metabolism" value="2.7124"/>
+<link source="figure" target="many" value="2.87837"/>
+<link source="figure" target="chronic" value="2.40283"/>
+<link source="figure" target="sequenced" value="4.71669"/>
+<link source="figure" target="diversity" value="2.49595"/>
+<link source="figure" target="both" value="2.68385"/>
+<link source="figure" target="environmental" value="2.24959"/>
+<link source="figure" target="there" value="2.12353"/>
+<link source="figure" target="mouse" value="3.10989"/>
+<link source="figure" target="gut" value="6.56219"/>
+<link source="figure" target="genomes" value="5.3327"/>
+<link source="figure" target="major" value="2.14979"/>
+<link source="figure" target="data" value="4.37276"/>
+<link source="figure" target="host" value="3.41944"/>
+<link source="figure" target="figure" value="5.55658"/>
+<link source="figure" target="model" value="2.91367"/>
+<link source="figure" target="would" value="2.93639"/>
+<link source="figure" target="following" value="2.41268"/>
+<link source="figure" target="impact" value="3.13807"/>
+<link source="figure" target="revealed" value="2.9294"/>
+<link source="figure" target="characterized" value="2.19293"/>
+<link source="figure" target="inflammation" value="2.59423"/>
+<link source="figure" target="well" value="2.08789"/>
+<link source="figure" target="relationships" value="2.95736"/>
+<link source="figure" target="features" value="2.18074"/>
+<link source="figure" target="composition" value="2.35532"/>
+<link source="figure" target="human" value="4.29405"/>
+<link source="figure" target="mice" value="4.54511"/>
+<link source="figure" target="metagenomics" value="2.93534"/>
+<link source="figure" target="disease" value="2.639"/>
+<link source="figure" target="suggest" value="2.61207"/>
+<link source="figure" target="bacterial" value="2.54113"/>
+<link source="figure" target="functional" value="3.63685"/>
+<link source="figure" target="sequencing" value="2.46821"/>
+<link source="figure" target="metabolic" value="3.61976"/>
+<link source="figure" target="core" value="2.78246"/>
+<link source="figure" target="intestinal" value="3.32517"/>
+<link source="figure" target="different" value="2.62046"/>
+<link source="figure" target="taxonomic" value="3.27426"/>
+<link source="figure" target="analyses" value="2.54826"/>
+<link source="figure" target="level" value="2.1315"/>
+<link source="figure" target="relationship" value="2.6085"/>
+<link source="figure" target="differences" value="2.33991"/>
+<link source="distal" target="humans" value="2.81508"/>
+<link source="distal" target="genomes" value="2.75031"/>
+<link source="distal" target="primary" value="2.44113"/>
+<link source="distal" target="sequenced" value="2.79097"/>
+<link source="distal" target="gut" value="10.87051"/>
+<link source="distal" target="bacterial" value="2.74824"/>
+<link source="distal" target="through" value="2.41986"/>
+<link source="distal" target="human" value="7.22942"/>
+<link source="gastrointestinal" target="tract" value="8.71544"/>
+<link source="gastrointestinal" target="gastrointestinal" value="4.79318"/>
+<link source="generated" target="many" value="2.20772"/>
+<link source="generated" target="humans" value="2.4399"/>
+<link source="generated" target="sequenced" value="3.29674"/>
+<link source="generated" target="fecal" value="2.43744"/>
+<link source="generated" target="healthy" value="2.44168"/>
+<link source="international" target="data" value="2.20745"/>
+<link source="international" target="human" value="2.97067"/>
+<link source="international" target="consortium" value="2.64472"/>
+<link source="bacterial" target="composition" value="3.65334"/>
+<link source="bacterial" target="genomics" value="3.78534"/>
+<link source="bacterial" target="molecular" value="2.24836"/>
+<link source="bacterial" target="metagenomic" value="2.04664"/>
+<link source="bacterial" target="complex" value="2.02918"/>
+<link source="bacterial" target="increased" value="3.21563"/>
+<link source="bacterial" target="metabolism" value="2.66221"/>
+<link source="bacterial" target="system" value="2.03253"/>
+<link source="bacterial" target="fecal" value="2.91889"/>
+<link source="bacterial" target="disease" value="2.74415"/>
+<link source="bacterial" target="analysis" value="3.87693"/>
+<link source="bacterial" target="taxonomic" value="2.14606"/>
+<link source="bacterial" target="sequenced" value="2.99033"/>
+<link source="bacterial" target="both" value="2.42434"/>
+<link source="bacterial" target="sequencing" value="2.7757"/>
+<link source="bacterial" target="distal" value="3.9433"/>
+<link source="bacterial" target="bacterial" value="7.04967"/>
+<link source="bacterial" target="gastrointestinal" value="2.39982"/>
+<link source="bacterial" target="community" value="5.36918"/>
+<link source="bacterial" target="host" value="7.28658"/>
+<link source="bacterial" target="tract" value="2.93441"/>
+<link source="bacterial" target="mouse" value="2.3526"/>
+<link source="bacterial" target="potential" value="2.34954"/>
+<link source="bacterial" target="gnotobiotic" value="3.68385"/>
+<link source="bacterial" target="many" value="2.44819"/>
+<link source="bacterial" target="role" value="3.02121"/>
+<link source="bacterial" target="relationships" value="2.93892"/>
+<link source="bacterial" target="intestinal" value="4.08014"/>
+<link source="bacterial" target="body" value="2.94993"/>
+<link source="bacterial" target="members" value="4.50555"/>
+<link source="bacterial" target="interactions" value="2.74134"/>
+<link source="bacterial" target="structure" value="2.34157"/>
+<link source="bacterial" target="affect" value="2.19308"/>
+<link source="bacterial" target="more" value="4.27129"/>
+<link source="bacterial" target="into" value="2.39312"/>
+<link source="bacterial" target="function" value="2.27595"/>
+<link source="bacterial" target="taxa" value="2.4176"/>
+<link source="bacterial" target="figure" value="2.54113"/>
+<link source="bacterial" target="factors" value="5.02597"/>
+<link source="bacterial" target="development" value="2.2968"/>
+<link source="bacterial" target="genomes" value="7.85825"/>
+<link source="bacterial" target="data" value="3.37354"/>
+<link source="bacterial" target="populations" value="3.8086"/>
+<link source="bacterial" target="important" value="3.78611"/>
+<link source="bacterial" target="within" value="2.1668"/>
+<link source="bacterial" target="diversity" value="3.44808"/>
+<link source="bacterial" target="gut" value="7.26653"/>
+<link source="bacterial" target="mice" value="4.90755"/>
+<link source="bacterial" target="model" value="2.07015"/>
+<link source="bacterial" target="different" value="2.53051"/>
+<link source="bacterial" target="age" value="2.19442"/>
+<link source="bacterial" target="skin" value="2.39859"/>
+<link source="bacterial" target="well" value="3.01218"/>
+<link source="bacterial" target="human" value="7.76324"/>
+<link source="bacterial" target="specific" value="2.53278"/>
+<link source="bacterial" target="could" value="4.02547"/>
+<link source="bacterial" target="environment" value="2.32992"/>
+<link source="bacterial" target="set" value="2.0762"/>
+<link source="bacterial" target="functional" value="3.30194"/>
+<link source="bacterial" target="revealed" value="3.22514"/>
+<link source="activity" target="metabolism" value="2.41482"/>
+<link source="activity" target="host" value="2.15841"/>
+<link source="activity" target="implications" value="2.82248"/>
+<link source="activity" target="bacterial" value="2.56627"/>
+<link source="activity" target="immune" value="2.21168"/>
+<link source="activity" target="gut" value="2.06327"/>
+<link source="activity" target="activity" value="2.21908"/>
+<link source="activity" target="capacity" value="2.63498"/>
+<link source="identify" target="specific" value="2.20985"/>
+<link source="identify" target="human" value="3.64238"/>
+<link source="identify" target="environmental" value="2.95414"/>
+<link source="identify" target="within" value="2.39405"/>
+<link source="identify" target="disease" value="2.58885"/>
+<link source="identify" target="variation" value="2.20274"/>
+<link source="identify" target="features" value="2.63261"/>
+<link source="identify" target="data" value="2.33921"/>
+<link source="identify" target="into" value="2.17744"/>
+<link source="identify" target="bacterial" value="2.13397"/>
+<link source="identify" target="health" value="2.21301"/>
+<link source="identify" target="could" value="2.20076"/>
+<link source="identify" target="community" value="2.4021"/>
+<link source="identify" target="both" value="2.9617"/>
+<link source="identify" target="life" value="2.21644"/>
+<link source="identify" target="gut" value="2.4872"/>
+<link source="part" target="level" value="2.62582"/>
+<link source="part" target="figure" value="2.39727"/>
+<link source="part" target="human" value="2.10273"/>
+<link source="part" target="within" value="2.18732"/>
+<link source="part" target="effects" value="2.43067"/>
+<link source="part" target="gut" value="2.31203"/>
+<link source="part" target="could" value="2.42362"/>
+<link source="change" target="human" value="2.95357"/>
+<link source="change" target="mice" value="2.42017"/>
+<link source="change" target="gut" value="2.58629"/>
+<link source="suggest" target="gut" value="2.74549"/>
+<link source="suggest" target="metabolic" value="2.80309"/>
+<link source="suggest" target="mice" value="2.18818"/>
+<link source="suggest" target="different" value="2.19474"/>
+<link source="sampling" target="within" value="2.38858"/>
+<link source="sampling" target="function" value="2.1951"/>
+<link source="sampling" target="diversity" value="2.18135"/>
+<link source="sampling" target="ecology" value="2.21363"/>
+<link source="sampling" target="through" value="2.97324"/>
+<link source="sampling" target="sites" value="3.86463"/>
+<link source="sampling" target="should" value="2.62312"/>
+<link source="sampling" target="sampling" value="4.67889"/>
+<link source="sampling" target="bacterial" value="2.34709"/>
+<link source="sampling" target="major" value="2.20943"/>
+<link source="sampling" target="individuals" value="4.46027"/>
+<link source="sampling" target="analysis" value="2.31299"/>
+<link source="sampling" target="data" value="2.72349"/>
+<link source="sampling" target="individual" value="2.19988"/>
+<link source="sampling" target="genomes" value="2.34973"/>
+<link source="sampling" target="provides" value="2.43588"/>
+<link source="sampling" target="more" value="3.82301"/>
+<link source="sampling" target="sequencing" value="2.17122"/>
+<link source="sampling" target="body" value="2.98921"/>
+<link source="data" target="work" value="2.1542"/>
+<link source="data" target="could" value="2.46573"/>
+<link source="data" target="specific" value="2.51208"/>
+<link source="data" target="functional" value="3.56401"/>
+<link source="data" target="set" value="7.88396"/>
+<link source="data" target="many" value="3.28556"/>
+<link source="data" target="should" value="2.08903"/>
+<link source="data" target="genomics" value="2.49394"/>
+<link source="data" target="reference" value="2.69962"/>
+<link source="data" target="metagenomic" value="4.58356"/>
+<link source="data" target="structure" value="3.37381"/>
+<link source="data" target="sequencing" value="3.6674"/>
+<link source="data" target="current" value="2.14943"/>
+<link source="data" target="changes" value="2.10175"/>
+<link source="data" target="genomes" value="4.62508"/>
+<link source="data" target="relationships" value="2.5638"/>
+<link source="data" target="suggest" value="3.83398"/>
+<link source="data" target="tools" value="4.42564"/>
+<link source="data" target="environmental" value="3.37536"/>
+<link source="data" target="metabolic" value="3.80673"/>
+<link source="data" target="gut" value="4.60269"/>
+<link source="data" target="being" value="2.13036"/>
+<link source="data" target="impact" value="2.39652"/>
+<link source="data" target="data" value="9.04278"/>
+<link source="data" target="well" value="2.43348"/>
+<link source="data" target="differences" value="2.66757"/>
+<link source="data" target="figure" value="3.02673"/>
+<link source="data" target="future" value="2.60545"/>
+<link source="data" target="murine" value="2.21143"/>
+<link source="data" target="more" value="3.45762"/>
+<link source="data" target="analyses" value="4.2586"/>
+<link source="data" target="fecal" value="3.38099"/>
+<link source="data" target="provide" value="2.87974"/>
+<link source="data" target="project" value="2.37476"/>
+<link source="data" target="taxonomic" value="2.35227"/>
+<link source="data" target="important" value="3.19659"/>
+<link source="data" target="system" value="2.99199"/>
+<link source="data" target="components" value="2.74988"/>
+<link source="data" target="bacterial" value="2.72672"/>
+<link source="data" target="during" value="2.30656"/>
+<link source="data" target="role" value="2.82405"/>
+<link source="data" target="metagenomics" value="2.08903"/>
+<link source="data" target="human" value="4.09353"/>
+<link source="data" target="both" value="2.38378"/>
+<link source="data" target="would" value="2.71407"/>
+<link source="data" target="model" value="3.33738"/>
+<link source="data" target="unique" value="3.11394"/>
+<link source="data" target="alter" value="2.22574"/>
+<link source="data" target="different" value="4.47785"/>
+<link source="data" target="level" value="3.03695"/>
+<link source="data" target="individuals" value="2.53559"/>
+<link source="data" target="likely" value="2.71658"/>
+<link source="data" target="community" value="3.95327"/>
+<link source="data" target="healthy" value="2.76245"/>
+<link source="data" target="analysis" value="9.07565"/>
+<link source="data" target="variation" value="3.18105"/>
+<link source="data" target="composition" value="3.19874"/>
+<link source="data" target="approaches" value="3.23303"/>
+<link source="data" target="humans" value="2.35589"/>
+<link source="data" target="there" value="2.04531"/>
+<link source="data" target="generated" value="4.20326"/>
+<link source="data" target="environment" value="2.88448"/>
+<link source="data" target="development" value="2.67197"/>
+<link source="data" target="within" value="3.22759"/>
+<link source="data" target="individual" value="2.47782"/>
+<link source="data" target="identify" value="2.11526"/>
+<link source="data" target="function" value="3.31891"/>
+<link source="data" target="ecology" value="2.11287"/>
+<link source="data" target="sequenced" value="4.091"/>
+<link source="data" target="into" value="4.40999"/>
+<link source="body" target="different" value="2.4051"/>
+<link source="body" target="skin" value="2.22887"/>
+<link source="body" target="community" value="2.20192"/>
+<link source="body" target="within" value="3.43831"/>
+<link source="body" target="gut" value="2.908"/>
+<link source="body" target="analysis" value="2.14653"/>
+<link source="body" target="metagenomic" value="2.21163"/>
+<link source="body" target="lean" value="2.44593"/>
+<link source="body" target="body" value="2.2274"/>
+<link source="body" target="individuals" value="2.81719"/>
+<link source="dynamics" target="complex" value="2.22379"/>
+<link source="dynamics" target="genomes" value="3.44467"/>
+<link source="dynamics" target="community" value="2.63247"/>
+<link source="dynamics" target="well" value="2.22347"/>
+<link source="genomes" target="gut" value="8.47878"/>
+<link source="genomes" target="distal" value="3.94476"/>
+<link source="genomes" target="diversity" value="2.98737"/>
+<link source="genomes" target="important" value="2.31568"/>
+<link source="genomes" target="into" value="2.59821"/>
+<link source="genomes" target="there" value="3.05122"/>
+<link source="genomes" target="humans" value="2.76169"/>
+<link source="genomes" target="genomes" value="10.23728"/>
+<link source="genomes" target="metabolic" value="2.78783"/>
+<link source="genomes" target="function" value="2.05087"/>
+<link source="genomes" target="different" value="2.33548"/>
+<link source="genomes" target="reference" value="3.37751"/>
+<link source="genomes" target="metabolism" value="2.26251"/>
+<link source="genomes" target="current" value="2.58547"/>
+<link source="genomes" target="functional" value="3.73168"/>
+<link source="genomes" target="features" value="2.94244"/>
+<link source="genomes" target="analyses" value="3.36019"/>
+<link source="genomes" target="involved" value="2.47098"/>
+<link source="genomes" target="taxonomic" value="2.57164"/>
+<link source="genomes" target="composition" value="2.31807"/>
+<link source="genomes" target="more" value="4.39163"/>
+<link source="genomes" target="both" value="4.10813"/>
+<link source="genomes" target="complex" value="4.13641"/>
+<link source="genomes" target="differences" value="2.87513"/>
+<link source="genomes" target="whether" value="2.75962"/>
+<link source="genomes" target="analysis" value="4.36815"/>
+<link source="genomes" target="data" value="4.28977"/>
+<link source="genomes" target="sequencing" value="3.56646"/>
+<link source="genomes" target="sequenced" value="5.99568"/>
+<link source="genomes" target="human" value="6.35508"/>
+<link source="genomes" target="following" value="3.12248"/>
+<link source="genomes" target="members" value="3.51018"/>
+<link source="genomes" target="revealed" value="4.17297"/>
+<link source="genomes" target="well" value="2.47098"/>
+<link source="genomes" target="provide" value="3.22706"/>
+<link source="genomes" target="shotgun" value="2.4017"/>
+<link source="genomes" target="environmental" value="3.11059"/>
+<link source="genomes" target="environment" value="3.07205"/>
+<link source="genomes" target="characterized" value="2.17586"/>
+<link source="genomes" target="metagenomic" value="2.68254"/>
+<link source="genomes" target="genomics" value="2.88977"/>
+<link source="genomes" target="comprehensive" value="2.61367"/>
+<link source="genomes" target="core" value="2.57717"/>
+<link source="genomes" target="many" value="2.83026"/>
+<link source="genomes" target="within" value="3.83136"/>
+<link source="genomes" target="figure" value="4.40983"/>
+<link source="genomes" target="generated" value="2.39334"/>
+<link source="genomes" target="could" value="2.06069"/>
+<link source="genomes" target="provides" value="2.77514"/>
+<link source="genomes" target="sampling" value="3.24295"/>
+<link source="genomes" target="bacterial" value="5.45638"/>
+<link source="would" target="gut" value="2.4559"/>
+<link source="would" target="work" value="2.21982"/>
+<link source="would" target="diversity" value="2.17644"/>
+<link source="would" target="many" value="2.39938"/>
+<link source="would" target="host" value="3.24856"/>
+<link source="would" target="into" value="2.77293"/>
+<link source="would" target="genomes" value="2.91123"/>
+<link source="would" target="impact" value="2.22455"/>
+<link source="would" target="dynamics" value="2.22881"/>
+<link source="would" target="role" value="2.40672"/>
+<link source="would" target="within" value="2.16335"/>
+<link source="would" target="likely" value="2.80623"/>
+<link source="would" target="data" value="2.5235"/>
+<link source="would" target="provide" value="2.42026"/>
+<link source="would" target="could" value="2.4109"/>
+<link source="would" target="both" value="2.17455"/>
+<link source="project" target="genomes" value="2.58879"/>
+<link source="project" target="analysis" value="2.56781"/>
+<link source="project" target="hmp" value="3.45966"/>
+<link source="project" target="sequencing" value="2.79681"/>
+<link source="project" target="project" value="2.22687"/>
+<link source="project" target="human" value="3.08267"/>
+<link source="project" target="environmental" value="2.19438"/>
+<link source="project" target="would" value="2.43466"/>
+<link source="project" target="many" value="2.205"/>
+<link source="project" target="part" value="2.43955"/>
+<link source="project" target="tools" value="2.43995"/>
+<link source="ecology" target="community" value="2.60102"/>
+<link source="ecology" target="gut" value="3.34061"/>
+<link source="ecology" target="hmp" value="3.45742"/>
+<link source="ecology" target="analysis" value="2.3228"/>
+<link source="ecology" target="whether" value="2.43318"/>
+<link source="ecology" target="understand" value="2.22949"/>
+<link source="ecology" target="metabolism" value="2.61021"/>
+<link source="ecology" target="different" value="2.1607"/>
+<link source="ecology" target="sampling" value="2.21363"/>
+<link source="ecology" target="genomics" value="3.29615"/>
+<link source="ecology" target="human" value="3.64042"/>
+<link source="ecology" target="obesity" value="4.23457"/>
+<link source="ecology" target="environmental" value="2.77883"/>
+<link source="ecology" target="metabolic" value="2.59636"/>
+<link source="understanding" target="ecology" value="2.62997"/>
+<link source="understanding" target="metagenome" value="2.22715"/>
+<link source="understanding" target="data" value="2.55238"/>
+<link source="understanding" target="metabolic" value="2.60146"/>
+<link source="understanding" target="metabolism" value="2.61388"/>
+<link source="understanding" target="analysis" value="2.33588"/>
+<link source="understanding" target="functional" value="2.40836"/>
+<link source="understanding" target="disease" value="2.1745"/>
+<link source="understanding" target="many" value="2.41122"/>
+<link source="understanding" target="humans" value="2.22053"/>
+<link source="understanding" target="relationship" value="2.22474"/>
+<link source="understanding" target="human" value="3.2142"/>
+<link source="understanding" target="interactions" value="2.43145"/>
+<link source="understanding" target="molecular" value="3.13434"/>
+<link source="understanding" target="diversity" value="2.96606"/>
+<link source="early" target="hmp" value="2.82357"/>
+<link source="early" target="disease" value="3.28915"/>
+<link source="early" target="human" value="2.74893"/>
+<link source="early" target="life" value="3.15388"/>
+<link source="characterization" target="variation" value="2.20449"/>
+<link source="characterization" target="sequenced" value="2.19089"/>
+<link source="characterization" target="human" value="4.15969"/>
+<link source="characterization" target="analyses" value="2.20536"/>
+<link source="characterization" target="us" value="2.22421"/>
+<link source="characterization" target="involved" value="2.41349"/>
+<link source="characterization" target="data" value="2.34501"/>
+<link source="characterization" target="diversity" value="2.96484"/>
+<link source="characterization" target="sequencing" value="2.18015"/>
+<link source="metagenome" target="environmental" value="3.29643"/>
+<link source="metagenome" target="analysis" value="4.08717"/>
+<link source="metagenome" target="community" value="2.42642"/>
+<link source="metagenome" target="data" value="4.32873"/>
+<link source="humans" target="core" value="3.99225"/>
+<link source="humans" target="sequenced" value="3.13366"/>
+<link source="humans" target="patients" value="2.21516"/>
+<link source="humans" target="mice" value="3.26763"/>
+<link source="humans" target="gut" value="2.51119"/>
+<link source="humans" target="association" value="2.43949"/>
+<link source="association" target="disease" value="2.96765"/>
+<link source="association" target="relationships" value="2.22571"/>
+<link source="association" target="human" value="2.12896"/>
+<link source="association" target="intestinal" value="2.4139"/>
+<link source="different" target="should" value="2.36737"/>
+<link source="different" target="particular" value="2.18015"/>
+<link source="different" target="association" value="2.18842"/>
+<link source="different" target="host" value="2.76805"/>
+<link source="different" target="taxonomic" value="2.17091"/>
+<link source="different" target="bacterial" value="3.65542"/>
+<link source="different" target="system" value="2.08874"/>
+<link source="different" target="sequenced" value="3.49639"/>
+<link source="different" target="antibiotics" value="2.19814"/>
+<link source="different" target="structure" value="2.15049"/>
+<link source="different" target="within" value="3.6077"/>
+<link source="different" target="better" value="2.21176"/>
+<link source="different" target="effects" value="2.56562"/>
+<link source="different" target="human" value="3.22529"/>
+<link source="different" target="mammalian" value="2.18112"/>
+<link source="different" target="sampling" value="4.86192"/>
+<link source="different" target="possible" value="2.1748"/>
+<link source="different" target="disease" value="2.63199"/>
+<link source="different" target="genomes" value="4.17057"/>
+<link source="different" target="recent" value="2.37447"/>
+<link source="different" target="could" value="2.90287"/>
+<link source="different" target="gut" value="5.19455"/>
+<link source="different" target="there" value="2.91302"/>
+<link source="different" target="factors" value="3.93259"/>
+<link source="different" target="figure" value="2.62046"/>
+<link source="different" target="environmental" value="3.60595"/>
+<link source="different" target="data" value="4.00764"/>
+<link source="different" target="well" value="2.88547"/>
+<link source="different" target="development" value="2.11499"/>
+<link source="different" target="approaches" value="2.16021"/>
+<link source="different" target="many" value="3.04263"/>
+<link source="different" target="core" value="2.78076"/>
+<link source="different" target="composition" value="2.35184"/>
+<link source="different" target="intestinal" value="3.16615"/>
+<link source="different" target="involved" value="2.51589"/>
+<link source="different" target="differences" value="3.93041"/>
+<link source="different" target="community" value="2.48384"/>
+<link source="different" target="infant" value="2.40688"/>
+<link source="different" target="metabolism" value="2.08387"/>
+<link source="different" target="individuals" value="3.95542"/>
+<link source="different" target="set" value="3.53378"/>
+<link source="different" target="different" value="6.98481"/>
+<link source="different" target="molecular" value="2.07658"/>
+<link source="different" target="both" value="2.85865"/>
+<link source="different" target="analysis" value="3.8507"/>
+<link source="different" target="more" value="3.12058"/>
+<link source="different" target="important" value="2.35006"/>
+<link source="different" target="diversity" value="2.863"/>
+<link source="different" target="into" value="3.00927"/>
+<link source="different" target="complex" value="2.0863"/>
+<link source="different" target="functional" value="3.34671"/>
+<link source="different" target="sequencing" value="4.00497"/>
+<link source="different" target="revealed" value="2.13785"/>
+<link source="different" target="metabolic" value="3.17402"/>
+<link source="different" target="metagenomics" value="2.14611"/>
+<link source="different" target="function" value="2.09846"/>
+<link source="different" target="colonic" value="2.21759"/>
+<link source="different" target="populations" value="2.93984"/>
+<link source="probiotics" target="intestinal" value="2.43642"/>
+<link source="diversity" target="intestinal" value="4.16338"/>
+<link source="diversity" target="metabolic" value="2.09355"/>
+<link source="diversity" target="analysis" value="3.5394"/>
+<link source="diversity" target="well" value="2.35498"/>
+<link source="diversity" target="fecal" value="3.42984"/>
+<link source="diversity" target="composition" value="3.11131"/>
+<link source="diversity" target="disease" value="2.06865"/>
+<link source="diversity" target="impact" value="2.80952"/>
+<link source="diversity" target="level" value="2.16301"/>
+<link source="diversity" target="populations" value="2.18168"/>
+<link source="diversity" target="genomics" value="2.16202"/>
+<link source="diversity" target="diversity" value="6.11949"/>
+<link source="diversity" target="structure" value="2.78284"/>
+<link source="diversity" target="life" value="2.40493"/>
+<link source="diversity" target="development" value="2.37502"/>
+<link source="diversity" target="within" value="5.68577"/>
+<link source="diversity" target="into" value="3.05918"/>
+<link source="diversity" target="sampling" value="2.59951"/>
+<link source="diversity" target="environmental" value="4.39563"/>
+<link source="diversity" target="bacterial" value="2.81074"/>
+<link source="diversity" target="gut" value="5.3804"/>
+<link source="diversity" target="skin" value="2.80693"/>
+<link source="diversity" target="human" value="7.35987"/>
+<link source="diversity" target="sequencing" value="3.05849"/>
+<link source="diversity" target="revealed" value="2.95067"/>
+<link source="diversity" target="molecular" value="2.55493"/>
+<link source="diversity" target="ecology" value="2.60283"/>
+<link source="diversity" target="metagenomic" value="3.68644"/>
+<link source="diversity" target="taxonomic" value="2.79372"/>
+<link source="diversity" target="figure" value="2.49595"/>
+<link source="diversity" target="would" value="2.39506"/>
+<link source="diversity" target="community" value="3.66451"/>
+<link source="diversity" target="data" value="2.94984"/>
+<link source="diversity" target="host" value="2.66266"/>
+<link source="diversity" target="factors" value="2.93944"/>
+<link source="diversity" target="genomes" value="3.30443"/>
+<link source="diversity" target="there" value="2.37771"/>
+<link source="diversity" target="relationship" value="2.42138"/>
+<link source="diversity" target="individual" value="3.55475"/>
+<link source="diversity" target="different" value="4.49289"/>
+<link source="community" target="populations" value="2.17938"/>
+<link source="community" target="into" value="2.0841"/>
+<link source="community" target="increased" value="3.55832"/>
+<link source="community" target="sampling" value="3.12195"/>
+<link source="community" target="dynamics" value="2.63247"/>
+<link source="community" target="model" value="2.76174"/>
+<link source="community" target="bacterial" value="2.61919"/>
+<link source="community" target="level" value="2.76822"/>
+<link source="community" target="functional" value="2.10835"/>
+<link source="community" target="different" value="3.76237"/>
+<link source="community" target="analysis" value="2.91283"/>
+<link source="community" target="sequenced" value="2.90786"/>
+<link source="community" target="environment" value="2.77578"/>
+<link source="community" target="structure" value="6.22348"/>
+<link source="community" target="genomics" value="2.76741"/>
+<link source="community" target="features" value="2.4127"/>
+<link source="community" target="metagenomics" value="2.59236"/>
+<link source="community" target="gnotobiotic" value="3.12751"/>
+<link source="community" target="genomes" value="3.44565"/>
+<link source="community" target="composition" value="6.13716"/>
+<link source="community" target="function" value="3.09394"/>
+<link source="community" target="mice" value="3.00532"/>
+<link source="community" target="molecular" value="2.34724"/>
+<link source="community" target="through" value="2.37218"/>
+<link source="community" target="might" value="2.60967"/>
+<link source="community" target="host" value="3.00773"/>
+<link source="community" target="sequencing" value="2.70748"/>
+<link source="community" target="revealed" value="2.16709"/>
+<link source="community" target="disease" value="2.29019"/>
+<link source="community" target="well" value="2.55455"/>
+<link source="community" target="during" value="3.11471"/>
+<link source="community" target="association" value="2.2026"/>
+<link source="community" target="obesity" value="2.19714"/>
+<link source="community" target="figure" value="2.05132"/>
+<link source="community" target="environmental" value="2.30391"/>
+<link source="community" target="diversity" value="3.38078"/>
+<link source="community" target="humans" value="2.19201"/>
+<link source="community" target="members" value="4.54342"/>
+<link source="community" target="collective" value="2.82222"/>
+<link source="community" target="both" value="2.32791"/>
+<link source="community" target="community" value="4.93983"/>
+<link source="community" target="human" value="3.48431"/>
+<link source="community" target="metagenomic" value="4.3095"/>
+<link source="community" target="analyses" value="2.76201"/>
+<link source="community" target="metabolism" value="2.74392"/>
+<link source="community" target="gut" value="4.10944"/>
+<link source="community" target="involved" value="2.55455"/>
+<link source="community" target="metabolic" value="2.31388"/>
+<link source="community" target="data" value="3.26196"/>
+<link source="inflammation" target="intestinal" value="2.60204"/>
+<link source="inflammation" target="many" value="2.61261"/>
+<link source="inflammation" target="immune" value="2.42881"/>
+<link source="inflammation" target="mice" value="3.26725"/>
+<link source="inflammation" target="inflammation" value="3.15192"/>
+<link source="inflammation" target="part" value="2.22232"/>
+<link source="inflammation" target="role" value="2.41894"/>
+<link source="inflammation" target="figure" value="2.39384"/>
+<link source="inflammation" target="data" value="2.35517"/>
+<link source="inflammation" target="well" value="2.41699"/>
+<link source="inflammation" target="chronic" value="2.43828"/>
+<link source="complex" target="functional" value="2.35835"/>
+<link source="complex" target="sequencing" value="2.11647"/>
+<link source="complex" target="complex" value="3.10414"/>
+<link source="complex" target="host" value="3.35382"/>
+<link source="complex" target="genomes" value="3.18074"/>
+<link source="complex" target="metabolic" value="4.06013"/>
+<link source="complex" target="within" value="2.54174"/>
+<link source="complex" target="human" value="4.84945"/>
+<link source="complex" target="structure" value="2.18908"/>
+<link source="complex" target="system" value="2.93971"/>
+<link source="complex" target="interactions" value="2.60875"/>
+<link source="complex" target="bacterial" value="2.66486"/>
+<link source="complex" target="community" value="2.13089"/>
+<link source="complex" target="disease" value="4.17074"/>
+<link source="complex" target="many" value="2.75498"/>
+<link source="complex" target="reference" value="2.39953"/>
+<link source="complex" target="data" value="3.15158"/>
+<link source="complex" target="analyses" value="2.95105"/>
+<link source="complex" target="both" value="2.55776"/>
+<link source="complex" target="well" value="2.37248"/>
+<link source="complex" target="gut" value="3.21872"/>
+<link source="complex" target="would" value="2.18748"/>
+<link source="complex" target="molecular" value="2.57175"/>
+<link source="complex" target="more" value="2.07643"/>
+<link source="complex" target="analysis" value="2.96728"/>
+<link source="complex" target="different" value="2.51918"/>
+<link source="complex" target="figure" value="2.31765"/>
+<link source="chronic" target="intestinal" value="3.13161"/>
+<link source="chronic" target="well" value="2.20621"/>
+<link source="chronic" target="many" value="2.61796"/>
+<link source="chronic" target="association" value="2.22681"/>
+<link source="chronic" target="gastrointestinal" value="2.4425"/>
+<link source="chronic" target="inflammation" value="7.06718"/>
+<link source="chronic" target="disease" value="2.60495"/>
+<link source="potentially" target="involved" value="2.43624"/>
+<link source="potentially" target="gut" value="2.38977"/>
+<link source="potentially" target="human" value="2.17814"/>
+<link source="potentially" target="into" value="2.98476"/>
+<link source="potentially" target="important" value="2.4401"/>
+<link source="set" target="generated" value="2.62936"/>
+<link source="set" target="environmental" value="3.09416"/>
+<link source="set" target="gut" value="4.08782"/>
+<link source="set" target="unique" value="2.21833"/>
+<link source="set" target="bacterial" value="2.0762"/>
+<link source="set" target="more" value="2.54149"/>
+<link source="set" target="analysis" value="2.46566"/>
+<link source="set" target="humans" value="2.4252"/>
+<link source="set" target="functional" value="2.58055"/>
+<link source="set" target="healthy" value="3.14696"/>
+<link source="set" target="mice" value="2.32709"/>
+<link source="set" target="variation" value="2.78717"/>
+<link source="set" target="differences" value="2.18326"/>
+<link source="set" target="into" value="2.36569"/>
+<link source="set" target="gnotobiotic" value="2.42237"/>
+<link source="set" target="genomics" value="2.60635"/>
+<link source="set" target="set" value="2.60426"/>
+<link source="set" target="genomes" value="3.36357"/>
+<link source="set" target="fecal" value="2.61751"/>
+<link source="set" target="sequenced" value="3.4159"/>
+<link source="set" target="suggest" value="2.21853"/>
+<link source="set" target="data" value="2.67888"/>
+<link source="set" target="model" value="2.40298"/>
+<link source="set" target="reference" value="2.19378"/>
+<link source="set" target="individuals" value="2.97478"/>
+<link source="set" target="could" value="2.78472"/>
+<link source="set" target="figure" value="2.91682"/>
+<link source="set" target="analyses" value="2.78831"/>
+<link source="altered" target="gut" value="2.19164"/>
+<link source="function" target="data" value="2.45565"/>
+<link source="function" target="bacterial" value="2.48509"/>
+<link source="function" target="well" value="2.15856"/>
+<link source="function" target="analysis" value="2.4316"/>
+<link source="function" target="immune" value="2.40448"/>
+<link source="function" target="within" value="2.12299"/>
+<link source="function" target="functional" value="2.56822"/>
+<link source="function" target="composition" value="2.1821"/>
+<link source="function" target="metagenomic" value="2.1669"/>
+<link source="function" target="environmental" value="2.12152"/>
+<link source="function" target="through" value="2.39396"/>
+<link source="function" target="genomes" value="3.34456"/>
+<link source="function" target="many" value="2.57361"/>
+<link source="function" target="host" value="2.70432"/>
+<link source="function" target="function" value="3.26982"/>
+<link source="function" target="both" value="2.14041"/>
+<link source="function" target="different" value="3.37528"/>
+<link source="function" target="disease" value="2.53982"/>
+<link source="function" target="members" value="2.39687"/>
+<link source="function" target="factors" value="3.27561"/>
+<link source="understand" target="metabolic" value="2.43262"/>
+<link source="understand" target="human" value="3.28052"/>
+<link source="health" target="hmp" value="3.45656"/>
+<link source="health" target="host" value="2.56371"/>
+<link source="health" target="gut" value="2.83901"/>
+<link source="health" target="human" value="2.67722"/>
+<link source="health" target="health" value="3.44697"/>
+<link source="health" target="molecular" value="2.7891"/>
+<link source="health" target="genomics" value="2.4182"/>
+<link source="health" target="energy" value="2.21059"/>
+<link source="health" target="intestinal" value="2.38593"/>
+<link source="health" target="us" value="2.81704"/>
+<link source="health" target="individual" value="2.19815"/>
+<link source="health" target="changes" value="3.14415"/>
+<link source="health" target="nutrition" value="2.82003"/>
+<link source="health" target="diet" value="2.43481"/>
+<link source="health" target="disease" value="6.454"/>
+<link source="during" target="complex" value="2.40148"/>
+<link source="during" target="early" value="3.15117"/>
+<link source="during" target="during" value="3.13849"/>
+<link source="during" target="development" value="2.19355"/>
+<link source="during" target="life" value="2.80831"/>
+<link source="during" target="bacterial" value="2.32869"/>
+<link source="effects" target="system" value="2.18486"/>
+<link source="effects" target="human" value="3.32653"/>
+<link source="effects" target="environmental" value="2.76603"/>
+<link source="effects" target="immune" value="2.2021"/>
+<link source="effects" target="analysis" value="2.29011"/>
+<link source="effects" target="gut" value="3.59782"/>
+<link source="effects" target="host" value="3.08579"/>
+<link source="effects" target="metabolic" value="2.7703"/>
+<link source="effects" target="metabolism" value="2.60104"/>
+<link source="effects" target="effects" value="2.4194"/>
+<link source="effects" target="mice" value="2.3492"/>
+<link source="effects" target="probiotics" value="2.22998"/>
+<link source="effects" target="health" value="2.20649"/>
+<link source="effects" target="different" value="2.14125"/>
+<link source="effects" target="community" value="2.3887"/>
+<link source="comprehensive" target="host" value="2.20389"/>
+<link source="comprehensive" target="human" value="3.83638"/>
+<link source="comprehensive" target="figure" value="2.42466"/>
+<link source="comprehensive" target="analysis" value="2.96129"/>
+<link source="us" target="features" value="2.22635"/>
+<link source="us" target="human" value="2.74634"/>
+<link source="us" target="whether" value="2.22512"/>
+<link source="us" target="disease" value="2.96864"/>
+<link source="us" target="community" value="2.20363"/>
+<link source="us" target="identify" value="3.59779"/>
+<link source="us" target="function" value="2.42822"/>
+<link source="metagenomics" target="human" value="3.1803"/>
+<link source="metagenomics" target="functional" value="3.11987"/>
+<link source="metagenomics" target="recent" value="2.20897"/>
+<link source="metagenomics" target="approaches" value="2.42666"/>
+<link source="metagenomics" target="analysis" value="2.50576"/>
+<link source="metagenomics" target="community" value="3.42332"/>
+<link source="metagenomics" target="into" value="2.77202"/>
+<link source="metagenomics" target="life" value="2.21218"/>
+<link source="metagenomics" target="data" value="4.51083"/>
+<link source="metagenomics" target="gut" value="2.82981"/>
+<link source="metagenomics" target="sequencing" value="3.561"/>
+<link source="metagenomics" target="might" value="2.21602"/>
+<link source="metagenomics" target="many" value="2.39855"/>
+<link source="metagenomics" target="metagenomics" value="4.10702"/>
+<link source="metagenomics" target="could" value="2.60943"/>
+<link source="metagenomics" target="environmental" value="2.38113"/>
+<link source="better" target="more" value="2.80794"/>
+<link source="better" target="understanding" value="2.64066"/>
+<link source="better" target="data" value="2.79701"/>
+<link source="shotgun" target="sequencing" value="6.54685"/>
+<link source="shotgun" target="data" value="2.17248"/>
+<link source="affects" target="diversity" value="2.81962"/>
+<link source="affects" target="bacterial" value="2.62645"/>
+<link source="affects" target="metabolic" value="2.43779"/>
+<link source="affects" target="host" value="2.81352"/>
+<link source="interactions" target="environmental" value="2.77595"/>
+<link source="interactions" target="intestinal" value="2.59061"/>
+<link source="interactions" target="interactions" value="2.21276"/>
+<link source="interactions" target="health" value="2.21119"/>
+<link source="interactions" target="environment" value="2.80651"/>
+<link source="interactions" target="effects" value="2.62232"/>
+<link source="interactions" target="well" value="2.19115"/>
+<link source="interactions" target="mouse" value="2.98326"/>
+<link source="interactions" target="gut" value="3.62069"/>
+<link source="interactions" target="disease" value="2.771"/>
+<link source="interactions" target="mammalian" value="2.43483"/>
+<link source="interactions" target="development" value="2.20067"/>
+<link source="interactions" target="nutrient" value="2.43664"/>
+<link source="interactions" target="different" value="2.37669"/>
+<link source="interactions" target="metabolic" value="2.59349"/>
+<link source="interactions" target="contribute" value="2.63782"/>
+<link source="interactions" target="host" value="4.64705"/>
+<link source="interactions" target="model" value="3.44144"/>
+<link source="normal" target="disease" value="2.96006"/>
+<link source="normal" target="bacterial" value="2.37529"/>
+<link source="normal" target="mouse" value="2.81533"/>
+<link source="normal" target="human" value="3.52353"/>
+<link source="normal" target="mice" value="3.56327"/>
+<link source="normal" target="intestinal" value="2.96412"/>
+<link source="normal" target="figure" value="2.17933"/>
+<link source="normal" target="gut" value="5.03353"/>
+<link source="normal" target="obese" value="2.44164"/>
+<link source="normal" target="impact" value="2.22841"/>
+<link source="risk" target="increased" value="2.20862"/>
+<link source="risk" target="intestinal" value="2.17958"/>
+<link source="risk" target="factors" value="2.97725"/>
+<link source="risk" target="individuals" value="2.21588"/>
+<link source="risk" target="obesity" value="2.22204"/>
+<link source="risk" target="risk" value="4.11363"/>
+<link source="risk" target="developing" value="5.47451"/>
+<link source="risk" target="more" value="3.41659"/>
+<link source="risk" target="population" value="2.43691"/>
+<link source="risk" target="disease" value="2.95312"/>
+<link source="risk" target="patients" value="3.59128"/>
+<link source="analysis" target="components" value="2.34732"/>
+<link source="analysis" target="profiles" value="2.20294"/>
+<link source="analysis" target="within" value="2.50212"/>
+<link source="analysis" target="application" value="2.58597"/>
+<link source="analysis" target="environmental" value="5.01622"/>
+<link source="analysis" target="composition" value="3.48339"/>
+<link source="analysis" target="fecal" value="3.5156"/>
+<link source="analysis" target="consortium" value="2.20115"/>
+<link source="analysis" target="distal" value="5.60341"/>
+<link source="analysis" target="whether" value="3.38723"/>
+<link source="analysis" target="more" value="3.56386"/>
+<link source="analysis" target="metagenomic" value="2.62882"/>
+<link source="analysis" target="mouse" value="2.32035"/>
+<link source="analysis" target="factors" value="2.01402"/>
+<link source="analysis" target="ecology" value="2.89656"/>
+<link source="analysis" target="different" value="3.8507"/>
+<link source="analysis" target="patients" value="2.29665"/>
+<link source="analysis" target="human" value="7.28428"/>
+<link source="analysis" target="community" value="3.66931"/>
+<link source="analysis" target="model" value="3.0059"/>
+<link source="analysis" target="into" value="6.01989"/>
+<link source="analysis" target="characterize" value="2.96863"/>
+<link source="analysis" target="better" value="2.1913"/>
+<link source="analysis" target="provide" value="2.28357"/>
+<link source="analysis" target="bacterial" value="4.00294"/>
+<link source="analysis" target="obese" value="2.16265"/>
+<link source="analysis" target="shotgun" value="2.58521"/>
+<link source="analysis" target="host" value="2.93029"/>
+<link source="analysis" target="interactions" value="2.52165"/>
+<link source="analysis" target="analyses" value="3.16813"/>
+<link source="analysis" target="diversity" value="3.08845"/>
+<link source="analysis" target="identify" value="3.66033"/>
+<link source="analysis" target="genomics" value="2.66846"/>
+<link source="analysis" target="metabolic" value="4.39253"/>
+<link source="analysis" target="would" value="3.50449"/>
+<link source="analysis" target="many" value="3.26298"/>
+<link source="analysis" target="association" value="2.36939"/>
+<link source="analysis" target="work" value="2.56781"/>
+<link source="analysis" target="possible" value="2.55041"/>
+<link source="analysis" target="sequencing" value="2.51132"/>
+<link source="analysis" target="individual" value="2.83316"/>
+<link source="analysis" target="differences" value="3.16209"/>
+<link source="analysis" target="major" value="2.07132"/>
+<link source="analysis" target="well" value="2.78912"/>
+<link source="analysis" target="contribute" value="2.17698"/>
+<link source="analysis" target="genomes" value="4.69769"/>
+<link source="analysis" target="provides" value="2.75552"/>
+<link source="analysis" target="variation" value="2.00955"/>
+<link source="analysis" target="component" value="2.54208"/>
+<link source="analysis" target="across" value="2.1716"/>
+<link source="analysis" target="changes" value="2.51787"/>
+<link source="analysis" target="set" value="2.84117"/>
+<link source="analysis" target="analysis" value="9.10565"/>
+<link source="analysis" target="level" value="3.18201"/>
+<link source="analysis" target="should" value="2.87654"/>
+<link source="analysis" target="reveals" value="4.56292"/>
+<link source="analysis" target="involved" value="2.78912"/>
+<link source="analysis" target="figure" value="2.00731"/>
+<link source="analysis" target="populations" value="2.52014"/>
+<link source="analysis" target="reference" value="3.63197"/>
+<link source="analysis" target="relationships" value="3.24298"/>
+<link source="analysis" target="disease" value="3.46824"/>
+<link source="analysis" target="potential" value="3.21823"/>
+<link source="analysis" target="approaches" value="2.89589"/>
+<link source="analysis" target="mice" value="2.75076"/>
+<link source="analysis" target="system" value="2.61395"/>
+<link source="analysis" target="structure" value="2.88255"/>
+<link source="analysis" target="sampling" value="2.71022"/>
+<link source="analysis" target="molecular" value="2.95462"/>
+<link source="analysis" target="health" value="2.30646"/>
+<link source="analysis" target="data" value="8.38891"/>
+<link source="analysis" target="metagenomics" value="2.50576"/>
+<link source="analysis" target="revealed" value="3.63357"/>
+<link source="analysis" target="functional" value="3.09086"/>
+<link source="analysis" target="sequenced" value="2.37182"/>
+<link source="analysis" target="complex" value="2.96728"/>
+<link source="analysis" target="tools" value="4.74699"/>
+<link source="analysis" target="intestinal" value="2.69369"/>
+<link source="analysis" target="gut" value="6.4398"/>
+<link source="primary" target="human" value="2.15956"/>
+<link source="primary" target="disease" value="3.29572"/>
+<link source="primary" target="intestinal" value="2.20822"/>
+<link source="primary" target="metabolism" value="3.73031"/>
+<link source="differences" target="sampling" value="3.13608"/>
+<link source="differences" target="metabolic" value="4.42388"/>
+<link source="differences" target="diversity" value="2.37292"/>
+<link source="differences" target="differences" value="5.2675"/>
+<link source="differences" target="recent" value="2.41526"/>
+<link source="differences" target="functional" value="2.15308"/>
+<link source="differences" target="different" value="4.29504"/>
+<link source="differences" target="genomes" value="2.06854"/>
+<link source="differences" target="influence" value="2.44139"/>
+<link source="differences" target="provide" value="2.19103"/>
+<link source="differences" target="particular" value="2.21055"/>
+<link source="differences" target="well" value="2.773"/>
+<link source="differences" target="disease" value="3.6739"/>
+<link source="differences" target="populations" value="2.41587"/>
+<link source="differences" target="environmental" value="3.54129"/>
+<link source="differences" target="patients" value="2.19458"/>
+<link source="differences" target="reference" value="2.40797"/>
+<link source="differences" target="community" value="3.55133"/>
+<link source="differences" target="could" value="3.27653"/>
+<link source="differences" target="within" value="3.24766"/>
+<link source="differences" target="normal" value="2.20922"/>
+<link source="differences" target="mice" value="2.52386"/>
+<link source="differences" target="analysis" value="2.00686"/>
+<link source="differences" target="would" value="2.41262"/>
+<link source="differences" target="host" value="2.31986"/>
+<link source="differences" target="function" value="2.9532"/>
+<link source="differences" target="composition" value="3.12776"/>
+<link source="differences" target="structure" value="2.19702"/>
+<link source="differences" target="colonic" value="2.82176"/>
+<link source="differences" target="gut" value="4.31415"/>
+<link source="differences" target="individuals" value="2.97288"/>
+<link source="differences" target="there" value="2.40088"/>
+<link source="differences" target="data" value="2.47379"/>
+<link source="knowledge" target="human" value="2.19016"/>
+<link source="gnotobiotic" target="bacterial" value="3.09388"/>
+<link source="gnotobiotic" target="metabolic" value="3.28002"/>
+<link source="gnotobiotic" target="revealed" value="3.14445"/>
+<link source="gnotobiotic" target="provide" value="2.42636"/>
+<link source="gnotobiotic" target="both" value="2.40505"/>
+<link source="gnotobiotic" target="nutrient" value="2.81866"/>
+<link source="gnotobiotic" target="gut" value="5.31137"/>
+<link source="gnotobiotic" target="different" value="2.38557"/>
+<link source="gnotobiotic" target="mice" value="10.18025"/>
+<link source="gnotobiotic" target="sequenced" value="2.40824"/>
+<link source="gnotobiotic" target="human" value="5.12842"/>
+<link source="environmental" target="model" value="2.56125"/>
+<link source="environmental" target="health" value="2.58589"/>
+<link source="environmental" target="could" value="2.35046"/>
+<link source="environmental" target="environment" value="2.76603"/>
+<link source="environmental" target="diversity" value="3.05409"/>
+<link source="environmental" target="work" value="2.19438"/>
+<link source="environmental" target="populations" value="2.38815"/>
+<link source="environmental" target="whether" value="2.18223"/>
+<link source="environmental" target="within" value="2.04947"/>
+<link source="environmental" target="community" value="2.88113"/>
+<link source="environmental" target="different" value="2.83075"/>
+<link source="environmental" target="individual" value="2.35711"/>
+<link source="environmental" target="shotgun" value="4.45595"/>
+<link source="environmental" target="effects" value="2.15714"/>
+<link source="environmental" target="host" value="3.29688"/>
+<link source="environmental" target="sequencing" value="5.11812"/>
+<link source="environmental" target="differences" value="2.13245"/>
+<link source="environmental" target="disease" value="3.47728"/>
+<link source="environmental" target="genotype" value="2.43877"/>
+<link source="environmental" target="metagenomics" value="2.76923"/>
+<link source="environmental" target="approaches" value="2.17292"/>
+<link source="environmental" target="tools" value="2.18871"/>
+<link source="environmental" target="provide" value="2.76347"/>
+<link source="environmental" target="environmental" value="3.62869"/>
+<link source="environmental" target="metagenomic" value="3.23967"/>
+<link source="environmental" target="analysis" value="3.34624"/>
+<link source="environmental" target="metabolic" value="2.68923"/>
+<link source="environmental" target="being" value="2.40035"/>
+<link source="environmental" target="gut" value="2.57038"/>
+<link source="environmental" target="many" value="2.09521"/>
+<link source="environmental" target="human" value="2.42491"/>
+<link source="environmental" target="across" value="2.20692"/>
+<link source="environmental" target="factors" value="4.64256"/>
+<link source="environmental" target="structure" value="2.16483"/>
+<link source="environmental" target="genomics" value="3.82017"/>
+<link source="environmental" target="data" value="6.19333"/>
+<link source="environmental" target="variation" value="4.06757"/>
+<link source="environmental" target="genomes" value="2.38747"/>
+<link source="environmental" target="whereas" value="2.39517"/>
+<link source="environmental" target="bacterial" value="2.76618"/>
+<link source="reveals" target="mice" value="2.21072"/>
+<link source="reveals" target="differences" value="2.22608"/>
+<link source="reveals" target="environmental" value="2.21785"/>
+<link source="reveals" target="specific" value="2.22831"/>
+<link source="reveals" target="gut" value="3.27918"/>
+<link source="collective" target="us" value="2.82693"/>
+<link source="collective" target="bacterial" value="2.43539"/>
+<link source="collective" target="human" value="2.62451"/>
+<link source="collective" target="genomes" value="2.43575"/>
+<link source="patients" target="individuals" value="2.20949"/>
+<link source="patients" target="intestinal" value="2.38158"/>
+<link source="patients" target="patients" value="4.22667"/>
+<link source="patients" target="both" value="2.39179"/>
+<link source="patients" target="healthy" value="2.21905"/>
+<link source="patients" target="infected" value="2.4307"/>
+<link source="patients" target="gut" value="3.16102"/>
+<link source="patients" target="increased" value="2.6152"/>
+<link source="patients" target="disease" value="4.65093"/>
+<link source="human" target="diversity" value="3.89905"/>
+<link source="human" target="specific" value="2.83788"/>
+<link source="human" target="factors" value="3.28914"/>
+<link source="human" target="hmp" value="4.86057"/>
+<link source="human" target="normal" value="2.72388"/>
+<link source="human" target="system" value="3.25033"/>
+<link source="human" target="analysis" value="4.71029"/>
+<link source="human" target="disease" value="8.45715"/>
+<link source="human" target="healthy" value="2.91446"/>
+<link source="human" target="bacterial" value="6.94844"/>
+<link source="human" target="ecology" value="2.87373"/>
+<link source="human" target="likely" value="2.67462"/>
+<link source="human" target="gastrointestinal" value="5.53221"/>
+<link source="human" target="gnotobiotic" value="3.6476"/>
+<link source="human" target="being" value="2.0907"/>
+<link source="human" target="host" value="6.55171"/>
+<link source="human" target="there" value="2.9768"/>
+<link source="human" target="lung" value="2.21749"/>
+<link source="human" target="through" value="3.13388"/>
+<link source="human" target="mouse" value="3.2002"/>
+<link source="human" target="community" value="2.85778"/>
+<link source="human" target="relationships" value="3.06799"/>
+<link source="human" target="impact" value="2.94053"/>
+<link source="human" target="body" value="5.24532"/>
+<link source="human" target="gut" value="19.44405"/>
+<link source="human" target="genetics" value="2.77399"/>
+<link source="human" target="individuals" value="3.03553"/>
+<link source="human" target="fecal" value="5.11996"/>
+<link source="human" target="important" value="2.226"/>
+<link source="human" target="affects" value="2.41557"/>
+<link source="human" target="humans" value="2.71696"/>
+<link source="human" target="intestinal" value="8.11018"/>
+<link source="human" target="capacity" value="2.91446"/>
+<link source="human" target="infant" value="2.55707"/>
+<link source="human" target="sequencing" value="4.78102"/>
+<link source="human" target="energy" value="2.28187"/>
+<link source="human" target="altered" value="2.19672"/>
+<link source="human" target="complex" value="3.39678"/>
+<link source="human" target="nutrition" value="2.76794"/>
+<link source="human" target="genomics" value="4.11245"/>
+<link source="human" target="involved" value="3.67358"/>
+<link source="human" target="into" value="2.44392"/>
+<link source="human" target="particular" value="2.11038"/>
+<link source="human" target="health" value="7.15179"/>
+<link source="human" target="genomes" value="5.77942"/>
+<link source="human" target="metagenomic" value="4.65212"/>
+<link source="human" target="oral" value="2.61989"/>
+<link source="human" target="more" value="3.20021"/>
+<link source="human" target="data" value="3.71441"/>
+<link source="human" target="during" value="2.46378"/>
+<link source="human" target="different" value="2.72871"/>
+<link source="human" target="within" value="3.13886"/>
+<link source="human" target="whether" value="2.0907"/>
+<link source="human" target="consortium" value="2.19344"/>
+<link source="human" target="framework" value="2.19454"/>
+<link source="human" target="characterization" value="2.07868"/>
+<link source="human" target="increased" value="2.63574"/>
+<link source="human" target="environmental" value="4.66601"/>
+<link source="human" target="identify" value="2.06994"/>
+<link source="human" target="population" value="2.11366"/>
+<link source="human" target="major" value="2.47579"/>
+<link source="human" target="composition" value="2.22999"/>
+<link source="human" target="provides" value="2.55061"/>
+<link source="human" target="revealed" value="3.60972"/>
+<link source="human" target="mammalian" value="2.33675"/>
+<link source="human" target="life" value="3.04712"/>
+<link source="human" target="metabolism" value="4.30109"/>
+<link source="human" target="distal" value="6.02209"/>
+<link source="human" target="populations" value="2.28387"/>
+<link source="human" target="reveals" value="2.18688"/>
+<link source="human" target="set" value="2.62278"/>
+<link source="human" target="diet" value="2.73684"/>
+<link source="human" target="understanding" value="3.2142"/>
+<link source="human" target="features" value="4.51964"/>
+<link source="human" target="skin" value="4.07391"/>
+<link source="human" target="tract" value="6.19373"/>
+<link source="human" target="us" value="3.81304"/>
+<link source="human" target="provide" value="2.45824"/>
+<link source="human" target="part" value="2.10273"/>
+<link source="human" target="many" value="3.78738"/>
+<link source="human" target="differences" value="3.28349"/>
+<link source="human" target="both" value="3.18895"/>
+<link source="human" target="metabolic" value="5.28313"/>
+<link source="human" target="sequenced" value="3.20871"/>
+<link source="human" target="colonic" value="2.61065"/>
+<link source="human" target="molecular" value="3.92869"/>
+<link source="human" target="primary" value="3.10818"/>
+<link source="human" target="mice" value="3.16496"/>
+<link source="human" target="model" value="3.28984"/>
+<link source="human" target="recent" value="2.48964"/>
+<link source="human" target="reference" value="3.16557"/>
+<link source="human" target="would" value="3.18251"/>
+<link source="human" target="well" value="3.39136"/>
+<link source="human" target="functional" value="3.90142"/>
+<link source="human" target="figure" value="5.04164"/>
+<link source="human" target="project" value="5.78778"/>
+<link source="human" target="core" value="2.72128"/>
+<link source="human" target="interactions" value="2.05682"/>
+<link source="human" target="human" value="8.65758"/>
+<link source="human" target="obesity" value="3.80105"/>
+<link source="human" target="analyses" value="2.97216"/>
+<link source="human" target="characterize" value="2.4026"/>
+<link source="human" target="environment" value="3.74993"/>
+<link source="human" target="directly" value="2.58294"/>
+<link source="human" target="members" value="2.98066"/>
+<link source="lean" target="mice" value="3.14435"/>
+<link source="lean" target="increased" value="4.46779"/>
+<link source="lean" target="revealed" value="2.4423"/>
+<link source="lean" target="adult" value="2.4471"/>
+<link source="lean" target="mouse" value="2.44386"/>
+<link source="lean" target="gut" value="2.18053"/>
+<link source="lean" target="community" value="2.43546"/>
+<link source="lean" target="obese" value="4.24095"/>
+<link source="lean" target="energy" value="2.44351"/>
+<link source="lean" target="capacity" value="2.44575"/>
+<link source="capacity" target="obese" value="2.44268"/>
+<link source="capacity" target="components" value="2.81943"/>
+<link source="capacity" target="host" value="2.17782"/>
+<link source="capacity" target="energy" value="4.99316"/>
+<link source="capacity" target="gnotobiotic" value="2.43753"/>
+<link source="capacity" target="within" value="2.61029"/>
+<link source="capacity" target="human" value="2.7377"/>
+<link source="capacity" target="distal" value="2.43694"/>
+<link source="capacity" target="more" value="2.95944"/>
+<link source="capacity" target="gut" value="2.53622"/>
+<link source="capacity" target="relationships" value="2.43935"/>
+<link source="alter" target="composition" value="2.23359"/>
+<link source="effect" target="metabolic" value="2.19459"/>
+<link source="effect" target="effect" value="2.43992"/>
+<link source="effect" target="development" value="2.42782"/>
+<link source="effect" target="diet" value="2.22596"/>
+<link source="effect" target="intestinal" value="2.19231"/>
+<link source="application" target="human" value="2.57278"/>
+<link source="application" target="analysis" value="2.94728"/>
+<link source="application" target="sequencing" value="2.20539"/>
+<link source="application" target="metagenomic" value="2.21676"/>
+<link source="composition" target="human" value="2.44253"/>
+<link source="composition" target="particular" value="2.21414"/>
+<link source="composition" target="environmental" value="2.57049"/>
+<link source="composition" target="provide" value="2.97115"/>
+<link source="composition" target="individual" value="2.60546"/>
+<link source="composition" target="intestinal" value="2.36959"/>
+<link source="composition" target="level" value="3.28796"/>
+<link source="composition" target="diversity" value="2.16399"/>
+<link source="composition" target="both" value="2.5829"/>
+<link source="composition" target="gut" value="3.28883"/>
+<link source="composition" target="mice" value="3.66759"/>
+<link source="composition" target="functional" value="2.77205"/>
+<link source="composition" target="data" value="2.69019"/>
+<link source="composition" target="composition" value="3.57953"/>
+<link source="composition" target="community" value="2.76903"/>
+<link source="composition" target="mouse" value="2.20594"/>
+<link source="composition" target="figure" value="2.55857"/>
+<link source="composition" target="metagenome" value="2.22196"/>
+<link source="composition" target="different" value="3.2445"/>
+<link source="composition" target="population" value="2.21471"/>
+<link source="healthy" target="sequenced" value="3.13898"/>
+<link source="healthy" target="human" value="3.08113"/>
+<link source="healthy" target="community" value="2.41676"/>
+<link source="healthy" target="individuals" value="4.11501"/>
+<link source="healthy" target="component" value="2.43811"/>
+<link source="healthy" target="metabolic" value="2.61229"/>
+<link source="healthy" target="humans" value="4.35288"/>
+<link source="healthy" target="gut" value="3.52518"/>
+<link source="healthy" target="complex" value="2.4239"/>
+<link source="healthy" target="data" value="2.15261"/>
+<link source="healthy" target="disease" value="2.18956"/>
+<link source="healthy" target="subjects" value="2.23015"/>
+<link source="across" target="different" value="2.97391"/>
+<link source="across" target="life" value="2.82108"/>
+<link source="across" target="data" value="2.17884"/>
+<link source="across" target="taxonomic" value="2.63868"/>
+<link source="across" target="genomes" value="2.60593"/>
+<link source="nutrition" target="host" value="2.19724"/>
+<link source="nutrition" target="nutrition" value="2.64216"/>
+<link source="nutrition" target="health" value="2.22545"/>
+<link source="tools" target="development" value="2.42644"/>
+<link source="tools" target="should" value="2.21731"/>
+<link source="tools" target="work" value="2.22562"/>
+<link source="tools" target="level" value="2.42885"/>
+<link source="tools" target="analysis" value="3.8125"/>
+<link source="tools" target="tools" value="3.86613"/>
+<link source="tools" target="analyses" value="4.10958"/>
+<link source="tools" target="data" value="3.94802"/>
+<link source="tools" target="complex" value="2.20483"/>
+<link source="tools" target="metagenomic" value="2.42338"/>
+<link source="tools" target="more" value="2.5945"/>
+<link source="tools" target="community" value="2.61198"/>
+<link source="hmp" target="project" value="2.82299"/>
+<link source="hmp" target="us" value="3.46001"/>
+<link source="hmp" target="human" value="4.43006"/>
+<link source="hmp" target="components" value="2.82183"/>
+<link source="hmp" target="ecology" value="2.82025"/>
+<link source="hmp" target="data" value="2.78004"/>
+<link source="hmp" target="metagenomic" value="2.81355"/>
+<link source="hmp" target="define" value="2.82679"/>
+<link source="genetics" target="genomics" value="2.22373"/>
+<link source="genetics" target="human" value="2.16721"/>
+<link source="genetics" target="environmental" value="2.21057"/>
+<link source="unique" target="sequenced" value="2.80709"/>
+<link source="unique" target="disease" value="2.41472"/>
+<link source="unique" target="gut" value="2.92088"/>
+<link source="unique" target="figure" value="2.79655"/>
+<link source="major" target="part" value="2.21661"/>
+<link source="major" target="energy" value="3.44681"/>
+<link source="major" target="level" value="2.2005"/>
+<link source="major" target="both" value="2.59318"/>
+<link source="major" target="component" value="2.81115"/>
+<link source="major" target="host" value="2.134"/>
+<link source="major" target="gut" value="2.24218"/>
+<link source="major" target="bacterial" value="2.33666"/>
+<link source="major" target="complex" value="2.18695"/>
+<link source="major" target="taxonomic" value="2.42998"/>
+<link source="important" target="metabolic" value="2.15161"/>
+<link source="important" target="metabolism" value="2.1753"/>
+<link source="important" target="mouse" value="2.42149"/>
+<link source="important" target="immune" value="2.79758"/>
+<link source="important" target="factors" value="2.18792"/>
+<link source="important" target="health" value="2.41847"/>
+<link source="important" target="function" value="2.59931"/>
+<link source="important" target="human" value="3.15156"/>
+<link source="important" target="complex" value="2.17627"/>
+<link source="important" target="important" value="2.19258"/>
+<link source="important" target="development" value="3.97298"/>
+<link source="important" target="role" value="3.42688"/>
+<link source="important" target="bacterial" value="2.88785"/>
+<link source="important" target="gut" value="3.97317"/>
+<link source="important" target="humans" value="2.21102"/>
+<link source="important" target="understanding" value="3.29843"/>
+<link source="important" target="nutrient" value="2.21685"/>
+<link source="important" target="analysis" value="2.47625"/>
+<link source="important" target="into" value="2.14967"/>
+<link source="important" target="disease" value="2.74999"/>
+<link source="important" target="intestinal" value="3.09926"/>
+<link source="important" target="host" value="4.05572"/>
+<link source="important" target="tools" value="2.62655"/>
+<link source="important" target="system" value="3.12068"/>
+<link source="provide" target="analysis" value="2.05431"/>
+<link source="provide" target="into" value="4.31873"/>
+<link source="provide" target="change" value="2.44033"/>
+<link source="provide" target="human" value="3.16704"/>
+<link source="provide" target="both" value="2.58776"/>
+<link source="provide" target="genomes" value="2.72341"/>
+<link source="provide" target="populations" value="2.20686"/>
+<link source="provide" target="framework" value="2.22938"/>
+<link source="provide" target="us" value="3.59519"/>
+<link source="provide" target="development" value="2.4095"/>
+<link source="provide" target="more" value="2.92158"/>
+<link source="provide" target="understanding" value="2.62508"/>
+<link source="provide" target="diversity" value="2.77585"/>
+<link source="provide" target="gut" value="4.34686"/>
+<link source="provide" target="disease" value="2.36741"/>
+<link source="provide" target="host" value="2.91607"/>
+<link source="provide" target="functional" value="2.17026"/>
+<link source="provide" target="environmental" value="2.37448"/>
+<link source="affect" target="obesity" value="2.64041"/>
+<link source="affect" target="metabolism" value="2.8147"/>
+<link source="affect" target="host" value="3.58353"/>
+<link source="following" target="sequenced" value="2.20908"/>
+<link source="involved" target="more" value="2.50733"/>
+<link source="involved" target="sequenced" value="3.94457"/>
+<link source="involved" target="role" value="2.577"/>
+<link source="involved" target="metabolism" value="5.96805"/>
+<link source="involved" target="disease" value="2.52746"/>
+<link source="involved" target="healthy" value="2.20731"/>
+<link source="involved" target="both" value="2.35198"/>
+<link source="involved" target="involved" value="2.37048"/>
+<link source="involved" target="gut" value="2.09345"/>
+<link source="involved" target="variation" value="2.58719"/>
+<link source="involved" target="into" value="2.54274"/>
+<link source="involved" target="human" value="2.55538"/>
+<link source="involved" target="well" value="3.10108"/>
+<link source="involved" target="metabolic" value="2.9112"/>
+<link source="involved" target="nutrient" value="2.20895"/>
+<link source="involved" target="core" value="2.80158"/>
+<link source="involved" target="capacity" value="2.80569"/>
+<link source="involved" target="environmental" value="2.10816"/>
+<link source="population" target="data" value="2.14705"/>
+<link source="population" target="differences" value="2.21122"/>
+<link source="population" target="population" value="2.81983"/>
+<link source="population" target="structure" value="3.45307"/>
+<link source="functional" target="relationships" value="2.61233"/>
+<link source="functional" target="host" value="2.0286"/>
+<link source="functional" target="level" value="3.11116"/>
+<link source="functional" target="environment" value="2.17286"/>
+<link source="functional" target="mice" value="4.69759"/>
+<link source="functional" target="bacterial" value="2.43343"/>
+<link source="functional" target="specific" value="2.77743"/>
+<link source="functional" target="system" value="2.56274"/>
+<link source="functional" target="genomes" value="4.68172"/>
+<link source="functional" target="sequenced" value="3.0793"/>
+<link source="functional" target="variation" value="2.57644"/>
+<link source="functional" target="analyses" value="4.20061"/>
+<link source="functional" target="gnotobiotic" value="5.36578"/>
+<link source="functional" target="analysis" value="3.9415"/>
+<link source="functional" target="functional" value="3.93223"/>
+<link source="functional" target="complex" value="2.7495"/>
+<link source="functional" target="role" value="2.3616"/>
+<link source="functional" target="genomics" value="5.88839"/>
+<link source="functional" target="metagenomic" value="3.25499"/>
+<link source="functional" target="well" value="2.13363"/>
+<link source="functional" target="environmental" value="3.65119"/>
+<link source="functional" target="more" value="3.18593"/>
+<link source="functional" target="metagenomics" value="3.42539"/>
+<link source="functional" target="human" value="3.77149"/>
+<link source="functional" target="gut" value="5.91307"/>
+<link source="functional" target="metabolism" value="2.74821"/>
+<link source="functional" target="differences" value="4.0781"/>
+<link source="functional" target="components" value="2.19555"/>
+<link source="functional" target="metabolic" value="3.06257"/>
+<link source="functional" target="characterization" value="2.40688"/>
+<link source="functional" target="composition" value="3.69904"/>
+<link source="functional" target="figure" value="3.03827"/>
+<link source="functional" target="intestinal" value="2.31366"/>
+<link source="functional" target="characterized" value="2.62055"/>
+<link source="functional" target="data" value="2.39452"/>
+<link source="functional" target="both" value="2.10964"/>
+<link source="functional" target="community" value="2.53781"/>
+<link source="functional" target="members" value="2.37995"/>
+<link source="component" target="analysis" value="4.17799"/>
+<link source="component" target="human" value="2.3128"/>
+<link source="component" target="system" value="4.67326"/>
+<link source="component" target="community" value="2.40678"/>
+<link source="component" target="well" value="2.41524"/>
+<link source="component" target="mice" value="2.58052"/>
+<link source="component" target="involved" value="2.61404"/>
+<link source="component" target="component" value="3.59546"/>
+<link source="component" target="host" value="2.38012"/>
+<link source="potential" target="would" value="2.62402"/>
+<link source="potential" target="both" value="2.18097"/>
+<link source="potential" target="system" value="3.13201"/>
+<link source="potential" target="disease" value="3.11123"/>
+<link source="potential" target="effects" value="2.20852"/>
+<link source="potential" target="role" value="2.61029"/>
+<link source="potential" target="human" value="2.68758"/>
+<link source="potential" target="analysis" value="2.09013"/>
+<link source="potential" target="figure" value="2.15964"/>
+<link source="potential" target="many" value="2.1869"/>
+<link source="potential" target="data" value="2.53626"/>
+<link source="should" target="community" value="2.17289"/>
+<link source="should" target="sampling" value="2.98004"/>
+<link source="should" target="both" value="2.17353"/>
+<link source="should" target="gut" value="2.00773"/>
+<link source="should" target="members" value="2.79864"/>
+<link source="should" target="variation" value="2.41246"/>
+<link source="should" target="genomes" value="3.53047"/>
+<link source="should" target="within" value="2.76999"/>
+<link source="should" target="disease" value="2.37469"/>
+<link source="should" target="provide" value="2.41978"/>
+<link source="should" target="more" value="2.36196"/>
+<link source="should" target="major" value="2.97801"/>
+<link source="should" target="health" value="2.20801"/>
+<link source="resource" target="development" value="2.22722"/>
+<link source="variation" target="different" value="2.11305"/>
+<link source="variation" target="populations" value="2.79965"/>
+<link source="variation" target="could" value="2.78197"/>
+<link source="variation" target="mice" value="2.31937"/>
+<link source="variation" target="data" value="3.75689"/>
+<link source="variation" target="level" value="2.18717"/>
+<link source="variation" target="effects" value="2.19331"/>
+<link source="variation" target="diversity" value="2.15318"/>
+<link source="variation" target="variation" value="4.76996"/>
+<link source="variation" target="bacterial" value="2.06612"/>
+<link source="variation" target="into" value="2.13849"/>
+<link source="variation" target="differences" value="2.95816"/>
+<link source="variation" target="factors" value="3.27996"/>
+<link source="variation" target="characterized" value="2.21589"/>
+<link source="variation" target="environmental" value="3.81386"/>
+<link source="variation" target="structure" value="2.41426"/>
+<link source="variation" target="within" value="5.05469"/>
+<link source="variation" target="composition" value="3.57563"/>
+<link source="variation" target="model" value="2.1819"/>
+<link source="variation" target="more" value="2.53492"/>
+<link source="variation" target="community" value="2.37062"/>
+<link source="variation" target="set" value="2.40185"/>
+<link source="well" target="community" value="2.55455"/>
+<link source="well" target="intestinal" value="3.07338"/>
+<link source="well" target="bacterial" value="3.01218"/>
+<link source="well" target="relationship" value="2.42599"/>
+<link source="well" target="more" value="2.69894"/>
+<link source="well" target="gut" value="3.05367"/>
+<link source="well" target="metagenomic" value="2.94243"/>
+<link source="well" target="primary" value="2.2169"/>
+<link source="well" target="mice" value="2.49529"/>
+<link source="well" target="metabolism" value="2.37123"/>
+<link source="well" target="many" value="2.5652"/>
+<link source="well" target="human" value="3.24116"/>
+<link source="well" target="characterized" value="2.42649"/>
+<link source="well" target="could" value="2.16267"/>
+<link source="well" target="fecal" value="2.40899"/>
+<link source="well" target="through" value="2.94937"/>
+<link source="well" target="factors" value="2.16814"/>
+<link source="well" target="environmental" value="2.10816"/>
+<link source="well" target="host" value="2.86935"/>
+<link source="well" target="data" value="3.30198"/>
+<link source="well" target="members" value="2.39073"/>
+<link source="well" target="sequenced" value="2.56196"/>
+<link source="well" target="disease" value="2.09611"/>
+<link source="well" target="humans" value="2.20074"/>
+<link source="well" target="individual" value="2.1676"/>
+<link source="well" target="genomes" value="2.02928"/>
+<link source="well" target="features" value="2.20375"/>
+<link source="well" target="within" value="2.72861"/>
+<link source="well" target="components" value="2.20183"/>
+<link source="whether" target="into" value="2.40266"/>
+<link source="whether" target="differences" value="2.20656"/>
+<link source="whether" target="gut" value="3.77821"/>
+<link source="whether" target="within" value="2.40098"/>
+<link source="whether" target="could" value="3.44416"/>
+<link source="features" target="human" value="4.17467"/>
+<link source="features" target="analysis" value="2.13042"/>
+<link source="features" target="differences" value="2.42559"/>
+<link source="features" target="members" value="3.72729"/>
+<link source="features" target="bacterial" value="2.94092"/>
+<link source="features" target="gut" value="3.65462"/>
+<link source="features" target="genomes" value="3.26456"/>
+<link source="features" target="within" value="2.40645"/>
+<link source="features" target="life" value="2.22083"/>
+<link source="both" target="function" value="2.36216"/>
+<link source="both" target="bacterial" value="2.62132"/>
+<link source="both" target="changes" value="2.39734"/>
+<link source="both" target="work" value="2.20125"/>
+<link source="both" target="well" value="3.08675"/>
+<link source="both" target="host" value="3.0093"/>
+<link source="both" target="generated" value="2.80331"/>
+<link source="both" target="distal" value="2.40289"/>
+<link source="both" target="sequenced" value="2.33778"/>
+<link source="both" target="gut" value="5.98981"/>
+<link source="both" target="composition" value="2.5829"/>
+<link source="both" target="normal" value="2.61118"/>
+<link source="both" target="environmental" value="2.51234"/>
+<link source="both" target="features" value="2.41308"/>
+<link source="both" target="human" value="4.91209"/>
+<link source="both" target="genomes" value="4.67684"/>
+<link source="both" target="factors" value="2.5749"/>
+<link source="both" target="disease" value="2.87125"/>
+<link source="both" target="should" value="2.5929"/>
+<link source="both" target="sequencing" value="2.51776"/>
+<link source="both" target="individual" value="2.76162"/>
+<link source="both" target="mice" value="2.24891"/>
+<link source="both" target="populations" value="2.39827"/>
+<link source="relationship" target="gut" value="3.38921"/>
+<link source="relationship" target="individual" value="2.2157"/>
+<link source="relationship" target="host" value="2.40189"/>
+<link source="relationship" target="community" value="2.61862"/>
+<link source="relationship" target="figure" value="2.19199"/>
+<link source="relationship" target="members" value="2.43201"/>
+<link source="relationship" target="bacterial" value="2.39185"/>
+<link source="obesity" target="disease" value="2.18558"/>
+<link source="obesity" target="gut" value="5.77699"/>
+<link source="obesity" target="energy" value="4.8914"/>
+<link source="obesity" target="mice" value="2.95213"/>
+<link source="obesity" target="diet" value="2.22559"/>
+<link source="obesity" target="involved" value="2.20484"/>
+<link source="obesity" target="capacity" value="4.79099"/>
+<link source="obesity" target="ecology" value="2.43551"/>
+<link source="obesity" target="increased" value="5.08936"/>
+<link source="approaches" target="analysis" value="3.92192"/>
+<link source="approaches" target="human" value="4.27143"/>
+<link source="approaches" target="tools" value="2.43505"/>
+<link source="approaches" target="factors" value="2.20254"/>
+<link source="approaches" target="data" value="2.54096"/>
+<link source="approaches" target="molecular" value="2.409"/>
+<link source="approaches" target="complex" value="3.84894"/>
+<link source="approaches" target="more" value="2.57741"/>
+<link source="approaches" target="disease" value="2.7738"/>
+<link source="approaches" target="sequencing" value="3.11944"/></network>
+</networks>
+</MetaNetwork>
+</DynamicMetaNetwork>
+
