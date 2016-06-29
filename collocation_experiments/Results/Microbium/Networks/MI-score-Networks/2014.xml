@@ -1,0 +1,348 @@
+<?xml version="1.0" standalone="yes"?>
+
+<DynamicMetaNetwork id="2014">
+<MetaNetwork id="2014">
+<nodes>
+<nodeclass type="Agent" id="Agent">
+<propertyIdentities>
+<propertyIdentity id="Centrality, Total-Degree" type="number" singleValued="true"/>
+<propertyIdentity id="newman" type="categoryNumber" singleValued="true"/></propertyIdentities>
+<node id="macaque">
+<property id="newman" value="1.0"/>
+<property id="Centrality, Total-Degree" value="0.01972"/></node>
+<node id="lentiviral">
+<property id="newman" value="1.0"/>
+<property id="Centrality, Total-Degree" value="0.02364"/></node>
+<node id="drives">
+<property id="newman" value="2.0"/>
+<property id="Centrality, Total-Degree" value="0.02628"/></node>
+<node id="convergence">
+<property id="newman" value="2.0"/>
+<property id="Centrality, Total-Degree" value="0.03839"/></node>
+<node id="twins">
+<property id="newman" value="3.0"/>
+<property id="Centrality, Total-Degree" value="0.04779"/></node>
+<node id="monozygotic">
+<property id="newman" value="3.0"/>
+<property id="Centrality, Total-Degree" value="0.03695"/></node>
+<node id="virome">
+<property id="newman" value="4.0"/>
+<property id="Centrality, Total-Degree" value="0.02354"/></node>
+<node id="humanized">
+<property id="newman" value="3.0"/>
+<property id="Centrality, Total-Degree" value="0.03488"/></node>
+<node id="gnotobiotic">
+<property id="newman" value="3.0"/>
+<property id="Centrality, Total-Degree" value="0.04335"/></node>
+<node id="collective">
+<property id="newman" value="4.0"/>
+<property id="Centrality, Total-Degree" value="0.01458"/></node>
+<node id="phylogeny">
+<property id="newman" value="2.0"/>
+<property id="Centrality, Total-Degree" value="0.0259"/></node>
+<node id="obese">
+<property id="newman" value="5.0"/>
+<property id="Centrality, Total-Degree" value="0.03332"/></node>
+<node id="lean">
+<property id="newman" value="5.0"/>
+<property id="Centrality, Total-Degree" value="0.03537"/></node>
+<node id="enterotypes">
+<property id="newman" value="3.0"/>
+<property id="Centrality, Total-Degree" value="0.01828"/></node>
+<node id="mammalian">
+<property id="newman" value="2.0"/>
+<property id="Centrality, Total-Degree" value="0.01572"/></node>
+<node id="healthy">
+<property id="newman" value="3.0"/>
+<property id="Centrality, Total-Degree" value="0.02011"/></node>
+<node id="hmp">
+<property id="newman" value="6.0"/>
+<property id="Centrality, Total-Degree" value="0.05378"/></node>
+<node id="milk">
+<property id="newman" value="7.0"/>
+<property id="Centrality, Total-Degree" value="0.01856"/></node>
+<node id="across">
+<property id="newman" value="2.0"/>
+<property id="Centrality, Total-Degree" value="0.01489"/></node>
+<node id="geography">
+<property id="newman" value="2.0"/>
+<property id="Centrality, Total-Degree" value="0.0146"/></node>
+<node id="consortium">
+<property id="newman" value="3.0"/>
+<property id="Centrality, Total-Degree" value="0.04713"/></node>
+<node id="better">
+<property id="newman" value="1.0"/>
+<property id="Centrality, Total-Degree" value="0.00944"/></node>
+<node id="understand">
+<property id="newman" value="1.0"/>
+<property id="Centrality, Total-Degree" value="0.00982"/></node>
+<node id="moving">
+<property id="newman" value="6.0"/>
+<property id="Centrality, Total-Degree" value="0.01381"/></node>
+<node id="project">
+<property id="newman" value="6.0"/>
+<property id="Centrality, Total-Degree" value="0.0278"/></node>
+<node id="shotgun">
+<property id="newman" value="4.0"/>
+<property id="Centrality, Total-Degree" value="0.05334"/></node>
+<node id="metagenomics">
+<property id="newman" value="4.0"/>
+<property id="Centrality, Total-Degree" value="0.03222"/></node>
+<node id="framework">
+<property id="newman" value="6.0"/>
+<property id="Centrality, Total-Degree" value="0.01811"/></node>
+<node id="mouse">
+<property id="newman" value="3.0"/>
+<property id="Centrality, Total-Degree" value="0.01759"/></node>
+<node id="pregnancy">
+<property id="newman" value="8.0"/>
+<property id="Centrality, Total-Degree" value="0.02197"/></node>
+<node id="humans">
+<property id="newman" value="2.0"/>
+<property id="Centrality, Total-Degree" value="0.00945"/></node>
+<node id="comprehensive">
+<property id="newman" value="4.0"/>
+<property id="Centrality, Total-Degree" value="0.00908"/></node>
+<node id="resource">
+<property id="newman" value="4.0"/>
+<property id="Centrality, Total-Degree" value="0.01416"/></node>
+<node id="infant">
+<property id="newman" value="7.0"/>
+<property id="Centrality, Total-Degree" value="0.01766"/></node>
+<node id="core">
+<property id="newman" value="5.0"/>
+<property id="Centrality, Total-Degree" value="0.01809"/></node>
+<node id="metagenomic">
+<property id="newman" value="4.0"/>
+<property id="Centrality, Total-Degree" value="0.02636"/></node>
+<node id="metagenome">
+<property id="newman" value="4.0"/>
+<property id="Centrality, Total-Degree" value="0.02578"/></node>
+<node id="vaginal">
+<property id="newman" value="8.0"/>
+<property id="Centrality, Total-Degree" value="0.01814"/></node>
+<node id="women">
+<property id="newman" value="8.0"/>
+<property id="Centrality, Total-Degree" value="0.01744"/></node>
+<node id="survey">
+<property id="newman" value="4.0"/>
+<property id="Centrality, Total-Degree" value="0.00875"/></node>
+<node id="infected">
+<property id="newman" value="1.0"/>
+<property id="Centrality, Total-Degree" value="0.00857"/></node>
+<node id="keywords">
+<property id="newman" value="4.0"/>
+<property id="Centrality, Total-Degree" value="0.00903"/></node>
+<node id="shifts">
+<property id="newman" value="4.0"/>
+<property id="Centrality, Total-Degree" value="0.01312"/></node>
+<node id="mice">
+<property id="newman" value="3.0"/>
+<property id="Centrality, Total-Degree" value="0.00901"/></node>
+<node id="profiling">
+<property id="newman" value="4.0"/>
+<property id="Centrality, Total-Degree" value="0.01285"/></node>
+<node id="reveals">
+<property id="newman" value="4.0"/>
+<property id="Centrality, Total-Degree" value="0.01328"/></node>
+<node id="dynamics">
+<property id="newman" value="4.0"/>
+<property id="Centrality, Total-Degree" value="0.00858"/></node>
+<node id="studying">
+<property id="newman" value="6.0"/>
+<property id="Centrality, Total-Degree" value="0.00872"/></node>
+<node id="diet">
+<property id="newman" value="2.0"/>
+<property id="Centrality, Total-Degree" value="0.01286"/></node>
+<node id="sequenced">
+<property id="newman" value="4.0"/>
+<property id="Centrality, Total-Degree" value="0.00853"/></node>
+<node id="genomes">
+<property id="newman" value="4.0"/>
+<property id="Centrality, Total-Degree" value="0.00863"/></node>
+<node id="murine">
+<property id="newman" value="3.0"/>
+<property id="Centrality, Total-Degree" value="0.00436"/></node>
+<node id="model">
+<property id="newman" value="3.0"/>
+<property id="Centrality, Total-Degree" value="0.00863"/></node>
+<node id="risk">
+<property id="newman" value="7.0"/>
+<property id="Centrality, Total-Degree" value="0.00862"/></node>
+<node id="developing">
+<property id="newman" value="7.0"/>
+<property id="Centrality, Total-Degree" value="0.0086"/></node>
+<node id="tools">
+<property id="newman" value="6.0"/>
+<property id="Centrality, Total-Degree" value="0.00866"/></node>
+<node id="genetics">
+<property id="newman" value="3.0"/>
+<property id="Centrality, Total-Degree" value="0.00852"/></node>
+<node id="subjects">
+<property id="newman" value="5.0"/>
+<property id="Centrality, Total-Degree" value="0.01679"/></node>
+<node id="factors">
+<property id="newman" value="7.0"/>
+<property id="Centrality, Total-Degree" value="0.00427"/></node>
+<node id="structure">
+<property id="newman" value="3.0"/>
+<property id="Centrality, Total-Degree" value="0.00414"/></node>
+<node id="individuals">
+<property id="newman" value="5.0"/>
+<property id="Centrality, Total-Degree" value="0.01231"/></node>
+<node id="characterize">
+<property id="newman" value="1.0"/>
+<property id="Centrality, Total-Degree" value="0.00817"/></node>
+</nodeclass>
+</nodes>
+<networks>
+<network sourceType="Agent" source="Agent" targetType="Agent" target="Agent" id="Agent x Agent" isDirected="true" allowSelfLoops="true" isBinary="false" dynetmlUndirectedCompressed="false">
+<link source="survey" target="survey" value="9.21383"/>
+<link source="tools" target="studying" value="8.53306"/>
+<link source="subjects" target="subjects" value="8.48384"/>
+<link source="sequenced" target="genomes" value="8.69065"/>
+<link source="across" target="geography" value="10.87471"/>
+<link source="shotgun" target="metagenomic" value="9.75673"/>
+<link source="shotgun" target="sequenced" value="8.18508"/>
+<link source="shotgun" target="shotgun" value="9.45953"/>
+<link source="shotgun" target="metagenome" value="8.01604"/>
+<link source="shotgun" target="metagenomics" value="10.15142"/>
+<link source="shotgun" target="hmp" value="8.67563"/>
+<link source="profiling" target="reveals" value="8.87496"/>
+<link source="profiling" target="shotgun" value="8.42802"/>
+<link source="better" target="understand" value="10.56659"/>
+<link source="better" target="characterize" value="8.11777"/>
+<link source="understand" target="lentiviral" value="8.86508"/>
+<link source="project" target="tools" value="8.61255"/>
+<link source="project" target="framework" value="8.32735"/>
+<link source="project" target="hmp" value="10.15175"/>
+<link source="project" target="project" value="8.58681"/>
+<link source="project" target="consortium" value="10.23998"/>
+<link source="infected" target="infected" value="8.92275"/>
+<link source="risk" target="developing" value="8.61676"/>
+<link source="risk" target="factors" value="8.44916"/>
+<link source="macaque" target="macaque" value="16.09049"/>
+<link source="macaque" target="lentiviral" value="14.59888"/>
+<link source="macaque" target="shotgun" value="8.33318"/>
+<link source="studying" target="moving" value="8.71858"/>
+<link source="drives" target="across" value="8.7189"/>
+<link source="drives" target="convergence" value="13.2943"/>
+<link source="drives" target="humans" value="8.79478"/>
+<link source="drives" target="phylogeny" value="10.82447"/>
+<link source="drives" target="mammalian" value="10.37563"/>
+<link source="infant" target="infant" value="9.79554"/>
+<link source="infant" target="milk" value="8.11139"/>
+<link source="hmp" target="framework" value="8.43593"/>
+<link source="hmp" target="characterize" value="8.05626"/>
+<link source="hmp" target="consortium" value="9.38325"/>
+<link source="hmp" target="hmp" value="11.10377"/>
+<link source="hmp" target="metagenomic" value="8.04987"/>
+<link source="hmp" target="project" value="9.10812"/>
+<link source="hmp" target="shotgun" value="8.30367"/>
+<link source="monozygotic" target="twins" value="13.17663"/>
+<link source="monozygotic" target="monozygotic" value="11.24786"/>
+<link source="milk" target="infant" value="8.64681"/>
+<link source="milk" target="monozygotic" value="8.89985"/>
+<link source="milk" target="milk" value="11.06739"/>
+<link source="moving" target="moving" value="10.52847"/>
+<link source="metagenomic" target="shotgun" value="8.65804"/>
+<link source="metagenomic" target="profiling" value="8.12151"/>
+<link source="metagenomic" target="humanized" value="9.38094"/>
+<link source="metagenomic" target="gnotobiotic" value="8.19844"/>
+<link source="convergence" target="phylogeny" value="11.98367"/>
+<link source="convergence" target="across" value="9.8781"/>
+<link source="convergence" target="mammalian" value="11.53483"/>
+<link source="convergence" target="humans" value="9.90889"/>
+<link source="convergence" target="convergence" value="10.77543"/>
+<link source="murine" target="model" value="8.63405"/>
+<link source="enterotypes" target="monozygotic" value="8.13956"/>
+<link source="enterotypes" target="enterotypes" value="11.61622"/>
+<link source="resource" target="resource" value="8.49969"/>
+<link source="keywords" target="metagenomics" value="9.1658"/>
+<link source="keywords" target="virome" value="8.71031"/>
+<link source="obese" target="individuals" value="8.08074"/>
+<link source="obese" target="obese" value="9.37776"/>
+<link source="obese" target="lean" value="11.79242"/>
+<link source="obese" target="subjects" value="8.28108"/>
+<link source="obese" target="twins" value="9.29303"/>
+<link source="metagenome" target="virome" value="8.08888"/>
+<link source="metagenome" target="hmp" value="8.14831"/>
+<link source="metagenome" target="metagenome" value="9.4494"/>
+<link source="metagenome" target="shotgun" value="8.8692"/>
+<link source="lentiviral" target="infected" value="8.04245"/>
+<link source="lentiviral" target="lentiviral" value="15.27851"/>
+<link source="lean" target="obese" value="10.86055"/>
+<link source="lean" target="subjects" value="8.28184"/>
+<link source="lean" target="individuals" value="8.28496"/>
+<link source="lean" target="twins" value="10.75976"/>
+<link source="lean" target="lean" value="10.25953"/>
+<link source="framework" target="framework" value="9.0384"/>
+<link source="shifts" target="shifts" value="9.08545"/>
+<link source="reveals" target="shifts" value="8.67503"/>
+<link source="geography" target="enterotypes" value="8.01101"/>
+<link source="pregnancy" target="women" value="8.19591"/>
+<link source="pregnancy" target="pregnancy" value="9.91544"/>
+<link source="pregnancy" target="vaginal" value="8.1671"/>
+<link source="vaginal" target="vaginal" value="9.20862"/>
+<link source="vaginal" target="women" value="9.39539"/>
+<link source="vaginal" target="pregnancy" value="9.13691"/>
+<link source="mouse" target="model" value="8.43954"/>
+<link source="mouse" target="mouse" value="8.05971"/>
+<link source="virome" target="hmp" value="8.10574"/>
+<link source="virome" target="virome" value="12.8943"/>
+<link source="genetics" target="genetics" value="8.51398"/>
+<link source="genetics" target="consortium" value="8.33936"/>
+<link source="diet" target="convergence" value="8.60135"/>
+<link source="diet" target="diet" value="8.14448"/>
+<link source="diet" target="humanized" value="8.70819"/>
+<link source="consortium" target="framework" value="10.04901"/>
+<link source="consortium" target="structure" value="8.18559"/>
+<link source="consortium" target="enterotypes" value="8.41015"/>
+<link source="consortium" target="consortium" value="9.87477"/>
+<link source="consortium" target="monozygotic" value="10.76999"/>
+<link source="consortium" target="gnotobiotic" value="9.10905"/>
+<link source="consortium" target="hmp" value="8.92382"/>
+<link source="gnotobiotic" target="monozygotic" value="11.44651"/>
+<link source="gnotobiotic" target="twins" value="8.05937"/>
+<link source="gnotobiotic" target="mice" value="8.94944"/>
+<link source="gnotobiotic" target="humanized" value="8.71021"/>
+<link source="gnotobiotic" target="gnotobiotic" value="10.11266"/>
+<link source="gnotobiotic" target="mouse" value="8.35841"/>
+<link source="women" target="women" value="8.84691"/>
+<link source="women" target="pregnancy" value="8.07588"/>
+<link source="core" target="obese" value="8.26408"/>
+<link source="core" target="core" value="9.19836"/>
+<link source="core" target="twins" value="8.57944"/>
+<link source="core" target="lean" value="9.76915"/>
+<link source="twins" target="healthy" value="10.74275"/>
+<link source="twins" target="monozygotic" value="9.44568"/>
+<link source="twins" target="twins" value="13.24122"/>
+<link source="healthy" target="subjects" value="8.17499"/>
+<link source="healthy" target="twins" value="11.27818"/>
+<link source="healthy" target="healthy" value="9.60922"/>
+<link source="metagenomics" target="shotgun" value="8.72079"/>
+<link source="metagenomics" target="resource" value="9.64517"/>
+<link source="metagenomics" target="moving" value="8.08192"/>
+<link source="metagenomics" target="reveals" value="8.73932"/>
+<link source="metagenomics" target="metagenomics" value="9.26472"/>
+<link source="phylogeny" target="geography" value="10.00563"/>
+<link source="phylogeny" target="phylogeny" value="9.24931"/>
+<link source="genomes" target="genomes" value="8.39058"/>
+<link source="mammalian" target="phylogeny" value="9.19962"/>
+<link source="collective" target="metagenome" value="8.45053"/>
+<link source="collective" target="shifts" value="8.20584"/>
+<link source="collective" target="collective" value="12.19661"/>
+<link source="developing" target="infant" value="8.40576"/>
+<link source="humanized" target="humanized" value="10.54479"/>
+<link source="humanized" target="gnotobiotic" value="12.85705"/>
+<link source="humanized" target="mice" value="8.88063"/>
+<link source="humanized" target="mouse" value="9.95211"/>
+<link source="individuals" target="individuals" value="8.00721"/>
+<link source="comprehensive" target="resource" value="9.88103"/>
+<link source="comprehensive" target="survey" value="8.09573"/>
+<link source="dynamics" target="virome" value="8.78082"/>
+<link source="dynamics" target="dynamics" value="8.20131"/></network>
+</networks>
+</MetaNetwork>
+</DynamicMetaNetwork>
+
