@@ -1,0 +1,10 @@
+collocations.csv
+ind_frequency.csv
+wordstoinclude.txt
+1
+y
+2.0
+n
+t_score_cb.csv
+mi_score_cb.csv
+
